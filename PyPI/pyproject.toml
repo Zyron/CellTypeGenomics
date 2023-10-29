@@ -3,8 +3,8 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "CellTypeGenomics_netzyron"
-version = "0.0.1"
+name = "celltypegenomics"
+version = "0.0.2"
 authors = [
   { name="Lars Føleide", email="larsfole@stud.ntnu.no" },
 ]
@@ -15,6 +15,14 @@ classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
+]
+dependencies = [
+    "pandas",
+    "scipy",
+    "statsmodels"
+]
+include = [
+    "celltypegenomics/data/*.json"
 ]
 
 [project.urls]

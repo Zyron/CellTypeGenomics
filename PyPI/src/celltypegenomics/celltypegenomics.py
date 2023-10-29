@@ -2,14 +2,19 @@
 #pip install scipy statsmodels
 import json
 import pandas as pd
+import pkg_resources
 from scipy.stats import fisher_exact
 from statsmodels.stats.multitest import multipletests
 
-def celltypegenomics(ensembl_ids):
+def celltypefishertest(ensembl_ids):
+    # Get the correct path for the JSON files
+    cell_types_to_ensembl_path = pkg_resources.resource_filename('celltypegenomics', 'data/cell_types_to_ensembl.json')
+    protein_atlas_ensembl_ids_path = pkg_resources.resource_filename('celltypegenomics', 'data/protein_atlas_ensembl_ids.json')
+    
     # Read necessary JSON files
-    with open('json/cell_types_to_ensembl.json', 'r') as f:
+    with open(cell_types_to_ensembl_path, 'r') as f:
         cell_types_to_ensembl = json.load(f)
-    with open('json/protein_atlas_ensembl_ids.json', 'r') as f:
+    with open(protein_atlas_ensembl_ids_path, 'r') as f:
         protein_atlas_ensembl_ids = json.load(f)
     
     fisher_test_results = {}
@@ -47,5 +52,4 @@ def celltypegenomics(ensembl_ids):
 if __name__ == "__main__":
     # Test the function (this part will not be executed when the module is imported)
     test_ensembl_ids = ['ENSG00000141510', 'ENSG00000284733']  # Example Ensembl IDs
-    print(celltypegenomics(test_ensembl_ids))
-    print("test")
+    print(celltypefishertest(test_ensembl_ids))
