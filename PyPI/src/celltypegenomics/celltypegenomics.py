@@ -47,9 +47,13 @@ def celltypefishertest(ensembl_ids):
     
     # Convert the results to a pandas DataFrame and return
     df = pd.DataFrame.from_dict(fisher_test_results, orient='index')
-    return df
+
+    # Sort the DataFrame by p-value in ascending order
+    df_sorted = df.sort_values(by='p_value', ascending=True)
+
+    return df_sorted
 
 if __name__ == "__main__":
     # Test the function (this part will not be executed when the module is imported)
-    test_ensembl_ids = ['ENSG00000141510', 'ENSG00000284733']  # Example Ensembl IDs
+    test_ensembl_ids = ['ENSG00000182389', 'ENSG00000078081', 'ENSG00000084073', 'ENSG00000119632', 'ENSG00000161267']  # Example Ensembl IDs
     print(celltypefishertest(test_ensembl_ids))
