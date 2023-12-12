@@ -56,4 +56,6 @@ def celltypefishertest(ensembl_ids, alpha=0.05):
 if __name__ == "__main__":
     # Test the function (this part will not be executed when the module is imported)
     test_ensembl_ids = ['ENSG00000182389', 'ENSG00000078081', 'ENSG00000084073', 'ENSG00000119632', 'ENSG00000161267']  # Example Ensembl IDs
-    print(celltypefishertest(test_ensembl_ids))
+    # Alpha used for adjusted p-value
+    alpha = 0.05
+    print(celltypefishertest(test_ensembl_ids, alpha))
