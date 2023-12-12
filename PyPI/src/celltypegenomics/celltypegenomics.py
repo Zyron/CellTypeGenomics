@@ -6,7 +6,7 @@ import pkg_resources
 from scipy.stats import fisher_exact
 from statsmodels.stats.multitest import multipletests
 
-def celltypefishertest(ensembl_ids):
+def celltypefishertest(ensembl_ids, alpha=0.05):
     # Get the correct path for the JSON files
     cell_types_to_ensembl_path = pkg_resources.resource_filename('celltypegenomics', 'data/cell_types_to_ensembl.json')
     protein_atlas_ensembl_ids_path = pkg_resources.resource_filename('celltypegenomics', 'data/protein_atlas_ensembl_ids.json')
@@ -40,7 +40,7 @@ def celltypefishertest(ensembl_ids):
         }
     
     p_values = [stats["p_value"] for stats in fisher_test_results.values()]
-    reject, pvals_corrected, _, _ = multipletests(p_values, alpha=0.05, method='fdr_bh')
+    reject, pvals_corrected, _, _ = multipletests(p_values, alpha=alpha, method='fdr_bh')
     
     for cell_type, adj_p_value in zip(fisher_test_results.keys(), pvals_corrected):
         fisher_test_results[cell_type]["adjusted_p_value"] = adj_p_value
