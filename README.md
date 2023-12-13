@@ -23,4 +23,4 @@ print(result)
 
 Replace `list_of_ensembl_ids` with your gene Ensembl IDs.
 
-For more information and updates, visit our [GitHub Repository]([#](https://github.com/Zyron/CellTypeGenomics)https://github.com/Zyron/CellTypeGenomics)
+For more information and updates, visit our [GitHub Repository](https://github.com/Zyron/CellTypeGenomics).
