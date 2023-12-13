@@ -19,7 +19,7 @@ Here's how to use the CellTypeGenomics package to analyze your gene list:
 ```python
 from celltypegenomics import celltypefishertest
 
-# Optional: Specify a custom significance level with the alpha parameter (default is 0.05)
+# Specify an optional alpha for significance (default: 0.05)
 result = celltypefishertest(list_of_ensembl_ids, alpha=0.05)
 print(result)
 ```
