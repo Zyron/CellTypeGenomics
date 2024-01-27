@@ -1,0 +1,26 @@
+{
+    "B cell": [
+        "HLA-DRA,IGKC"
+    ],
+    "Dendritic cell": [
+        "LYZ,FTL,SLURP1"
+    ],
+    "Endothelial cell": [
+        "IGFBP7,ACKR1"
+    ],
+    "Epithelial cell": [
+        "HBEGF,KRT13,IFI27,AQP3,CXCL8"
+    ],
+    "Monocyte": [
+        "CD14,FCN1,S100A9,S100A8,CST3"
+    ],
+    "Macrophage": [
+        "C1QA,C1QB,FCGR3A,CD163,FCER1G,CD74"
+    ],
+    "Mast cell": [
+        "TPSB2"
+    ],
+    "T cell": [
+        "TRAC,CD3D"
+    ]
+}

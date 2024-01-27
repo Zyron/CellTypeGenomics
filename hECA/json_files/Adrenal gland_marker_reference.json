@@ -1,0 +1,26 @@
+{
+    "Endothelial cell": [
+        "CCL2"
+    ],
+    "Macrophage": [
+        "C1QB"
+    ],
+    "Neuron": [
+        "S100B"
+    ],
+    "Neutrophilic granulocyte": [
+        "CCL20"
+    ],
+    "Plasma B cell": [
+        "IGHG4"
+    ],
+    "Smooth muscle cell": [
+        "TAGLN"
+    ],
+    "Stromal cell": [
+        "MGP,IER2"
+    ],
+    "Zona fasciculata cell": [
+        "CYP17A1"
+    ]
+}

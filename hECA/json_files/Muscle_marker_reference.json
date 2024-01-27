@@ -1,0 +1,56 @@
+{
+    "Autonomic nervous system": [
+        "S100B"
+    ],
+    "B cell": [
+        "JCHAIN"
+    ],
+    "Dendritic cell": [
+        "HLA-DRA"
+    ],
+    "Endothelial cell": [
+        "PLVAP,FABP4,ACKR1"
+    ],
+    "Erythroid cell": [
+        "HBG2"
+    ],
+    "Fast skeletal muscle cell": [
+        "SLN"
+    ],
+    "Fibroblast": [
+        "DCN,COL1A1"
+    ],
+    "Monocyte": [
+        "CD14,FCN1,S100A9,S100A8,CST3"
+    ],
+    "Macrophage": [
+        "C1QA,C1QB,FCGR3A,CD163,FCER1G,CD74"
+    ],
+    "Mast cell": [
+        "TPSAB1"
+    ],
+    "Muscle progenitor cell": [
+        "DLK1"
+    ],
+    "Neuron": [
+        "C1QTNF3"
+    ],
+    "Neutrophil": [
+        "IL1B"
+    ],
+    "Skeletal muscle cell": [
+        "ACTC1"
+    ],
+    "Smooth muscle cell": [
+        "ACTA2"
+    ],
+    "Stromal cell": [
+        "LUM"
+    ],
+    "T cell": [
+        "TRAC,TOP2A"
+    ],
+    "Tendon cell": [
+        "GAS2"
+    ]
+}

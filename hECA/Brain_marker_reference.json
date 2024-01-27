@@ -1,0 +1,50 @@
+{
+    "Inhibitory neuron (GABAergic neuron)": [
+        "GAD1,GAD2,SLC6A5,PVALB,SST,GABRG1"
+    ],
+    "PV inhibitory neuron": [
+        "GAD1,PVALB"
+    ],
+    "SOM inhibitory neuron": [
+        "GAD1"
+    ],
+    "Vasoactive intestinal peptide (VIP) neuron": [
+        "GAD1,VIP1"
+    ],
+    "Excitatory neuron (Glutamatergic neuron)": [
+        "SLC17A6,SLC17A7,CAMK2A,PTK2B,NEUROD2,PRKCG,GRM5,THEMIS,FEZF2"
+    ],
+    "Granule cell": [
+        "GRM4"
+    ],
+    "Oligodendrocyte": [
+        "OLIG1,MBP,MTG"
+    ],
+    "Microglia": [
+        "CX3CR1,PTPRC,C1QB,APBB1IP"
+    ],
+    "Oligodendrocyte precursor\u00a0cell (OPC)": [
+        "OLIG2,OLIG1"
+    ],
+    "Ependymal cell": [
+        "TTR"
+    ],
+    "Endothelial cell": [
+        "CLDN5,SPARC"
+    ],
+    "Neutrophilic granulocyte": [
+        "S100A8,S100A9"
+    ],
+    "B cell": [
+        "IGHG3,IGHG1,IGHG4,IGLC2,IGKC,JCHAIN"
+    ],
+    "T cell": [
+        "TRBC2,CD3D,CD3E"
+    ],
+    "Macrophage": [
+        "CD74,CD14,CD163,LYVE1"
+    ],
+    "Smooth muscle cell": [
+        "TAGLN,ACTA2,MYL9"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "Epithelial cell": [
+        "KRT19,EFNA1,ID1"
+    ],
+    "Luminal cell": [
+        "KRT17"
+    ],
+    "Macrophage": [
+        "FCER1G"
+    ],
+    "Endocrine cell": [
+        "ACP3"
+    ],
+    "Endothelial cell": [
+        "SPARC"
+    ],
+    "Smooth muscle cell": [
+        "ACTA2"
+    ]
+}

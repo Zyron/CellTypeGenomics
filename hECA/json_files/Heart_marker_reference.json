@@ -1,0 +1,50 @@
+{
+    "Endothelial cell": [
+        "VWF,PECAM1,CDH5,LIPA"
+    ],
+    "Pericyte": [
+        "RGS5,ABCC9,KCNJ8,FABP4,CLDN5"
+    ],
+    "Fibrocyte": [
+        "DCN,LUM, COL1A1, COL1A2"
+    ],
+    "Erythrocyte": [
+        "MT1H,MT2A"
+    ],
+    "Neutrophilic granulocyte": [
+        "FABP6,PSG6,CELA2A"
+    ],
+    "Mast cell": [
+        "CPA3,TPSAB1,TPSB2,MS4A2"
+    ],
+    "T cell": [
+        "CD69,PTPRC,CD3D,CD3E,TRAC,IL32,CD2"
+    ],
+    "B cell": [
+        "MS4A1,CD19,CD79A,JCHAIN,MZB1,IGLC2,IGHG1,IGHG3"
+    ],
+    "NK cell": [
+        "TOP2A,NKG7,CDK1,CCL5,GZMB,GZMH"
+    ],
+    "Macrophage": [
+        "CD14,S100A8,FCGR3A,C1QA,C1QB,FABP4,HLA-DRA,CD68"
+    ],
+    "Dendritic cell": [
+        "CD1C,LAMP3, HLA-DRA, IL1B"
+    ],
+    "Cardiomyocyte cell": [
+        "MYL7,MYL4,TNNT2,ACTC1,MYL2,MYH7,NPPA"
+    ],
+    "Smooth muscle cell": [
+        "MYH11,TAGLN,ACTA2"
+    ],
+    "Neuron": [
+        "STMN2,STMN3,ELAVL4,PLP1,NXRN1,NXRN3"
+    ],
+    "Adipocyte": [
+        "GPAM,FASN,LEP"
+    ],
+    "Mesothelium": [
+        "MSLN,WT1,BNC1"
+    ]
+}

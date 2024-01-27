@@ -1,0 +1,38 @@
+{
+    "B cell": [
+        "JCHAIN"
+    ],
+    "Basal cell": [
+        "PLAU,S100A2"
+    ],
+    "Endothelial cell": [
+        "AQP1"
+    ],
+    "Macrophage": [
+        "CD74, CXCL3"
+    ],
+    "Mast cell": [
+        "CPA4"
+    ],
+    "Monocyte": [
+        "HLA-DRA"
+    ],
+    "Perineural epithelial cell": [
+        "GATD3A"
+    ],
+    "Smooth muscle cell": [
+        "ACTA2"
+    ],
+    "Stromal cell": [
+        "CXCL14, LUM, DCN"
+    ],
+    "Superficial cell": [
+        "UPK2"
+    ],
+    "T cell": [
+        "RPS27,MTATP6P1"
+    ],
+    "Urothelial cell": [
+        "S100P"
+    ]
+}

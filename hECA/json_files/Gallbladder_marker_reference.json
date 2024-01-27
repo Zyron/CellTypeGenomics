@@ -1,0 +1,38 @@
+{
+    "B cell": [
+        "IGHM"
+    ],
+    "Dendritic cell": [
+        "FCER1A"
+    ],
+    "Endothelial cell": [
+        "FABP4"
+    ],
+    "Epithelial cell": [
+        "REG1A,TM4SF4"
+    ],
+    "Fibroblast": [
+        "CCDC80"
+    ],
+    "Lymphocyte": [
+        "CCL3,CCL3L3"
+    ],
+    "Macrophage": [
+        "CTSB,C1QC"
+    ],
+    "Mast cell": [
+        "TPSAB1"
+    ],
+    "Neutrophilic granulocyte": [
+        "S100A8"
+    ],
+    "Smooth muscle cell": [
+        "TAGLN"
+    ],
+    "Stromal cell": [
+        "DCN"
+    ],
+    "T cell": [
+        "CST7,IL32"
+    ]
+}

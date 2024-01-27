@@ -1,0 +1,50 @@
+{
+    "B cell": [
+        "IGHM,JCHAIN,MZB1,CD74,CD52"
+    ],
+    "Dendritic cell": [
+        "HLA-DQB1,FCER1A"
+    ],
+    "Endothelial cell": [
+        "OIT3,DNASE1L3"
+    ],
+    "Epithelial cell": [
+        "DEFB1,KRT8"
+    ],
+    "Erythrocyte": [
+        "BLVRB"
+    ],
+    "Granulocyte": [
+        "BPI"
+    ],
+    "Haematopoietic stem and progenitor cell": [
+        "SPINK2,ORM2,ORM1,ADH1B"
+    ],
+    "Hepatocyte": [
+        "ADH1B,ORM1,ORM2"
+    ],
+    "Kuppfer cell": [
+        "C1QB,CD5L,C1QC"
+    ],
+    "Macrophage": [
+        "HLA-DQA1"
+    ],
+    "Mast cell": [
+        "CPA4,TPSB2"
+    ],
+    "Monocyte": [
+        "S100A12,VCAN,FCN1"
+    ],
+    "Neutrophilic granulocyte": [
+        "MS4A3,S100A8,DEFA4,FCGR3B"
+    ],
+    "Proliferating T cell": [
+        "UBE2C"
+    ],
+    "Smooth muscle cell": [
+        "TAGLN"
+    ],
+    "T cell": [
+        "CCL5,RPS27,XCL1,XCL2,S100A4"
+    ]
+}

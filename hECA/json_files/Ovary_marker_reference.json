@@ -1,0 +1,39 @@
+{
+    "Macrophage": [
+        "CST3,CD14,C1QB"
+    ],
+    "Theca cell": [
+        "UCHL1,PAGE2B"
+    ],
+    "Germ cell": [
+        "UCHL1,PAGE2B,POU5F1,TCL1A"
+    ],
+    "Erythrocyte": [
+        "HBB"
+    ],
+    "Dendritic cell": [
+        "CST3,CD14"
+    ],
+    "Epithelial cell": [
+        "KRT18"
+    ],
+    "Endothelial cell": [
+        "VWF",
+        "CDH5"
+    ],
+    "T cell": [
+        "CCL1,CCL2,CCL3"
+    ],
+    "Fibroblast": [
+        "DCN"
+    ],
+    "Smooth muscle cell": [
+        "ACTA2"
+    ],
+    "Stromal cell": [
+        "DCN"
+    ],
+    "Epithelial progenitor cell": [
+        "NPY"
+    ]
+}

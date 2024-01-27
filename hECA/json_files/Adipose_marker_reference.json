@@ -1,0 +1,11 @@
+{
+    "Adipocyte": [
+        "FABP4"
+    ],
+    "Fibroblast": [
+        "DCN"
+    ],
+    "Macrophage": [
+        "C1QA,C1QB,FCGR3A,CD163,FCER1G,CD74"
+    ]
+}

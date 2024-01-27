@@ -1,0 +1,92 @@
+{
+    "B cell": [
+        "MZB1, JCHAIN"
+    ],
+    "Collecting duct": [
+        "CALB1"
+    ],
+    "Dendritic cell": [
+        "HLA,IL1B"
+    ],
+    "Distal convoluted tubule": [
+        "SLC12A3, KLK1, DEFB1"
+    ],
+    "Endothelial cell": [
+        "CLDN5, CD34, PLVAP, FLT1, CCL21, SELE, SLC2A3, CCL2"
+    ],
+    "Epithelial cell": [
+        "NUPR1, AQP1, REG1A"
+    ],
+    "Erythrocyte": [
+        "HBG1, HBG2,HBB"
+    ],
+    "Erythroid progenitor cell": [
+        "CHGB"
+    ],
+    "Fibroblast": [
+        "LUM, COL1A2"
+    ],
+    "Intercalated cell": [
+        "ATP6V1G3, SLC26A4, FOXI1"
+    ],
+    "Intercalated cell/Princple cell": [
+        "AQP2"
+    ],
+    "Loop of henle": [
+        "CXXC1, ANXA1, UMOD, SLC12A1, KNG1"
+    ],
+    "Loop of henle progenitor": [
+        "SLC12A1"
+    ],
+    "Macrophage": [
+        "C1QA, APOC1"
+    ],
+    "Mast cell": [
+        "TPSB2, CPA4"
+    ],
+    "Mesangial cell": [
+        "LGALS1"
+    ],
+    "Mesenchymal cell": [
+        "PANTR1, DAPL1, TMSB15A"
+    ],
+    "Myeloid cell": [
+        "IL1B"
+    ],
+    "Neuroglial cell": [
+        "ALDH1A1"
+    ],
+    "Neuron": [
+        "STMN2"
+    ],
+    "Neutrophilic granulocyte": [
+        "MPO"
+    ],
+    "Podocyte": [
+        "MAFB"
+    ],
+    "Principle cell": [
+        "GATM,AQP2"
+    ],
+    "Proliferating cell": [
+        "HMGB2, CCNB1"
+    ],
+    "Proximal convoluted tubule": [
+        "ALDOB, CRYAB"
+    ],
+    "Proximal convoluted tubule progenitor": [
+        "AFP"
+    ],
+    "Smooth muscle cell": [
+        "BGN, MYL9"
+    ],
+    "T cell": [
+        "TRAC, CD3D"
+    ],
+    "Ureteric bud cell": [
+        "SOX4"
+    ],
+    "Ureteric epithelial cell": [
+        "S100P"
+    ]
+}

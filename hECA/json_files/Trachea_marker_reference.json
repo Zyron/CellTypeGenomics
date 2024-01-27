@@ -1,0 +1,77 @@
+{
+    "Endothelial cell": [
+        "PODX1,PDPN,GJA5,BMX,ACKR1,CA4"
+    ],
+    "Vascular endothelial cell": [
+        "GJA5,BMX,ACKR1"
+    ],
+    "Pericyte": [
+        "RGS5,ABCC9,KCNJ8,FABP4,CLDN5"
+    ],
+    "Lymphatic endothelial cell": [
+        "PROX1,PDPN"
+    ],
+    "Mesothelium": [
+        "MSLN,WT1,BNC1"
+    ],
+    "Perineural epithelial cell": [
+        "CXCL1,SLPI,KRT8,KRT18,KRT19"
+    ],
+    "Ciliated columnar cell": [
+        "FOXJ1,CCDC78,TUBB1,DNAAF1,RSPH1,ERICH3,DNAH12,C11orf88,SNTN"
+    ],
+    "Goblet cell": [
+        "SPDEF,MUC5AC,MUC5B,NOS2,CST1,CEACAM5,LYPD2,S100P"
+    ],
+    "Basal cell": [
+        "CYR61,KRT15,DST,CTGF,SERPINBX,MT1X,BCAM"
+    ],
+    "Myoepithelial cell": [
+        "ACTA2,COL1A1,PDGFRA"
+    ],
+    "Serous gland cell": [
+        "LTF,PRR4,LPO"
+    ],
+    "Mucous gland cell": [
+        "MUC5B"
+    ],
+    "Fibrocyte": [
+        "LUM,FBLN1,COL1A2,DCN,CXCL14"
+    ],
+    "Neutrophilic granulocyte": [
+        "FCGR3B,S100A8,S100A9"
+    ],
+    "Eosinophilic granulocyte": [
+        "FAM236C,FAM170B,AVP,SEMG1,LIPF"
+    ],
+    "Basophilic granulocyte": [
+        "CD2000R1L,TRIM64,TEX101,C8B,IQCF3"
+    ],
+    "Mast cell": [
+        "TPSAB1,CPA3,MS4A2"
+    ],
+    "T cell": [
+        "CD69,PTPRC,CD3D,CD3E,TRAC,IL32,CD2"
+    ],
+    "B cell": [
+        "MS4A1,CD19,CD79A,JCHAIN,MZB1,IGLC2,IGHG1,IGHG3"
+    ],
+    "NK cell": [
+        "TOP2A,NKG7,CDK1,CCL5,GZMB,GZMH"
+    ],
+    "Macrophage": [
+        "CD14,S100A8,FCGR3A,C1QA,C1QB,FABP4,HLA-DRA,CD68"
+    ],
+    "Dendritic cell": [
+        "CD1C,LAMP3, HLA-DRA, IL1B"
+    ],
+    "Chondrocyte": [
+        "CYTL1,CHAD,CLEC3A,HAPLN1,SCRG1"
+    ],
+    "Smooth muscle cell": [
+        "ACTA2,DES,LGR6,LGR5,NOTCH3"
+    ],
+    "Neuron": [
+        "STMN2,STMN3,ELAVL4,PLP1,NXRN1,NXRN3"
+    ]
+}

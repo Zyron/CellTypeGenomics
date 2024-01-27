@@ -1,0 +1,14 @@
+{
+    "Macrophage": [
+        "CD74,COL3A1,CD14,DCN,COL1A1"
+    ],
+    "Epithelial cell": [
+        "KRT19,KRT8,KRT18"
+    ],
+    "Stromal cell": [
+        "CD74,COL3A1,CD14,DCN,COL1A1"
+    ],
+    "Erythrocyte": [
+        "HBG2,AHSP"
+    ]
+}

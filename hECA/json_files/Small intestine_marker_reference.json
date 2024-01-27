@@ -1,0 +1,41 @@
+{
+    "B cell": [
+        "JCHAIN"
+    ],
+    "Dendritic cell": [
+        "IL1B"
+    ],
+    "Endothelial cell": [
+        "SPARCL1"
+    ],
+    "Enterocyte": [
+        "ALDOB,BEST4,GUCA2A,APOA1"
+    ],
+    "Enterocyte progenitor": [
+        "DMBT1,CPB1"
+    ],
+    "Fibroblast": [
+        "DCN,LUM"
+    ],
+    "Goblet cell": [
+        "AGR2"
+    ],
+    "Macrophage": [
+        "C1QA"
+    ],
+    "Mast cell": [
+        "CPA4"
+    ],
+    "Neuron": [
+        "BEX2"
+    ],
+    "Paneth cell": [
+        "GPX2,DEFA5,LYZ"
+    ],
+    "Smooth muscle cell": [
+        "MYL9"
+    ],
+    "T cell": [
+        "TRAC"
+    ]
+}

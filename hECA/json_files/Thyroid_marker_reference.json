@@ -1,0 +1,35 @@
+{
+    "Dendritic cell": [
+        "HLA-DRB1"
+    ],
+    "Endothelial cell": [
+        "TM4SF1"
+    ],
+    "Fibroblast": [
+        "GSN,DCN"
+    ],
+    "Follicular epithelial cell": [
+        "TG,TFF3"
+    ],
+    "Neutrophilic granulocyte": [
+        "IL1B"
+    ],
+    "NK cell": [
+        "XCL1"
+    ],
+    "Proliferating T cell": [
+        "HMGB2"
+    ],
+    "Plasma B cell": [
+        "IGHG1"
+    ],
+    "Smooth muscle cell": [
+        "TAGLN,ACTA2"
+    ],
+    "Stromal cell": [
+        "CCL21"
+    ],
+    "T cell": [
+        "CD3D"
+    ]
+}

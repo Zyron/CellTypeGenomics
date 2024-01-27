@@ -1,0 +1,89 @@
+{
+    "Endothelial cell": [
+        "PODX1,PDPN,GJA5,BMX,ACKR1,CA4"
+    ],
+    "Vascular endothelial cell": [
+        "GJA5,BMX,ACKR1"
+    ],
+    "Pericyte": [
+        "RGS5,ABCC9,KCNJ8,FABP4,CLDN5"
+    ],
+    "Lymphatic endothelial cell": [
+        "PROX1,PDPN"
+    ],
+    "Mesothelium": [
+        "MSLN,WT1,BNC1"
+    ],
+    "Perineural epithelial cell": [
+        "CXCL1,SLPI,KRT8,KRT18,KRT19"
+    ],
+    "Type I alveolar cell/Type I pneumocyte": [
+        "AGER,CLIC5,PDPN,EMP2,CAV2,AGER,CLDN18,AQP4,SFTPA1,SFTPA2,SFTPC"
+    ],
+    "Type II alveolar cell/Type II pneumocyte": [
+        "MUC1,SLPI,SLC34A2,NAPSA,CLDN18,AQP4,SFTPA1,SFTPA2,SFTPC"
+    ],
+    "Ciliated columnar cell": [
+        "FOXJ1,CCDC78,TUBB1,DNAAF1,RSPH1,ERICH3,DNAH12,C11orf88,SNTN"
+    ],
+    "Goblet cell": [
+        "SPDEF,MUC5AC,MUC5B,NOS2,CST1,CEACAM5,LYPD2,S100P"
+    ],
+    "Basal cell": [
+        "CYR61,KRT15,DST,CTGF,SERPINBX,MT1X,BCAM"
+    ],
+    "Club cell/bronchiolar exocrine cell/Clara cell": [
+        "SCGB3A2,CYP2F2,CCKAR,SCGB1A1,SCGB3A1,MSMB,S100P,MUC5B,MUC5AC"
+    ],
+    "Myoepithelial cell": [
+        "ACTA2,COL1A1,PDGFRA"
+    ],
+    "Serous gland cell": [
+        "LTF,PRR4,LPO"
+    ],
+    "Mucous gland cell": [
+        "MUC5B"
+    ],
+    "Fibrocyte": [
+        "LUM,FBLN1,COL1A2,DCN,CXCL14"
+    ],
+    "Neutrophilic granulocyte": [
+        "FCGR3B,S100A8,S100A9"
+    ],
+    "Eosinophilic granulocyte": [
+        "FAM236C,FAM170B,AVP,SEMG1,LIPF"
+    ],
+    "Basophilic granulocyte": [
+        "CD2000R1L,TRIM64,TEX101,C8B,IQCF3"
+    ],
+    "Mast cell": [
+        "TPSAB1,CPA3,MS4A2"
+    ],
+    "CD4 T cell": [
+        "CD4,COTL1,LDHB,CCR7,LEF1"
+    ],
+    "CD8 T cell": [
+        "CD8A,GZMK,GZMH,DUSP2,GZMB"
+    ],
+    "B Cell": [
+        "CD79A,CD19,MS4A1,MZB1,JCHAIN,IGLC2,IGHG3,IGHG1"
+    ],
+    "NK cell": [
+        "FCER1G,TYROBP,CHST2,MKI67,TOP2A,CDK1,GNLY,NKG7,CCL5,GZMB,GZMH"
+    ],
+    "Macrophage": [
+        "CD14,S100A8,FCGR3A,FABP4,APOC1,VSIG4,CCL18,C1QA"
+    ],
+    "Chondrocyte": [
+        "CYTL1,CHAD,CLEC3A,HAPLN1,SCRG1"
+    ],
+    "Smooth muscle cell": [
+        "ACTA2,DES,LGR6,LGR5,NOTCH3"
+    ],
+    "Neuron": [
+        "STMN2,STMN3,ELAVL4,PLP1,NXRN1,NXRN3"
+    ],
+    "Dendritic cell": [
+        "MHCII,LAMP3,CD1C,CLEC9A,PLD4,THBD,GPR183,LGALS2,FCER1A,IL1B,HLA-DRA"
+    ]
+}

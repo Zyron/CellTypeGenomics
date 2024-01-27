@@ -1,0 +1,27 @@
+{
+    "Epithelial cell": [
+        "KRT6A,KRT13,KRT8,KRT18"
+    ],
+    "Endothelial cell": [
+        "SELE"
+    ],
+    "Stromal cell": [
+        "COL1A2,DCN",
+        "COL1A2,GPRC5A,DCN"
+    ],
+    "Smooth muscle cell": [
+        "MYH11,TAGLN,MYLK"
+    ],
+    "T cell": [
+        "PTPRC,IL7R,CD44"
+    ],
+    "Macrophage": [
+        "IL1A,CD53"
+    ],
+    "Mast cell": [
+        "PTPRC,IL7R,CD44"
+    ],
+    "B cell": [
+        "COL1A2,GPRC5A,DCN"
+    ]
+}
