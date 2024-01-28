@@ -1,35 +1,52 @@
 {
     "Epithelial cell": [
-        "SCGB1D4,OVGP1,AGR3,KRT18,CRISP3"
+        "SCGB1D4",
+        "OVGP1",
+        "AGR3",
+        "KRT18",
+        "CRISP3"
     ],
     "B cell": [
-        "MZB1,CD79A"
+        "MZB1",
+        "CD79A"
     ],
     "Endothelial cell": [
-        "SELE,MMRN1,LYVE1"
+        "SELE",
+        "MMRN1",
+        "LYVE1"
     ],
     "Neutrophilic granulocyte": [
-        "S100A12,FCN1"
+        "S100A12",
+        "FCN1"
     ],
     "Macrophage": [
-        "IL1B,CCL3,CD74"
+        "IL1B",
+        "CCL3",
+        "CD74"
     ],
     "Fibroblast": [
-        "DCN,FBLN1"
+        "DCN",
+        "FBLN1"
     ],
     "Smooth muscle cell": [
-        "MYH11,MYL9,TAGLN"
+        "MYH11",
+        "MYL9",
+        "TAGLN"
     ],
     "Stromal cell": [
         "DCN"
     ],
     "T cell": [
-        "PTPRC,IL32"
+        "PTPRC",
+        "IL32"
     ],
     "Mast cell": [
-        "TPSAB1,TPSB2,CD44"
+        "TPSAB1",
+        "TPSB2",
+        "CD44"
     ],
     "CD8 T cell": [
-        "PTPRC,IL32"
+        "PTPRC",
+        "IL32"
     ]
 }

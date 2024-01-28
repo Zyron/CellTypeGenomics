@@ -1,23 +1,33 @@
 {
     "Chondrocyte": [
-        "DLK1,HAPLN1,COL10A1,COL2A1,MGP"
+        "DLK1",
+        "HAPLN1",
+        "COL10A1",
+        "COL2A1",
+        "MGP"
     ],
     "Endothelial cell": [
         "APLNR"
     ],
     "Erythrocyte": [
-        "HBA1,HBA2,ALAS2"
+        "HBA1",
+        "HBA2",
+        "ALAS2"
     ],
     "Fibroblast": [
-        "COL1A1,COL3A1"
+        "COL1A1",
+        "COL3A1"
     ],
     "Neutrophilic granulocyte": [
-        "RETN,IL1B"
+        "RETN",
+        "IL1B"
     ],
     "Osteoclast": [
-        "MMP9,IBSP"
+        "MMP9",
+        "IBSP"
     ],
     "T cell": [
-        "HMGB2,TUBA1B"
+        "HMGB2",
+        "TUBA1B"
     ]
 }

@@ -9,16 +9,19 @@
         "FABP4"
     ],
     "Epithelial cell": [
-        "REG1A,TM4SF4"
+        "REG1A",
+        "TM4SF4"
     ],
     "Fibroblast": [
         "CCDC80"
     ],
     "Lymphocyte": [
-        "CCL3,CCL3L3"
+        "CCL3",
+        "CCL3L3"
     ],
     "Macrophage": [
-        "CTSB,C1QC"
+        "CTSB",
+        "C1QC"
     ],
     "Mast cell": [
         "TPSAB1"
@@ -33,6 +36,7 @@
         "DCN"
     ],
     "T cell": [
-        "CST7,IL32"
+        "CST7",
+        "IL32"
     ]
 }

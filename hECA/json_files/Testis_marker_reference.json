@@ -3,51 +3,92 @@
         "INSL3"
     ],
     "Monocyte": [
-        "FCER1G,TYROBP,FCN1"
+        "FCER1G",
+        "TYROBP",
+        "FCN1"
     ],
     "Erythrocyte": [
-        "HBG2,HBA2,HBA1"
+        "HBG2",
+        "HBA2",
+        "HBA1"
     ],
     "Endothelial cell": [
-        "PECAM1,CD34,SOX18"
+        "PECAM1",
+        "CD34",
+        "SOX18"
     ],
     "Neutrophilic granulocyte": [
-        "SULT1E1,COL3A1,LGALS1,FCER1G,TYROBP,FCN1,CYSTM1,FOS,EGR3,NR4A2,SELENOK,CCL4L2,SRGN,CCL3L3,CXCL8,RGS1"
+        "SULT1E1",
+        "COL3A1",
+        "LGALS1",
+        "FCER1G",
+        "TYROBP",
+        "FCN1",
+        "CYSTM1",
+        "FOS",
+        "EGR3",
+        "NR4A2",
+        "SELENOK",
+        "CCL4L2",
+        "SRGN",
+        "CCL3L3",
+        "CXCL8",
+        "RGS1"
     ],
     "Sertoli cell": [
         "AMH"
     ],
     "Spermatogonial stem cell": [
-        "POU5F1,TOP2A"
+        "POU5F1",
+        "TOP2A"
     ],
     "Acinar cell": [
-        "CLDN3,CD24"
+        "CLDN3",
+        "CD24"
     ],
     "Mesenchymal stromal cell": [
-        "DLK1,CXCL12,DCN"
+        "DLK1",
+        "CXCL12",
+        "DCN"
     ],
     "Differentiating spermatogonia": [
-        "HMGB2,CDK1,UBE2C"
+        "HMGB2",
+        "CDK1",
+        "UBE2C"
     ],
     "Differentiated spermatogonia": [
         "BNC1"
     ],
     "Spermatogenic cell": [
-        "TCL1A,MND1,POU5F1"
+        "TCL1A",
+        "MND1",
+        "POU5F1"
     ],
     "Skeletal muscle cell": [
         "MT"
     ],
     "Basophililc granulocyte": [
-        "EGR3,NR4A2,SELENOK"
+        "EGR3",
+        "NR4A2",
+        "SELENOK"
     ],
     "Fibroblast": [
-        "SULT1E1,MGP,TM4SF1,COL1A2,DCN,COL1A1"
+        "SULT1E1",
+        "MGP",
+        "TM4SF1",
+        "COL1A2",
+        "DCN",
+        "COL1A1"
     ],
     "Tubule cell": [
-        "MMP7,CD24"
+        "MMP7",
+        "CD24"
     ],
     "Eosinophilic granulocyte": [
-        "CCL4L2,SRGN,CCL3L3,CXCL8,RGS1"
+        "CCL4L2",
+        "SRGN",
+        "CCL3L3",
+        "CXCL8",
+        "RGS1"
     ]
 }

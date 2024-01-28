@@ -9,13 +9,18 @@
         "SPARCL1"
     ],
     "Enterocyte": [
-        "ALDOB,BEST4,GUCA2A,APOA1"
+        "ALDOB",
+        "BEST4",
+        "GUCA2A",
+        "APOA1"
     ],
     "Enterocyte progenitor": [
-        "DMBT1,CPB1"
+        "DMBT1",
+        "CPB1"
     ],
     "Fibroblast": [
-        "DCN,LUM"
+        "DCN",
+        "LUM"
     ],
     "Goblet cell": [
         "AGR2"
@@ -30,7 +35,9 @@
         "BEX2"
     ],
     "Paneth cell": [
-        "GPX2,DEFA5,LYZ"
+        "GPX2",
+        "DEFA5",
+        "LYZ"
     ],
     "Smooth muscle cell": [
         "MYL9"

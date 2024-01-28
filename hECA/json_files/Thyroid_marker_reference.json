@@ -6,10 +6,12 @@
         "TM4SF1"
     ],
     "Fibroblast": [
-        "GSN,DCN"
+        "GSN",
+        "DCN"
     ],
     "Follicular epithelial cell": [
-        "TG,TFF3"
+        "TG",
+        "TFF3"
     ],
     "Neutrophilic granulocyte": [
         "IL1B"
@@ -24,7 +26,8 @@
         "IGHG1"
     ],
     "Smooth muscle cell": [
-        "TAGLN,ACTA2"
+        "TAGLN",
+        "ACTA2"
     ],
     "Stromal cell": [
         "CCL21"

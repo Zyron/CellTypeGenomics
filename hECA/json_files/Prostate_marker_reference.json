@@ -1,6 +1,8 @@
 {
     "Epithelial cell": [
-        "KRT19,EFNA1,ID1"
+        "KRT19",
+        "EFNA1",
+        "ID1"
     ],
     "Luminal cell": [
         "KRT17"

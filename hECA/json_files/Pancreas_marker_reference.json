@@ -1,80 +1,163 @@
 {
     "Acinar cell": [
-        "MT-CO1,RPS14,CPA2,SPINK1,CLPS,CELA3B,SPINK1,CLPS,REG1B,REG1A"
+        "MT-CO1",
+        "RPS14",
+        "CPA2",
+        "SPINK1",
+        "CLPS",
+        "CELA3B",
+        "SPINK1",
+        "CLPS",
+        "REG1B",
+        "REG1A"
     ],
     "Alpha cell": [
-        "CHGB,GCG,GC"
+        "CHGB",
+        "GCG",
+        "GC"
     ],
     "B cell": [
-        "IGLL1,VPREB1,IGHM,IGKC,INS,CHGA"
+        "IGLL1",
+        "VPREB1",
+        "IGHM",
+        "IGKC",
+        "INS",
+        "CHGA"
     ],
     "Beta cell": [
-        "SCG5,INS,IAPP"
+        "SCG5",
+        "INS",
+        "IAPP"
     ],
     "Delta cell": [
-        "SST,RBP4"
+        "SST",
+        "RBP4"
     ],
     "Dendritic cell": [
-        "CPVL,IL1B,HLA-DRA,CD74,CCL19"
+        "CPVL",
+        "IL1B",
+        "HLA-DRA",
+        "CD74",
+        "CCL19"
     ],
     "Ductal cell": [
-        "SLC4A4,CFTR,CXCL1,CFTR,CXXC1"
+        "SLC4A4",
+        "CFTR",
+        "CXCL1",
+        "CFTR",
+        "CXXC1"
     ],
     "Endocrine cell": [
         "INS"
     ],
     "Endothelial cell": [
-        "CLDN5,IFI27,APLNR,PLVAP,NTS,CCL21,PLVAP,CD36,PLVAP,SPARCL1,KDR,FLT1"
+        "CLDN5",
+        "IFI27",
+        "APLNR",
+        "PLVAP",
+        "NTS",
+        "CCL21",
+        "PLVAP",
+        "CD36",
+        "PLVAP",
+        "SPARCL1",
+        "KDR",
+        "FLT1"
     ],
     "Erythrocyte": [
-        "HBG1,HBG2,HBA1,HBA1,AHSP,UBE2C,TOP2A"
+        "HBG1",
+        "HBG2",
+        "HBA1",
+        "HBA1",
+        "AHSP",
+        "UBE2C",
+        "TOP2A"
     ],
     "Exocrine cell": [
         "REG3A"
     ],
     "Fibroblast": [
-        "TAGLN,SPARC,FDCSP,CCL2,COL3A1,COL1A2,SEMA3D,PARM1,COL3A1,DCN"
+        "TAGLN",
+        "SPARC",
+        "FDCSP",
+        "CCL2",
+        "COL3A1",
+        "COL1A2",
+        "SEMA3D",
+        "PARM1",
+        "COL3A1",
+        "DCN"
     ],
     "Gamma cell": [
-        "PPY,AQP3"
+        "PPY",
+        "AQP3"
     ],
     "Macrophage": [
-        "C1QA,RGS1"
+        "C1QA",
+        "RGS1"
     ],
     "Mast cell": [
         "RHEX"
     ],
     "Mesenchymal cell": [
-        "COL3A1,COL1A1,COL1A2,COL1A1"
+        "COL3A1",
+        "COL1A1",
+        "COL1A2",
+        "COL1A1"
     ],
     "Monocyte": [
-        "RPL23A,RGS2"
+        "RPL23A",
+        "RGS2"
     ],
     "Neuron": [
         "GAL"
     ],
     "Neutrophilic granulocyte": [
-        "C1QC,MMP9,S100A8"
+        "C1QC",
+        "MMP9",
+        "S100A8"
     ],
     "NK cell": [
-        "IFNG,XCL2,NKG7"
+        "IFNG",
+        "XCL2",
+        "NKG7"
     ],
     "Plasma B cell": [
-        "JCHAIN,GZMB"
+        "JCHAIN",
+        "GZMB"
     ],
     "Proliferating T cell": [
         "UBE2C"
     ],
     "Satellite cell": [
-        "GAP43,LINC00682"
+        "GAP43",
+        "LINC00682"
     ],
     "NaN": [
-        "PLP1,PTPRZ1"
+        "PLP1",
+        "PTPRZ1"
     ],
     "Smooth muscle cell": [
-        "ACTG1,HSPB1,GJA4,IGFBP3,RGS5,THBS4,RGS5,KRT7"
+        "ACTG1",
+        "HSPB1",
+        "GJA4",
+        "IGFBP3",
+        "RGS5",
+        "THBS4",
+        "RGS5",
+        "KRT7"
     ],
     "T cell": [
-        "RPS27,RPSA,TPT1,RPLP2,TMSB4X,RPL23A,TRAC,CD2,CD52,IL7R,LTB"
+        "RPS27",
+        "RPSA",
+        "TPT1",
+        "RPLP2",
+        "TMSB4X",
+        "RPL23A",
+        "TRAC",
+        "CD2",
+        "CD52",
+        "IL7R",
+        "LTB"
     ]
 }

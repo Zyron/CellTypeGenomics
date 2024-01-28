@@ -9,7 +9,8 @@
         "CD8A"
     ],
     "Chief cell": [
-        "CHIA,LIPF"
+        "CHIA",
+        "LIPF"
     ],
     "Chromaffin cell": [
         "CHGA"
@@ -18,19 +19,26 @@
         "CPE"
     ],
     "Endothelial cell": [
-        "SPARCL1,CCL21,IGFBP7,FLT1"
+        "SPARCL1",
+        "CCL21",
+        "IGFBP7",
+        "FLT1"
     ],
     "Enterocyte": [
         "AGR3"
     ],
     "Epithelial cell": [
-        "TM4SF1,LTF,AGR2,FABP1"
+        "TM4SF1",
+        "LTF",
+        "AGR2",
+        "FABP1"
     ],
     "Erythrocyte": [
         "HBB"
     ],
     "Fibroblast": [
-        "COL1A2,FBLN1"
+        "COL1A2",
+        "FBLN1"
     ],
     "Inflammatory cell": [
         "CHAC1"
@@ -39,7 +47,8 @@
         "C1QA"
     ],
     "Mast cell": [
-        "TPSB2,MS4A1"
+        "TPSB2",
+        "MS4A1"
     ],
     "Myeloid cell": [
         "IL1B"
@@ -48,18 +57,26 @@
         "STMN2"
     ],
     "Parietal cell": [
-        "CD24,ATP4B"
+        "CD24",
+        "ATP4B"
     ],
     "Pit cell": [
-        "FOXQ1,WFDC21P,TFF2,MUC6,TFF1"
+        "FOXQ1",
+        "WFDC21P",
+        "TFF2",
+        "MUC6",
+        "TFF1"
     ],
     "Smooth muscle cell": [
-        "ACTA2,MYL9"
+        "ACTA2",
+        "MYL9"
     ],
     "Stromal cell": [
-        "DCN,LUM"
+        "DCN",
+        "LUM"
     ],
     "T cell": [
-        "CD3D,KLRB1"
+        "CD3D",
+        "KLRB1"
     ]
 }

@@ -1,6 +1,9 @@
 {
     "B cell": [
-        "IGLC2,MZB1,CD74,GNG7"
+        "IGLC2",
+        "MZB1",
+        "CD74",
+        "GNG7"
     ],
     "Dendritic cell": [
         "HLA-DRB1"
@@ -9,16 +12,44 @@
         "GC"
     ],
     "Endothelial cell": [
-        "ESAM,CD93,CD34,PRSS2,PLVAP,FLT1,ACKR1"
+        "ESAM",
+        "CD93",
+        "CD34",
+        "PRSS2",
+        "PLVAP",
+        "FLT1",
+        "ACKR1"
     ],
     "Enteric glial cell": [
         "PLP1"
     ],
     "Enterocyte": [
-        "FABP1,MT-CO3,RN7SK,CA4,RPS18,RIMBP2,GUCA2A,AGR2,PMEL,RAMP2,LGALS1,CA7,SLC26A3,AQP8,RNF186,BEST4,CYBRD1"
+        "FABP1",
+        "MT-CO3",
+        "RN7SK",
+        "CA4",
+        "RPS18",
+        "RIMBP2",
+        "GUCA2A",
+        "AGR2",
+        "PMEL",
+        "RAMP2",
+        "LGALS1",
+        "CA7",
+        "SLC26A3",
+        "AQP8",
+        "RNF186",
+        "BEST4",
+        "CYBRD1"
     ],
     "Enterocyte progenitor": [
-        "TXN,EPCAM,APOA1,TPT1,APOC3,TSPAN8,GPX2"
+        "TXN",
+        "EPCAM",
+        "APOA1",
+        "TPT1",
+        "APOC3",
+        "TSPAN8",
+        "GPX2"
     ],
     "Enteroendocrine cell": [
         "CHGB"
@@ -30,10 +61,23 @@
         "HBA1"
     ],
     "Fibroblast": [
-        "CXCL14,LUM,DCN,FNDC1,POSTN,PTTG1,CHGA,SCARA5,MFAP5,RARRES2"
+        "CXCL14",
+        "LUM",
+        "DCN",
+        "FNDC1",
+        "POSTN",
+        "PTTG1",
+        "CHGA",
+        "SCARA5",
+        "MFAP5",
+        "RARRES2"
     ],
     "Goblet cell": [
-        "TFF3,MUC2,ARHGDIB,ITLN1,CLCA1"
+        "TFF3",
+        "MUC2",
+        "ARHGDIB",
+        "ITLN1",
+        "CLCA1"
     ],
     "Granulocyte": [
         "IL1B"
@@ -45,19 +89,25 @@
         "LYVE1"
     ],
     "Macrophage": [
-        "HLA-DRA,C1QA,CD36,CD163"
+        "HLA-DRA",
+        "C1QA",
+        "CD36",
+        "CD163"
     ],
     "Mast cell": [
-        "TPSB2,CPA4"
+        "TPSB2",
+        "CPA4"
     ],
     "Mesothelial cell": [
-        "KRT18,KRT8"
+        "KRT18",
+        "KRT8"
     ],
     "Myofibroblast": [
         "CSTA"
     ],
     "Neuron": [
-        "STMN2,TPM2"
+        "STMN2",
+        "TPM2"
     ],
     "Neutrophilic granulocyte": [
         "S100A8"
@@ -66,22 +116,36 @@
         "LYZ"
     ],
     "Plasma B cell": [
-        "IGKC,IGHG1,JCHAIN"
+        "IGKC",
+        "IGHG1",
+        "JCHAIN"
     ],
     "Proliferating T cell": [
         "UBE2C"
     ],
     "Schwann cell": [
-        "APOD,STMN1"
+        "APOD",
+        "STMN1"
     ],
     "Smooth muscle cell": [
-        "ACTA2,CNN1,COL1A2,OGN"
+        "ACTA2",
+        "CNN1",
+        "COL1A2",
+        "OGN"
     ],
     "Stromal cell": [
-        "MGP,FBLN1,COL3A1,FGF7,FBN1"
+        "MGP",
+        "FBLN1",
+        "COL3A1",
+        "FGF7",
+        "FBN1"
     ],
     "T cell": [
-        "CD3D,VPREB1,IL32,NKG7,CCL5"
+        "CD3D",
+        "VPREB1",
+        "IL32",
+        "NKG7",
+        "CCL5"
     ],
     "Vascular endothelial cell": [
         "COL15A1"

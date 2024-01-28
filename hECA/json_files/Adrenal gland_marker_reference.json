@@ -18,7 +18,8 @@
         "TAGLN"
     ],
     "Stromal cell": [
-        "MGP,IER2"
+        "MGP",
+        "IER2"
     ],
     "Zona fasciculata cell": [
         "CYP17A1"

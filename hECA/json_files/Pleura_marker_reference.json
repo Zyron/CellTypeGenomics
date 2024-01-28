@@ -1,41 +1,24 @@
 {
-    "Endothelial cell": [
-        "VWF",
-        "PECAM1",
-        "CDH5",
-        "LIPA"
-    ],
-    "Pericyte": [
-        "RGS5",
-        "ABCC9",
-        "KCNJ8",
-        "FABP4",
-        "CLDN5"
+    "Mesothelium   ": [
+        "MSLN",
+        "WT1",
+        "BNC1"
     ],
     "Fibrocyte": [
-        "DCN",
         "LUM",
-        " COL1A1",
-        " COL1A2"
-    ],
-    "Adipocyte": [
-        "GPAM",
-        "FASN",
-        "LEP"
-    ],
-    "Erythrocyte": [
-        "MT1H",
-        "MT2A"
+        "FBLN1",
+        "COL1A2",
+        "DCN",
+        "CXCL14"
     ],
     "Neutrophilic granulocyte": [
-        "FABP6",
-        "PSG6",
-        "CELA2A"
+        "FCGR3B",
+        "S100A8",
+        "S100A9"
     ],
     "Mast cell": [
-        "CPA3",
         "TPSAB1",
-        "TPSB2",
+        "CPA3",
         "MS4A2"
     ],
     "T cell": [
@@ -57,6 +40,14 @@
         "IGHG1",
         "IGHG3"
     ],
+    "NK cell": [
+        "TOP2A",
+        "NKG7",
+        "CDK1",
+        "CCL5",
+        "GZMB",
+        "GZMH"
+    ],
     "Macrophage": [
         "CD14",
         "S100A8",
@@ -67,18 +58,12 @@
         "HLA-DRA",
         "CD68"
     ],
-    "NK cell": [
-        "TOP2A",
-        "NKG7",
-        "CDK1",
-        "CCL5",
-        "GZMB",
-        "GZMH"
-    ],
-    "Smooth muscle cell": [
-        "MYH11",
-        "TAGLN",
-        "ACTA2"
+    "Epithelial cell": [
+        "CXCL1",
+        "SLPI",
+        "KRT8",
+        "KRT18",
+        "KRT19"
     ],
     "Neuron": [
         "STMN2",

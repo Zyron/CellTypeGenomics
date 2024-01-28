@@ -1,18 +1,25 @@
 {
     "Macrophage": [
-        "CST3,CD14,C1QB"
+        "CST3",
+        "CD14",
+        "C1QB"
     ],
     "Theca cell": [
-        "UCHL1,PAGE2B"
+        "UCHL1",
+        "PAGE2B"
     ],
     "Germ cell": [
-        "UCHL1,PAGE2B,POU5F1,TCL1A"
+        "UCHL1",
+        "PAGE2B",
+        "POU5F1",
+        "TCL1A"
     ],
     "Erythrocyte": [
         "HBB"
     ],
     "Dendritic cell": [
-        "CST3,CD14"
+        "CST3",
+        "CD14"
     ],
     "Epithelial cell": [
         "KRT18"
@@ -22,7 +29,9 @@
         "CDH5"
     ],
     "T cell": [
-        "CCL1,CCL2,CCL3"
+        "CCL1",
+        "CCL2",
+        "CCL3"
     ],
     "Fibroblast": [
         "DCN"

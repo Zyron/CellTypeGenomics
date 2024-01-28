@@ -1,54 +1,97 @@
 {
     "Endothelial cell": [
-        "TM4SF1,PLVAP"
+        "TM4SF1",
+        "PLVAP"
     ],
     "Hemopoietic stem cell": [
-        "SPINK2,SMIM24,GAS5,CD99"
+        "SPINK2",
+        "SMIM24",
+        "GAS5",
+        "CD99"
     ],
     "Erythrocyte": [
         "AHSP"
     ],
     "Megakaryocyte": [
-        "PF4,GP9,CD41"
+        "PF4",
+        "GP9",
+        "CD41"
     ],
     "Neutrophilic granulocyte": [
-        "CD177,CD24,RAC2,ELANE,MPO,DEFA4,PRTN3,RNASE3"
+        "CD177",
+        "CD24",
+        "RAC2",
+        "ELANE",
+        "MPO",
+        "DEFA4",
+        "PRTN3",
+        "RNASE3"
     ],
     "Eosinophilic granulocyte": [
-        "CD15,CD35,CLC"
+        "CD15",
+        "CD35",
+        "CLC"
     ],
     "Basophilic granulocyte": [
-        "CD9,CD11a,CD13"
+        "CD9",
+        "CD11a",
+        "CD13"
     ],
     "Monocyte": [
-        "CD14,FCN1,S100A9,S100A8,CST3"
+        "CD14",
+        "FCN1",
+        "S100A9",
+        "S100A8",
+        "CST3"
     ],
     "Macrophage": [
-        "C1QA,C1QB,FCGR3A,CD163,FCER1G,CD74"
+        "C1QA",
+        "C1QB",
+        "FCGR3A",
+        "CD163",
+        "FCER1G",
+        "CD74"
     ],
     "Conventional dendritic cell": [
-        "CD1a,CD11c,CD1C,CD74,HLA-DRA"
+        "CD1a",
+        "CD11c",
+        "CD1C",
+        "CD74",
+        "HLA-DRA"
     ],
     "Plasmacytoid dendritic cell": [
-        "CD85g,CD123,IRF8"
+        "CD85g",
+        "CD123",
+        "IRF8"
     ],
     "T cell": [
-        "TRAC,CD3D,TRBC1,TRBC2,CD3E"
+        "TRAC",
+        "CD3D",
+        "TRBC1",
+        "TRBC2",
+        "CD3E"
     ],
     "B cell": [
-        "CD74,CD79A"
+        "CD74",
+        "CD79A"
     ],
     "Plasma B Cell": [
-        "JCHAIN,IGHA1,IGKC,IGHA2,CD79A"
+        "JCHAIN",
+        "IGHA1",
+        "IGKC",
+        "IGHA2",
+        "CD79A"
     ],
     "Memory B cell": [
         "CD27"
     ],
     "Centrocyte B cell": [
-        "CD79A,CD79B"
+        "CD79A",
+        "CD79B"
     ],
     "NK cell": [
-        "KLRB1,NKG7"
+        "KLRB1",
+        "NKG7"
     ],
     "Common myeloid progenitor(CMP)": [
         "GATA2"
