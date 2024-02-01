@@ -1,0 +1,166 @@
+{
+    "Brain": [
+        "TAGLN",
+        "ACTA2",
+        "MYL9"
+    ],
+    "Eye": [
+        "CPA3"
+    ],
+    "Spinal cord": [
+        "TAGLN",
+        "ACTA2",
+        "MYL9"
+    ],
+    "Skin": [
+        "LCK",
+        "CD3E",
+        "CD3G",
+        "CD3D"
+    ],
+    "Bone Marrow": [
+        "GATA2"
+    ],
+    "Thymus": [
+        "GATA2"
+    ],
+    "Spleen": [
+        "GATA2"
+    ],
+    "Blood": [
+        "GATA2"
+    ],
+    "Vessel": [
+        "STMN3",
+        "NXRN3",
+        "ELAVL4",
+        "PLP1",
+        "STMN2",
+        "NXRN1"
+    ],
+    "Heart": [
+        "BNC1",
+        "WT1",
+        "MSLN"
+    ],
+    "Trachea": [
+        "STMN3",
+        "NXRN3",
+        "ELAVL4",
+        "PLP1",
+        "STMN2",
+        "NXRN1"
+    ],
+    "Lung": [
+        "CD1C",
+        "PLD4",
+        "GPR183",
+        "MHCII",
+        "IL1B",
+        "CLEC9A",
+        "THBD",
+        "LGALS2",
+        "HLA-DRA",
+        "LAMP3",
+        "FCER1A"
+    ],
+    "Pleura": [
+        "STMN3",
+        "NXRN3",
+        "ELAVL4",
+        "PLP1",
+        "STMN2",
+        "NXRN1"
+    ],
+    "Kidney": [
+        "S100P"
+    ],
+    "Ureter, Bladder, Urethra": [
+        "S100P"
+    ],
+    "Liver": [
+        "XCL2",
+        "S100A4",
+        "RPS27",
+        "CCL5",
+        "XCL1"
+    ],
+    "Gallbladder": [
+        "CST7",
+        "IL32"
+    ],
+    "Pancreas": [
+        "CD52",
+        "TRAC",
+        "LTB",
+        "RPSA",
+        "TMSB4X",
+        "RPLP2",
+        "TPT1",
+        "RPL23A",
+        "IL7R",
+        "CD2",
+        "RPS27"
+    ],
+    "Adrenal gland": [
+        "CYP17A1"
+    ],
+    "Thyroid": [
+        "CD3D"
+    ],
+    "Ovary": [
+        "NPY"
+    ],
+    "Placenta": [
+        "AHSP",
+        "HBG2"
+    ],
+    "Prostate": [
+        "ACTA2"
+    ],
+    "Testis": [
+        "CCL3L3",
+        "CXCL8",
+        "RGS1",
+        "CCL4L2",
+        "SRGN"
+    ],
+    "Uterinetube": [
+        "IL32",
+        "PTPRC"
+    ],
+    "Uterus": [
+        "COL1A2",
+        "GPRC5A",
+        "DCN"
+    ],
+    "Oesophagus": [
+        "TRAC",
+        "CD3D"
+    ],
+    "Stomach": [
+        "KLRB1",
+        "CD3D"
+    ],
+    "Small intestine": [
+        "TRAC"
+    ],
+    "Large intestine": [
+        "POSTN"
+    ],
+    "Rib": [
+        "TUBA1B",
+        "HMGB2"
+    ],
+    "Muscle": [
+        "GAS2"
+    ],
+    "Adipose": [
+        "C1QB",
+        "FCER1G",
+        "C1QA",
+        "CD74",
+        "FCGR3A",
+        "CD163"
+    ]
+}

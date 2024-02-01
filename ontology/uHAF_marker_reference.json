@@ -1,11 +1,11 @@
 {
     "Inhibitory neuron (GABAergic neuron)": [
-        "PVALB",
         "GAD1",
         "GABRG1",
-        "SST",
+        "SLC6A5",
         "GAD2",
-        "SLC6A5"
+        "SST",
+        "PVALB"
     ],
     "PV inhibitory neuron": [
         "PVALB",
@@ -15,38 +15,38 @@
         "GAD1"
     ],
     "Vasoactive intestinal peptide (VIP) neuron": [
-        "GAD1",
-        "VIP1"
+        "VIP1",
+        "GAD1"
     ],
     "Excitatory neuron (Glutamatergic neuron)": [
-        "PTK2B",
         "PRKCG",
-        "SLC17A6",
-        "FEZF2",
-        "CAMK2A",
-        "THEMIS",
-        "GRM5",
         "SLC17A7",
-        "NEUROD2"
+        "FEZF2",
+        "NEUROD2",
+        "GRM5",
+        "PTK2B",
+        "SLC17A6",
+        "THEMIS",
+        "CAMK2A"
     ],
     "Granule cell": [
         "GRM4"
     ],
     "Oligodendrocyte": [
         "MTG",
-        "OLIG1",
-        "MBP"
+        "MBP",
+        "OLIG1"
     ],
     "Microglia": [
+        "HLA-DPA1",
         "AIF1",
-        "PTPRC",
+        "CD163",
+        "APBB1IP",
+        "C1QB",
         "CX3CR1",
         "TMEM119",
-        "CD163",
-        "C1QA",
-        "APBB1IP",
-        "HLA-DPA1",
-        "C1QB"
+        "PTPRC",
+        "C1QA"
     ],
     "Oligodendrocyte precursor\u00a0cell (OPC)": [
         "OLIG2",
@@ -56,480 +56,480 @@
         "TTR"
     ],
     "Endothelial cell": [
+        "FLT1",
+        "AQP1",
+        "TM4SF1",
+        "DNASE1L3",
+        "NTS",
+        "CCL2",
+        " CD34",
+        "CD93",
+        "FABP4",
+        "OIT3",
+        "CDH5",
+        " CCL21",
+        "MMRN1",
+        "LYVE1",
+        "SPARC",
+        " CCL2",
+        "KDR",
+        "CD36",
+        "IFI27",
+        "PRSS2",
+        "SOX18",
+        "VWF",
+        "BMX",
+        "SPARCL1",
+        "IGFBP7",
+        "ESAM",
+        "ACKR1",
+        "PECAM1",
+        "GJA5",
+        " FLT1",
+        " SLC2A3",
+        "CCL21",
         "PLVAP",
-        " PLVAP",
-        "PODX1",
         "APLNR",
         "SELE",
-        "SPARCL1",
-        "TM4SF1",
-        "CLDN5",
-        "CD93",
-        "ESAM",
-        " SELE",
-        "CCL2",
-        "LIPA",
-        " CD34",
-        "PECAM1",
-        "PRSS2",
-        "CA4",
-        "GJA5",
-        "DNASE1L3",
-        "SPARC",
-        " CCL21",
-        "CDH5",
-        "OIT3",
-        "CCL21",
-        "NTS",
-        "SOX18",
-        " SLC2A3",
-        "FLT1",
-        "LYVE1",
-        "FABP4",
-        "IGFBP7",
-        "CD36",
-        "VWF",
-        "AQP1",
-        "MMRN1",
-        "CD34",
-        "KDR",
+        "PODX1",
         "PDPN",
-        "IFI27",
-        " CCL2",
-        "ACKR1",
-        "BMX",
-        " FLT1"
+        "LIPA",
+        " PLVAP",
+        "CLDN5",
+        " SELE",
+        "CA4",
+        "CD34"
     ],
     "Neutrophilic granulocyte": [
-        "CCL3L3",
-        "MPO",
-        "MMP9",
-        "EGR3",
-        "RETN",
-        "S100A12",
-        "CXCL8",
-        "SELENOK",
-        "IL1B",
-        "CYSTM1",
-        "FOS",
-        "SRGN",
-        "TYROBP",
-        "DEFA4",
-        "C1QC",
-        "CELA2A",
-        "LGALS1",
-        "CD177",
-        "FABP6",
-        "S100A9",
-        "CCL20",
-        "FCER1G",
-        "CCL4L2",
-        "RAC2",
-        "FCGR3B",
-        "ELANE",
-        "COL3A1",
-        "PRTN3",
-        "RGS1",
         "PSG6",
-        "NR4A2",
         "RNASE3",
         "MS4A3",
-        "S100A8",
+        "MPO",
+        "ELANE",
+        "RAC2",
+        "S100A9",
+        "TYROBP",
+        "CYSTM1",
+        "FCGR3B",
+        "CCL3L3",
+        "COL3A1",
+        "FABP6",
+        "CCL4L2",
+        "CELA2A",
+        "RGS1",
         "CD24",
         "FCN1",
-        "SULT1E1"
+        "SULT1E1",
+        "FCER1G",
+        "SELENOK",
+        "CD177",
+        "S100A12",
+        "S100A8",
+        "NR4A2",
+        "CXCL8",
+        "FOS",
+        "C1QC",
+        "PRTN3",
+        "MMP9",
+        "IL1B",
+        "LGALS1",
+        "EGR3",
+        "CCL20",
+        "SRGN",
+        "DEFA4",
+        "RETN"
     ],
     "B cell": [
-        "JCHAIN",
         "INS",
-        "IGLC2",
-        "IGHG4",
-        "COL1A2",
-        "MS4A1",
-        "GNG7",
+        "IGHG1",
+        "CD19",
+        "IGKC",
+        " JCHAIN",
         "DCN",
+        "MS4A1",
+        "CHGA",
+        "IGHG4",
+        "JCHAIN",
+        "MZB1",
+        "IGLL1",
+        "CD74",
+        "GNG7",
+        "COL1A2",
+        "HLA-DRA",
+        "CD52",
+        "IGLC2",
+        "VPREB1",
+        "IGHM",
         "GPRC5A",
         "CD79A",
-        "CHGA",
-        "CD19",
-        "CD52",
-        "VPREB1",
-        " JCHAIN",
-        "IGHG3",
-        "IGKC",
-        "CD74",
-        "HLA-DRA",
-        "IGLL1",
-        "IGHM",
-        "MZB1",
-        "IGHG1"
+        "IGHG3"
     ],
     "T cell": [
-        "XCL2",
-        "CD2",
-        "PTPRC",
-        "RPS27",
-        "CD3D",
-        "CD3G",
-        "CCL5",
-        "CST7",
-        "MTATP6P1",
-        "RPL23A",
-        "TMSB4X",
-        "CD3E",
-        "CCL2",
-        "TRAC",
-        "CD44",
-        "CD69",
-        "KLRB1",
-        "CD52",
-        "VPREB1",
-        "LCK",
-        "TUBA1B",
-        "NKG7",
-        "S100A4",
-        "IL7R",
-        " CD3D",
-        "TRBC2",
         "TRBC1",
-        "HMGB2",
+        "CD3G",
         "RPLP2",
-        "RPSA",
-        "TPT1",
-        "CCL1",
         "TOP2A",
+        "CCL2",
+        " CD3D",
+        "CST7",
+        "HMGB2",
+        "CD44",
+        "XCL1",
+        "NKG7",
+        "TRBC2",
+        "CD69",
+        "MTATP6P1",
         "IL32",
-        "LTB",
+        "RPL23A",
+        "TUBA1B",
+        "TPT1",
+        "CCL5",
         "CCL3",
-        "XCL1"
+        "LTB",
+        "CD2",
+        "TRAC",
+        "XCL2",
+        "S100A4",
+        "CD52",
+        "RPS27",
+        "RPSA",
+        "LCK",
+        "VPREB1",
+        "CCL1",
+        "CD3E",
+        "TMSB4X",
+        "KLRB1",
+        "CD3D",
+        "PTPRC",
+        "IL7R"
     ],
     "Macrophage": [
         "CD68",
-        "VSIG4",
-        "C1QA",
-        " APOC1",
+        "CTSB",
+        "IL1A",
+        "CST3",
+        "FCGR3A",
         "CD14",
         "DCN",
-        "IL1B",
-        " CXCL3",
-        "APOC1",
-        "C1QC",
+        " APOC1",
         "HLA-DQA1",
-        "FCGR3A",
-        "CTSB",
-        "CST3",
+        "APOC1",
         "CCL18",
-        "CD53",
-        "FCER1G",
-        "CD163",
-        "LYVE1",
         "COL1A1",
-        "C1QB",
         "FABP4",
-        "CD36",
         "CD74",
-        "HLA-DRA",
         "COL3A1",
+        "LYVE1",
+        "C1QB",
         "RGS1",
-        "IL1A",
+        "CD36",
+        " CXCL3",
+        "HLA-DRA",
+        "VSIG4",
+        "CCL3",
+        "FCER1G",
         "S100A8",
-        "CCL3"
+        "C1QC",
+        "IL1B",
+        "CD163",
+        "CD53",
+        "C1QA"
     ],
     "Smooth muscle cell": [
-        "KRT7",
-        "CNN1",
-        "MYH11",
-        "LGR5",
-        "RGS5",
         "LGR6",
-        "COL1A2",
-        " MYL9",
-        "MYL9",
         "THBS4",
-        "NOTCH3",
-        "OGN",
         "MYLK",
-        "ACTG1",
-        "DES",
-        "IGFBP3",
-        "BGN",
+        " MYL9",
+        "CNN1",
+        "TAGLN",
         "ACTA2",
+        "ACTG1",
         "HSPB1",
+        "NOTCH3",
+        "MYH11",
+        "COL1A2",
         "GJA4",
-        "TAGLN"
+        "DES",
+        "LGR5",
+        "BGN",
+        "KRT7",
+        "RGS5",
+        "OGN",
+        "IGFBP3",
+        "MYL9"
     ],
     "Rod cell": [
+        "PDE6A",
         "RHO",
         "PPEF2",
-        "NR2E3",
-        "PDE6A"
+        "NR2E3"
     ],
     "Cone cell": [
-        "OPN1LW",
-        "GNAT2",
-        "COL9A1",
+        "IQCB1",
         "CFAP161",
+        "COL9A1",
+        "GNAT2",
         "GUCA1B",
-        "ARR3",
-        "IQCB1"
+        "OPN1LW",
+        "ARR3"
     ],
     "Amacrine cell": [
         "C1QL2",
         "GAD1"
     ],
     "Horizontal cell": [
-        "LHX1",
         "ONECUT1",
+        "LHX1",
         "ONECUT2"
     ],
     "Ganglion cell": [
-        "SNCG",
-        "NEFL",
-        "SLC17A6",
         "GAP43",
-        "NEFM",
         "UCHL1",
-        "STMN2"
+        "NEFL",
+        "NEFM",
+        "SNCG",
+        "STMN2",
+        "SLC17A6"
     ],
     "Muller cell": [
-        "GLUL",
-        "RLBP1",
+        "CLU",
         "APOE",
-        "CLU"
+        "RLBP1",
+        "GLUL"
     ],
     "Astrocyte": [
         "GFAP"
     ],
     "Schwann cell": [
-        "SCN7A",
-        "STMN1",
         "NCMAP",
+        "APOD",
+        "SCN7A",
         "PLP1",
-        "APOD"
+        "STMN1"
     ],
     "Epithelial cell": [
-        "OVGP1",
-        "AGR2",
-        "ECSCR",
-        "FABP1",
-        "AGR3",
-        "NUPR1",
-        "CRYBB3",
-        "PMEL",
-        "SCGB1D4",
-        "CRYAB",
-        "KRT13",
-        "HBEGF",
-        "TM4SF1",
-        "CXCL8",
-        "ESAM",
-        "KRT19",
         "ID1",
-        "KRT18",
-        "PECAM1",
-        "KRT8",
-        "CRISP3",
+        "CRYBB3",
         "CXCL1",
-        "SLPI",
-        "TM4SF4",
-        "DCT",
-        "AQP3",
-        "EFNA1",
-        "MLANA",
-        "SELENBP1",
-        "KRT6A",
         " REG1A",
-        "CD34",
-        "LTF",
-        "DEFB1",
+        "TM4SF1",
+        "ECSCR",
+        "HBEGF",
+        "SELENBP1",
         "REG1A",
+        "KRT4",
+        "EFNA1",
+        "OVGP1",
+        "DCT",
+        "MLANA",
+        "SCGB1D4",
+        "KRT8",
+        "CRYAB",
+        "LTF",
+        "SLPI",
         "IFI27",
+        "DEFB1",
+        "KRT18",
+        "TM4SF4",
         " AQP1",
-        "KRT4"
+        "FABP1",
+        "ESAM",
+        "AGR2",
+        "NUPR1",
+        "PECAM1",
+        "PMEL",
+        "CXCL8",
+        "KRT19",
+        "KRT6A",
+        "KRT13",
+        "AGR3",
+        "AQP3",
+        "CD34",
+        "CRISP3"
     ],
     "Stromal cell": [
-        "DCN",
-        "GPRC5A",
-        "C7",
-        "CD74",
-        "COL3A1",
-        " DCN",
-        "IER2",
-        "MGP",
-        "FGF7",
-        "FBLN1",
-        "CXCL14",
-        "CCL21",
         "FBN1",
-        "CD14",
+        "CCL21",
+        "IER2",
+        "C7",
         "COL1A2",
+        "LUM",
+        "MGP",
         "COL1A1",
+        "GPRC5A",
+        "CD74",
+        "FGF7",
+        "CXCL14",
+        "COL3A1",
+        "CD14",
+        "DCN",
         " LUM",
-        "LUM"
+        "FBLN1",
+        " DCN"
     ],
     "Fibroblast (Keratocyte)": [
-        "DCN",
-        "POSTN",
-        "COL3A1",
+        "LUM",
         "IGF2",
-        "MFAP5",
-        "LUM"
+        "COL3A1",
+        "POSTN",
+        "DCN",
+        "MFAP5"
     ],
     "Erythrocyte": [
-        "ALAS2",
-        "HBG2",
-        "TOP2A",
-        "MT1H",
-        "UBE2C",
-        "HBB",
-        "AHSP",
-        "HBG1",
         "BLVRB",
-        "HBA2",
+        "MT1H",
         "HBA1",
+        "HBB",
         "MT2A",
-        " HBG2"
+        "ALAS2",
+        "HBG1",
+        "HBA2",
+        " HBG2",
+        "UBE2C",
+        "TOP2A",
+        "AHSP",
+        "HBG2"
     ],
     "Granulocyte": [
-        "BPI",
-        "IL1B"
+        "IL1B",
+        "BPI"
     ],
     "Mast cell": [
-        " CPA4",
+        "TPSAB1",
+        "MS4A1",
+        "MS4A2",
+        "CPA4",
+        "CD44",
+        "RHEX",
+        "TPSB2",
         "CPA3",
         "PTPRC",
         "IL7R",
-        "MS4A2",
-        "RHEX",
-        "TPSB2",
-        "CPA4",
-        "CD44",
-        "TPSAB1",
-        "MS4A1"
+        " CPA4"
     ],
     "Vascular endothelial cell": [
-        "COL15A1",
         "VWF",
-        "GJA5",
         "CDH5",
-        "ACKR1",
+        "BMX",
+        "COL15A1",
         "CLDN5",
-        "BMX"
+        "ACKR1",
+        "GJA5"
     ],
     "Pericyte": [
-        "FABP4",
         "ABCC9",
-        "KCNJ8",
         "RGS5",
-        "PDGFRB",
+        "FABP4",
+        "ACTA2",
+        "KCNJ8",
         "CLDN5",
-        "ACTA2"
+        "PDGFRB"
     ],
     "Lymphatic endothelial cell": [
-        " LYVE1",
-        " CLDN5",
-        "PDPN",
         "PROX1",
-        "LYVE1"
+        " LYVE1",
+        "PDPN",
+        "LYVE1",
+        " CLDN5"
     ],
     "Keratinocyte": [
-        "KRT1",
         "KRTDAP",
+        "KRT10",
         "SBSN",
-        "KRT10"
+        "KRT1"
     ],
     "Melanocyte": [
         "TYRP1",
+        "DCT",
         "PMEL",
-        "MLANA",
-        "DCT"
+        "MLANA"
     ],
     "Fibroblast": [
-        "GSN",
-        "RARRES2",
-        "COL1A2",
-        "TM4SF1",
-        "DCN",
-        "FDCSP",
-        "SCARA5",
-        "POSTN",
-        "CCL2",
-        "CHGA",
-        " COL1A2",
         "LUM",
+        "SCARA5",
+        "TM4SF1",
         "CCDC80",
-        "MFAP5",
-        "SPARC",
-        "MGP",
-        "FBLN1",
-        "CXCL14",
-        "PARM1",
-        "COL1A1",
+        "CCL2",
+        "DCN",
+        " COL1A2",
+        "CHGA",
         "SEMA3D",
-        "FNDC1",
-        "PTTG1",
-        "COL3A1",
+        "COL1A1",
         "TAGLN",
+        "COL3A1",
+        "FDCSP",
+        "FNDC1",
+        "SPARC",
+        "MFAP5",
         "VIM",
+        "COL1A2",
+        "SULT1E1",
         "PDGFRA",
-        "SULT1E1"
+        "GSN",
+        "FBLN1",
+        "RARRES2",
+        "MGP",
+        "CXCL14",
+        "POSTN",
+        "PTTG1",
+        "PARM1"
     ],
     "Hemopoietic stem cell": [
-        "SPINK2",
         "CD99",
+        "GAS5",
         "SMIM24",
-        "GAS5"
+        "SPINK2"
     ],
     "Megakaryocyte": [
-        "CD41",
+        "PF4",
         "GP9",
-        "PF4"
+        "CD41"
     ],
     "Eosinophilic granulocyte": [
-        "CLC",
         "CXCL8",
-        "CCL3L3",
-        "LIPF",
-        "FAM170B",
-        "FAM236C",
-        "CD15",
+        "CLC",
         "SEMG1",
-        "SRGN",
-        "CCL4L2",
-        "RGS1",
+        "CD15",
+        "LIPF",
+        "FAM236C",
+        "CCL3L3",
         "CD35",
-        "AVP"
+        "FAM170B",
+        "CCL4L2",
+        "AVP",
+        "RGS1",
+        "SRGN"
     ],
     "Basophilic granulocyte": [
+        "TEX101",
+        "CD11a",
+        "CD9",
+        "CD13",
+        "TRIM64",
         "C8B",
         "CD2000R1L",
-        "CD11a",
-        "IQCF3",
-        "CD13",
-        "TEX101",
-        "TRIM64",
-        "CD9"
+        "IQCF3"
     ],
     "Monocyte": [
-        "RPL23A",
-        "VCAN",
-        "S100A8",
-        "HLA-DRA",
-        "RGS2",
+        "FCN1",
         "TYROBP",
-        "S100A9",
+        "HLA-DRA",
+        "VCAN",
+        "CST3",
         "FCER1G",
         "S100A12",
-        "CST3",
+        "S100A8",
+        "S100A9",
         "CD14",
-        "FCN1"
+        "RGS2",
+        "RPL23A"
     ],
     "Conventional dendritic cell": [
-        "CD1a",
-        "CD74",
         "HLA-DRA",
+        "CD74",
+        "CD11c",
         "CD1C",
-        "CD11c"
+        "CD1a"
     ],
     "Plasmacytoid dendritic cell": [
         "CD123",
@@ -539,151 +539,151 @@
     "Plasma B Cell": [
         "IGHA2",
         "JCHAIN",
+        "IGKC",
         "CD79A",
-        "IGHA1",
-        "IGKC"
+        "IGHA1"
     ],
     "Memory B cell": [
         "CD27"
     ],
     "Centrocyte B cell": [
-        "CD79A",
-        "CD79B"
+        "CD79B",
+        "CD79A"
     ],
     "NK cell": [
-        "NKG7",
-        "XCL2",
-        "MKI67",
-        "GZMB",
-        "CHST2",
-        "TOP2A",
-        "GNLY",
-        "TYROBP",
-        "CDK1",
-        "FCER1G",
-        "GZMH",
-        "CCL5",
         "IFNG",
+        "TYROBP",
+        "CCL5",
+        "MKI67",
+        "FCER1G",
+        "NKG7",
+        "CHST2",
+        "GNLY",
+        "XCL2",
+        "XCL1",
+        "TOP2A",
         "KLRB1",
-        "XCL1"
+        "CDK1",
+        "GZMB",
+        "GZMH"
     ],
     "Common myeloid progenitor(CMP)": [
         "GATA2"
     ],
     "Fibrocyte": [
-        "DCN",
-        " COL1A1",
-        "FBLN1",
-        "CXCL14",
         " COL1A2",
         "COL1A2",
-        "LUM"
+        "LUM",
+        "CXCL14",
+        "DCN",
+        "FBLN1",
+        " COL1A1"
     ],
     "Adipocyte": [
+        "GPAM",
         "FABP4",
         "POSTN",
-        "LEP",
-        "GPAM",
-        "FASN"
+        "FASN",
+        "LEP"
     ],
     "Neuron": [
-        "BEX2",
-        "ELAVL4",
-        "S100B",
-        "TPM2",
         "NXRN1",
+        "TPM2",
+        "ELAVL4",
         "STMN3",
-        "NXRN3",
-        "PLP1",
         "C1QTNF3",
+        "BEX2",
         "GAL",
-        "STMN2"
+        "PLP1",
+        "STMN2",
+        "NXRN3",
+        "S100B"
     ],
     "Dendritic cell": [
-        "CLEC9A",
-        "HLA-DQB1",
-        "HLA-DRB1",
-        "LYZ",
-        "CPVL",
         "FCER1A",
+        "CST3",
+        "MHCII",
+        "HLA-DQB1",
+        "GPR183",
         "CD14",
         " IL1B",
-        "FTL",
-        "IL1B",
-        "SLURP1",
         "CCL19",
-        "LGALS2",
-        "CST3",
-        "LAMP3",
-        "HLA",
-        "GPR183",
         "THBD",
-        "CD1C",
-        " HLA-DRA",
-        "MHCII",
         "CD74",
+        "HLA-DRB1",
+        " HLA-DRA",
+        "CD1C",
+        "CLEC9A",
+        "FTL",
+        "HLA-DRA",
+        "HLA",
+        "CPVL",
         "PLD4",
-        "HLA-DRA"
+        "SLURP1",
+        "LGALS2",
+        "IL1B",
+        "LAMP3",
+        "LYZ"
     ],
     "Cardiomyocyte cell": [
         "MYH7",
-        "MYL4",
-        "MYL2",
-        "TNNT2",
-        "ACTC1",
+        "MYL7",
         "NPPA",
-        "MYL7"
+        "MYL2",
+        "MYL4",
+        "TNNT2",
+        "ACTC1"
     ],
     "Mesothelium": [
-        "BNC1",
         "MSLN",
+        "BNC1",
         "WT1"
     ],
     "Perineural epithelial cell": [
-        "GATD3A",
-        "KRT8",
-        "KRT19",
+        "KRT18",
         "CXCL1",
-        "SLPI",
-        "KRT18"
+        "KRT19",
+        "KRT8",
+        "GATD3A",
+        "SLPI"
     ],
     "Ciliated columnar cell": [
-        "CCDC78",
-        "RSPH1",
-        "C11orf88",
+        "DNAAF1",
+        "DNAH12",
         "ERICH3",
         "TUBB1",
-        "DNAAF1",
         "SNTN",
-        "DNAH12",
-        "FOXJ1"
+        "FOXJ1",
+        "C11orf88",
+        "RSPH1",
+        "CCDC78"
     ],
     "Goblet cell": [
-        "ARHGDIB",
-        "AGR2",
-        "MUC2",
-        "NOS2",
-        "ITLN1",
-        "CST1",
-        "S100P",
-        "SPDEF",
-        "TFF3",
-        "CLCA1",
-        "LYPD2",
         "CEACAM5",
+        "S100P",
+        "ARHGDIB",
+        "MUC5B",
+        "MUC2",
+        "CST1",
         "MUC5AC",
-        "MUC5B"
+        "CLCA1",
+        "TFF3",
+        "AGR2",
+        "ITLN1",
+        "SPDEF",
+        "LYPD2",
+        "NOS2"
     ],
     "Basal cell": [
-        "PLAU",
-        "SERPINBX",
-        "S100A2",
         "MT1X",
+        "PLAU",
         "CTGF",
-        "BCAM",
         "DST",
+        "S100A2",
+        "CYR61",
         "KRT15",
-        "CYR61"
+        "BCAM",
+        "SERPINBX"
     ],
     "Myoepithelial cell": [
         "COL1A1",
@@ -691,114 +691,114 @@
         "ACTA2"
     ],
     "Serous gland cell": [
-        "LPO",
         "PRR4",
-        "LTF"
+        "LTF",
+        "LPO"
     ],
     "Mucous gland cell": [
         "MUC5B"
     ],
     "Chondrocyte": [
-        "CHAD",
         "DLK1",
-        "COL10A1",
         "COL2A1",
         "HAPLN1",
-        "MGP",
         "CLEC3A",
+        "MGP",
         "CYTL1",
+        "COL10A1",
+        "CHAD",
         "SCRG1"
     ],
     "Type I alveolar cell/Type I pneumocyte": [
-        "CLDN18",
-        "CLIC5",
-        "SFTPC",
-        "CAV2",
-        "SFTPA1",
-        "SFTPA2",
+        "AQP4",
         "EMP2",
         "PDPN",
-        "AQP4",
+        "CAV2",
+        "CLDN18",
+        "SFTPC",
+        "CLIC5",
+        "SFTPA1",
+        "SFTPA2",
         "AGER"
     ],
     "Type II alveolar cell/Type II pneumocyte": [
-        "CLDN18",
-        "SLC34A2",
-        "SFTPC",
-        "SFTPA1",
-        "SFTPA2",
-        "MUC1",
-        "SLPI",
         "AQP4",
-        "NAPSA"
+        "NAPSA",
+        "CLDN18",
+        "SFTPC",
+        "SLC34A2",
+        "SFTPA1",
+        "SLPI",
+        "MUC1",
+        "SFTPA2"
     ],
     "Club cell/bronchiolar exocrine cell/Clara cell": [
         "SCGB3A2",
-        "SCGB1A1",
-        "SCGB3A1",
-        "CYP2F2",
-        "S100P",
+        "MUC5B",
         "MUC5AC",
-        "MSMB",
         "CCKAR",
-        "MUC5B"
+        "SCGB3A1",
+        "SCGB1A1",
+        "MSMB",
+        "S100P",
+        "CYP2F2"
     ],
     "CD4 T cell": [
         "COTL1",
+        "LDHB",
         "CD4",
-        "LEF1",
         "CCR7",
-        "LDHB"
+        "LEF1"
     ],
     "CD8 T cell": [
-        "CD8A",
-        "PTPRC",
-        "GZMB",
+        "GZMK",
         "DUSP2",
         "IL32",
-        "GZMK",
+        "GZMB",
+        "CD8A",
+        "PTPRC",
         "GZMH"
     ],
     "B Cell": [
-        "CD79A",
+        "MS4A1",
+        "IGHG1",
         "JCHAIN",
         "MZB1",
-        "IGHG1",
-        "IGLC2",
-        "IGHG3",
         "CD19",
-        "MS4A1"
+        "CD79A",
+        "IGLC2",
+        "IGHG3"
     ],
     "Mesothelium   ": [
-        "BNC1",
         "MSLN",
+        "BNC1",
         "WT1"
     ],
     "Collecting duct": [
         "CALB1"
     ],
     "Distal convoluted tubule": [
-        "SLC12A3",
+        " DEFB1",
         " KLK1",
-        " DEFB1"
+        "SLC12A3"
     ],
     "Erythroid progenitor cell": [
         "CHGB"
     ],
     "Intercalated cell": [
-        " SLC26A4",
         "ATP6V1G3",
-        " FOXI1"
+        " FOXI1",
+        " SLC26A4"
     ],
     "Intercalated cell/Princple cell": [
         "AQP2"
     ],
     "Loop of henle": [
-        " ANXA1",
-        " UMOD",
         "CXXC1",
         " SLC12A1",
-        " KNG1"
+        " UMOD",
+        " KNG1",
+        " ANXA1"
     ],
     "Loop of henle progenitor": [
         "SLC12A1"
@@ -807,12 +807,12 @@
         "LGALS1"
     ],
     "Mesenchymal cell": [
-        " TMSB15A",
         "PANTR1",
+        "COL1A2",
+        "COL1A1",
         "COL3A1",
         " DAPL1",
-        "COL1A2",
-        "COL1A1"
+        " TMSB15A"
     ],
     "Myeloid cell": [
         "IL1B"
@@ -828,8 +828,8 @@
         "GATM"
     ],
     "Proliferating cell": [
-        "HMGB2",
-        " CCNB1"
+        " CCNB1",
+        "HMGB2"
     ],
     "Proximal convoluted tubule": [
         " CRYAB",
@@ -851,15 +851,15 @@
         "S100P"
     ],
     "Haematopoietic stem and progenitor cell": [
-        "SPINK2",
+        "ORM2",
         "ORM1",
         "ADH1B",
-        "ORM2"
+        "SPINK2"
     ],
     "Hepatocyte": [
+        "ORM2",
         "ADH1B",
-        "ORM1",
-        "ORM2"
+        "ORM1"
     ],
     "Kuppfer cell": [
         "C1QC",
@@ -867,43 +867,43 @@
         "C1QB"
     ],
     "Proliferating T cell": [
-        "HMGB2",
-        "UBE2C"
+        "UBE2C",
+        "HMGB2"
     ],
     "Lymphocyte": [
-        "CCL3L3",
-        "CCL3"
+        "CCL3",
+        "CCL3L3"
     ],
     "Acinar cell": [
-        "RPS14",
-        "SPINK1",
         "REG1B",
-        "CPA2",
         "CELA3B",
+        "SPINK1",
         "CLPS",
+        "RPS14",
+        "CLDN3",
         "REG1A",
+        "CPA2",
         "MT-CO1",
-        "CD24",
-        "CLDN3"
+        "CD24"
     ],
     "Alpha cell": [
-        "CHGB",
         "GC",
+        "CHGB",
         "GCG"
     ],
     "Beta cell": [
-        "SCG5",
+        "IAPP",
         "INS",
-        "IAPP"
+        "SCG5"
     ],
     "Delta cell": [
-        "SST",
-        "RBP4"
+        "RBP4",
+        "SST"
     ],
     "Ductal cell": [
         "SLC4A4",
-        "CXXC1",
         "CFTR",
+        "CXXC1",
         "CXCL1"
     ],
     "Endocrine cell": [
@@ -915,23 +915,23 @@
         "REG3A"
     ],
     "Gamma cell": [
-        "PPY",
-        "AQP3"
+        "AQP3",
+        "PPY"
     ],
     "Plasma B cell": [
-        "JCHAIN",
-        "GZMB",
         "IGHG1",
+        "IGHG4",
+        "JCHAIN",
         "IGKC",
-        "IGHG4"
+        "GZMB"
     ],
     "Satellite cell": [
-        "LINC00682",
-        "GAP43"
+        "GAP43",
+        "LINC00682"
     ],
     "NaN": [
-        "PLP1",
-        "PTPRZ1"
+        "PTPRZ1",
+        "PLP1"
     ],
     "Zona fasciculata cell": [
         "CYP17A1"
@@ -941,14 +941,14 @@
         "TFF3"
     ],
     "Theca cell": [
-        "UCHL1",
-        "PAGE2B"
+        "PAGE2B",
+        "UCHL1"
     ],
     "Germ cell": [
-        "UCHL1",
         "PAGE2B",
-        "POU5F1",
-        "TCL1A"
+        "TCL1A",
+        "UCHL1",
+        "POU5F1"
     ],
     "Epithelial progenitor cell": [
         "NPY"
@@ -968,21 +968,21 @@
     ],
     "Mesenchymal stromal cell": [
         "DCN",
-        "DLK1",
-        "CXCL12"
+        "CXCL12",
+        "DLK1"
     ],
     "Differentiating spermatogonia": [
         "CDK1",
-        "HMGB2",
-        "UBE2C"
+        "UBE2C",
+        "HMGB2"
     ],
     "Differentiated spermatogonia": [
         "BNC1"
     ],
     "Spermatogenic cell": [
-        "POU5F1",
         "MND1",
-        "TCL1A"
+        "TCL1A",
+        "POU5F1"
     ],
     "Skeletal muscle cell": [
         "ACTC1",
@@ -990,19 +990,19 @@
     ],
     "Basophililc granulocyte": [
         "EGR3",
-        "NR4A2",
-        "SELENOK"
+        "SELENOK",
+        "NR4A2"
     ],
     "Tubule cell": [
-        "CD24",
-        "MMP7"
+        "MMP7",
+        "CD24"
     ],
     "Antigen presenting cell": [
         "HLA-DRA"
     ],
     "Chief cell": [
-        "CHIA",
-        "LIPF"
+        "LIPF",
+        "CHIA"
     ],
     "Chromaffin cell": [
         "CHGA"
@@ -1011,56 +1011,56 @@
         "CPE"
     ],
     "Enterocyte": [
-        "AGR2",
-        "FABP1",
-        "AGR3",
         "GUCA2A",
-        "CYBRD1",
-        "APOA1",
-        "RIMBP2",
-        "PMEL",
-        "MT-CO3",
-        "RN7SK",
-        "RAMP2",
-        "LGALS1",
-        "RNF186",
         "RPS18",
-        "CA4",
-        "BEST4",
-        "AQP8",
-        "CA7",
         "ALDOB",
-        "SLC26A3"
+        "RNF186",
+        "SLC26A3",
+        "RN7SK",
+        "BEST4",
+        "APOA1",
+        "FABP1",
+        "AGR2",
+        "MT-CO3",
+        "CA7",
+        "CYBRD1",
+        "PMEL",
+        "AQP8",
+        "AGR3",
+        "LGALS1",
+        "RIMBP2",
+        "CA4",
+        "RAMP2"
     ],
     "Inflammatory cell": [
         "CHAC1"
     ],
     "Parietal cell": [
-        "CD24",
-        "ATP4B"
+        "ATP4B",
+        "CD24"
     ],
     "Pit cell": [
         "WFDC21P",
-        "TFF1",
-        "MUC6",
         "TFF2",
-        "FOXQ1"
+        "FOXQ1",
+        "MUC6",
+        "TFF1"
     ],
     "Enterocyte progenitor": [
+        "TXN",
         "TPT1",
-        "TSPAN8",
-        "GPX2",
-        "DMBT1",
-        "APOA1",
         "EPCAM",
+        "DMBT1",
+        "GPX2",
+        "APOA1",
         "APOC3",
-        "CPB1",
-        "TXN"
+        "TSPAN8",
+        "CPB1"
     ],
     "Paneth cell": [
-        "LYZ",
+        "GPX2",
         "DEFA5",
-        "GPX2"
+        "LYZ"
     ],
     "Enteric glial cell": [
         "PLP1"

@@ -1,0 +1,111 @@
+{
+    "Smooth muscle cell": [
+        "TAGLN",
+        "ACTA2",
+        "MYL9"
+    ],
+    "Mast cell": [
+        "CPA3"
+    ],
+    "T cell": [
+        "LCK",
+        "XCL2",
+        "LTB",
+        "S100A4",
+        "RPSA",
+        "CCL5",
+        "TMSB4X",
+        "TPT1",
+        "RPL23A",
+        "CD3D",
+        "RPS27",
+        "CD52",
+        "TRAC",
+        "RPLP2",
+        "IL32",
+        "XCL1",
+        "CST7",
+        "TUBA1B",
+        "CD3G",
+        "IL7R",
+        "CD2",
+        "HMGB2",
+        "KLRB1",
+        "CD3E"
+    ],
+    "Common myeloid progenitor(CMP)": [
+        "GATA2"
+    ],
+    "Neuron": [
+        "ELAVL4",
+        "PLP1",
+        "STMN3",
+        "NXRN3",
+        "STMN2",
+        "NXRN1"
+    ],
+    "Mesothelium": [
+        "BNC1",
+        "WT1",
+        "MSLN"
+    ],
+    "Dendritic cell": [
+        "CD1C",
+        "PLD4",
+        "GPR183",
+        "MHCII",
+        "IL1B",
+        "CLEC9A",
+        "THBD",
+        "LGALS2",
+        "HLA-DRA",
+        "LAMP3",
+        "FCER1A"
+    ],
+    "Ureteric epithelial cell": [
+        "S100P"
+    ],
+    "Urothelial cell": [
+        "S100P"
+    ],
+    "Zona fasciculata cell": [
+        "CYP17A1"
+    ],
+    "Epithelial progenitor cell": [
+        "NPY"
+    ],
+    "Erythrocyte": [
+        "AHSP",
+        "HBG2"
+    ],
+    "Eosinophilic granulocyte": [
+        "CCL3L3",
+        "CXCL8",
+        "RGS1",
+        "CCL4L2",
+        "SRGN"
+    ],
+    "CD8 T cell": [
+        "IL32",
+        "PTPRC"
+    ],
+    "B cell": [
+        "COL1A2",
+        "GPRC5A",
+        "DCN"
+    ],
+    "Adipocyte": [
+        "POSTN"
+    ],
+    "Tendon cell": [
+        "GAS2"
+    ],
+    "Macrophage": [
+        "C1QB",
+        "FCER1G",
+        "C1QA",
+        "CD74",
+        "FCGR3A",
+        "CD163"
+    ]
+}
