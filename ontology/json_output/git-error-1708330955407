@@ -1,8 +1,0 @@
-> git push origin main:main
-remote: error: Trace: 3e55baccc57f630ff7798299946f9de418d6c40f28a26eae3ace710dc7a639b4        
-remote: error: See https://gh.io/lfs for more information.        
-remote: error: File ontology/gene2go is 7772.98 MB; this exceeds GitHub's file size limit of 100.00 MB        
-remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
-To https://github.com/Zyron/CellTypeGenomics.git
- ! [remote rejected] main -> main (pre-receive hook declined)
-error: failed to push some refs to 'https://github.com/Zyron/CellTypeGenomics.git'
