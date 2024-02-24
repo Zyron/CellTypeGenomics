@@ -1,34 +1,34 @@
 {
     "B-cells": [
+        "CR2",
         "CD19",
-        "MS4A1",
-        "CR2"
+        "MS4A1"
     ],
     "Dendritic cells": [
         "IL3RA",
         "GZMB"
     ],
     "Endothelial cells": [
-        "PECAM1",
-        "CD34",
         "VWF",
-        "SELE"
+        "SELE",
+        "PECAM1",
+        "CD34"
     ],
     "Fibroblasts": [
         "LUM",
-        "COL3A1",
-        "FBN1"
+        "FBN1",
+        "COL3A1"
     ],
     "Granulocytes": [
-        "MS4A2",
+        "CEBPE",
         "HDC",
-        "CEBPE"
+        "MS4A2"
     ],
     "Macrophages": [
-        "MSR1",
-        "CD68",
         "MRC1",
+        "MSR1",
         "MARCO",
+        "CD68",
         "CD163"
     ],
     "Monocytes": [
@@ -38,40 +38,40 @@
         "KIR2DL4"
     ],
     "Neuroendocrine cells": [
-        "CHGA",
         "SCG5",
-        "CHGB"
+        "CHGB",
+        "CHGA"
     ],
     "Smooth muscle cells": [
-        "ACTG2",
         "ACTA2",
+        "ACTG2",
         "MYH11"
     ],
     "T-cells": [
-        "CD8A",
         "CD3E",
+        "CD8A",
         "CD4"
     ],
     "Enterocytes": [
-        "MUC17",
-        "KRT20",
-        "SI",
-        "CDH17",
-        "SLC26A3",
-        "ALPI",
         "AQP8",
-        "MS4A12"
+        "MS4A12",
+        "MUC17",
+        "SLC26A3",
+        "KRT20",
+        "ALPI",
+        "CDH17",
+        "SI"
     ],
     "Goblet cells": [
         "TFF3",
-        "SPINK4",
-        "CLCA1"
+        "CLCA1",
+        "SPINK4"
     ],
     "Paneth cells": [
-        "SPIB",
         "CA4",
-        "BEST4",
-        "CA7"
+        "CA7",
+        "SPIB",
+        "BEST4"
     ],
     "Undifferentiated cells": [
         "MKI67",
@@ -84,30 +84,30 @@
         "GRM6"
     ],
     "Cone photoreceptor cells": [
+        "OPN1MW",
         "GNAT2",
-        "OPN1LW",
-        "OPN1MW"
+        "OPN1LW"
     ],
     "Horizontal cells": [
+        "ONECUT1",
         "ONECUT2",
-        "LHX1",
-        "ONECUT1"
+        "LHX1"
     ],
     "Muller glia cells": [
-        "APOE",
+        "GLUL",
         "CLU",
-        "GLUL"
+        "APOE"
     ],
     "Rod photoreceptor cells": [
-        "SAG",
         "NR2E3",
-        "PDE6A"
+        "PDE6A",
+        "SAG"
     ],
     "Cardiomyocytes": [
-        "TTN",
-        "MYL2",
+        "MYL7",
         "MYH7",
-        "MYL7"
+        "TTN",
+        "MYL2"
     ],
     "Collecting duct cells": [
         "PVALB",
@@ -118,34 +118,34 @@
     "Distal tubular cells": [
         "SLC12A1",
         "TMEM213",
-        "UMOD",
-        "TMEM72"
+        "TMEM72",
+        "UMOD"
     ],
     "Proximal tubular cells": [
-        "MIOX",
         "TMEM174",
-        "NAT8",
-        "SLC22A8"
+        "SLC22A8",
+        "MIOX",
+        "NAT8"
     ],
     "Cholangiocytes": [
-        "ELF3",
         "KRT19",
-        "MUC5B"
+        "MUC5B",
+        "ELF3"
     ],
     "Erythroid cells": [
         "CA1",
         "ALAS2"
     ],
     "Ito cells": [
+        "RELN",
         "FSCN1",
-        "DCN",
-        "RELN"
+        "DCN"
     ],
     "Hepatocytes": [
         "FGA",
+        "ALB",
         "FGG",
-        "HPX",
-        "ALB"
+        "HPX"
     ],
     "Kupffer cells": [
         "MARCO",
@@ -153,8 +153,8 @@
         "S100A8"
     ],
     "Bronchial epithelium, basal cells": [
-        "KRT5",
         "KRT17",
+        "KRT5",
         "S100A2"
     ],
     "Bronchial epithelium, ciliated cells": [
@@ -163,9 +163,9 @@
         "SNTN"
     ],
     "Bronchial epithelium, Club cells": [
+        "BPIFB1",
         "SCGB3A1",
-        "SCGB1A1",
-        "BPIFB1"
+        "SCGB1A1"
     ],
     "Alveolar cells type 1": [
         "AGER",
@@ -183,89 +183,89 @@
         "AMY2A"
     ],
     "Ductal cells": [
-        "AQP1",
         "CRP",
+        "AQP1",
         "CFTR"
     ],
     "Pancreatic endocrine cells": [
-        "PPY",
+        "GCG",
         "INS",
-        "GCG"
+        "PPY"
     ],
     "Cytotrophoblasts": [
         "PAGE4",
-        "PEG10",
-        "MAGEA8"
+        "MAGEA8",
+        "PEG10"
     ],
     "Extravillous trophoblasts": [
-        "DIO2",
         "FSTL3",
-        "HLA-G"
+        "HLA-G",
+        "DIO2"
     ],
     "Hofbauer cells": [
         "CD68",
-        "CD14",
-        "C1QB"
+        "C1QB",
+        "CD14"
     ],
     "Syncytiotrophoblasts": [
-        "CSH1",
         "PSG11",
+        "CSH1",
         "KISS1"
     ],
     "Basal glandular cells": [
-        "KRT5",
         "NGFR",
+        "KRT5",
         "KRT14"
     ],
     "Glandular cells": [
-        "MSMB",
-        "KLK3",
+        "KLK2",
         "ACPP",
-        "KLK2"
+        "KLK3",
+        "MSMB"
     ],
     "Urothelial cells": [
+        "UPK1B",
         "UPK1A",
-        "UPK3B",
-        "UPK1B"
+        "UPK3B"
     ],
     "Basal keratinocytes": [
-        "KRT5",
         "COL17A1",
+        "KRT5",
         "KRT14"
     ],
     "Langerhans cells": [
-        "CD207",
-        "CD1A"
+        "CD1A",
+        "CD207"
     ],
     "Melanocytes": [
         "MLANA",
-        "TYRP1",
-        "DCT"
+        "DCT",
+        "TYRP1"
     ],
     "Suprabasal keratinocytes": [
-        "KRTDAP",
         "KRT10",
-        "KRT1"
+        "KRT1",
+        "KRTDAP"
     ],
     "Early spermatids": [
-        "ACRV1",
         "HEMGN",
-        "SPACA1"
+        "SPACA1",
+        "ACRV1"
     ],
     "Late spermatids": [
         "PRM2",
-        "TNP1",
-        "SPATA3"
+        "SPATA3",
+        "TNP1"
     ],
     "Leydig cells": [
         "C7",
-        "CFD",
-        "IGF1"
+        "IGF1",
+        "CFD"
     ],
     "Peritubular cells": [
         "MYL9",
-        "TPM1",
-        "ACTA2"
+        "ACTA2",
+        "TPM1"
     ],
     "Sertoli cells": [
         "SLCO6A1",
@@ -273,13 +273,13 @@
         "DEFB119"
     ],
     "Spermatocytes": [
-        "SYCP3",
+        "TOP2A",
         "SPO11",
-        "TOP2A"
+        "SYCP3"
     ],
     "Spermatogonia": [
+        "SOX4",
         "UTF1",
-        "KIT",
-        "SOX4"
+        "KIT"
     ]
 }
