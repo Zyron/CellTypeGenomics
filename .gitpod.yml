@@ -4,3 +4,7 @@ vscode:
     - ms-toolsai.jupyter
     - ms-toolsai.jupyter-keymap
     - ms-toolsai.jupyter-renderers
+
+  tasks:
+  - init: sudo apt-get update && sudo apt-get install -y graphviz
+
