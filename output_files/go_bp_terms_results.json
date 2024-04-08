@@ -1,0 +1,348 @@
+{
+    "Genelist1": {
+        "ENSG00000159516": [
+            "epidermis development",
+            "keratinocyte differentiation",
+            "keratinization"
+        ],
+        "ENSG00000163472": [
+            "epithelial cell maturation",
+            "hair follicle morphogenesis",
+            "cuticle development",
+            "regulated exocytosis",
+            "regulated exocytosis",
+            "positive regulation of epidermis development",
+            "establishment of skin barrier",
+            "cornification"
+        ],
+        "ENSG00000115488": [
+            "glycoprotein catabolic process",
+            "ganglioside catabolic process",
+            "ganglioside catabolic process",
+            "oligosaccharide catabolic process",
+            "oligosaccharide catabolic process",
+            "glycosphingolipid catabolic process"
+        ],
+        "ENSG00000143556": [
+            "response to reactive oxygen species",
+            "angiogenesis",
+            "epidermis development",
+            "positive regulation of T cell chemotaxis",
+            "keratinocyte differentiation",
+            "response to lipopolysaccharide",
+            "antimicrobial humoral immune response mediated by antimicrobial peptide",
+            "positive regulation of ERK1 and ERK2 cascade",
+            "positive regulation of granulocyte chemotaxis",
+            "positive regulation of monocyte chemotaxis"
+        ],
+        "ENSG00000089057": [
+            "sodium ion transport",
+            "response to oxidative stress",
+            "cell adhesion",
+            "L-ascorbic acid transmembrane transport",
+            "L-ascorbic acid metabolic process",
+            "L-ascorbic acid metabolic process",
+            "L-ascorbic acid metabolic process",
+            "cellular response to ethanol",
+            "positive regulation of dendrite extension"
+        ]
+    },
+    "Genelist2": {
+        "ENSG00000137103": [
+            "cell-matrix adhesion",
+            "regulation of mitotic cell cycle"
+        ],
+        "ENSG00000183801": [
+            "signal transduction"
+        ],
+        "ENSG00000162706": [
+            "homophilic cell adhesion via plasma membrane adhesion molecules",
+            "homophilic cell adhesion via plasma membrane adhesion molecules",
+            "heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules"
+        ],
+        "ENSG00000172201": [
+            "G1/S transition of mitotic cell cycle",
+            "negative regulation of transcription by RNA polymerase II",
+            "negative regulation of transcription by RNA polymerase II",
+            "osteoblast differentiation",
+            "positive regulation of neuroblast proliferation",
+            "neuroblast proliferation",
+            "protein localization",
+            "positive regulation of gene expression",
+            "hippocampus development",
+            "cerebral cortex neuron differentiation",
+            "central nervous system myelination",
+            "cell differentiation",
+            "circadian regulation of gene expression",
+            "fat cell differentiation",
+            "negative regulation of fat cell differentiation",
+            "negative regulation of neuron differentiation",
+            "negative regulation of DNA-templated transcription",
+            "positive regulation of transcription by RNA polymerase II",
+            "astrocyte differentiation",
+            "negative regulation of astrocyte differentiation",
+            "negative regulation of oligodendrocyte differentiation",
+            "prostate gland epithelium morphogenesis",
+            "prostate gland stromal morphogenesis",
+            "seminal vesicle morphogenesis"
+        ]
+    },
+    "Genelist3": {
+        "ENSG00000159516": [
+            "epidermis development",
+            "keratinocyte differentiation",
+            "keratinization"
+        ],
+        "ENSG00000165949": [
+            "negative regulation of transcription by RNA polymerase II",
+            "apoptotic process",
+            "proteasome-mediated ubiquitin-dependent protein catabolic process",
+            "modulation by host of viral genome replication",
+            "innate immune response",
+            "regulation of protein export from nucleus",
+            "defense response to virus",
+            "type I interferon-mediated signaling pathway",
+            "pyroptosis",
+            "protein K48-linked ubiquitination",
+            "apoptotic signaling pathway",
+            "extrinsic apoptotic signaling pathway"
+        ],
+        "ENSG00000166147": [
+            "skeletal system development",
+            "metanephros development",
+            "signal transduction",
+            "heart development",
+            "anatomical structure morphogenesis",
+            "cell adhesion mediated by integrin",
+            "sequestering of BMP in extracellular matrix",
+            "sequestering of TGFbeta in extracellular matrix",
+            "camera-type eye development",
+            "negative regulation of osteoclast differentiation",
+            "embryonic eye morphogenesis",
+            "post-embryonic eye morphogenesis",
+            "cellular response to transforming growth factor beta stimulus",
+            "cellular response to insulin-like growth factor stimulus",
+            "negative regulation of osteoclast development"
+        ],
+        "ENSG00000277775": [
+            "chromatin organization",
+            "nucleosome assembly",
+            "nucleosome assembly",
+            "gene expression",
+            "telomere organization",
+            "epigenetic regulation of gene expression"
+        ],
+        "ENSG00000168398": [
+            "smooth muscle contraction",
+            "inflammatory response",
+            "cell surface receptor signaling pathway",
+            "transmembrane receptor protein tyrosine kinase signaling pathway",
+            "G protein-coupled receptor signaling pathway",
+            "positive regulation of cytosolic calcium ion concentration",
+            "blood circulation",
+            "response to salt stress",
+            "regulation of vasoconstriction",
+            "negative regulation of peptidyl-serine phosphorylation",
+            "vasoconstriction",
+            "vasodilation",
+            "regulation of vascular permeability",
+            "arachidonic acid secretion",
+            "negative regulation of intrinsic apoptotic signaling pathway in response to osmotic stress by p53 class mediator",
+            "intrinsic apoptotic signaling pathway in response to osmotic stress by p53 class mediator"
+        ]
+    },
+    "Genelist4": {
+        "ENSG00000139746": [
+            "mRNA processing"
+        ],
+        "ENSG00000005194": [
+            "apoptotic process",
+            "iron-sulfur cluster assembly",
+            "electron transport chain",
+            "hemopoiesis",
+            "negative regulation of apoptotic process"
+        ],
+        "ENSG00000186204": [
+            "very long-chain fatty acid metabolic process",
+            "long-chain fatty acid metabolic process",
+            "renal water homeostasis",
+            "pressure natriuresis",
+            "fatty acid metabolic process",
+            "xenobiotic metabolic process",
+            "arachidonic acid metabolic process",
+            "arachidonic acid metabolic process",
+            "epoxygenase P450 pathway",
+            "leukotriene B4 catabolic process",
+            "vitamin E metabolic process",
+            "menaquinone catabolic process",
+            "phylloquinone catabolic process",
+            "sodium ion homeostasis"
+        ],
+        "ENSG00000123407": [
+            "regulation of transcription by RNA polymerase II"
+        ],
+        "ENSG00000115268": [
+            "ribosomal small subunit assembly",
+            "ribosomal small subunit export from nucleus",
+            "osteoblast differentiation",
+            "cytoplasmic translation",
+            "cytoplasmic translation",
+            "rRNA processing",
+            "translation",
+            "ribosomal small subunit biogenesis",
+            "liver regeneration",
+            "positive regulation of signal transduction by p53 class mediator"
+        ]
+    },
+    "Genelist5": {
+        "ENSG00000182389": [
+            "gamma-aminobutyric acid signaling pathway",
+            "chemical synaptic transmission",
+            "neuromuscular junction development",
+            "adult walking behavior",
+            "negative regulation of cell population proliferation",
+            "gamma-aminobutyric acid secretion",
+            "neuronal action potential propagation",
+            "synaptic transmission, glutamatergic",
+            "cAMP metabolic process",
+            "spleen development",
+            "thymus development",
+            "Peyer's patch development",
+            "T cell receptor signaling pathway",
+            "detection of light stimulus involved in visual perception",
+            "muscle cell development",
+            "calcium ion transmembrane transport",
+            "regulation of presynaptic cytosolic calcium ion concentration",
+            "regulation of voltage-gated calcium channel activity",
+            "regulation of voltage-gated calcium channel activity",
+            "positive regulation of protein localization to nucleolus",
+            "cellular response to leukemia inhibitory factor",
+            "negative regulation of G1/S transition of mitotic cell cycle",
+            "regulation of synaptic vesicle exocytosis"
+        ],
+        "ENSG00000161267": [
+            "steroid metabolic process"
+        ],
+        "ENSG00000119632": [
+            "apoptotic process",
+            "apoptotic signaling pathway"
+        ],
+        "ENSG00000078081": [
+            "adaptive immune response",
+            "regulation of autophagy",
+            "positive regulation of gene expression",
+            "response to interferon-alpha",
+            "negative regulation of cysteine-type endopeptidase activity involved in apoptotic process",
+            "symbiont entry into host cell",
+            "establishment of protein localization to organelle",
+            "negative regulation of proteasomal protein catabolic process",
+            "regulation of viral life cycle"
+        ],
+        "ENSG00000084073": [
+            "liver development",
+            "hair follicle development",
+            "heart morphogenesis",
+            "ventricular cardiac muscle tissue development",
+            "cardiac ventricle development",
+            "growth plate cartilage development",
+            "DNA repair",
+            "proteolysis",
+            "inflammatory cell apoptotic process",
+            "nuclear envelope organization",
+            "adult walking behavior",
+            "determination of adult lifespan",
+            "regulation of cell shape",
+            "regulation of autophagy",
+            "regulation of glucose metabolic process",
+            "regulation of lipid metabolic process",
+            "bone mineralization",
+            "prenylated protein catabolic process",
+            "regulation of bone mineralization",
+            "regulation of TOR signaling",
+            "regulation of hormone metabolic process",
+            "multicellular organism growth",
+            "regulation of multicellular organism growth",
+            "maintenance of rDNA",
+            "regulation of DNA damage response, signal transduction by p53 class mediator",
+            "positive regulation of gene expression via CpG island demethylation",
+            "regulation of DNA methylation",
+            "cellular lipid metabolic process",
+            "regulation of fibroblast proliferation",
+            "thymus development",
+            "regulation of defense response to virus",
+            "neuromuscular process",
+            "cardiac muscle cell development",
+            "regulation of ventricular cardiac muscle cell membrane repolarization",
+            "kidney morphogenesis",
+            "cardiac conduction",
+            "CAMKK-AMPK signaling cascade",
+            "regulation of stress-activated protein kinase signaling cascade",
+            "cellular response to gamma radiation",
+            "CAAX-box protein processing",
+            "response to DNA damage checkpoint signaling",
+            "regulation of mitotic cell cycle DNA replication",
+            "negative regulation of miRNA processing",
+            "calcium ion import into sarcoplasmic reticulum",
+            "regulation of termination of RNA polymerase I transcription",
+            "regulation of cellular senescence"
+        ]
+    },
+    "Genelist6": {
+        "ENSG00000125124": [
+            "sperm axoneme assembly",
+            "visual perception",
+            "protein localization",
+            "gene expression",
+            "negative regulation of gene expression",
+            "artery smooth muscle contraction",
+            "striatum development",
+            "hippocampus development",
+            "cerebral cortex development",
+            "adult behavior",
+            "melanosome transport",
+            "protein localization to organelle",
+            "negative regulation of appetite by leptin-mediated signaling pathway",
+            "negative regulation of multicellular organism growth",
+            "positive regulation of multicellular organism growth",
+            "vasodilation",
+            "Golgi to plasma membrane protein transport",
+            "fat cell differentiation",
+            "photoreceptor cell maintenance",
+            "brain morphogenesis",
+            "cartilage development",
+            "cilium assembly",
+            "cilium assembly",
+            "cilium assembly",
+            "regulation of cilium beat frequency involved in ciliary motility",
+            "non-motile cilium assembly"
+        ],
+        "ENSG00000133112": [
+            "calcium ion transport",
+            "intracellular calcium ion homeostasis",
+            "response to virus",
+            "stem cell population maintenance",
+            "regulation of apoptotic process",
+            "negative regulation of apoptotic process",
+            "negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage",
+            "negative regulation of ectoderm development"
+        ],
+        "ENSG00000164078": [
+            "phagocytosis",
+            "defense response",
+            "signal transduction",
+            "transmembrane receptor protein tyrosine kinase signaling pathway",
+            "multicellular organism development",
+            "single fertilization",
+            "nervous system development",
+            "positive regulation of cell population proliferation",
+            "response to virus",
+            "phosphorylation",
+            "cell migration",
+            "positive regulation of kinase activity",
+            "macrophage colony-stimulating factor signaling pathway",
+            "positive regulation of MAP kinase activity",
+            "innate immune response",
+            "positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction"
+        ]
+    }
+}
