@@ -1,0 +1,10 @@
+{
+    "Neutrophilic granulocyte": {
+        "odds_ratio": 9.334415584415584,
+        "adjusted_p_value": 0.08826326807815428
+    },
+    "Monocyte": {
+        "odds_ratio": 19.178299492385786,
+        "adjusted_p_value": 0.08826326807815428
+    }
+}
