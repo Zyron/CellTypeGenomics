@@ -1,0 +1,86 @@
+{
+    "result": [],
+    "meta": {
+        "query_metadata": {
+            "queries": {
+                "query_1": [
+                    "ENSG00000182389",
+                    "ENSG00000078081",
+                    "ENSG00000084073",
+                    "ENSG00000119632",
+                    "ENSG00000161267"
+                ]
+            },
+            "organism": "hsapiens",
+            "all_results": false,
+            "ordered": false,
+            "no_iea": false,
+            "sources": [
+                "GO:MF",
+                "GO:CC",
+                "GO:BP"
+            ],
+            "combined": false,
+            "aresolve": {},
+            "numeric_ns": "ENTREZGENE_ACC",
+            "domain_scope": "custom",
+            "measure_underrepresentation": false,
+            "significance_threshold_method": "fdr",
+            "user_threshold": 0.05,
+            "no_evidences": false,
+            "highlight": null
+        },
+        "result_metadata": {
+            "GO:MF": {
+                "domain_size": 20212,
+                "number_of_terms": 11198,
+                "threshold": null
+            },
+            "GO:CC": {
+                "domain_size": 22097,
+                "number_of_terms": 4058,
+                "threshold": null
+            },
+            "GO:BP": {
+                "domain_size": 21031,
+                "number_of_terms": 27185,
+                "threshold": null
+            }
+        },
+        "genes_metadata": {
+            "failed": [],
+            "ambiguous": {},
+            "duplicates": [],
+            "query": {
+                "query_1": {
+                    "mapping": {
+                        "ENSG00000182389": [
+                            "ENSG00000182389"
+                        ],
+                        "ENSG00000078081": [
+                            "ENSG00000078081"
+                        ],
+                        "ENSG00000084073": [
+                            "ENSG00000084073"
+                        ],
+                        "ENSG00000119632": [
+                            "ENSG00000119632"
+                        ],
+                        "ENSG00000161267": [
+                            "ENSG00000161267"
+                        ]
+                    },
+                    "ensgs": [
+                        "ENSG00000182389",
+                        "ENSG00000078081",
+                        "ENSG00000084073",
+                        "ENSG00000119632",
+                        "ENSG00000161267"
+                    ]
+                }
+            }
+        },
+        "timestamp": "2024-04-21T19:02:32.378082+00:00",
+        "version": "e111_eg58_p18_30541362"
+    }
+}
