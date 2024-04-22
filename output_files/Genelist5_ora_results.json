@@ -31,7 +31,8 @@
             "source": "GO:BP",
             "term_size": 33,
             "source_order": 3118,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 429.3333333333333
         },
         {
             "description": "\"The behavior of an organism relating to the progression of that organism along the ground by the process of lifting and setting down each leg.\" [GOC:tb]",
@@ -63,7 +64,8 @@
             "source": "GO:BP",
             "term_size": 37,
             "source_order": 18926,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 380.1904761904762
         },
         {
             "description": "\"The process whose specific outcome is the progression of the thymus over time, from its formation to the mature structure. The thymus is a symmetric bi-lobed organ involved primarily in the differentiation of immature to mature T cells, with unique vascular, nervous, epithelial, and lymphoid cell components.\" [GOC:add, ISBN:0781735149]",
@@ -96,7 +98,8 @@
             "source": "GO:BP",
             "term_size": 50,
             "source_order": 13244,
-            "group_id": 2
+            "group_id": 2,
+            "odds_ratio": 277.0416666666667
         }
     ],
     "meta": {
@@ -167,7 +170,7 @@
                 }
             }
         },
-        "timestamp": "2024-04-19T10:53:47.109544+00:00",
+        "timestamp": "2024-04-22T07:38:17.987252+00:00",
         "version": "e111_eg58_p18_30541362"
     }
 }

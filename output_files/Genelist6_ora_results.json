@@ -334,7 +334,8 @@
             "source": "GO:BP",
             "term_size": 4027,
             "source_order": 9009,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 1.5448072360103222
         },
         {
             "description": "\"The chemical reactions and pathways resulting in the formation of heterocyclic compounds, those with a cyclic molecular structure and at least two different atoms in the ring (or rings).\" [ISBN:0198547684]",
@@ -667,7 +668,8 @@
             "source": "GO:BP",
             "term_size": 4105,
             "source_order": 5424,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 1.5076758111092237
         },
         {
             "description": "\"The chemical reactions and pathways resulting in the formation of aromatic compounds, any substance containing an aromatic carbon ring.\" [GOC:ai]",
@@ -1000,7 +1002,8 @@
             "source": "GO:BP",
             "term_size": 4116,
             "source_order": 5983,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 1.502553807841842
         },
         {
             "description": "\"The chemical reactions and pathways resulting in the formation of organic cyclic compound.\" [GOC:TermGenie]",
@@ -1333,7 +1336,8 @@
             "source": "GO:BP",
             "term_size": 4264,
             "source_order": 21928,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 1.4362367287557927
         }
     ],
     "meta": {
@@ -2184,7 +2188,7 @@
                 }
             }
         },
-        "timestamp": "2024-04-19T10:53:47.602323+00:00",
+        "timestamp": "2024-04-22T07:38:18.548104+00:00",
         "version": "e111_eg58_p18_30541362"
     }
 }

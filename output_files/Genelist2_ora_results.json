@@ -419,7 +419,8 @@
             "source": "GO:BP",
             "term_size": 3973,
             "source_order": 13413,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 2.1446471029908647
         },
         {
             "description": "\"The biological process whose specific outcome is the progression of a multicellular organism over time from an initial condition (e.g. a zygote or a young adult) to a later condition (e.g. a multicellular animal or an aged adult).\" [GOC:dph, GOC:ems, GOC:isa_complete, GOC:tb]",
@@ -859,7 +860,8 @@
             "source": "GO:BP",
             "term_size": 4643,
             "source_order": 2835,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 2.0007005253940457
         },
         {
             "description": "\"The progression of a connective tissue over time, from its formation to the mature structure.\" [GOC:BHF]",
@@ -1122,7 +1124,8 @@
             "source": "GO:BP",
             "term_size": 291,
             "source_order": 15973,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 6.620039088987276
         },
         {
             "description": "\"Any process that modulates the frequency, rate or extent of development, the biological process whose specific outcome is the progression of a multicellular organism over time from an initial condition (e.g. a zygote, or a young adult) to a later condition (e.g. a multicellular animal or an aged adult).\" [GOC:go_curators]",
@@ -1473,7 +1476,8 @@
             "source": "GO:BP",
             "term_size": 2455,
             "source_order": 13690,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 2.345972816303612
         },
         {
             "description": "\"Any process that modulates the frequency, rate or extent of a biological process. Biological processes are regulated by many means; examples include the control of gene expression, protein modification or interaction with a protein or substrate molecule.\" [GOC:ai, GOC:go_curators]",
@@ -2208,7 +2212,8 @@
             "source": "GO:BP",
             "term_size": 12287,
             "source_order": 13687,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 1.2775221980356515
         },
         {
             "description": "\"Any process that modulates a measurable attribute of any biological process, quality or function.\" [GOC:dph, GOC:isa_complete, GOC:mah, GOC:pr, GOC:vw]",
@@ -2951,7 +2956,8 @@
             "source": "GO:BP",
             "term_size": 12680,
             "source_order": 16384,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 1.2291932397959184
         },
         {
             "description": "\"The process in which anatomical structures are generated and organized. Morphogenesis pertains to the creation of form.\" [GOC:go_curators, ISBN:0521436125]",
@@ -3299,7 +3305,8 @@
             "source": "GO:BP",
             "term_size": 2684,
             "source_order": 3608,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 2.1723614274867122
         },
         {
             "description": "\"Any process that activates or increases the rate or extent of development, the biological process whose specific outcome is the progression of an organism over time from an initial condition (e.g. a zygote, or a young adult) to a later condition (e.g. a multicellular animal or an aged adult).\" [GOC:ai]",
@@ -3602,7 +3609,8 @@
             "source": "GO:BP",
             "term_size": 1328,
             "source_order": 13928,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 2.8236885302753567
         },
         {
             "description": "\"The biological process whose specific outcome is the progression of an anatomical structure from an initial condition to its mature state. This process begins with the formation of the structure and ends with the mature structure, whatever form that may be including its natural destruction. An anatomical structure is any biological entity that occupies space and is distinguished from its surroundings. Anatomical structures can be macroscopic such as a carpel, or microscopic such as an acrosome.\" [GO_REF:0000021]",
@@ -4082,7 +4090,8 @@
             "source": "GO:BP",
             "term_size": 5899,
             "source_order": 13525,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 1.670448684889118
         },
         {
             "description": "\"Any process that modulates the frequency, rate or extent of a cellular process, any of those that are carried out at the cellular level, but are not necessarily restricted to a single cell. For example, cell communication occurs among more than one cell, but occurs at the cellular level.\" [GOC:go_curators]",
@@ -4788,7 +4797,8 @@
             "source": "GO:BP",
             "term_size": 11738,
             "source_order": 13691,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 1.2540913006029286
         },
         {
             "description": "\"Any process that modulates the frequency, rate or extent of a multicellular organismal process, the processes pertinent to the function of a multicellular organism above the cellular level; includes the integrated processes of tissues and organs.\" [GOC:ai, GOC:dph, GOC:tb]",
@@ -5160,7 +5170,8 @@
             "source": "GO:BP",
             "term_size": 2955,
             "source_order": 14037,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 1.9914582062233068
         },
         {
             "description": "\"Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a stimulus arising within the organism.\" [GOC:sm]",
@@ -5478,7 +5489,8 @@
             "source": "GO:BP",
             "term_size": 1678,
             "source_order": 3654,
-            "group_id": 2
+            "group_id": 2,
+            "odds_ratio": 2.427467989661626
         },
         {
             "description": "\"Development of a tissue or tissues that work together to perform a specific function or functions. Development pertains to the process whose specific outcome is the progression of a structure over time, from its formation to the mature structure. Organs are commonly observed as visibly distinct structures, but may also exist as loosely associated clusters of cells that work together to perform a specific function or functions.\" [GOC:dph, GOC:jid]",
@@ -5844,7 +5856,8 @@
             "source": "GO:BP",
             "term_size": 3039,
             "source_order": 13223,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 1.9258510552276218
         },
         {
             "description": "\"A biological process whose specific outcome is the progression of an integrated living unit: an anatomical structure (which may be a subcellular structure, cell, tissue, or organ), or organism over time from an initial condition to a later condition.\" [GOC:isa_complete]",
@@ -6336,7 +6349,8 @@
             "source": "GO:BP",
             "term_size": 6453,
             "source_order": 7884,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 1.5270680721815257
         },
         {
             "description": "\"Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a hormone stimulus.\" [GOC:jl]",
@@ -6621,7 +6635,8 @@
             "source": "GO:BP",
             "term_size": 874,
             "source_order": 3660,
-            "group_id": 2
+            "group_id": 2,
+            "odds_ratio": 3.0401069518716577
         },
         {
             "description": "\"Any biological process, occurring at the level of a multicellular organism, pertinent to its function.\" [GOC:curators, GOC:dph, GOC:isa_complete, GOC:tb]",
@@ -7145,7 +7160,8 @@
             "source": "GO:BP",
             "term_size": 7669,
             "source_order": 7883,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 1.4311600971417897
         },
         {
             "description": "\"The process whose specific outcome is the progression of nervous tissue over time, from its formation to its mature state.\" [GOC:dgh]",
@@ -7495,7 +7511,8 @@
             "source": "GO:BP",
             "term_size": 2531,
             "source_order": 2932,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 1.963471590733352
         },
         {
             "description": "\"The process in which the prostate gland stroma is generated and organized. The prostate gland stroma is made up of the mesenchymal or fibroblast cells of the prostate gland.\" [GOC:dph]",
@@ -7726,7 +7743,8 @@
             "source": "GO:BP",
             "term_size": 3,
             "source_order": 15382,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": Infinity
         },
         {
             "description": "\"Any process that modulates a qualitative or quantitative trait of a biological quality. A biological quality is a measurable attribute of an organism or part of an organism, such as size, mass, shape, color, etc.\" [GOC:dph, GOC:isa_complete, GOC:mah, GOC:pr, GOC:vw]",
@@ -8071,7 +8089,8 @@
             "source": "GO:BP",
             "term_size": 2846,
             "source_order": 16385,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 1.8658554525776012
         },
         {
             "description": "\"Any process that activates or increases the frequency, rate or extent of a biological process. Biological processes are regulated by many means; examples include the control of gene expression, protein modification or interaction with a protein or substrate molecule.\" [GOC:jid]",
@@ -8542,7 +8561,8 @@
             "source": "GO:BP",
             "term_size": 6250,
             "source_order": 13226,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 1.4727174500270124
         },
         {
             "description": "\"Any process that activates or increases the frequency, rate or extent of an organismal process, any of the processes pertinent to the function of an organism above the cellular level; includes the integrated processes of tissues and organs.\" [GOC:ai]",
@@ -8850,7 +8870,8 @@
             "source": "GO:BP",
             "term_size": 1637,
             "source_order": 14038,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 2.241656338196425
         },
         {
             "description": "\"Any process that mediates interactions between a cell and its surroundings. Encompasses interactions such as signaling or attachment between one cell and another cell, between a cell and an extracellular matrix, or between a cell and any other aspect of its environment.\" [GOC:mah]",
@@ -9335,7 +9356,8 @@
             "source": "GO:BP",
             "term_size": 6537,
             "source_order": 2749,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 1.436660583702031
         },
         {
             "description": "\"Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a stimulus arising within the organism.\" [GOC:mah]",
@@ -9638,7 +9660,8 @@
             "source": "GO:BP",
             "term_size": 1432,
             "source_order": 17229,
-            "group_id": 2
+            "group_id": 2,
+            "odds_ratio": 2.3157673911219265
         },
         {
             "description": "\"The process whose specific outcome is the progression of a tissue over time, from its formation to the mature structure.\" [ISBN:0471245208]",
@@ -9954,7 +9977,8 @@
             "source": "GO:BP",
             "term_size": 2010,
             "source_order": 3786,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 2.0509982929051396
         },
         {
             "description": "\"Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an organic substance stimulus.\" [GOC:sm, PMID:23356676]",
@@ -10294,7 +10318,8 @@
             "source": "GO:BP",
             "term_size": 2637,
             "source_order": 3883,
-            "group_id": 2
+            "group_id": 2,
+            "odds_ratio": 1.8716762091231818
         },
         {
             "description": "\"Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a stimulus. The process begins with detection of the stimulus and ends with a change in state or activity or the cell or organism.\" [GOC:ai, GOC:bf]",
@@ -10858,7 +10883,8 @@
             "source": "GO:BP",
             "term_size": 8976,
             "source_order": 13774,
-            "group_id": 2
+            "group_id": 2,
+            "odds_ratio": 1.2814919071076707
         },
         {
             "description": "\"The entirety of a process in which information is transmitted within a biological system. This process begins with an active signal and ends when a cellular response has been triggered.\" [GOC:mtg_signal, GOC:mtg_signaling_feb11, GOC:signaling]",
@@ -11339,7 +11365,8 @@
             "source": "GO:BP",
             "term_size": 6447,
             "source_order": 6877,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 1.4065232186796504
         },
         {
             "description": "\"Any process that modulates the frequency, rate or extent of cellular component biogenesis, a process that results in the biosynthesis of constituent macromolecules, assembly, and arrangement of constituent parts of a cellular component.\" [GOC:jl]",
@@ -11620,7 +11647,8 @@
             "source": "GO:BP",
             "term_size": 971,
             "source_order": 11272,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 2.584066366301938
         },
         {
             "description": "\"Any process that stops, prevents, or reduces the frequency, rate or extent of the chemical reactions and pathways involving nitrogen or nitrogenous compounds.\" [GOC:ai, GOC:tb]",
@@ -11951,7 +11979,8 @@
             "source": "GO:BP",
             "term_size": 2202,
             "source_order": 13996,
-            "group_id": 3
+            "group_id": 3,
+            "odds_ratio": 1.91166335775085
         },
         {
             "description": "\"Any process that mediates the transfer of information from one cell to another. This process includes signal transduction in the receiving cell and, where applicable, release of a ligand and any processes that actively facilitate its transport and presentation to the receiving cell. Examples include signaling via soluble ligands, via cell adhesion molecules and via gap junctions.\" [GOC:dos, GOC:mah]",
@@ -12261,7 +12290,8 @@
             "source": "GO:BP",
             "term_size": 1704,
             "source_order": 2828,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 2.0651629072681703
         },
         {
             "description": "\"Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a chemical stimulus.\" [GOC:mah]",
@@ -12597,7 +12627,8 @@
             "source": "GO:BP",
             "term_size": 2683,
             "source_order": 16854,
-            "group_id": 2
+            "group_id": 2,
+            "odds_ratio": 1.7802547770700636
         },
         {
             "description": "\"Any process that stops, prevents, or reduces the frequency, rate or extent of a cellular process, any of those that are carried out at the cellular level, but are not necessarily restricted to a single cell. For example, cell communication occurs among more than one cell, but occurs at the cellular level.\" [GOC:jid]",
@@ -13037,7 +13068,8 @@
             "source": "GO:BP",
             "term_size": 5541,
             "source_order": 13231,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 1.4418746368493403
         },
         {
             "description": "\"Any process that stops, prevents, or reduces the frequency, rate or extent of a biological process. Biological processes are regulated by many means; examples include the control of gene expression, protein modification or interaction with a protein or substrate molecule.\" [GOC:jid]",
@@ -13489,7 +13521,8 @@
             "source": "GO:BP",
             "term_size": 5874,
             "source_order": 13227,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 1.417624521072797
         },
         {
             "description": "\"Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an organic substance stimulus.\" [GOC:mah]",
@@ -13802,7 +13835,8 @@
             "source": "GO:BP",
             "term_size": 1971,
             "source_order": 17066,
-            "group_id": 2
+            "group_id": 2,
+            "odds_ratio": 1.9573002754820936
         },
         {
             "description": "\"Any process that modulates the frequency, rate or extent of the chemical reactions and pathways within a cell or an organism involving those compounds formed as a part of the normal anabolic and catabolic processes. These processes take place in most, if not all, cells of the organism.\" [PMID:19211694]",
@@ -14270,7 +14304,8 @@
             "source": "GO:BP",
             "term_size": 5591,
             "source_order": 18320,
-            "group_id": 5
+            "group_id": 5,
+            "odds_ratio": 1.4238287832827772
         },
         {
             "description": "\"Any process that activates or increases the frequency, rate or extent of a cellular process, any of those that are carried out at the cellular level, but are not necessarily restricted to a single cell. For example, cell communication occurs among more than one cell, but occurs at the cellular level.\" [GOC:jid]",
@@ -14721,7 +14756,8 @@
             "source": "GO:BP",
             "term_size": 5717,
             "source_order": 13230,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 1.4104849424269266
         },
         {
             "description": "\"Any process that stops, prevents or reduces the frequency, rate or extent of fibril organization.\" [GO_REF:0000058, GOC:PARL, GOC:rl, GOC:TermGenie, PMID:23921388]",
@@ -14967,7 +15003,8 @@
             "source": "GO:BP",
             "term_size": 163,
             "source_order": 23168,
-            "group_id": 6
+            "group_id": 6,
+            "odds_ratio": 6.011219147344802
         },
         {
             "description": "\"The multiplication or reproduction of cells, resulting in the expansion of a cell population.\" [GOC:mah, GOC:mb]",
@@ -15274,7 +15311,8 @@
             "source": "GO:BP",
             "term_size": 2006,
             "source_order": 3185,
-            "group_id": 7
+            "group_id": 7,
+            "odds_ratio": 1.9187768091877682
         },
         {
             "description": "\"Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an oxygen-containing compound stimulus.\" [GOC:pr, GOC:TermGenie]",
@@ -15574,7 +15612,8 @@
             "source": "GO:BP",
             "term_size": 1663,
             "source_order": 22187,
-            "group_id": 2
+            "group_id": 2,
+            "odds_ratio": 2.042029237730595
         },
         {
             "description": "\"The reproductive developmental process whose specific outcome is the progression of somatic structures that will be used in the process of creating new individuals from one or more parents, from their formation to the mature structures.\" [GOC:dph, GOC:isa_complete, GOC:jid]",
@@ -15824,7 +15863,8 @@
             "source": "GO:BP",
             "term_size": 311,
             "source_order": 13294,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 4.163025688465097
         },
         {
             "description": "\"Any process that modulates the frequency, rate or extent of transcription mediated by RNA polymerase II.\" [GOC:go_curators, GOC:txnOH]",
@@ -16185,7 +16225,8 @@
             "source": "GO:BP",
             "term_size": 2567,
             "source_order": 2157,
-            "group_id": 4
+            "group_id": 4,
+            "odds_ratio": 1.7633815862202902
         },
         {
             "description": "\"The progression of the reproductive system over time from its formation to the mature structure. The reproductive system consists of the organs that function in reproduction.\" [GOC:dph]",
@@ -16433,7 +16474,8 @@
             "source": "GO:BP",
             "term_size": 315,
             "source_order": 15982,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 4.107225616178639
         },
         {
             "description": "\"The series of molecular signals initiated by an extracellular ligand binding to a receptor on the surface of the target cell where the receptor possesses tyrosine kinase activity, and ending with the regulation of a downstream cellular process, e.g. transcription.\" [GOC:ceb, GOC:signaling]",
@@ -16702,7 +16744,8 @@
             "source": "GO:BP",
             "term_size": 616,
             "source_order": 2764,
-            "group_id": 8
+            "group_id": 8,
+            "odds_ratio": 2.977795414944762
         },
         {
             "description": "\"Any process that modulates the frequency, rate or extent of the chemical reactions and pathways involving nitrogen or nitrogenous compounds.\" [GOC:ai, GOC:tb]",
@@ -17166,7 +17209,8 @@
             "source": "GO:BP",
             "term_size": 5440,
             "source_order": 13995,
-            "group_id": 3
+            "group_id": 3,
+            "odds_ratio": 1.4150079377374392
         },
         {
             "description": "\"Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an abiotic (not derived from living organisms) stimulus.\" [GOC:hb]",
@@ -17446,7 +17490,8 @@
             "source": "GO:BP",
             "term_size": 1128,
             "source_order": 3586,
-            "group_id": 2
+            "group_id": 2,
+            "odds_ratio": 2.309288537549407
         },
         {
             "description": "\"Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a stimulus. The process begins with detection of the stimulus by a cell and ends with a change in state or activity or the cell.\" [GOC:bf, GOC:jl]",
@@ -17945,7 +17990,8 @@
             "source": "GO:BP",
             "term_size": 7394,
             "source_order": 14364,
-            "group_id": 2
+            "group_id": 2,
+            "odds_ratio": 1.2895168956874945
         },
         {
             "description": "\"Any biological process involved in the maintenance of an internal steady state.\" [GOC:jl, ISBN:0395825172]",
@@ -18255,7 +18301,8 @@
             "source": "GO:BP",
             "term_size": 1712,
             "source_order": 10601,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 1.9771585665055669
         },
         {
             "description": "\"Generation of cells within the nervous system.\" [GO_REF:0000021, GOC:cls, GOC:curators, GOC:dgh, GOC:dph, GOC:jid]",
@@ -18563,7 +18610,8 @@
             "source": "GO:BP",
             "term_size": 1742,
             "source_order": 6799,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 1.9392756234459243
         },
         {
             "description": "\"Any process that modulates the frequency, rate or extent of cell differentiation, the process in which relatively unspecialized cells acquire specialized structural and functional features.\" [GOC:go_curators]",
@@ -18865,7 +18913,8 @@
             "source": "GO:BP",
             "term_size": 1576,
             "source_order": 11842,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 2.000994189848679
         },
         {
             "description": "\"Any process that modulates the frequency, rate or extent of multicellular organismal development.\" [GOC:obol]",
@@ -19159,7 +19208,8 @@
             "source": "GO:BP",
             "term_size": 1411,
             "source_order": 26054,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 2.076714891910856
         },
         {
             "description": "\"The cellular developmental process in which a relatively unspecialized cell, e.g. embryonic or regenerative cell, acquires specialized structural and/or functional features that characterize a specific cell. Differentiation includes the processes involved in commitment of a cell to a specific fate and its subsequent development to the mature state.\" [ISBN:0198506732]",
@@ -19563,7 +19613,8 @@
             "source": "GO:BP",
             "term_size": 4366,
             "source_order": 6924,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 1.4688296912393581
         },
         {
             "description": "\"Any process that modulates the frequency, rate or extent of cell communication. Cell communication is the process that mediates interactions between a cell and its surroundings. Encompasses interactions such as signaling or attachment between one cell and another cell, between a cell and an extracellular matrix, or between a cell and any other aspect of its environment.\" [GOC:dph, GOC:tb]",
@@ -19915,7 +19966,8 @@
             "source": "GO:BP",
             "term_size": 3443,
             "source_order": 4342,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 1.5685920225407517
         },
         {
             "description": "\"A biological process whose specific outcome is the progression of a cell over time from an initial condition to a later condition.\" [GOC:isa_complete]",
@@ -20320,7 +20372,8 @@
             "source": "GO:BP",
             "term_size": 4367,
             "source_order": 13537,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 1.468394026260137
         },
         {
             "description": "\"Any process that modulates the frequency, rate or extent of gene expression such that an expression pattern recurs with a regularity of approximately 24 hours.\" [GOC:mah]",
@@ -20560,7 +20613,8 @@
             "source": "GO:BP",
             "term_size": 70,
             "source_order": 8193,
-            "group_id": 9
+            "group_id": 9,
+            "odds_ratio": 9.537371134020619
         },
         {
             "description": "\"Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a chemical stimulus.\" [GOC:jl]",
@@ -20935,7 +20989,8 @@
             "source": "GO:BP",
             "term_size": 3957,
             "source_order": 10394,
-            "group_id": 2
+            "group_id": 2,
+            "odds_ratio": 1.506459730660293
         },
         {
             "description": "\"Any process involved in the maintenance of an internal steady state at the level of the multicellular organism.\" [GOC:isa_complete]",
@@ -21205,7 +21260,8 @@
             "source": "GO:BP",
             "term_size": 806,
             "source_order": 13539,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 2.5360098843780494
         },
         {
             "description": "\"Any process that stops, prevents, or reduces the frequency, rate or extent of an organismal process, the processes pertinent to the function of an organism above the cellular level; includes the integrated processes of tissues and organs.\" [GOC:ai]",
@@ -21489,7 +21545,8 @@
             "source": "GO:BP",
             "term_size": 1110,
             "source_order": 14039,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 2.2370126663859997
         },
         {
             "description": "\"The synthesis of RNA from a DNA template by RNA polymerase II (RNAP II), originating at an RNA polymerase II promoter. Includes transcription of messenger RNA (mRNA) and certain small nuclear RNAs (snRNAs).\" [GOC:jl, GOC:txnOH, ISBN:0321000382]",
@@ -21854,7 +21911,8 @@
             "source": "GO:BP",
             "term_size": 2691,
             "source_order": 2164,
-            "group_id": 4
+            "group_id": 4,
+            "odds_ratio": 1.668802658122701
         }
     ],
     "meta": {
@@ -22898,7 +22956,7 @@
                 }
             }
         },
-        "timestamp": "2024-04-19T10:53:45.006392+00:00",
+        "timestamp": "2024-04-22T07:38:16.201663+00:00",
         "version": "e111_eg58_p18_30541362"
     }
 }

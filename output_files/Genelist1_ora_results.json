@@ -265,7 +265,8 @@
             "source": "GO:BP",
             "term_size": 82,
             "source_order": 7421,
-            "group_id": 2
+            "group_id": 2,
+            "odds_ratio": 37.96309185822878
         },
         {
             "description": "\"The process in which a relatively unspecialized cell acquires specialized features of a keratinocyte.\" [GOC:dph, GOC:mah, GOC:sdb_2009, GOC:tb]",
@@ -551,7 +552,8 @@
             "source": "GO:BP",
             "term_size": 176,
             "source_order": 6961,
-            "group_id": 2
+            "group_id": 2,
+            "odds_ratio": 18.589403973509935
         },
         {
             "description": "\"The process whose specific outcome is the progression of the epidermis over time, from its formation to the mature structure. The epidermis is the outer epithelial layer of an animal, it may be a single layer that produces an extracellular material (e.g. the cuticle of arthropods) or a complex stratified squamous epithelium, as in the case of many vertebrate species.\" [GOC:go_curators, UBERON:0001003]",
@@ -862,7 +864,8 @@
             "source": "GO:BP",
             "term_size": 393,
             "source_order": 3228,
-            "group_id": 2
+            "group_id": 2,
+            "odds_ratio": 10.67065868263473
         },
         {
             "description": "\"The process whose specific outcome is the progression of the skin over time, from its formation to the mature structure. The skin is the external membranous integument of an animal. In vertebrates the skin generally consists of two layers, an outer nonsensitive and nonvascular epidermis (cuticle or skarfskin) composed of cells which are constantly growing and multiplying in the deeper, and being thrown off in the superficial layers, as well as an inner vascular dermis (cutis, corium or true skin) composed mostly of connective tissue.\" [GOC:jl, UBERON:0002097]",
@@ -1159,7 +1162,8 @@
             "source": "GO:BP",
             "term_size": 321,
             "source_order": 11149,
-            "group_id": 2
+            "group_id": 2,
+            "odds_ratio": 11.330048866458384
         },
         {
             "description": "\"The process in which a relatively unspecialized cell acquires specialized features of an epidermal cell, any of the cells making up the epidermis.\" [GOC:dph, GOC:go_curators, GOC:mtg_sensu, GOC:sdb_2009, GOC:tb]",
@@ -1446,7 +1450,8 @@
             "source": "GO:BP",
             "term_size": 250,
             "source_order": 3807,
-            "group_id": 2
+            "group_id": 2,
+            "odds_ratio": 12.428571428571429
         },
         {
             "description": "\"Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a stimulus from a bacterium.\" [GOC:hb]",
@@ -1762,7 +1767,8 @@
             "source": "GO:BP",
             "term_size": 720,
             "source_order": 3580,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 5.919265649192656
         },
         {
             "description": "\"Any process evolved to enable an interaction with an organism of a different species.\" [GOC:cc]",
@@ -2147,7 +2153,8 @@
             "source": "GO:BP",
             "term_size": 1724,
             "source_order": 11378,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 3.9116134784254815
         },
         {
             "description": "\"Reactions, triggered in response to the presence of a foreign body or the occurrence of an injury, which result in restriction of damage to the organism attacked or prevention/recovery from the infection caused by the attack.\" [GOC:go_curators]",
@@ -2540,7 +2547,8 @@
             "source": "GO:BP",
             "term_size": 1791,
             "source_order": 2614,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 3.6490838164213666
         },
         {
             "description": "\"Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a stimulus from another living organism.\" [GOC:ai]",
@@ -2913,7 +2921,8 @@
             "source": "GO:BP",
             "term_size": 1548,
             "source_order": 14359,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 3.8526315789473684
         },
         {
             "description": "\"Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an external biotic stimulus, an external stimulus caused by, or produced by living things.\" [GOC:go_curators]",
@@ -3286,7 +3295,8 @@
             "source": "GO:BP",
             "term_size": 1551,
             "source_order": 10929,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 3.844311377245509
         },
         {
             "description": "\"Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a biotic stimulus, a stimulus caused or produced by a living organism.\" [GOC:hb]",
@@ -3659,7 +3669,8 @@
             "source": "GO:BP",
             "term_size": 1586,
             "source_order": 3572,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 3.7496406816781875
         },
         {
             "description": "\"Reactions triggered in response to the presence of another organism that act to protect the cell or organism from damage caused by that organism.\" [GOC:dos]",
@@ -4004,7 +4015,8 @@
             "source": "GO:BP",
             "term_size": 1220,
             "source_order": 19336,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 3.944915254237288
         },
         {
             "description": "\"The process in which a relatively unspecialized cell acquires specialized features of an epithelial cell, any of the cells making up an epithelium.\" [GOC:ecd, PMID:11839751]",
@@ -4308,7 +4320,8 @@
             "source": "GO:BP",
             "term_size": 740,
             "source_order": 7175,
-            "group_id": 2
+            "group_id": 2,
+            "odds_ratio": 4.744821872410936
         },
         {
             "description": "\"Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an external stimulus.\" [GOC:hb]",
@@ -4723,7 +4736,8 @@
             "source": "GO:BP",
             "term_size": 2723,
             "source_order": 3570,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 2.6915852022235
         },
         {
             "description": "\"The immediate defensive reaction (by vertebrate tissue) to infection or injury caused by chemical or physical agents. The process is characterized by local vasodilation, extravasation of plasma into intercellular spaces and accumulation of white blood cells and macrophages.\" [GO_REF:0000022, ISBN:0198506732]",
@@ -5034,7 +5048,8 @@
             "source": "GO:BP",
             "term_size": 829,
             "source_order": 2616,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 4.367887173555189
         },
         {
             "description": "\"Any immune system process that functions in the calibrated response of an organism to a potential internal or invasive threat.\" [GO_REF:0000022, GOC:add]",
@@ -5398,7 +5413,8 @@
             "source": "GO:BP",
             "term_size": 1988,
             "source_order": 2617,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 2.9891457670882446
         },
         {
             "description": "\"Establishment of the epithelial barrier, the functional barrier in the skin that limits its permeability.\" [GOC:dph]",
@@ -5644,7 +5660,8 @@
             "source": "GO:BP",
             "term_size": 34,
             "source_order": 15961,
-            "group_id": 2
+            "group_id": 2,
+            "odds_ratio": 37.27225130890052
         },
         {
             "description": "\"Reactions triggered in response to the presence of a symbiont that act to protect or prevent damage to the host.\" [GOC:pg]",
@@ -5967,7 +5984,8 @@
             "source": "GO:BP",
             "term_size": 1113,
             "source_order": 20385,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 3.683982683982684
         },
         {
             "description": "\"Any process that results in a change in state or activity of an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a stimulus by molecules of bacterial origin such as peptides derived from bacterial flagellin.\" [GOC:rl, GOC:sm]",
@@ -6240,7 +6258,8 @@
             "source": "GO:BP",
             "term_size": 354,
             "source_order": 777,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 6.4757152361942785
         },
         {
             "description": "\"Reactions triggered in response to the presence of a bacterium that act to protect the cell or organism.\" [GOC:jl]",
@@ -6515,7 +6534,8 @@
             "source": "GO:BP",
             "term_size": 325,
             "source_order": 10684,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 6.687357816054599
         },
         {
             "description": "\"Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a disturbance in organismal or cellular homeostasis, usually, but not necessarily, exogenous (e.g. temperature, humidity, ionizing radiation).\" [GOC:mah]",
@@ -6962,7 +6982,8 @@
             "source": "GO:BP",
             "term_size": 3855,
             "source_order": 2613,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 2.2783253734376587
         },
         {
             "description": "\"Any process that results in a change in state or activity of an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a lipopolysaccharide stimulus; lipopolysaccharide is a major component of the cell wall of gram-negative bacteria.\" [GOC:add, ISBN:0721601464]",
@@ -7231,7 +7252,8 @@
             "source": "GO:BP",
             "term_size": 336,
             "source_order": 7879,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 6.4516618157101275
         },
         {
             "description": "\"The process whose specific outcome is the progression of a tissue over time, from its formation to the mature structure.\" [ISBN:0471245208]",
@@ -7578,7 +7600,8 @@
             "source": "GO:BP",
             "term_size": 2010,
             "source_order": 3786,
-            "group_id": 2
+            "group_id": 2,
+            "odds_ratio": 2.7913091539893253
         },
         {
             "description": "\"An immune response against microbes mediated through a body fluid. Examples of this process are seen in the antimicrobial humoral response of Drosophila melanogaster and Mus musculus.\" [GOC:go_curators, GOC:mtg_sensu]",
@@ -7833,7 +7856,8 @@
             "source": "GO:BP",
             "term_size": 131,
             "source_order": 6236,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 11.595486268467326
         },
         {
             "description": "\"Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a chemical stimulus.\" [GOC:mah]",
@@ -8210,7 +8234,8 @@
             "source": "GO:BP",
             "term_size": 2683,
             "source_order": 16854,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 2.4157161689688773
         },
         {
             "description": "\"Any process involved in the development or functioning of the immune system, an organismal system for calibrated responses to potential internal or invasive threats.\" [GO_REF:0000022, GOC:add]",
@@ -8599,7 +8624,8 @@
             "source": "GO:BP",
             "term_size": 2776,
             "source_order": 913,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 2.3808310839067786
         },
         {
             "description": "\"The process whose specific outcome is the progression of an epithelium over time, from its formation to the mature structure. An epithelium is a tissue that covers the internal or external surfaces of an anatomical structure.\" [GOC:dph, GOC:mtg_lung]",
@@ -8914,7 +8940,8 @@
             "source": "GO:BP",
             "term_size": 1225,
             "source_order": 15095,
-            "group_id": 2
+            "group_id": 2,
+            "odds_ratio": 3.2002367151224544
         },
         {
             "description": "\"The chemical reactions and pathways resulting in the breakdown of organophosphates, any phosphate-containing organic compound.\" [GOC:ai]",
@@ -9184,7 +9211,8 @@
             "source": "GO:BP",
             "term_size": 237,
             "source_order": 12547,
-            "group_id": 3
+            "group_id": 3,
+            "odds_ratio": 7.150474799123447
         },
         {
             "description": "\"The formation of a covalent cross-link between or within protein chains.\" [GOC:jsg]",
@@ -9424,7 +9452,8 @@
             "source": "GO:BP",
             "term_size": 28,
             "source_order": 5431,
-            "group_id": 8
+            "group_id": 8,
+            "odds_ratio": 34.16062176165803
         },
         {
             "description": "\"Innate immune responses are defense responses mediated by germline encoded components that directly recognize components of potential pathogens.\" [GO_REF:0000022, GOC:add, GOC:ebc, GOC:mtg_sensu]",
@@ -9721,7 +9750,8 @@
             "source": "GO:BP",
             "term_size": 965,
             "source_order": 11659,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 3.4179037336932074
         },
         {
             "description": "\"The chemical reactions and pathways resulting in the breakdown of carbohydrate derivative.\" [GOC:TermGenie]",
@@ -9989,7 +10019,8 @@
             "source": "GO:BP",
             "term_size": 262,
             "source_order": 21750,
-            "group_id": 9
+            "group_id": 9,
+            "odds_ratio": 6.418535944851734
         },
         {
             "description": "\"The process whose specific outcome is the progression of the skin epidermis over time, from its formation to the mature structure.\" [GOC:dos]",
@@ -10241,7 +10272,8 @@
             "source": "GO:BP",
             "term_size": 133,
             "source_order": 19430,
-            "group_id": 2
+            "group_id": 2,
+            "odds_ratio": 9.387544453118224
         },
         {
             "description": "\"An immune response against microbes mediated by anti-microbial peptides in body fluid.\" [PMID:15761415, PMID:24287494]",
@@ -10487,7 +10519,8 @@
             "source": "GO:BP",
             "term_size": 83,
             "source_order": 16177,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 12.560775435120984
         },
         {
             "description": "\"Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a lipopolysaccharide stimulus; lipopolysaccharide is a major component of the cell wall of gram-negative bacteria.\" [GOC:mah]",
@@ -10742,7 +10775,8 @@
             "source": "GO:BP",
             "term_size": 214,
             "source_order": 16982,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 6.77859366270253
         },
         {
             "description": "\"Any process that modulates the frequency, rate or extent of a defense response.\" [GOC:mah]",
@@ -11027,7 +11061,8 @@
             "source": "GO:BP",
             "term_size": 768,
             "source_order": 7395,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 3.4926686217008798
         },
         {
             "description": "\"Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a cytokine stimulus.\" [GOC:mah]",
@@ -11319,7 +11354,8 @@
             "source": "GO:BP",
             "term_size": 839,
             "source_order": 17097,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 3.332046332046332
         },
         {
             "description": "\"Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a stimulus by molecules of bacterial origin such as peptides derived from bacterial flagellin.\" [GOC:mah]",
@@ -11574,7 +11610,8 @@
             "source": "GO:BP",
             "term_size": 224,
             "source_order": 16979,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 6.454038573637124
         },
         {
             "description": "\"Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a cytokine stimulus.\" [GOC:sl]",
@@ -11868,7 +11905,8 @@
             "source": "GO:BP",
             "term_size": 932,
             "source_order": 8691,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 3.11616046281495
         },
         {
             "description": "\"The biological process whose specific outcome is the progression of an anatomical structure from an initial condition to its mature state. This process begins with the formation of the structure and ends with the mature structure, whatever form that may be including its natural destruction. An anatomical structure is any biological entity that occupies space and is distinguished from its surroundings. Anatomical structures can be macroscopic such as a carpel, or microscopic such as an acrosome.\" [GO_REF:0000021]",
@@ -12321,7 +12359,8 @@
             "source": "GO:BP",
             "term_size": 5899,
             "source_order": 13525,
-            "group_id": 2
+            "group_id": 2,
+            "odds_ratio": 1.7056866410373976
         },
         {
             "description": "\"Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a chemical stimulus.\" [GOC:jl]",
@@ -12732,7 +12771,8 @@
             "source": "GO:BP",
             "term_size": 3957,
             "source_order": 10394,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 1.8783867375974268
         },
         {
             "description": "\"Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an organic substance stimulus.\" [GOC:mah]",
@@ -13065,7 +13105,8 @@
             "source": "GO:BP",
             "term_size": 1971,
             "source_order": 17066,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 2.313438632832729
         },
         {
             "description": "\"Any process that modulates the frequency, rate or extent of peptidase activity, the hydrolysis of peptide bonds within proteins.\" [GOC:ai]",
@@ -13317,7 +13358,8 @@
             "source": "GO:BP",
             "term_size": 244,
             "source_order": 14597,
-            "group_id": 5
+            "group_id": 5,
+            "odds_ratio": 5.889228418640183
         },
         {
             "description": "\"Any biological process, occurring at the level of a multicellular organism, pertinent to its function.\" [GOC:curators, GOC:dph, GOC:isa_complete, GOC:tb]",
@@ -13816,7 +13858,8 @@
             "source": "GO:BP",
             "term_size": 7669,
             "source_order": 7883,
-            "group_id": 2
+            "group_id": 2,
+            "odds_ratio": 1.5835960082137672
         },
         {
             "description": "\"Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a biotic stimulus, a stimulus caused or produced by a living organism.\" [GOC:mah]",
@@ -14071,7 +14114,8 @@
             "source": "GO:BP",
             "term_size": 250,
             "source_order": 16976,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 5.73837406078657
         },
         {
             "description": "\"The series of molecular signals initiated by the binding of a cytokine to a receptor on the surface of a cell, and ending with the regulation of a downstream cellular process, e.g. transcription.\" [GOC:mah, GOC:signaling, PMID:19295629]",
@@ -14344,7 +14388,8 @@
             "source": "GO:BP",
             "term_size": 499,
             "source_order": 5788,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 3.972287587672203
         },
         {
             "description": "\"An immune response mediated through a body fluid.\" [GOC:hb, ISBN:0198506732]",
@@ -14598,7 +14643,8 @@
             "source": "GO:BP",
             "term_size": 254,
             "source_order": 2621,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 5.641977500166419
         },
         {
             "description": "\"Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a lipid stimulus.\" [GOC:sl]",
@@ -14879,7 +14925,8 @@
             "source": "GO:BP",
             "term_size": 920,
             "source_order": 8654,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 3.0175578611332803
         },
         {
             "description": "\"Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an organic substance stimulus.\" [GOC:sm, PMID:23356676]",
@@ -15234,7 +15281,8 @@
             "source": "GO:BP",
             "term_size": 2637,
             "source_order": 3883,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 2.0412092765033942
         },
         {
             "description": "\"Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an oxygen-containing compound stimulus.\" [GOC:pr, GOC:TermGenie]",
@@ -15546,7 +15594,8 @@
             "source": "GO:BP",
             "term_size": 1663,
             "source_order": 22187,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 2.3677313677313676
         },
         {
             "description": "\"Any process that modulates the frequency, rate or extent of the inflammatory response, the immediate defensive reaction (by vertebrate tissue) to infection or injury caused by chemical or physical agents.\" [GOC:ai]",
@@ -15806,7 +15855,8 @@
             "source": "GO:BP",
             "term_size": 375,
             "source_order": 13655,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 4.378378378378378
         },
         {
             "description": "\"Any process that modulates the frequency, rate or extent of a response to an external stimulus.\" [GOC:mah]",
@@ -16097,7 +16147,8 @@
             "source": "GO:BP",
             "term_size": 1077,
             "source_order": 7632,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 2.6656276999464112
         },
         {
             "description": "\"The chemical reactions and pathways resulting in the breakdown of substances, carried out by individual cells.\" [GOC:jl]",
@@ -16427,7 +16478,8 @@
             "source": "GO:BP",
             "term_size": 1600,
             "source_order": 11304,
-            "group_id": 3
+            "group_id": 3,
+            "odds_ratio": 2.2992521657387206
         },
         {
             "description": "\"Any process that modulates the frequency, rate or extent of a multicellular organismal process, the processes pertinent to the function of a multicellular organism above the cellular level; includes the integrated processes of tissues and organs.\" [GOC:ai, GOC:dph, GOC:tb]",
@@ -16787,7 +16839,8 @@
             "source": "GO:BP",
             "term_size": 2955,
             "source_order": 14037,
-            "group_id": 2
+            "group_id": 2,
+            "odds_ratio": 1.8864965383335688
         },
         {
             "description": "\"The chemical reactions and pathways involving organonitrogen compound.\" [GOC:pr, GOC:TermGenie]",
@@ -17268,7 +17321,8 @@
             "source": "GO:BP",
             "term_size": 5986,
             "source_order": 22098,
-            "group_id": 6
+            "group_id": 6,
+            "odds_ratio": 1.5683485720735975
         },
         {
             "description": "\"Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an oxygen-containing compound stimulus.\" [GOC:pr, GOC:TermGenie]",
@@ -17561,7 +17615,8 @@
             "source": "GO:BP",
             "term_size": 1179,
             "source_order": 22188,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 2.526372832369942
         },
         {
             "description": "\"Any process that modulates the frequency, rate, or extent of production of a cytokine.\" [GOC:add, ISBN:0781735149]",
@@ -17840,7 +17895,8 @@
             "source": "GO:BP",
             "term_size": 773,
             "source_order": 479,
-            "group_id": 2
+            "group_id": 2,
+            "odds_ratio": 2.971651016284322
         },
         {
             "description": "\"Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a stimulus. The process begins with detection of the stimulus and ends with a change in state or activity or the cell or organism.\" [GOC:ai, GOC:bf]",
@@ -18445,7 +18501,8 @@
             "source": "GO:BP",
             "term_size": 8976,
             "source_order": 13774,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 1.41803212106443
         },
         {
             "description": "\"Any process that modulates the frequency, rate or extent of endopeptidase activity, the endohydrolysis of peptide bonds within proteins.\" [GOC:ai, GOC:hjd]",
@@ -18692,7 +18749,8 @@
             "source": "GO:BP",
             "term_size": 219,
             "source_order": 14598,
-            "group_id": 5
+            "group_id": 5,
+            "odds_ratio": 5.4820919820919825
         },
         {
             "description": "\"Any process that activates or increases the frequency, rate or extent of a defense response.\" [GOC:mah]",
@@ -18958,7 +19016,8 @@
             "source": "GO:BP",
             "term_size": 471,
             "source_order": 7397,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 3.6970855231724795
         },
         {
             "description": "\"The appearance of a cytokine due to biosynthesis or secretion following a cellular stimulus, resulting in an increase in its intracellular or extracellular levels.\" [GOC:add, ISBN:0781735149]",
@@ -19237,7 +19296,8 @@
             "source": "GO:BP",
             "term_size": 779,
             "source_order": 478,
-            "group_id": 2
+            "group_id": 2,
+            "odds_ratio": 2.947200070753674
         },
         {
             "description": "\"The chemical reactions and pathways involving ceramides, any N-acylated sphingoid.\" [ISBN:0198547684]",
@@ -19486,7 +19546,8 @@
             "source": "GO:BP",
             "term_size": 106,
             "source_order": 2408,
-            "group_id": 6
+            "group_id": 6,
+            "odds_ratio": 8.376700680272108
         },
         {
             "description": "\"The chemical reactions and pathways resulting in the breakdown of lipids, as carried out by individual cells.\" [GOC:jl]",
@@ -19747,7 +19808,8 @@
             "source": "GO:BP",
             "term_size": 225,
             "source_order": 11302,
-            "group_id": 3
+            "group_id": 3,
+            "odds_ratio": 5.326756663205261
         },
         {
             "description": "\"Any process that modulates the frequency, rate, or extent of an immune system process.\" [GOC:add]",
@@ -20050,7 +20112,8 @@
             "source": "GO:BP",
             "term_size": 1512,
             "source_order": 1207,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 2.268933113321001
         },
         {
             "description": "\"Development of a tissue or tissues that work together to perform a specific function or functions. Development pertains to the process whose specific outcome is the progression of a structure over time, from its formation to the mature structure. Organs are commonly observed as visibly distinct structures, but may also exist as loosely associated clusters of cells that work together to perform a specific function or functions.\" [GOC:dph, GOC:jid]",
@@ -20398,7 +20461,8 @@
             "source": "GO:BP",
             "term_size": 3039,
             "source_order": 13223,
-            "group_id": 2
+            "group_id": 2,
+            "odds_ratio": 1.824381492391858
         },
         {
             "description": "\"Any process that activates, maintains or increases the rate of a response to an external stimulus.\" [GOC:mah]",
@@ -20668,7 +20732,8 @@
             "source": "GO:BP",
             "term_size": 609,
             "source_order": 7634,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 3.21453673230323
         },
         {
             "description": "\"The multiplication or reproduction of cells, resulting in the expansion of a cell population.\" [GOC:mah, GOC:mb]",
@@ -20981,7 +21046,8 @@
             "source": "GO:BP",
             "term_size": 2006,
             "source_order": 3185,
-            "group_id": 7
+            "group_id": 7,
+            "odds_ratio": 2.0556260067861674
         },
         {
             "description": "\"Self-propelled movement of a cell or organism from one location to another.\" [GOC:dgh]",
@@ -21277,7 +21343,8 @@
             "source": "GO:BP",
             "term_size": 1234,
             "source_order": 10240,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 2.404140586463357
         },
         {
             "description": "\"Any process that modulates the frequency, rate, or extent of interleukin-6 production.\" [GOC:mah]",
@@ -21523,7 +21590,8 @@
             "source": "GO:BP",
             "term_size": 151,
             "source_order": 7997,
-            "group_id": 2
+            "group_id": 2,
+            "odds_ratio": 6.52319150505125
         },
         {
             "description": "\"The appearance of interleukin-6 due to biosynthesis or secretion following a cellular stimulus, resulting in an increase in its intracellular or extracellular levels.\" [GOC:mah]",
@@ -21768,7 +21836,8 @@
             "source": "GO:BP",
             "term_size": 151,
             "source_order": 7958,
-            "group_id": 2
+            "group_id": 2,
+            "odds_ratio": 6.52319150505125
         },
         {
             "description": "\"A biological process whose specific outcome is the progression of an integrated living unit: an anatomical structure (which may be a subcellular structure, cell, tissue, or organ), or organism over time from an initial condition to a later condition.\" [GOC:isa_complete]",
@@ -22228,7 +22297,8 @@
             "source": "GO:BP",
             "term_size": 6453,
             "source_order": 7884,
-            "group_id": 2
+            "group_id": 2,
+            "odds_ratio": 1.4956459901514847
         },
         {
             "description": "\"The chemical reactions and pathways resulting in the breakdown of phospholipids, any lipid containing phosphoric acid as a mono- or diester.\" [ISBN:0198506732]",
@@ -22472,7 +22542,8 @@
             "source": "GO:BP",
             "term_size": 55,
             "source_order": 3501,
-            "group_id": 3
+            "group_id": 3,
+            "odds_ratio": 12.466442247001893
         },
         {
             "description": "\"Reactions triggered in response to the presence of a Gram-positive bacterium that act to protect the cell or organism.\" [GOC:ai]",
@@ -22712,7 +22783,8 @@
             "source": "GO:BP",
             "term_size": 120,
             "source_order": 13717,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 7.324404761904762
         },
         {
             "description": "\"The chemical reactions and pathways involving sphingolipids, any of a class of lipids containing the long-chain amine diol sphingosine or a closely related base (a sphingoid).\" [GOC:mah, ISBN:0198506732]",
@@ -22970,7 +23042,8 @@
             "source": "GO:BP",
             "term_size": 162,
             "source_order": 2401,
-            "group_id": 6
+            "group_id": 6,
+            "odds_ratio": 6.050816137973514
         },
         {
             "description": "\"The directed movement of a motile cell or organism, or the directed growth of a cell guided by a specific chemical concentration gradient. Movement may be towards a higher concentration (positive chemotaxis) or towards a lower concentration (negative chemotaxis).\" [ISBN:0198506732]",
@@ -23237,7 +23310,8 @@
             "source": "GO:BP",
             "term_size": 463,
             "source_order": 2604,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 3.5024131274131274
         },
         {
             "description": "\"Reactions triggered in response to the presence of a fungus that act to protect the cell or organism.\" [GOC:ai]",
@@ -23475,7 +23549,8 @@
             "source": "GO:BP",
             "term_size": 59,
             "source_order": 13719,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 11.523244504960125
         },
         {
             "description": "\"The directed movement of a motile cell or organism in response to an external stimulus.\" [GOC:jl, ISBN:0192801023]",
@@ -23742,7 +23817,8 @@
             "source": "GO:BP",
             "term_size": 465,
             "source_order": 10442,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 3.4864864864864864
         },
         {
             "description": "\"Any process that modulates the frequency, rate or extent of cell proliferation.\" [GOC:jl]",
@@ -24042,7 +24118,8 @@
             "source": "GO:BP",
             "term_size": 1683,
             "source_order": 10326,
-            "group_id": 7
+            "group_id": 7,
+            "odds_ratio": 2.0938536529087712
         },
         {
             "description": "\"A metabolic process that generates a pool of NADH by the reduction of NAD+.\" [GOC:mah]",
@@ -24275,7 +24352,8 @@
             "source": "GO:BP",
             "term_size": 18,
             "source_order": 2464,
-            "group_id": 4
+            "group_id": 4,
+            "odds_ratio": 28.842565597667637
         },
         {
             "description": "\"The glycolytic process that begins with the conversion of glucose to glucose-6-phosphate by glucokinase activity. Glycolytic processes are the chemical reactions and pathways resulting in the breakdown of a carbohydrate into pyruvate, with the concomitant production of a small amount of ATP.\" [GOC:dph, ISBN:0201090910, ISBN:0879010479]",
@@ -24511,7 +24589,8 @@
             "source": "GO:BP",
             "term_size": 18,
             "source_order": 16080,
-            "group_id": 4
+            "group_id": 4,
+            "odds_ratio": 28.842565597667637
         },
         {
             "description": "\"The chemical reactions and pathways resulting in the breakdown of glucose, with the production of pyruvate.\" [GOC:dph]",
@@ -24745,7 +24824,8 @@
             "source": "GO:BP",
             "term_size": 18,
             "source_order": 16119,
-            "group_id": 4
+            "group_id": 4,
+            "odds_ratio": 28.842565597667637
         },
         {
             "description": "\"The chemical reactions and pathways involving lipids, as carried out by individual cells.\" [GOC:jl]",
@@ -25055,7 +25135,8 @@
             "source": "GO:BP",
             "term_size": 1005,
             "source_order": 11307,
-            "group_id": 3
+            "group_id": 3,
+            "odds_ratio": 2.490098611159055
         },
         {
             "description": "\"The chemical reactions and pathways resulting in the breakdown of nucleotides, any nucleoside that is esterified with (ortho)phosphate or an oligophosphate at any hydroxyl group on the glycose moiety; may be mono-, di- or triphosphate; this definition includes cyclic-nucleotides (nucleoside cyclic phosphates).\" [GOC:go_curators]",
@@ -25306,7 +25387,8 @@
             "source": "GO:BP",
             "term_size": 170,
             "source_order": 3369,
-            "group_id": 3
+            "group_id": 3,
+            "odds_ratio": 5.747813079249456
         },
         {
             "description": "\"Any process that modulates the frequency, rate or extent of hydrolase activity, the catalysis of the hydrolysis of various bonds, e.g. C-O, C-N, C-C, phosphoric anhydride bonds, etc. Hydrolase is the systematic name for any enzyme of EC class 3.\" [GOC:ai]",
@@ -25565,7 +25647,8 @@
             "source": "GO:BP",
             "term_size": 604,
             "source_order": 14111,
-            "group_id": 5
+            "group_id": 5,
+            "odds_ratio": 3.0405693486376033
         },
         {
             "description": "\"The appearance of a chemokine due to biosynthesis or secretion following a cellular stimulus, resulting in an increase in its intracellular or extracellular levels. All chemokines possess a number of conserved cysteine residues involved in intramolecular disulfide bond formation. Some chemokines are considered pro-inflammatory and can be induced during an immune response to recruit cells of the immune system to a site of infection, while others are considered homeostatic and are involved in controlling the migration of cells during normal processes of tissue maintenance or development. Chemokines are found in all vertebrates, some viruses and some bacteria.\" [GOC:BHF, GOC:rl, ISBN:0198506732, PMID:12183377, Wikipedia:Chemokine]",
@@ -25802,7 +25885,8 @@
             "source": "GO:BP",
             "term_size": 95,
             "source_order": 7926,
-            "group_id": 2
+            "group_id": 2,
+            "odds_ratio": 8.124352331606218
         },
         {
             "description": "\"Any process that modulates the frequency, rate, or extent of chemokine production.\" [GOC:mah]",
@@ -26040,7 +26124,8 @@
             "source": "GO:BP",
             "term_size": 95,
             "source_order": 7965,
-            "group_id": 2
+            "group_id": 2,
+            "odds_ratio": 8.124352331606218
         },
         {
             "description": "\"The chemical reactions and pathways resulting in the breakdown of a nucleoside monophosphate, a compound consisting of a nucleobase linked to a deoxyribose or ribose sugar esterified with phosphate on the sugar.\" [GOC:go_curators, ISBN:0198506732]",
@@ -26272,7 +26357,8 @@
             "source": "GO:BP",
             "term_size": 19,
             "source_order": 3329,
-            "group_id": 3
+            "group_id": 3,
+            "odds_ratio": 26.918367346938776
         },
         {
             "description": "\"The chemical reactions and pathways resulting in the breakdown of substances, including the breakdown of carbon compounds with the liberation of energy for use by the cell or organism.\" [ISBN:0198547684]",
@@ -26626,7 +26712,8 @@
             "source": "GO:BP",
             "term_size": 2556,
             "source_order": 3269,
-            "group_id": 3
+            "group_id": 3,
+            "odds_ratio": 1.8277695537899157
         },
         {
             "description": "\"A process carried out by gene products in an organism that enable the organism to engage in a symbiotic relationship, a more or less intimate association, with another organism. The various forms of symbiosis include parasitism, in which the association is disadvantageous or destructive to one of the organisms; mutualism, in which the association is advantageous, or often necessary to one or both and not harmful to either; and commensalism, in which one member of the association benefits while the other is not affected. However, mutualism, parasitism, and commensalism are often not discrete categories of interactions and should rather be perceived as a continuum of interaction ranging from parasitism to mutualism. In fact, the direction of a symbiotic interaction can change during the lifetime of the symbionts due to developmental changes as well as changes in the biotic/abiotic environment in which the interaction occurs. Microscopic symbionts are often referred to as endosymbionts.\" [GOC:cc, PMID:31257129]",
@@ -26874,7 +26961,8 @@
             "source": "GO:BP",
             "term_size": 319,
             "source_order": 11370,
-            "group_id": 1
+            "group_id": 1,
+            "odds_ratio": 4.052879617437106
         },
         {
             "description": "\"A set of processes which all viruses follow to ensure survival; includes attachment and entry of the virus particle, decoding of genome information, translation of viral mRNA by host ribosomes, genome replication, and assembly and release of viral particles containing the genome.\" [ISBN:1555811272]",
@@ -27124,7 +27212,8 @@
             "source": "GO:BP",
             "term_size": 320,
             "source_order": 5737,
-            "group_id": 10
+            "group_id": 10,
+            "odds_ratio": 4.03951367781155
         },
         {
             "description": "\"Signaling between cells of the same type. The signal produced by the signaling cell binds to a receptor on, and affects a cell of the same type.\" [GOC:bf, ISBN:3527303782]",
@@ -27353,7 +27442,8 @@
             "source": "GO:BP",
             "term_size": 7,
             "source_order": 9333,
-            "group_id": 11
+            "group_id": 11,
+            "odds_ratio": 75.36548223350253
         },
         {
             "description": "\"The chemical reactions and pathways resulting in the breakdown of a carbohydrate into pyruvate, occurring through a glucose-6-phosphate intermediate, with the concomitant production of a small amount of ATP.\" [GOC:dph, ISBN:0201090910, ISBN:0879010479]",
@@ -27586,7 +27676,8 @@
             "source": "GO:BP",
             "term_size": 20,
             "source_order": 16079,
-            "group_id": 4
+            "group_id": 4,
+            "odds_ratio": 25.23469387755102
         },
         {
             "description": "\"The chemical reactions and pathways resulting in the breakdown of a purine ribonucleotide, a compound consisting of ribonucleoside (a purine base linked to a ribose sugar) esterified with a phosphate group at either the 3' or 5'-hydroxyl group of the sugar.\" [GOC:go_curators, ISBN:0198506732]",
@@ -27836,7 +27927,8 @@
             "source": "GO:BP",
             "term_size": 137,
             "source_order": 3358,
-            "group_id": 12
+            "group_id": 12,
+            "odds_ratio": 6.353682170542636
         },
         {
             "description": "\"The chemical reactions and pathways resulting in the breakdown of a nucleoside phosphate.\" [GOC:TermGenie]",
@@ -28088,7 +28180,8 @@
             "source": "GO:BP",
             "term_size": 179,
             "source_order": 21874,
-            "group_id": 3
+            "group_id": 3,
+            "odds_ratio": 5.441022482291346
         }
     ],
     "meta": {
@@ -29134,7 +29227,7 @@
                 }
             }
         },
-        "timestamp": "2024-04-19T10:53:44.192293+00:00",
+        "timestamp": "2024-04-22T07:38:15.524500+00:00",
         "version": "e111_eg58_p18_30541362"
     }
 }
