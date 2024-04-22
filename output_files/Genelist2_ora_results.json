@@ -419,7 +419,7 @@
             "source": "GO:BP",
             "term_size": 3973,
             "source_order": 13413,
-            "group_id": 1,
+            "group_id": 8,
             "odds_ratio": 2.1446471029908647
         },
         {
@@ -860,7 +860,7 @@
             "source": "GO:BP",
             "term_size": 4643,
             "source_order": 2835,
-            "group_id": 1,
+            "group_id": 8,
             "odds_ratio": 2.0007005253940457
         },
         {
@@ -1124,7 +1124,7 @@
             "source": "GO:BP",
             "term_size": 291,
             "source_order": 15973,
-            "group_id": 1,
+            "group_id": 8,
             "odds_ratio": 6.620039088987276
         },
         {
@@ -1476,7 +1476,7 @@
             "source": "GO:BP",
             "term_size": 2455,
             "source_order": 13690,
-            "group_id": 1,
+            "group_id": 8,
             "odds_ratio": 2.345972816303612
         },
         {
@@ -2212,7 +2212,7 @@
             "source": "GO:BP",
             "term_size": 12287,
             "source_order": 13687,
-            "group_id": 1,
+            "group_id": 8,
             "odds_ratio": 1.2775221980356515
         },
         {
@@ -2956,7 +2956,7 @@
             "source": "GO:BP",
             "term_size": 12680,
             "source_order": 16384,
-            "group_id": 1,
+            "group_id": 8,
             "odds_ratio": 1.2291932397959184
         },
         {
@@ -3305,7 +3305,7 @@
             "source": "GO:BP",
             "term_size": 2684,
             "source_order": 3608,
-            "group_id": 1,
+            "group_id": 8,
             "odds_ratio": 2.1723614274867122
         },
         {
@@ -3609,7 +3609,7 @@
             "source": "GO:BP",
             "term_size": 1328,
             "source_order": 13928,
-            "group_id": 1,
+            "group_id": 8,
             "odds_ratio": 2.8236885302753567
         },
         {
@@ -4090,7 +4090,7 @@
             "source": "GO:BP",
             "term_size": 5899,
             "source_order": 13525,
-            "group_id": 1,
+            "group_id": 8,
             "odds_ratio": 1.670448684889118
         },
         {
@@ -4797,7 +4797,7 @@
             "source": "GO:BP",
             "term_size": 11738,
             "source_order": 13691,
-            "group_id": 1,
+            "group_id": 8,
             "odds_ratio": 1.2540913006029286
         },
         {
@@ -5170,7 +5170,7 @@
             "source": "GO:BP",
             "term_size": 2955,
             "source_order": 14037,
-            "group_id": 1,
+            "group_id": 8,
             "odds_ratio": 1.9914582062233068
         },
         {
@@ -5489,8 +5489,353 @@
             "source": "GO:BP",
             "term_size": 1678,
             "source_order": 3654,
-            "group_id": 2,
+            "group_id": 9,
             "odds_ratio": 2.427467989661626
+        },
+        {
+            "description": "\"A cellular component that forms a specialized region of connection between two or more cells, or between a cell and the extracellular matrix, or between two membrane-bound components of a cell, such as flagella.\" [GOC:aruk, GOC:bc, GOC:mah, http://www.vivo.colostate.edu/hbooks/cmb/cells/pmemb/junctions_a.html, ISBN:0198506732, PMID:26820516, PMID:28096264]",
+            "effective_domain_size": 22097,
+            "goshv": 39251,
+            "intersection_size": 41,
+            "intersections": [
+                [],
+                [
+                    "IDA",
+                    "ISS",
+                    "IBA",
+                    "TAS",
+                    "IEA"
+                ],
+                [],
+                [
+                    "IDA",
+                    "IMP",
+                    "IBA"
+                ],
+                [],
+                [
+                    "IDA",
+                    "ISS",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [
+                    "HDA",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "ISS",
+                    "IBA",
+                    "TAS",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS"
+                ],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [
+                    "HDA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [
+                    "IDA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "IMP",
+                    "IEA"
+                ],
+                [],
+                [
+                    "HDA",
+                    "IBA"
+                ],
+                [
+                    "IBA",
+                    "TAS",
+                    "IEA"
+                ],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IEA"
+                ],
+                [],
+                [
+                    "IDA",
+                    "ISS",
+                    "IBA",
+                    "TAS",
+                    "IEA"
+                ],
+                [
+                    "ISS",
+                    "IEA"
+                ],
+                [
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "IEP",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                []
+            ],
+            "name": "cell junction",
+            "native": "GO:0030054",
+            "p_value": 0.00011623215320664401,
+            "parents": [
+                "GO:0110165"
+            ],
+            "precision": 0.22905027932960895,
+            "query": "query_1",
+            "query_size": 179,
+            "recall": 0.018385650224215247,
+            "significant": true,
+            "source": "GO:CC",
+            "term_size": 2230,
+            "source_order": 868,
+            "group_id": 5,
+            "odds_ratio": 2.0745551657659367
         },
         {
             "description": "\"Development of a tissue or tissues that work together to perform a specific function or functions. Development pertains to the process whose specific outcome is the progression of a structure over time, from its formation to the mature structure. Organs are commonly observed as visibly distinct structures, but may also exist as loosely associated clusters of cells that work together to perform a specific function or functions.\" [GOC:dph, GOC:jid]",
@@ -5856,7 +6201,7 @@
             "source": "GO:BP",
             "term_size": 3039,
             "source_order": 13223,
-            "group_id": 1,
+            "group_id": 8,
             "odds_ratio": 1.9258510552276218
         },
         {
@@ -6349,7 +6694,7 @@
             "source": "GO:BP",
             "term_size": 6453,
             "source_order": 7884,
-            "group_id": 1,
+            "group_id": 8,
             "odds_ratio": 1.5270680721815257
         },
         {
@@ -6635,7 +6980,7 @@
             "source": "GO:BP",
             "term_size": 874,
             "source_order": 3660,
-            "group_id": 2,
+            "group_id": 9,
             "odds_ratio": 3.0401069518716577
         },
         {
@@ -7160,8 +7505,281 @@
             "source": "GO:BP",
             "term_size": 7669,
             "source_order": 7883,
-            "group_id": 1,
+            "group_id": 8,
             "odds_ratio": 1.4311600971417897
+        },
+        {
+            "description": "\"The region of a neuron that includes the cell body (cell soma) and dendrite(s), but excludes the axon.\" [GOC:pad, GOC:PARL]",
+            "effective_domain_size": 22097,
+            "goshv": 40103,
+            "intersection_size": 22,
+            "intersections": [
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS"
+                ],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IEA"
+                ],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [
+                    "ISS"
+                ],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "NAS"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                []
+            ],
+            "name": "somatodendritic compartment",
+            "native": "GO:0036477",
+            "p_value": 0.0004374731226195963,
+            "parents": [
+                "GO:0110165"
+            ],
+            "precision": 0.12290502793296089,
+            "query": "query_1",
+            "query_size": 179,
+            "recall": 0.025943396226415096,
+            "significant": true,
+            "source": "GO:CC",
+            "term_size": 848,
+            "source_order": 1720,
+            "group_id": 4,
+            "odds_ratio": 2.8391054765078763
         },
         {
             "description": "\"The process whose specific outcome is the progression of nervous tissue over time, from its formation to its mature state.\" [GOC:dgh]",
@@ -7511,7 +8129,7 @@
             "source": "GO:BP",
             "term_size": 2531,
             "source_order": 2932,
-            "group_id": 1,
+            "group_id": 8,
             "odds_ratio": 1.963471590733352
         },
         {
@@ -7743,7 +8361,7 @@
             "source": "GO:BP",
             "term_size": 3,
             "source_order": 15382,
-            "group_id": 1,
+            "group_id": 8,
             "odds_ratio": Infinity
         },
         {
@@ -8089,7 +8707,7 @@
             "source": "GO:BP",
             "term_size": 2846,
             "source_order": 16385,
-            "group_id": 1,
+            "group_id": 8,
             "odds_ratio": 1.8658554525776012
         },
         {
@@ -8561,8 +9179,504 @@
             "source": "GO:BP",
             "term_size": 6250,
             "source_order": 13226,
-            "group_id": 1,
+            "group_id": 8,
             "odds_ratio": 1.4727174500270124
+        },
+        {
+            "description": "\"The broad region around and including the plasma membrane of a cell, encompassing the cell cortex (inside the cell), the plasma membrane, and any external encapsulating structures.\" [GOC:pdt]",
+            "effective_domain_size": 22097,
+            "goshv": 41176,
+            "intersection_size": 79,
+            "intersections": [
+                [
+                    "IEA"
+                ],
+                [
+                    "IDA",
+                    "IMP",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [
+                    "ISS",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [
+                    "IDA"
+                ],
+                [
+                    "HDA",
+                    "ISS",
+                    "TAS"
+                ],
+                [],
+                [
+                    "IDA",
+                    "IEA"
+                ],
+                [],
+                [
+                    "IEA"
+                ],
+                [
+                    "ISS",
+                    "IBA",
+                    "IEA"
+                ],
+                [
+                    "HDA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IBA",
+                    "IEA"
+                ],
+                [
+                    "TAS",
+                    "IEA"
+                ],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [
+                    "TAS"
+                ],
+                [],
+                [
+                    "IBA",
+                    "TAS",
+                    "IEA"
+                ],
+                [],
+                [
+                    "HDA",
+                    "IBA"
+                ],
+                [
+                    "IBA",
+                    "TAS"
+                ],
+                [
+                    "IMP",
+                    "IEA"
+                ],
+                [
+                    "IEA"
+                ],
+                [
+                    "IDA",
+                    "ISS",
+                    "TAS",
+                    "IC",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "HDA",
+                    "IBA",
+                    "IEA"
+                ],
+                [
+                    "TAS",
+                    "IEA"
+                ],
+                [],
+                [
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "TAS",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "ISS",
+                    "IEA"
+                ],
+                [],
+                [
+                    "HDA",
+                    "IBA",
+                    "IEA"
+                ],
+                [
+                    "IEA"
+                ],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IDA"
+                ],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [
+                    "IBA",
+                    "TAS",
+                    "IEA"
+                ],
+                [
+                    "IDA"
+                ],
+                [],
+                [],
+                [
+                    "IBA",
+                    "TAS",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [
+                    "TAS"
+                ],
+                [],
+                [],
+                [
+                    "IDA",
+                    "ISS",
+                    "IBA",
+                    "TAS",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "NAS"
+                ],
+                [
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IDA"
+                ],
+                [
+                    "TAS",
+                    "IEA"
+                ],
+                [],
+                [
+                    "TAS",
+                    "IEA"
+                ],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "ISS",
+                    "IBA",
+                    "TAS",
+                    "IEA"
+                ],
+                [],
+                [],
+                [
+                    "IDA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [
+                    "TAS",
+                    "IEA"
+                ],
+                [
+                    "IDA",
+                    "HDA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [
+                    "IDA",
+                    "HDA",
+                    "TAS"
+                ],
+                [
+                    "IDA",
+                    "TAS",
+                    "IEA"
+                ],
+                [
+                    "TAS"
+                ],
+                [
+                    "IDA",
+                    "ISS",
+                    "TAS",
+                    "IEA"
+                ],
+                [],
+                [],
+                [
+                    "IDA"
+                ],
+                [
+                    "IDA",
+                    "ISS",
+                    "TAS",
+                    "IC",
+                    "IEA"
+                ],
+                [
+                    "IDA"
+                ],
+                [
+                    "IEA"
+                ],
+                [
+                    "IDA",
+                    "IGI",
+                    "ISS",
+                    "IBA",
+                    "TAS",
+                    "IC",
+                    "IEA"
+                ],
+                [],
+                [
+                    "TAS",
+                    "IEA"
+                ],
+                [],
+                [
+                    "IDA",
+                    "TAS",
+                    "NAS",
+                    "IC"
+                ],
+                [],
+                [],
+                [
+                    "IDA",
+                    "IEA"
+                ],
+                [],
+                [
+                    "IDA",
+                    "ISS",
+                    "TAS",
+                    "IEA"
+                ],
+                [
+                    "ISS"
+                ],
+                [],
+                [
+                    "IDA",
+                    "IBA",
+                    "TAS",
+                    "IEA"
+                ],
+                [
+                    "IDA",
+                    "IEA"
+                ],
+                [
+                    "TAS",
+                    "IEA"
+                ],
+                [],
+                [
+                    "IDA",
+                    "IBA",
+                    "TAS",
+                    "NAS",
+                    "IEA"
+                ],
+                [],
+                [
+                    "HDA",
+                    "ISS",
+                    "IBA",
+                    "TAS",
+                    "IEA"
+                ],
+                [
+                    "IDA",
+                    "IBA",
+                    "TAS",
+                    "NAS",
+                    "IEA"
+                ],
+                [],
+                [
+                    "IDA",
+                    "ISS",
+                    "IBA",
+                    "TAS",
+                    "IEA"
+                ],
+                [
+                    "TAS",
+                    "IEA"
+                ],
+                [
+                    "IBA",
+                    "IEA"
+                ],
+                [
+                    "IDA",
+                    "TAS",
+                    "IEA"
+                ],
+                [
+                    "IBA",
+                    "TAS",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IEA"
+                ],
+                [
+                    "IDA",
+                    "HDA",
+                    "TAS"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA"
+                ]
+            ],
+            "name": "cell periphery",
+            "native": "GO:0071944",
+            "p_value": 0.0009989180813622092,
+            "parents": [
+                "GO:0110165"
+            ],
+            "precision": 0.441340782122905,
+            "query": "query_1",
+            "query_size": 179,
+            "recall": 0.012684649967886963,
+            "significant": true,
+            "source": "GO:CC",
+            "term_size": 6228,
+            "source_order": 2793,
+            "group_id": 6,
+            "odds_ratio": 1.449444846907849
         },
         {
             "description": "\"Any process that activates or increases the frequency, rate or extent of an organismal process, any of the processes pertinent to the function of an organism above the cellular level; includes the integrated processes of tissues and organs.\" [GOC:ai]",
@@ -8870,7 +9984,7 @@
             "source": "GO:BP",
             "term_size": 1637,
             "source_order": 14038,
-            "group_id": 1,
+            "group_id": 8,
             "odds_ratio": 2.241656338196425
         },
         {
@@ -9356,7 +10470,7 @@
             "source": "GO:BP",
             "term_size": 6537,
             "source_order": 2749,
-            "group_id": 1,
+            "group_id": 8,
             "odds_ratio": 1.436660583702031
         },
         {
@@ -9660,7 +10774,7 @@
             "source": "GO:BP",
             "term_size": 1432,
             "source_order": 17229,
-            "group_id": 2,
+            "group_id": 9,
             "odds_ratio": 2.3157673911219265
         },
         {
@@ -9977,7 +11091,7 @@
             "source": "GO:BP",
             "term_size": 2010,
             "source_order": 3786,
-            "group_id": 1,
+            "group_id": 8,
             "odds_ratio": 2.0509982929051396
         },
         {
@@ -10318,7 +11432,7 @@
             "source": "GO:BP",
             "term_size": 2637,
             "source_order": 3883,
-            "group_id": 2,
+            "group_id": 9,
             "odds_ratio": 1.8716762091231818
         },
         {
@@ -10883,8 +11997,834 @@
             "source": "GO:BP",
             "term_size": 8976,
             "source_order": 13774,
-            "group_id": 2,
+            "group_id": 9,
             "odds_ratio": 1.2814919071076707
+        },
+        {
+            "description": "\"A prolongation or process extending from a nerve cell, e.g. an axon or dendrite.\" [GOC:jl, http://www.cogsci.princeton.edu/~wn/]",
+            "effective_domain_size": 22097,
+            "goshv": 40229,
+            "intersection_size": 27,
+            "intersections": [
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS"
+                ],
+                [],
+                [
+                    "ISS",
+                    "IEA"
+                ],
+                [
+                    "ISS",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IEA"
+                ],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IEA"
+                ],
+                [],
+                [
+                    "ISS",
+                    "IBA"
+                ],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "NAS"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                []
+            ],
+            "name": "neuron projection",
+            "native": "GO:0043005",
+            "p_value": 0.002867993773999178,
+            "parents": [
+                "GO:0120025"
+            ],
+            "precision": 0.15083798882681565,
+            "query": "query_1",
+            "query_size": 179,
+            "recall": 0.020239880059970013,
+            "significant": true,
+            "source": "GO:CC",
+            "term_size": 1334,
+            "source_order": 1846,
+            "group_id": 4,
+            "odds_ratio": 2.2082561219931804
+        },
+        {
+            "description": "\"A structure lying external to one or more cells, which provides structural support, biochemical or biomechanical cues for cells or tissues.\" [GOC:BHF, GOC:mah, GOC:rph, NIF_Subcellular:nlx_subcell_20090513, PMID:21123617, PMID:28089324]",
+            "effective_domain_size": 22097,
+            "goshv": 39411,
+            "intersection_size": 16,
+            "intersections": [
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "HDA",
+                    "ISS",
+                    "TAS"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "HDA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "TAS"
+                ],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "HDA",
+                    "IBA"
+                ],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "HDA",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "HDA",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [
+                    "IDA",
+                    "HDA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "HDA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IDA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "HDA",
+                    "ISS",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "HDA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                []
+            ],
+            "name": "extracellular matrix",
+            "native": "GO:0031012",
+            "p_value": 0.0035447753127495368,
+            "parents": [
+                "GO:0030312"
+            ],
+            "precision": 0.0893854748603352,
+            "query": "query_1",
+            "query_size": 179,
+            "recall": 0.02882882882882883,
+            "significant": true,
+            "source": "GO:CC",
+            "term_size": 555,
+            "source_order": 1028,
+            "group_id": 6,
+            "odds_ratio": 3.1073646850044367
+        },
+        {
+            "description": "\"A structure that lies outside the plasma membrane and surrounds the entire cell or cells. This does not include the periplasmic space.\" [GOC:go_curators]",
+            "effective_domain_size": 22097,
+            "goshv": 39310,
+            "intersection_size": 16,
+            "intersections": [
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "HDA",
+                    "ISS",
+                    "TAS"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "HDA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "TAS"
+                ],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "HDA",
+                    "IBA"
+                ],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "HDA",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "HDA",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [
+                    "IDA",
+                    "HDA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "HDA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IDA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "HDA",
+                    "ISS",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "HDA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                []
+            ],
+            "name": "external encapsulating structure",
+            "native": "GO:0030312",
+            "p_value": 0.0036242844715527836,
+            "parents": [
+                "GO:0071944",
+                "GO:0110165"
+            ],
+            "precision": 0.0893854748603352,
+            "query": "query_1",
+            "query_size": 179,
+            "recall": 0.02877697841726619,
+            "significant": true,
+            "source": "GO:CC",
+            "term_size": 556,
+            "source_order": 927,
+            "group_id": 6,
+            "odds_ratio": 3.101449275362319
         },
         {
             "description": "\"The entirety of a process in which information is transmitted within a biological system. This process begins with an active signal and ends when a cellular response has been triggered.\" [GOC:mtg_signal, GOC:mtg_signaling_feb11, GOC:signaling]",
@@ -11365,8 +13305,268 @@
             "source": "GO:BP",
             "term_size": 6447,
             "source_order": 6877,
-            "group_id": 1,
+            "group_id": 8,
             "odds_ratio": 1.4065232186796504
+        },
+        {
+            "description": "\"The portion of a neuron that includes the nucleus, but excludes cell projections such as axons and dendrites.\" [GOC:go_curators]",
+            "effective_domain_size": 22097,
+            "goshv": 40231,
+            "intersection_size": 15,
+            "intersections": [
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS"
+                ],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IEA"
+                ],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [
+                    "ISS"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "NAS"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                []
+            ],
+            "name": "neuronal cell body",
+            "native": "GO:0043025",
+            "p_value": 0.0040168557682219545,
+            "parents": [
+                "GO:0036477",
+                "GO:0044297"
+            ],
+            "precision": 0.08379888268156424,
+            "query": "query_1",
+            "query_size": 179,
+            "recall": 0.030120481927710843,
+            "significant": true,
+            "source": "GO:CC",
+            "term_size": 498,
+            "source_order": 1848,
+            "group_id": 4,
+            "odds_ratio": 3.242739634043982
         },
         {
             "description": "\"Any process that modulates the frequency, rate or extent of cellular component biogenesis, a process that results in the biosynthesis of constituent macromolecules, assembly, and arrangement of constituent parts of a cellular component.\" [GOC:jl]",
@@ -11647,7 +13847,7 @@
             "source": "GO:BP",
             "term_size": 971,
             "source_order": 11272,
-            "group_id": 1,
+            "group_id": 8,
             "odds_ratio": 2.584066366301938
         },
         {
@@ -11979,8 +14179,562 @@
             "source": "GO:BP",
             "term_size": 2202,
             "source_order": 13996,
-            "group_id": 3,
+            "group_id": 10,
             "odds_ratio": 1.91166335775085
+        },
+        {
+            "description": "\"Binding to a specific upstream regulatory DNA sequence (transcription factor recognition sequence or binding site) located in cis relative to the transcription start site (i.e., on the same strand of DNA) of a gene transcribed by RNA polymerase II.\" [GOC:txnOH-2018]",
+            "effective_domain_size": 20212,
+            "goshv": 117,
+            "intersection_size": 26,
+            "intersections": [
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [
+                    "IDA",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "IBA"
+                ],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "IBA"
+                ],
+                [],
+                [
+                    "IDA",
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA",
+                    "IEA"
+                ],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "ISS",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [
+                    "IDA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                []
+            ],
+            "name": "RNA polymerase II cis-regulatory region sequence-specific DNA binding",
+            "native": "GO:0000978",
+            "p_value": 0.006438861283179932,
+            "parents": [
+                "GO:0000977",
+                "GO:0000987"
+            ],
+            "precision": 0.14942528735632185,
+            "query": "query_1",
+            "query_size": 174,
+            "recall": 0.022033898305084745,
+            "significant": true,
+            "source": "GO:MF",
+            "term_size": 1180,
+            "source_order": 117,
+            "group_id": 1,
+            "odds_ratio": 2.4143708041992866
+        },
+        {
+            "description": "\"The part of a synapse that is part of the post-synaptic cell.\" [GOC:dos]",
+            "effective_domain_size": 22097,
+            "goshv": 41640,
+            "intersection_size": 17,
+            "intersections": [
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [
+                    "ISS",
+                    "IBA"
+                ],
+                [],
+                [
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                []
+            ],
+            "name": "postsynapse",
+            "native": "GO:0098794",
+            "p_value": 0.006571510906408489,
+            "parents": [
+                "GO:0045202",
+                "GO:0110165"
+            ],
+            "precision": 0.09497206703910614,
+            "query": "query_1",
+            "query_size": 179,
+            "recall": 0.026153846153846153,
+            "significant": true,
+            "source": "GO:CC",
+            "term_size": 650,
+            "source_order": 3257,
+            "group_id": 5,
+            "odds_ratio": 2.8128609535648614
         },
         {
             "description": "\"Any process that mediates the transfer of information from one cell to another. This process includes signal transduction in the receiving cell and, where applicable, release of a ligand and any processes that actively facilitate its transport and presentation to the receiving cell. Examples include signaling via soluble ligands, via cell adhesion molecules and via gap junctions.\" [GOC:dos, GOC:mah]",
@@ -12290,7 +15044,7 @@
             "source": "GO:BP",
             "term_size": 1704,
             "source_order": 2828,
-            "group_id": 1,
+            "group_id": 8,
             "odds_ratio": 2.0651629072681703
         },
         {
@@ -12627,7 +15381,7 @@
             "source": "GO:BP",
             "term_size": 2683,
             "source_order": 16854,
-            "group_id": 2,
+            "group_id": 9,
             "odds_ratio": 1.7802547770700636
         },
         {
@@ -13068,7 +15822,7 @@
             "source": "GO:BP",
             "term_size": 5541,
             "source_order": 13231,
-            "group_id": 1,
+            "group_id": 8,
             "odds_ratio": 1.4418746368493403
         },
         {
@@ -13521,7 +16275,7 @@
             "source": "GO:BP",
             "term_size": 5874,
             "source_order": 13227,
-            "group_id": 1,
+            "group_id": 8,
             "odds_ratio": 1.417624521072797
         },
         {
@@ -13835,8 +16589,978 @@
             "source": "GO:BP",
             "term_size": 1971,
             "source_order": 17066,
-            "group_id": 2,
+            "group_id": 9,
             "odds_ratio": 1.9573002754820936
+        },
+        {
+            "description": "\"Binding to a specific upstream regulatory DNA sequence (transcription factor recognition sequence or binding site, located in cis relative to the transcription start site (i.e., on the same strand of DNA) of a gene transcribed by some RNA polymerase. Cis-regulatory sites are often referred to as a sequence motifs, enhancers, or silencers.\" [GOC:txnOH-2018]",
+            "effective_domain_size": 20212,
+            "goshv": 120,
+            "intersection_size": 26,
+            "intersections": [
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA",
+                    "IEA"
+                ],
+                [
+                    "IDA",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "IBA"
+                ],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "IBA"
+                ],
+                [],
+                [
+                    "IDA",
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA",
+                    "IEA"
+                ],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "ISS",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [
+                    "IDA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                []
+            ],
+            "name": "cis-regulatory region sequence-specific DNA binding",
+            "native": "GO:0000987",
+            "p_value": 0.009025441046302698,
+            "parents": [
+                "GO:0000976"
+            ],
+            "precision": 0.14942528735632185,
+            "query": "query_1",
+            "query_size": 174,
+            "recall": 0.021612635078969242,
+            "significant": true,
+            "source": "GO:MF",
+            "term_size": 1203,
+            "source_order": 120,
+            "group_id": 1,
+            "odds_ratio": 2.3642711354603074
+        },
+        {
+            "description": "\"Binding to a protein.\" [GOC:go_curators]",
+            "effective_domain_size": 20212,
+            "goshv": 1492,
+            "intersection_size": 151,
+            "intersections": [
+                [
+                    "IPI"
+                ],
+                [
+                    "IPI",
+                    "IMP",
+                    "ISS",
+                    "IEA"
+                ],
+                [
+                    "IEA"
+                ],
+                [
+                    "IPI",
+                    "IBA"
+                ],
+                [
+                    "IPI"
+                ],
+                [
+                    "IPI"
+                ],
+                [],
+                [
+                    "IPI",
+                    "ISS",
+                    "IBA",
+                    "TAS",
+                    "IEA"
+                ],
+                [
+                    "IEA"
+                ],
+                [],
+                [
+                    "IPI"
+                ],
+                [
+                    "IPI"
+                ],
+                [
+                    "IDA",
+                    "IPI",
+                    "IBA",
+                    "TAS",
+                    "IEA"
+                ],
+                [
+                    "IPI",
+                    "ISS",
+                    "IEA"
+                ],
+                [
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [
+                    "IPI"
+                ],
+                [
+                    "IPI"
+                ],
+                [
+                    "IPI"
+                ],
+                [
+                    "IPI",
+                    "ISS",
+                    "IBA",
+                    "IEA"
+                ],
+                [
+                    "IPI",
+                    "IEA"
+                ],
+                [
+                    "IEA"
+                ],
+                [],
+                [
+                    "IPI"
+                ],
+                [],
+                [
+                    "IDA",
+                    "IPI",
+                    "ISS",
+                    "IEA"
+                ],
+                [
+                    "IPI",
+                    "IBA",
+                    "TAS",
+                    "NAS",
+                    "IEA"
+                ],
+                [
+                    "IPI",
+                    "IEA"
+                ],
+                [
+                    "IPI",
+                    "IEA"
+                ],
+                [
+                    "IPI",
+                    "IBA",
+                    "IEA"
+                ],
+                [
+                    "IPI",
+                    "IBA",
+                    "IEA"
+                ],
+                [
+                    "IDA",
+                    "IPI",
+                    "TAS",
+                    "IEA"
+                ],
+                [],
+                [
+                    "IPI"
+                ],
+                [
+                    "IPI",
+                    "IBA",
+                    "TAS",
+                    "IEA"
+                ],
+                [
+                    "IEA"
+                ],
+                [
+                    "IPI",
+                    "IBA"
+                ],
+                [],
+                [
+                    "IPI",
+                    "IBA",
+                    "IEA"
+                ],
+                [
+                    "IPI",
+                    "TAS"
+                ],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [
+                    "IPI",
+                    "ISS",
+                    "TAS",
+                    "IEA"
+                ],
+                [
+                    "EXP",
+                    "IDA",
+                    "IPI"
+                ],
+                [
+                    "IPI",
+                    "IEA"
+                ],
+                [
+                    "IDA",
+                    "IPI"
+                ],
+                [
+                    "IPI"
+                ],
+                [
+                    "IPI"
+                ],
+                [
+                    "IDA",
+                    "IPI",
+                    "IEA"
+                ],
+                [
+                    "IPI"
+                ],
+                [
+                    "IDA",
+                    "IPI",
+                    "TAS",
+                    "IEA"
+                ],
+                [
+                    "IPI",
+                    "IEA"
+                ],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [
+                    "IPI"
+                ],
+                [
+                    "IPI"
+                ],
+                [
+                    "IPI",
+                    "IEA"
+                ],
+                [
+                    "IDA",
+                    "IPI",
+                    "IEA"
+                ],
+                [],
+                [
+                    "IDA",
+                    "IPI",
+                    "ISS",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [
+                    "IPI",
+                    "IEA"
+                ],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [
+                    "IPI",
+                    "IEA"
+                ],
+                [],
+                [],
+                [
+                    "IPI",
+                    "IEA"
+                ],
+                [
+                    "IPI",
+                    "HDA",
+                    "IBA",
+                    "TAS",
+                    "IEA"
+                ],
+                [
+                    "IPI",
+                    "IBA"
+                ],
+                [
+                    "IPI",
+                    "IMP",
+                    "IBA",
+                    "TAS",
+                    "IEA"
+                ],
+                [
+                    "IPI"
+                ],
+                [
+                    "IPI",
+                    "TAS",
+                    "IEA"
+                ],
+                [
+                    "IPI",
+                    "IEA"
+                ],
+                [
+                    "IPI",
+                    "IMP",
+                    "IEA"
+                ],
+                [
+                    "IPI"
+                ],
+                [
+                    "IDA",
+                    "IPI",
+                    "ISS",
+                    "IEA"
+                ],
+                [
+                    "IPI"
+                ],
+                [],
+                [],
+                [
+                    "IPI"
+                ],
+                [
+                    "IPI"
+                ],
+                [
+                    "IDA",
+                    "IEA"
+                ],
+                [
+                    "IDA",
+                    "IPI",
+                    "IEA"
+                ],
+                [],
+                [],
+                [
+                    "IPI",
+                    "IEA"
+                ],
+                [],
+                [
+                    "IPI"
+                ],
+                [],
+                [
+                    "IPI",
+                    "HDA",
+                    "IBA",
+                    "TAS",
+                    "NAS",
+                    "IEA"
+                ],
+                [],
+                [],
+                [
+                    "IPI",
+                    "IEA"
+                ],
+                [],
+                [
+                    "IDA",
+                    "IEA"
+                ],
+                [
+                    "IPI",
+                    "ISS",
+                    "IEA"
+                ],
+                [
+                    "IPI"
+                ],
+                [
+                    "IPI",
+                    "IEA"
+                ],
+                [
+                    "IPI"
+                ],
+                [
+                    "IPI",
+                    "IBA",
+                    "IEA"
+                ],
+                [
+                    "IPI"
+                ],
+                [],
+                [
+                    "IPI"
+                ],
+                [
+                    "IPI",
+                    "IEA"
+                ],
+                [
+                    "IPI"
+                ],
+                [
+                    "IPI"
+                ],
+                [],
+                [
+                    "IPI"
+                ],
+                [
+                    "IPI",
+                    "HDA",
+                    "IEA"
+                ],
+                [
+                    "IPI",
+                    "IEA"
+                ],
+                [],
+                [
+                    "IDA",
+                    "IPI",
+                    "IEA"
+                ],
+                [
+                    "IPI",
+                    "IEA"
+                ],
+                [
+                    "IPI"
+                ],
+                [
+                    "IPI",
+                    "IEA"
+                ],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [
+                    "IPI"
+                ],
+                [
+                    "IEA"
+                ],
+                [
+                    "IPI",
+                    "IEA"
+                ],
+                [
+                    "IPI"
+                ],
+                [],
+                [
+                    "IPI"
+                ],
+                [
+                    "IPI",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [
+                    "IPI",
+                    "IMP"
+                ],
+                [
+                    "IPI"
+                ],
+                [
+                    "IPI"
+                ],
+                [],
+                [
+                    "IPI",
+                    "IEA"
+                ],
+                [],
+                [
+                    "IPI"
+                ],
+                [
+                    "IPI",
+                    "IEA"
+                ],
+                [
+                    "IPI"
+                ],
+                [
+                    "IEA"
+                ],
+                [],
+                [
+                    "IPI"
+                ],
+                [
+                    "IDA",
+                    "IPI"
+                ],
+                [],
+                [],
+                [
+                    "IPI",
+                    "ISS",
+                    "IEA"
+                ],
+                [
+                    "IPI"
+                ],
+                [],
+                [
+                    "IPI"
+                ],
+                [
+                    "IPI",
+                    "IEA"
+                ],
+                [
+                    "IPI"
+                ],
+                [
+                    "IPI",
+                    "ISS",
+                    "IEA"
+                ],
+                [
+                    "IPI"
+                ],
+                [
+                    "IDA",
+                    "IPI"
+                ],
+                [
+                    "IPI"
+                ],
+                [
+                    "IPI"
+                ],
+                [
+                    "IEA"
+                ],
+                [
+                    "IEA"
+                ],
+                [
+                    "IPI",
+                    "ISS",
+                    "IEA"
+                ],
+                [
+                    "IPI",
+                    "IEA"
+                ],
+                [
+                    "IPI"
+                ],
+                [
+                    "IPI"
+                ],
+                [
+                    "IPI",
+                    "IEA"
+                ],
+                [
+                    "IDA",
+                    "IPI",
+                    "IBA",
+                    "NAS",
+                    "IEA"
+                ],
+                [
+                    "IPI"
+                ],
+                [
+                    "IPI"
+                ],
+                [
+                    "IPI"
+                ],
+                [
+                    "ISS"
+                ],
+                [
+                    "ISS",
+                    "IBA",
+                    "TAS",
+                    "IEA"
+                ],
+                [
+                    "IPI"
+                ],
+                [
+                    "IPI"
+                ],
+                [
+                    "IPI"
+                ],
+                [
+                    "IPI"
+                ],
+                [
+                    "IPI"
+                ],
+                [
+                    "IPI",
+                    "IEA"
+                ],
+                [],
+                [
+                    "IPI",
+                    "IBA",
+                    "TAS",
+                    "IEA"
+                ],
+                [
+                    "IDA",
+                    "IPI",
+                    "ISS",
+                    "TAS",
+                    "IEA"
+                ],
+                [],
+                [
+                    "IDA",
+                    "IPI",
+                    "ISS",
+                    "IEA"
+                ],
+                [
+                    "IPI",
+                    "ISS"
+                ],
+                [
+                    "IEA"
+                ],
+                [
+                    "IPI",
+                    "IEA"
+                ],
+                [],
+                [
+                    "IPI"
+                ],
+                [
+                    "IPI",
+                    "ISS",
+                    "IEA"
+                ],
+                [
+                    "IPI",
+                    "IEA"
+                ],
+                [
+                    "IPI"
+                ],
+                [
+                    "IPI"
+                ],
+                [
+                    "IDA",
+                    "IPI",
+                    "IBA",
+                    "NAS",
+                    "IEA"
+                ],
+                [],
+                [
+                    "IPI"
+                ],
+                [],
+                [],
+                [
+                    "IPI",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [
+                    "IPI"
+                ],
+                []
+            ],
+            "name": "protein binding",
+            "native": "GO:0005515",
+            "p_value": 0.009602606368523225,
+            "parents": [
+                "GO:0005488"
+            ],
+            "precision": 0.867816091954023,
+            "query": "query_1",
+            "query_size": 174,
+            "recall": 0.010176573662218628,
+            "significant": true,
+            "source": "GO:MF",
+            "term_size": 14838,
+            "source_order": 1492,
+            "group_id": 2,
+            "odds_ratio": 1.0728118577723185
         },
         {
             "description": "\"Any process that modulates the frequency, rate or extent of the chemical reactions and pathways within a cell or an organism involving those compounds formed as a part of the normal anabolic and catabolic processes. These processes take place in most, if not all, cells of the organism.\" [PMID:19211694]",
@@ -14304,7 +18028,7 @@
             "source": "GO:BP",
             "term_size": 5591,
             "source_order": 18320,
-            "group_id": 5,
+            "group_id": 12,
             "odds_ratio": 1.4238287832827772
         },
         {
@@ -14756,7 +18480,7 @@
             "source": "GO:BP",
             "term_size": 5717,
             "source_order": 13230,
-            "group_id": 1,
+            "group_id": 8,
             "odds_ratio": 1.4104849424269266
         },
         {
@@ -15003,7 +18727,7 @@
             "source": "GO:BP",
             "term_size": 163,
             "source_order": 23168,
-            "group_id": 6,
+            "group_id": 13,
             "odds_ratio": 6.011219147344802
         },
         {
@@ -15311,7 +19035,7 @@
             "source": "GO:BP",
             "term_size": 2006,
             "source_order": 3185,
-            "group_id": 7,
+            "group_id": 14,
             "odds_ratio": 1.9187768091877682
         },
         {
@@ -15612,8 +19336,264 @@
             "source": "GO:BP",
             "term_size": 1663,
             "source_order": 22187,
-            "group_id": 2,
+            "group_id": 9,
             "odds_ratio": 2.042029237730595
+        },
+        {
+            "description": "\"An extracellular matrix consisting mainly of proteins (especially collagen) and glycosaminoglycans (mostly as proteoglycans) that provides not only essential physical scaffolding for the cellular constituents but can also initiate crucial biochemical and biomechanical cues required for tissue morphogenesis, differentiation and homeostasis. The components are secreted by cells in the vicinity and form a sheet underlying or overlying cells such as endothelial and epithelial cells.\" [GOC:BHF, GOC:rph, PMID:21123617]",
+            "effective_domain_size": 22097,
+            "goshv": 40743,
+            "intersection_size": 13,
+            "intersections": [
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "HDA",
+                    "ISS"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "HDA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "TAS"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "HDA"
+                ],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "HDA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "HDA",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [
+                    "HDA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "HDA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IDA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "HDA",
+                    "ISS",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "HDA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                []
+            ],
+            "name": "collagen-containing extracellular matrix",
+            "native": "GO:0062023",
+            "p_value": 0.013037636700938061,
+            "parents": [
+                "GO:0031012"
+            ],
+            "precision": 0.07262569832402235,
+            "query": "query_1",
+            "query_size": 179,
+            "recall": 0.03058823529411765,
+            "significant": true,
+            "source": "GO:CC",
+            "term_size": 425,
+            "source_order": 2360,
+            "group_id": 6,
+            "odds_ratio": 3.271429313119776
         },
         {
             "description": "\"The reproductive developmental process whose specific outcome is the progression of somatic structures that will be used in the process of creating new individuals from one or more parents, from their formation to the mature structures.\" [GOC:dph, GOC:isa_complete, GOC:jid]",
@@ -15863,8 +19843,269 @@
             "source": "GO:BP",
             "term_size": 311,
             "source_order": 13294,
-            "group_id": 1,
+            "group_id": 8,
             "odds_ratio": 4.163025688465097
+        },
+        {
+            "description": "\"A neuron projection that has a short, tapering, morphology. Dendrites receive and integrate signals from other neurons or from sensory stimuli, and conduct nerve impulses towards the axon or the cell body. In most neurons, the impulse is conveyed from dendrites to axon via the cell body, but in some types of unipolar neuron, the impulse does not travel via the cell body.\" [GOC:aruk, GOC:bc, GOC:dos, GOC:mah, GOC:nln, ISBN:0198506732]",
+            "effective_domain_size": 22097,
+            "goshv": 39316,
+            "intersection_size": 16,
+            "intersections": [
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS"
+                ],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS"
+                ],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "NAS"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                []
+            ],
+            "name": "dendrite",
+            "native": "GO:0030425",
+            "p_value": 0.014048940528518763,
+            "parents": [
+                "GO:0043005",
+                "GO:0097447"
+            ],
+            "precision": 0.0893854748603352,
+            "query": "query_1",
+            "query_size": 179,
+            "recall": 0.02572347266881029,
+            "significant": true,
+            "source": "GO:CC",
+            "term_size": 622,
+            "source_order": 933,
+            "group_id": 4,
+            "odds_ratio": 2.754197158846319
         },
         {
             "description": "\"Any process that modulates the frequency, rate or extent of transcription mediated by RNA polymerase II.\" [GOC:go_curators, GOC:txnOH]",
@@ -16225,8 +20466,269 @@
             "source": "GO:BP",
             "term_size": 2567,
             "source_order": 2157,
-            "group_id": 4,
+            "group_id": 11,
             "odds_ratio": 1.7633815862202902
+        },
+        {
+            "description": "\"The entire complement of dendrites for a neuron, consisting of each primary dendrite and all its branches.\" [GOC:aruk, GOC:bc, NIF_Subcellular:sao172297168]",
+            "effective_domain_size": 22097,
+            "goshv": 41388,
+            "intersection_size": 16,
+            "intersections": [
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS"
+                ],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS"
+                ],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "NAS"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                []
+            ],
+            "name": "dendritic tree",
+            "native": "GO:0097447",
+            "p_value": 0.014592442040766556,
+            "parents": [
+                "GO:0036477",
+                "GO:0043005"
+            ],
+            "precision": 0.0893854748603352,
+            "query": "query_1",
+            "query_size": 179,
+            "recall": 0.02564102564102564,
+            "significant": true,
+            "source": "GO:CC",
+            "term_size": 624,
+            "source_order": 3005,
+            "group_id": 4,
+            "odds_ratio": 2.7448512585812357
         },
         {
             "description": "\"The progression of the reproductive system over time from its formation to the mature structure. The reproductive system consists of the organs that function in reproduction.\" [GOC:dph]",
@@ -16474,7 +20976,7 @@
             "source": "GO:BP",
             "term_size": 315,
             "source_order": 15982,
-            "group_id": 1,
+            "group_id": 8,
             "odds_ratio": 4.107225616178639
         },
         {
@@ -16744,7 +21246,7 @@
             "source": "GO:BP",
             "term_size": 616,
             "source_order": 2764,
-            "group_id": 8,
+            "group_id": 15,
             "odds_ratio": 2.977795414944762
         },
         {
@@ -17209,8 +21711,267 @@
             "source": "GO:BP",
             "term_size": 5440,
             "source_order": 13995,
-            "group_id": 3,
+            "group_id": 10,
             "odds_ratio": 1.4150079377374392
+        },
+        {
+            "description": "\"The portion of a cell bearing surface projections such as axons, dendrites, cilia, or flagella that includes the nucleus, but excludes all cell projections.\" [GOC:go_curators]",
+            "effective_domain_size": 22097,
+            "goshv": 40433,
+            "intersection_size": 15,
+            "intersections": [
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS"
+                ],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IEA"
+                ],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [
+                    "ISS"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "NAS"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                []
+            ],
+            "name": "cell body",
+            "native": "GO:0044297",
+            "p_value": 0.01710501126947343,
+            "parents": [
+                "GO:0110165"
+            ],
+            "precision": 0.08379888268156424,
+            "query": "query_1",
+            "query_size": 179,
+            "recall": 0.02654867256637168,
+            "significant": true,
+            "source": "GO:CC",
+            "term_size": 565,
+            "source_order": 2050,
+            "group_id": 4,
+            "odds_ratio": 2.8378378378378377
         },
         {
             "description": "\"Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an abiotic (not derived from living organisms) stimulus.\" [GOC:hb]",
@@ -17490,7 +22251,7 @@
             "source": "GO:BP",
             "term_size": 1128,
             "source_order": 3586,
-            "group_id": 2,
+            "group_id": 9,
             "odds_ratio": 2.309288537549407
         },
         {
@@ -17990,7 +22751,7 @@
             "source": "GO:BP",
             "term_size": 7394,
             "source_order": 14364,
-            "group_id": 2,
+            "group_id": 9,
             "odds_ratio": 1.2895168956874945
         },
         {
@@ -18301,8 +23062,336 @@
             "source": "GO:BP",
             "term_size": 1712,
             "source_order": 10601,
-            "group_id": 1,
+            "group_id": 8,
             "odds_ratio": 1.9771585665055669
+        },
+        {
+            "description": "\"A DNA-binding transcription factor activity that modulates the transcription of specific gene sets transcribed by RNA polymerase II.\" [GOC:txnOH-2018]",
+            "effective_domain_size": 20212,
+            "goshv": 119,
+            "intersection_size": 27,
+            "intersections": [
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISA",
+                    "IBA"
+                ],
+                [
+                    "IDA",
+                    "ISA",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "IMP",
+                    "ISA",
+                    "IBA",
+                    "TAS",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [
+                    "ISA",
+                    "IBA",
+                    "TAS"
+                ],
+                [],
+                [],
+                [
+                    "IDA",
+                    "ISS",
+                    "ISA",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "ISS",
+                    "ISA",
+                    "IBA",
+                    "TAS",
+                    "IEA"
+                ],
+                [],
+                [
+                    "IDA",
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "IMP",
+                    "ISA",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS",
+                    "ISA",
+                    "IBA",
+                    "IC"
+                ],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "ISA",
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "ISS",
+                    "ISA",
+                    "IBA",
+                    "IEA"
+                ],
+                [
+                    "ISA",
+                    "IBA"
+                ],
+                [],
+                [],
+                [
+                    "IDA",
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "ISS",
+                    "ISA",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "ISA",
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "ISA",
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISA",
+                    "IBA"
+                ],
+                [],
+                [
+                    "ISA",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "ISA",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                []
+            ],
+            "name": "DNA-binding transcription factor activity, RNA polymerase II-specific",
+            "native": "GO:0000981",
+            "p_value": 0.02409645327089479,
+            "parents": [
+                "GO:0003700"
+            ],
+            "precision": 0.15517241379310345,
+            "query": "query_1",
+            "query_size": 174,
+            "recall": 0.01998519615099926,
+            "significant": true,
+            "source": "GO:MF",
+            "term_size": 1351,
+            "source_order": 119,
+            "group_id": 3,
+            "odds_ratio": 2.1778984684700418
         },
         {
             "description": "\"Generation of cells within the nervous system.\" [GO_REF:0000021, GOC:cls, GOC:curators, GOC:dgh, GOC:dph, GOC:jid]",
@@ -18610,7 +23699,7 @@
             "source": "GO:BP",
             "term_size": 1742,
             "source_order": 6799,
-            "group_id": 1,
+            "group_id": 8,
             "odds_ratio": 1.9392756234459243
         },
         {
@@ -18913,7 +24002,7 @@
             "source": "GO:BP",
             "term_size": 1576,
             "source_order": 11842,
-            "group_id": 1,
+            "group_id": 8,
             "odds_ratio": 2.000994189848679
         },
         {
@@ -19208,7 +24297,7 @@
             "source": "GO:BP",
             "term_size": 1411,
             "source_order": 26054,
-            "group_id": 1,
+            "group_id": 8,
             "odds_ratio": 2.076714891910856
         },
         {
@@ -19613,7 +24702,7 @@
             "source": "GO:BP",
             "term_size": 4366,
             "source_order": 6924,
-            "group_id": 1,
+            "group_id": 8,
             "odds_ratio": 1.4688296912393581
         },
         {
@@ -19966,7 +25055,7 @@
             "source": "GO:BP",
             "term_size": 3443,
             "source_order": 4342,
-            "group_id": 1,
+            "group_id": 8,
             "odds_ratio": 1.5685920225407517
         },
         {
@@ -20372,7 +25461,7 @@
             "source": "GO:BP",
             "term_size": 4367,
             "source_order": 13537,
-            "group_id": 1,
+            "group_id": 8,
             "odds_ratio": 1.468394026260137
         },
         {
@@ -20613,7 +25702,7 @@
             "source": "GO:BP",
             "term_size": 70,
             "source_order": 8193,
-            "group_id": 9,
+            "group_id": 16,
             "odds_ratio": 9.537371134020619
         },
         {
@@ -20989,8 +26078,580 @@
             "source": "GO:BP",
             "term_size": 3957,
             "source_order": 10394,
-            "group_id": 2,
+            "group_id": 9,
             "odds_ratio": 1.506459730660293
+        },
+        {
+            "description": "\"The junction between an axon of one neuron and a dendrite of another neuron, a muscle fiber or a glial cell. As the axon approaches the synapse it enlarges into a specialized structure, the presynaptic terminal bouton, which contains mitochondria and synaptic vesicles. At the tip of the terminal bouton is the presynaptic membrane; facing it, and separated from it by a minute cleft (the synaptic cleft) is a specialized area of membrane on the receiving cell, known as the postsynaptic membrane. In response to the arrival of nerve impulses, the presynaptic terminal bouton secretes molecules of neurotransmitters into the synaptic cleft. These diffuse across the cleft and transmit the signal to the postsynaptic membrane.\" [GOC:aruk, ISBN:0198506732, PMID:24619342, PMID:29383328, PMID:31998110]",
+            "effective_domain_size": 22097,
+            "goshv": 40523,
+            "intersection_size": 26,
+            "intersections": [
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "IMP",
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "IMP",
+                    "IEA"
+                ],
+                [],
+                [
+                    "IBA"
+                ],
+                [
+                    "IBA",
+                    "TAS",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IEA"
+                ],
+                [],
+                [
+                    "IDA",
+                    "ISS",
+                    "IBA"
+                ],
+                [],
+                [
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "IEP",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                []
+            ],
+            "name": "synapse",
+            "native": "GO:0045202",
+            "p_value": 0.03942473223558068,
+            "parents": [
+                "GO:0030054"
+            ],
+            "precision": 0.1452513966480447,
+            "query": "query_1",
+            "query_size": 179,
+            "recall": 0.017711171662125342,
+            "significant": true,
+            "source": "GO:CC",
+            "term_size": 1468,
+            "source_order": 2140,
+            "group_id": 5,
+            "odds_ratio": 1.9023227637221611
+        },
+        {
+            "description": "\"A cell junction that mechanically attaches a cell (and its cytoskeleton) to neighboring cells or to the extracellular matrix.\" [ISBN:0815332181]",
+            "effective_domain_size": 22097,
+            "goshv": 40823,
+            "intersection_size": 19,
+            "intersections": [
+                [],
+                [
+                    "IDA",
+                    "ISS",
+                    "IBA",
+                    "TAS",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [
+                    "HDA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "ISS",
+                    "IBA",
+                    "TAS",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "HDA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "HDA"
+                ],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IEA"
+                ],
+                [],
+                [
+                    "ISS",
+                    "TAS"
+                ],
+                [
+                    "ISS",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                []
+            ],
+            "name": "anchoring junction",
+            "native": "GO:0070161",
+            "p_value": 0.041330431352855,
+            "parents": [
+                "GO:0030054"
+            ],
+            "precision": 0.10614525139664804,
+            "query": "query_1",
+            "query_size": 179,
+            "recall": 0.020994475138121547,
+            "significant": true,
+            "source": "GO:CC",
+            "term_size": 905,
+            "source_order": 2440,
+            "group_id": 5,
+            "odds_ratio": 2.240911415137872
         },
         {
             "description": "\"Any process involved in the maintenance of an internal steady state at the level of the multicellular organism.\" [GOC:isa_complete]",
@@ -21260,7 +26921,7 @@
             "source": "GO:BP",
             "term_size": 806,
             "source_order": 13539,
-            "group_id": 1,
+            "group_id": 8,
             "odds_ratio": 2.5360098843780494
         },
         {
@@ -21545,7 +27206,7 @@
             "source": "GO:BP",
             "term_size": 1110,
             "source_order": 14039,
-            "group_id": 1,
+            "group_id": 8,
             "odds_ratio": 2.2370126663859997
         },
         {
@@ -21911,8 +27572,325 @@
             "source": "GO:BP",
             "term_size": 2691,
             "source_order": 2164,
-            "group_id": 4,
+            "group_id": 11,
             "odds_ratio": 1.668802658122701
+        },
+        {
+            "description": "\"A prolongation or process extending from a cell, e.g. a flagellum or axon.\" [GOC:jl, http://www.cogsci.princeton.edu/~wn/]",
+            "effective_domain_size": 22097,
+            "goshv": 40228,
+            "intersection_size": 36,
+            "intersections": [
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS"
+                ],
+                [],
+                [
+                    "ISS",
+                    "IEA"
+                ],
+                [
+                    "ISS",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IEA"
+                ],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [
+                    "IBA"
+                ],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IEA"
+                ],
+                [],
+                [],
+                [
+                    "IDA",
+                    "IEA"
+                ],
+                [
+                    "IDA",
+                    "ISS"
+                ],
+                [],
+                [],
+                [
+                    "ISS",
+                    "IBA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "ISS"
+                ],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "IDA",
+                    "IEA"
+                ],
+                [],
+                [],
+                [
+                    "IDA",
+                    "ISS",
+                    "IEA"
+                ],
+                [],
+                [
+                    "ISS",
+                    "IBA"
+                ],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [
+                    "IEA"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [
+                    "NAS"
+                ],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                []
+            ],
+            "name": "cell projection",
+            "native": "GO:0042995",
+            "p_value": 0.0498446721464162,
+            "parents": [
+                "GO:0110165"
+            ],
+            "precision": 0.2011173184357542,
+            "query": "query_1",
+            "query_size": 179,
+            "recall": 0.01506906655504395,
+            "significant": true,
+            "source": "GO:CC",
+            "term_size": 2389,
+            "source_order": 1845,
+            "group_id": 7,
+            "odds_ratio": 1.6276367481056877
         }
     ],
     "meta": {
@@ -22126,6 +28104,8 @@
             "ordered": false,
             "no_iea": false,
             "sources": [
+                "GO:MF",
+                "GO:CC",
                 "GO:BP"
             ],
             "combined": false,
@@ -22139,6 +28119,16 @@
             "highlight": null
         },
         "result_metadata": {
+            "GO:MF": {
+                "domain_size": 20212,
+                "number_of_terms": 11198,
+                "threshold": 7.4e-05
+            },
+            "GO:CC": {
+                "domain_size": 22097,
+                "number_of_terms": 4058,
+                "threshold": 0.000175
+            },
             "GO:BP": {
                 "domain_size": 21031,
                 "number_of_terms": 27185,
@@ -22956,7 +28946,7 @@
                 }
             }
         },
-        "timestamp": "2024-04-22T07:38:16.201663+00:00",
+        "timestamp": "2024-04-22T08:15:08.868059+00:00",
         "version": "e111_eg58_p18_30541362"
     }
 }

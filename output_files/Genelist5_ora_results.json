@@ -118,6 +118,8 @@
             "ordered": false,
             "no_iea": false,
             "sources": [
+                "GO:MF",
+                "GO:CC",
                 "GO:BP"
             ],
             "combined": false,
@@ -131,6 +133,16 @@
             "highlight": null
         },
         "result_metadata": {
+            "GO:MF": {
+                "domain_size": 20212,
+                "number_of_terms": 11198,
+                "threshold": 0.000149
+            },
+            "GO:CC": {
+                "domain_size": 22097,
+                "number_of_terms": 4058,
+                "threshold": 0.000227
+            },
             "GO:BP": {
                 "domain_size": 21031,
                 "number_of_terms": 27185,
@@ -170,7 +182,7 @@
                 }
             }
         },
-        "timestamp": "2024-04-22T07:38:17.987252+00:00",
+        "timestamp": "2024-04-22T08:15:11.164516+00:00",
         "version": "e111_eg58_p18_30541362"
     }
 }
