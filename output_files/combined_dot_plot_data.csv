@@ -1,0 +1,670 @@
+term,p_value,category,gene_list,odds_ratio
+keratinization,2.291836869036689e-22,BP,Genelist1,37.96309185822878
+cornified envelope,2.7040959204617073e-21,BP,Genelist1,47.66309300455642
+keratinocyte differentiation,3.028739857726279e-20,BP,Genelist1,18.589403973509935
+epidermis development,4.244291103690393e-20,BP,Genelist1,10.67065868263473
+skin development,3.2551543226915936e-18,BP,Genelist1,11.330048866458384
+extracellular region,2.296525323402652e-17,BP,Genelist1,3.1109959649857784
+epidermal cell differentiation,2.0011134140741627e-16,BP,Genelist1,12.428571428571429
+extracellular space,2.7063923240235675e-14,BP,Genelist1,3.013990276610283
+response to bacterium,8.103681452677322e-14,BP,Genelist1,5.919265649192656
+biological process involved in interspecies interaction between organisms,9.329649603276012e-14,BP,Genelist1,3.9116134784254815
+defense response,2.1844972285499404e-12,BP,Genelist1,3.6490838164213666
+response to other organism,3.102968814278799e-12,BP,Genelist1,3.8526315789473684
+response to external biotic stimulus,3.3435879475919435e-12,BP,Genelist1,3.844311377245509
+response to biotic stimulus,7.88275391676605e-12,BP,Genelist1,3.7496406816781875
+defense response to other organism,2.0223041121718275e-10,BP,Genelist1,3.944915254237288
+epithelial cell differentiation,2.0653332758739496e-09,BP,Genelist1,4.744821872410936
+vesicle,2.33442316817454e-09,BP,Genelist1,2.3204149532186116
+response to external stimulus,6.181938223195355e-09,BP,Genelist1,2.6915852022235
+inflammatory response,6.714984190289086e-09,BP,Genelist1,4.367887173555189
+extracellular exosome,7.762532622326359e-09,BP,Genelist1,2.79450909792323
+immune response,8.816577855588704e-09,BP,Genelist1,2.9891457670882446
+extracellular vesicle,1.1601375792844876e-08,BP,Genelist1,2.758589569218645
+extracellular membrane-bounded organelle,1.1795566016031947e-08,BP,Genelist1,2.757110867597313
+extracellular organelle,1.1795566016031947e-08,BP,Genelist1,2.757110867597313
+establishment of skin barrier,1.6083998026875065e-08,BP,Genelist1,37.27225130890052
+cell periphery,1.93542097568666e-08,BP,Genelist1,1.9756937822591063
+defense response to symbiont,2.991578479476754e-08,BP,Genelist1,3.683982683982684
+response to molecule of bacterial origin,5.1459966084030964e-08,BP,Genelist1,6.4757152361942785
+plasma membrane,6.512248341163223e-08,BP,Genelist1,1.9658143413007225
+defense response to bacterium,9.257945101798572e-08,BP,Genelist1,6.687357816054599
+response to stress,1.035841929281102e-07,BP,Genelist1,2.2783253734376587
+response to lipopolysaccharide,1.6368012465085124e-07,BP,Genelist1,6.4516618157101275
+tissue development,1.6924584256857617e-07,BP,Genelist1,2.7913091539893253
+antimicrobial humoral response,1.8509489078483672e-07,BP,Genelist1,11.595486268467326
+cellular response to chemical stimulus,1.1984853822657572e-06,BP,Genelist1,2.4157161689688773
+immune system process,1.3951981714450244e-06,BP,Genelist1,2.3808310839067786
+epithelium development,1.6581776592035029e-06,BP,Genelist1,3.2002367151224544
+organophosphate catabolic process,3.7443669948924106e-06,BP,Genelist1,7.150474799123447
+secretory granule lumen,4.199810143710182e-06,BP,Genelist1,5.576659038901602
+cytoplasmic vesicle lumen,4.7882178781357845e-06,BP,Genelist1,5.521314261436057
+vesicle lumen,5.000517545291836e-06,BP,Genelist1,5.503105590062112
+peptide cross-linking,5.632436423602225e-06,BP,Genelist1,34.16062176165803
+innate immune response,5.948736367539971e-06,BP,Genelist1,3.4179037336932074
+cytoplasm,1.2237781743518384e-05,BP,Genelist1,1.417692991621965
+carbohydrate derivative catabolic process,1.4649401431106441e-05,BP,Genelist1,6.418535944851734
+membrane,1.5917645164382052e-05,BP,Genelist1,1.5158707535995033
+cytosol,2.3002058676018438e-05,BP,Genelist1,1.7375055014915155
+skin epidermis development,3.683439152598924e-05,BP,Genelist1,9.387544453118224
+secretory granule,4.29541806853177e-05,BP,Genelist1,3.104641627029687
+antimicrobial humoral immune response mediated by antimicrobial peptide,7.050779777565422e-05,BP,Genelist1,12.560775435120984
+cellular response to lipopolysaccharide,7.560257712012338e-05,BP,Genelist1,6.77859366270253
+regulation of defense response,7.617504800323491e-05,BP,Genelist1,3.4926686217008798
+cellular response to cytokine stimulus,9.718885963421595e-05,BP,Genelist1,3.332046332046332
+cellular response to molecule of bacterial origin,0.00012934419950450568,BP,Genelist1,6.454038573637124
+response to cytokine,0.00018816686438055265,BP,Genelist1,3.11616046281495
+calcium-dependent phospholipase A2 activity,0.00020810633906876035,BP,Genelist1,42.282051282051285
+anatomical structure development,0.00024365926083587974,BP,Genelist1,1.7056866410373976
+response to chemical,0.0002951572501949909,BP,Genelist1,1.8783867375974268
+cellular response to organic substance,0.0003078685345953867,BP,Genelist1,2.313438632832729
+regulation of peptidase activity,0.0003495299896340685,BP,Genelist1,5.889228418640183
+multicellular organismal process,0.0003828520994188872,BP,Genelist1,1.5835960082137672
+cellular response to biotic stimulus,0.00046227219998910753,BP,Genelist1,5.73837406078657
+structural constituent of skin epidermis,0.00051023741542012,BP,Genelist1,20.38144329896907
+lipid binding,0.000516691267161972,BP,Genelist1,3.168409925447869
+cytokine-mediated signaling pathway,0.0005468475538932002,BP,Genelist1,3.972287587672203
+humoral immune response,0.0005545382095287195,BP,Genelist1,5.641977500166419
+response to lipid,0.000557640189083843,BP,Genelist1,3.0175578611332803
+RAGE receptor binding,0.000821458114582351,BP,Genelist1,67.3265306122449
+response to organic substance,0.0009209498917019485,BP,Genelist1,2.0412092765033942
+response to oxygen-containing compound,0.0009346305456851996,BP,Genelist1,2.3677313677313676
+secretory vesicle,0.0010787721963212299,BP,Genelist1,2.5665024630541873
+cytoplasmic vesicle,0.0011099827976148622,BP,Genelist1,1.9216328425178577
+intracellular vesicle,0.00116840387997529,BP,Genelist1,1.9171974522292994
+regulation of inflammatory response,0.0015643202502546151,BP,Genelist1,4.378378378378378
+fatty acid binding,0.002933289527026815,BP,Genelist1,14.549337260677467
+regulation of response to external stimulus,0.0029525698848781746,BP,Genelist1,2.6656276999464112
+cellular catabolic process,0.003295911535927897,BP,Genelist1,2.2992521657387206
+phospholipase activity,0.0039012944505804354,BP,Genelist1,8.291666666666666
+serine-type endopeptidase activity,0.003974874696186583,BP,Genelist1,6.077399380804954
+regulation of multicellular organismal process,0.004086258738196335,BP,Genelist1,1.8864965383335688
+organonitrogen compound metabolic process,0.004851358038982318,BP,Genelist1,1.5683485720735975
+calcium-dependent protein binding,0.00486768027841679,BP,Genelist1,9.937823834196891
+cellular response to oxygen-containing compound,0.004924709402740331,BP,Genelist1,2.526372832369942
+endomembrane system,0.005069111746828424,BP,Genelist1,1.5417216877318745
+monocarboxylic acid binding,0.005293352020630284,BP,Genelist1,9.801192419618141
+regulation of cytokine production,0.005431571806794595,BP,Genelist1,2.971651016284322
+response to stimulus,0.005456278753849861,BP,Genelist1,1.41803212106443
+regulation of endopeptidase activity,0.005602486190931773,BP,Genelist1,5.4820919820919825
+positive regulation of defense response,0.0056139780791092525,BP,Genelist1,3.6970855231724795
+cytokine production,0.00612668347687517,BP,Genelist1,2.947200070753674
+phospholipid binding,0.006325752620178295,BP,Genelist1,3.5998510380783912
+ceramide metabolic process,0.006713744826052805,BP,Genelist1,8.376700680272108
+cellular lipid catabolic process,0.007267824299999795,BP,Genelist1,5.326756663205261
+regulation of immune system process,0.008105494006214775,BP,Genelist1,2.268933113321001
+interleukin-1 receptor binding,0.008851406058018546,BP,Genelist1,31.062794348508636
+animal organ development,0.009095913624086486,BP,Genelist1,1.824381492391858
+serine-type peptidase activity,0.009154513475141395,BP,Genelist1,5.490481522956327
+positive regulation of response to external stimulus,0.009289573107561027,BP,Genelist1,3.21453673230323
+cell population proliferation,0.00967384004456536,BP,Genelist1,2.0556260067861674
+serine hydrolase activity,0.010883831118597394,BP,Genelist1,5.375
+locomotion,0.011451000240475974,BP,Genelist1,2.404140586463357
+regulation of interleukin-6 production,0.011536095145486567,BP,Genelist1,6.52319150505125
+interleukin-6 production,0.011536095145486567,BP,Genelist1,6.52319150505125
+phospholipase A2 activity,0.012626665685117389,BP,Genelist1,15.83974358974359
+developmental process,0.01351310496171034,BP,Genelist1,1.4956459901514847
+phospholipid catabolic process,0.013788482344640567,BP,Genelist1,12.466442247001893
+defense response to Gram-positive bacterium,0.01690876604819094,BP,Genelist1,7.324404761904762
+lipase activity,0.019142500032316247,BP,Genelist1,6.558333333333334
+sphingolipid metabolic process,0.020393806309352277,BP,Genelist1,6.050816137973514
+chemotaxis,0.020394614666537133,BP,Genelist1,3.5024131274131274
+defense response to fungus,0.020836001256340893,BP,Genelist1,11.523244504960125
+taxis,0.021459734487333387,BP,Genelist1,3.4864864864864864
+regulation of cell population proliferation,0.02607628733685458,BP,Genelist1,2.0938536529087712
+canonical glycolysis,0.02720243460474997,BP,Genelist1,28.842565597667637
+glucose catabolic process to pyruvate,0.02720243460474997,BP,Genelist1,28.842565597667637
+NADH regeneration,0.02720243460474997,BP,Genelist1,28.842565597667637
+serine-type endopeptidase inhibitor activity,0.027641437001765974,BP,Genelist1,7.444300518134715
+cellular lipid metabolic process,0.02974344120559006,BP,Genelist1,2.490098611159055
+nucleotide catabolic process,0.03001800476640573,BP,Genelist1,5.747813079249456
+regulation of hydrolase activity,0.03244052549380872,BP,Genelist1,3.0405693486376033
+regulation of chemokine production,0.03254814553242649,BP,Genelist1,8.124352331606218
+chemokine production,0.03254814553242649,BP,Genelist1,8.124352331606218
+hydrolase activity,0.0336978541218895,BP,Genelist1,1.894805761676124
+nucleoside monophosphate catabolic process,0.03422778211205358,BP,Genelist1,26.918367346938776
+catabolic process,0.034445282213806695,BP,Genelist1,1.8277695537899157
+biological process involved in symbiotic interaction,0.03759547117492274,BP,Genelist1,4.052879617437106
+viral life cycle,0.038774474145972564,BP,Genelist1,4.03951367781155
+autocrine signaling,0.039797909742339994,BP,Genelist1,75.36548223350253
+glycolytic process through glucose-6-phosphate,0.042500900312915216,BP,Genelist1,25.23469387755102
+purine ribonucleotide catabolic process,0.04449408347326013,BP,Genelist1,6.353682170542636
+nucleoside phosphate catabolic process,0.045230654104443956,BP,Genelist1,5.441022482291346
+endopeptidase activity,0.04755012608885913,BP,Genelist1,3.5243992683710084
+keratinization,2.291836869036689e-22,MF,Genelist1,37.96309185822878
+cornified envelope,2.7040959204617073e-21,MF,Genelist1,47.66309300455642
+keratinocyte differentiation,3.028739857726279e-20,MF,Genelist1,18.589403973509935
+epidermis development,4.244291103690393e-20,MF,Genelist1,10.67065868263473
+skin development,3.2551543226915936e-18,MF,Genelist1,11.330048866458384
+extracellular region,2.296525323402652e-17,MF,Genelist1,3.1109959649857784
+epidermal cell differentiation,2.0011134140741627e-16,MF,Genelist1,12.428571428571429
+extracellular space,2.7063923240235675e-14,MF,Genelist1,3.013990276610283
+response to bacterium,8.103681452677322e-14,MF,Genelist1,5.919265649192656
+biological process involved in interspecies interaction between organisms,9.329649603276012e-14,MF,Genelist1,3.9116134784254815
+defense response,2.1844972285499404e-12,MF,Genelist1,3.6490838164213666
+response to other organism,3.102968814278799e-12,MF,Genelist1,3.8526315789473684
+response to external biotic stimulus,3.3435879475919435e-12,MF,Genelist1,3.844311377245509
+response to biotic stimulus,7.88275391676605e-12,MF,Genelist1,3.7496406816781875
+defense response to other organism,2.0223041121718275e-10,MF,Genelist1,3.944915254237288
+epithelial cell differentiation,2.0653332758739496e-09,MF,Genelist1,4.744821872410936
+vesicle,2.33442316817454e-09,MF,Genelist1,2.3204149532186116
+response to external stimulus,6.181938223195355e-09,MF,Genelist1,2.6915852022235
+inflammatory response,6.714984190289086e-09,MF,Genelist1,4.367887173555189
+extracellular exosome,7.762532622326359e-09,MF,Genelist1,2.79450909792323
+immune response,8.816577855588704e-09,MF,Genelist1,2.9891457670882446
+extracellular vesicle,1.1601375792844876e-08,MF,Genelist1,2.758589569218645
+extracellular membrane-bounded organelle,1.1795566016031947e-08,MF,Genelist1,2.757110867597313
+extracellular organelle,1.1795566016031947e-08,MF,Genelist1,2.757110867597313
+establishment of skin barrier,1.6083998026875065e-08,MF,Genelist1,37.27225130890052
+cell periphery,1.93542097568666e-08,MF,Genelist1,1.9756937822591063
+defense response to symbiont,2.991578479476754e-08,MF,Genelist1,3.683982683982684
+response to molecule of bacterial origin,5.1459966084030964e-08,MF,Genelist1,6.4757152361942785
+plasma membrane,6.512248341163223e-08,MF,Genelist1,1.9658143413007225
+defense response to bacterium,9.257945101798572e-08,MF,Genelist1,6.687357816054599
+response to stress,1.035841929281102e-07,MF,Genelist1,2.2783253734376587
+response to lipopolysaccharide,1.6368012465085124e-07,MF,Genelist1,6.4516618157101275
+tissue development,1.6924584256857617e-07,MF,Genelist1,2.7913091539893253
+antimicrobial humoral response,1.8509489078483672e-07,MF,Genelist1,11.595486268467326
+cellular response to chemical stimulus,1.1984853822657572e-06,MF,Genelist1,2.4157161689688773
+immune system process,1.3951981714450244e-06,MF,Genelist1,2.3808310839067786
+epithelium development,1.6581776592035029e-06,MF,Genelist1,3.2002367151224544
+organophosphate catabolic process,3.7443669948924106e-06,MF,Genelist1,7.150474799123447
+secretory granule lumen,4.199810143710182e-06,MF,Genelist1,5.576659038901602
+cytoplasmic vesicle lumen,4.7882178781357845e-06,MF,Genelist1,5.521314261436057
+vesicle lumen,5.000517545291836e-06,MF,Genelist1,5.503105590062112
+peptide cross-linking,5.632436423602225e-06,MF,Genelist1,34.16062176165803
+innate immune response,5.948736367539971e-06,MF,Genelist1,3.4179037336932074
+cytoplasm,1.2237781743518384e-05,MF,Genelist1,1.417692991621965
+carbohydrate derivative catabolic process,1.4649401431106441e-05,MF,Genelist1,6.418535944851734
+membrane,1.5917645164382052e-05,MF,Genelist1,1.5158707535995033
+cytosol,2.3002058676018438e-05,MF,Genelist1,1.7375055014915155
+skin epidermis development,3.683439152598924e-05,MF,Genelist1,9.387544453118224
+secretory granule,4.29541806853177e-05,MF,Genelist1,3.104641627029687
+antimicrobial humoral immune response mediated by antimicrobial peptide,7.050779777565422e-05,MF,Genelist1,12.560775435120984
+cellular response to lipopolysaccharide,7.560257712012338e-05,MF,Genelist1,6.77859366270253
+regulation of defense response,7.617504800323491e-05,MF,Genelist1,3.4926686217008798
+cellular response to cytokine stimulus,9.718885963421595e-05,MF,Genelist1,3.332046332046332
+cellular response to molecule of bacterial origin,0.00012934419950450568,MF,Genelist1,6.454038573637124
+response to cytokine,0.00018816686438055265,MF,Genelist1,3.11616046281495
+calcium-dependent phospholipase A2 activity,0.00020810633906876035,MF,Genelist1,42.282051282051285
+anatomical structure development,0.00024365926083587974,MF,Genelist1,1.7056866410373976
+response to chemical,0.0002951572501949909,MF,Genelist1,1.8783867375974268
+cellular response to organic substance,0.0003078685345953867,MF,Genelist1,2.313438632832729
+regulation of peptidase activity,0.0003495299896340685,MF,Genelist1,5.889228418640183
+multicellular organismal process,0.0003828520994188872,MF,Genelist1,1.5835960082137672
+cellular response to biotic stimulus,0.00046227219998910753,MF,Genelist1,5.73837406078657
+structural constituent of skin epidermis,0.00051023741542012,MF,Genelist1,20.38144329896907
+lipid binding,0.000516691267161972,MF,Genelist1,3.168409925447869
+cytokine-mediated signaling pathway,0.0005468475538932002,MF,Genelist1,3.972287587672203
+humoral immune response,0.0005545382095287195,MF,Genelist1,5.641977500166419
+response to lipid,0.000557640189083843,MF,Genelist1,3.0175578611332803
+RAGE receptor binding,0.000821458114582351,MF,Genelist1,67.3265306122449
+response to organic substance,0.0009209498917019485,MF,Genelist1,2.0412092765033942
+response to oxygen-containing compound,0.0009346305456851996,MF,Genelist1,2.3677313677313676
+secretory vesicle,0.0010787721963212299,MF,Genelist1,2.5665024630541873
+cytoplasmic vesicle,0.0011099827976148622,MF,Genelist1,1.9216328425178577
+intracellular vesicle,0.00116840387997529,MF,Genelist1,1.9171974522292994
+regulation of inflammatory response,0.0015643202502546151,MF,Genelist1,4.378378378378378
+fatty acid binding,0.002933289527026815,MF,Genelist1,14.549337260677467
+regulation of response to external stimulus,0.0029525698848781746,MF,Genelist1,2.6656276999464112
+cellular catabolic process,0.003295911535927897,MF,Genelist1,2.2992521657387206
+phospholipase activity,0.0039012944505804354,MF,Genelist1,8.291666666666666
+serine-type endopeptidase activity,0.003974874696186583,MF,Genelist1,6.077399380804954
+regulation of multicellular organismal process,0.004086258738196335,MF,Genelist1,1.8864965383335688
+organonitrogen compound metabolic process,0.004851358038982318,MF,Genelist1,1.5683485720735975
+calcium-dependent protein binding,0.00486768027841679,MF,Genelist1,9.937823834196891
+cellular response to oxygen-containing compound,0.004924709402740331,MF,Genelist1,2.526372832369942
+endomembrane system,0.005069111746828424,MF,Genelist1,1.5417216877318745
+monocarboxylic acid binding,0.005293352020630284,MF,Genelist1,9.801192419618141
+regulation of cytokine production,0.005431571806794595,MF,Genelist1,2.971651016284322
+response to stimulus,0.005456278753849861,MF,Genelist1,1.41803212106443
+regulation of endopeptidase activity,0.005602486190931773,MF,Genelist1,5.4820919820919825
+positive regulation of defense response,0.0056139780791092525,MF,Genelist1,3.6970855231724795
+cytokine production,0.00612668347687517,MF,Genelist1,2.947200070753674
+phospholipid binding,0.006325752620178295,MF,Genelist1,3.5998510380783912
+ceramide metabolic process,0.006713744826052805,MF,Genelist1,8.376700680272108
+cellular lipid catabolic process,0.007267824299999795,MF,Genelist1,5.326756663205261
+regulation of immune system process,0.008105494006214775,MF,Genelist1,2.268933113321001
+interleukin-1 receptor binding,0.008851406058018546,MF,Genelist1,31.062794348508636
+animal organ development,0.009095913624086486,MF,Genelist1,1.824381492391858
+serine-type peptidase activity,0.009154513475141395,MF,Genelist1,5.490481522956327
+positive regulation of response to external stimulus,0.009289573107561027,MF,Genelist1,3.21453673230323
+cell population proliferation,0.00967384004456536,MF,Genelist1,2.0556260067861674
+serine hydrolase activity,0.010883831118597394,MF,Genelist1,5.375
+locomotion,0.011451000240475974,MF,Genelist1,2.404140586463357
+regulation of interleukin-6 production,0.011536095145486567,MF,Genelist1,6.52319150505125
+interleukin-6 production,0.011536095145486567,MF,Genelist1,6.52319150505125
+phospholipase A2 activity,0.012626665685117389,MF,Genelist1,15.83974358974359
+developmental process,0.01351310496171034,MF,Genelist1,1.4956459901514847
+phospholipid catabolic process,0.013788482344640567,MF,Genelist1,12.466442247001893
+defense response to Gram-positive bacterium,0.01690876604819094,MF,Genelist1,7.324404761904762
+lipase activity,0.019142500032316247,MF,Genelist1,6.558333333333334
+sphingolipid metabolic process,0.020393806309352277,MF,Genelist1,6.050816137973514
+chemotaxis,0.020394614666537133,MF,Genelist1,3.5024131274131274
+defense response to fungus,0.020836001256340893,MF,Genelist1,11.523244504960125
+taxis,0.021459734487333387,MF,Genelist1,3.4864864864864864
+regulation of cell population proliferation,0.02607628733685458,MF,Genelist1,2.0938536529087712
+canonical glycolysis,0.02720243460474997,MF,Genelist1,28.842565597667637
+glucose catabolic process to pyruvate,0.02720243460474997,MF,Genelist1,28.842565597667637
+NADH regeneration,0.02720243460474997,MF,Genelist1,28.842565597667637
+serine-type endopeptidase inhibitor activity,0.027641437001765974,MF,Genelist1,7.444300518134715
+cellular lipid metabolic process,0.02974344120559006,MF,Genelist1,2.490098611159055
+nucleotide catabolic process,0.03001800476640573,MF,Genelist1,5.747813079249456
+regulation of hydrolase activity,0.03244052549380872,MF,Genelist1,3.0405693486376033
+regulation of chemokine production,0.03254814553242649,MF,Genelist1,8.124352331606218
+chemokine production,0.03254814553242649,MF,Genelist1,8.124352331606218
+hydrolase activity,0.0336978541218895,MF,Genelist1,1.894805761676124
+nucleoside monophosphate catabolic process,0.03422778211205358,MF,Genelist1,26.918367346938776
+catabolic process,0.034445282213806695,MF,Genelist1,1.8277695537899157
+biological process involved in symbiotic interaction,0.03759547117492274,MF,Genelist1,4.052879617437106
+viral life cycle,0.038774474145972564,MF,Genelist1,4.03951367781155
+autocrine signaling,0.039797909742339994,MF,Genelist1,75.36548223350253
+glycolytic process through glucose-6-phosphate,0.042500900312915216,MF,Genelist1,25.23469387755102
+purine ribonucleotide catabolic process,0.04449408347326013,MF,Genelist1,6.353682170542636
+nucleoside phosphate catabolic process,0.045230654104443956,MF,Genelist1,5.441022482291346
+endopeptidase activity,0.04755012608885913,MF,Genelist1,3.5243992683710084
+keratinization,2.291836869036689e-22,CC,Genelist1,37.96309185822878
+cornified envelope,2.7040959204617073e-21,CC,Genelist1,47.66309300455642
+keratinocyte differentiation,3.028739857726279e-20,CC,Genelist1,18.589403973509935
+epidermis development,4.244291103690393e-20,CC,Genelist1,10.67065868263473
+skin development,3.2551543226915936e-18,CC,Genelist1,11.330048866458384
+extracellular region,2.296525323402652e-17,CC,Genelist1,3.1109959649857784
+epidermal cell differentiation,2.0011134140741627e-16,CC,Genelist1,12.428571428571429
+extracellular space,2.7063923240235675e-14,CC,Genelist1,3.013990276610283
+response to bacterium,8.103681452677322e-14,CC,Genelist1,5.919265649192656
+biological process involved in interspecies interaction between organisms,9.329649603276012e-14,CC,Genelist1,3.9116134784254815
+defense response,2.1844972285499404e-12,CC,Genelist1,3.6490838164213666
+response to other organism,3.102968814278799e-12,CC,Genelist1,3.8526315789473684
+response to external biotic stimulus,3.3435879475919435e-12,CC,Genelist1,3.844311377245509
+response to biotic stimulus,7.88275391676605e-12,CC,Genelist1,3.7496406816781875
+defense response to other organism,2.0223041121718275e-10,CC,Genelist1,3.944915254237288
+epithelial cell differentiation,2.0653332758739496e-09,CC,Genelist1,4.744821872410936
+vesicle,2.33442316817454e-09,CC,Genelist1,2.3204149532186116
+response to external stimulus,6.181938223195355e-09,CC,Genelist1,2.6915852022235
+inflammatory response,6.714984190289086e-09,CC,Genelist1,4.367887173555189
+extracellular exosome,7.762532622326359e-09,CC,Genelist1,2.79450909792323
+immune response,8.816577855588704e-09,CC,Genelist1,2.9891457670882446
+extracellular vesicle,1.1601375792844876e-08,CC,Genelist1,2.758589569218645
+extracellular membrane-bounded organelle,1.1795566016031947e-08,CC,Genelist1,2.757110867597313
+extracellular organelle,1.1795566016031947e-08,CC,Genelist1,2.757110867597313
+establishment of skin barrier,1.6083998026875065e-08,CC,Genelist1,37.27225130890052
+cell periphery,1.93542097568666e-08,CC,Genelist1,1.9756937822591063
+defense response to symbiont,2.991578479476754e-08,CC,Genelist1,3.683982683982684
+response to molecule of bacterial origin,5.1459966084030964e-08,CC,Genelist1,6.4757152361942785
+plasma membrane,6.512248341163223e-08,CC,Genelist1,1.9658143413007225
+defense response to bacterium,9.257945101798572e-08,CC,Genelist1,6.687357816054599
+response to stress,1.035841929281102e-07,CC,Genelist1,2.2783253734376587
+response to lipopolysaccharide,1.6368012465085124e-07,CC,Genelist1,6.4516618157101275
+tissue development,1.6924584256857617e-07,CC,Genelist1,2.7913091539893253
+antimicrobial humoral response,1.8509489078483672e-07,CC,Genelist1,11.595486268467326
+cellular response to chemical stimulus,1.1984853822657572e-06,CC,Genelist1,2.4157161689688773
+immune system process,1.3951981714450244e-06,CC,Genelist1,2.3808310839067786
+epithelium development,1.6581776592035029e-06,CC,Genelist1,3.2002367151224544
+organophosphate catabolic process,3.7443669948924106e-06,CC,Genelist1,7.150474799123447
+secretory granule lumen,4.199810143710182e-06,CC,Genelist1,5.576659038901602
+cytoplasmic vesicle lumen,4.7882178781357845e-06,CC,Genelist1,5.521314261436057
+vesicle lumen,5.000517545291836e-06,CC,Genelist1,5.503105590062112
+peptide cross-linking,5.632436423602225e-06,CC,Genelist1,34.16062176165803
+innate immune response,5.948736367539971e-06,CC,Genelist1,3.4179037336932074
+cytoplasm,1.2237781743518384e-05,CC,Genelist1,1.417692991621965
+carbohydrate derivative catabolic process,1.4649401431106441e-05,CC,Genelist1,6.418535944851734
+membrane,1.5917645164382052e-05,CC,Genelist1,1.5158707535995033
+cytosol,2.3002058676018438e-05,CC,Genelist1,1.7375055014915155
+skin epidermis development,3.683439152598924e-05,CC,Genelist1,9.387544453118224
+secretory granule,4.29541806853177e-05,CC,Genelist1,3.104641627029687
+antimicrobial humoral immune response mediated by antimicrobial peptide,7.050779777565422e-05,CC,Genelist1,12.560775435120984
+cellular response to lipopolysaccharide,7.560257712012338e-05,CC,Genelist1,6.77859366270253
+regulation of defense response,7.617504800323491e-05,CC,Genelist1,3.4926686217008798
+cellular response to cytokine stimulus,9.718885963421595e-05,CC,Genelist1,3.332046332046332
+cellular response to molecule of bacterial origin,0.00012934419950450568,CC,Genelist1,6.454038573637124
+response to cytokine,0.00018816686438055265,CC,Genelist1,3.11616046281495
+calcium-dependent phospholipase A2 activity,0.00020810633906876035,CC,Genelist1,42.282051282051285
+anatomical structure development,0.00024365926083587974,CC,Genelist1,1.7056866410373976
+response to chemical,0.0002951572501949909,CC,Genelist1,1.8783867375974268
+cellular response to organic substance,0.0003078685345953867,CC,Genelist1,2.313438632832729
+regulation of peptidase activity,0.0003495299896340685,CC,Genelist1,5.889228418640183
+multicellular organismal process,0.0003828520994188872,CC,Genelist1,1.5835960082137672
+cellular response to biotic stimulus,0.00046227219998910753,CC,Genelist1,5.73837406078657
+structural constituent of skin epidermis,0.00051023741542012,CC,Genelist1,20.38144329896907
+lipid binding,0.000516691267161972,CC,Genelist1,3.168409925447869
+cytokine-mediated signaling pathway,0.0005468475538932002,CC,Genelist1,3.972287587672203
+humoral immune response,0.0005545382095287195,CC,Genelist1,5.641977500166419
+response to lipid,0.000557640189083843,CC,Genelist1,3.0175578611332803
+RAGE receptor binding,0.000821458114582351,CC,Genelist1,67.3265306122449
+response to organic substance,0.0009209498917019485,CC,Genelist1,2.0412092765033942
+response to oxygen-containing compound,0.0009346305456851996,CC,Genelist1,2.3677313677313676
+secretory vesicle,0.0010787721963212299,CC,Genelist1,2.5665024630541873
+cytoplasmic vesicle,0.0011099827976148622,CC,Genelist1,1.9216328425178577
+intracellular vesicle,0.00116840387997529,CC,Genelist1,1.9171974522292994
+regulation of inflammatory response,0.0015643202502546151,CC,Genelist1,4.378378378378378
+fatty acid binding,0.002933289527026815,CC,Genelist1,14.549337260677467
+regulation of response to external stimulus,0.0029525698848781746,CC,Genelist1,2.6656276999464112
+cellular catabolic process,0.003295911535927897,CC,Genelist1,2.2992521657387206
+phospholipase activity,0.0039012944505804354,CC,Genelist1,8.291666666666666
+serine-type endopeptidase activity,0.003974874696186583,CC,Genelist1,6.077399380804954
+regulation of multicellular organismal process,0.004086258738196335,CC,Genelist1,1.8864965383335688
+organonitrogen compound metabolic process,0.004851358038982318,CC,Genelist1,1.5683485720735975
+calcium-dependent protein binding,0.00486768027841679,CC,Genelist1,9.937823834196891
+cellular response to oxygen-containing compound,0.004924709402740331,CC,Genelist1,2.526372832369942
+endomembrane system,0.005069111746828424,CC,Genelist1,1.5417216877318745
+monocarboxylic acid binding,0.005293352020630284,CC,Genelist1,9.801192419618141
+regulation of cytokine production,0.005431571806794595,CC,Genelist1,2.971651016284322
+response to stimulus,0.005456278753849861,CC,Genelist1,1.41803212106443
+regulation of endopeptidase activity,0.005602486190931773,CC,Genelist1,5.4820919820919825
+positive regulation of defense response,0.0056139780791092525,CC,Genelist1,3.6970855231724795
+cytokine production,0.00612668347687517,CC,Genelist1,2.947200070753674
+phospholipid binding,0.006325752620178295,CC,Genelist1,3.5998510380783912
+ceramide metabolic process,0.006713744826052805,CC,Genelist1,8.376700680272108
+cellular lipid catabolic process,0.007267824299999795,CC,Genelist1,5.326756663205261
+regulation of immune system process,0.008105494006214775,CC,Genelist1,2.268933113321001
+interleukin-1 receptor binding,0.008851406058018546,CC,Genelist1,31.062794348508636
+animal organ development,0.009095913624086486,CC,Genelist1,1.824381492391858
+serine-type peptidase activity,0.009154513475141395,CC,Genelist1,5.490481522956327
+positive regulation of response to external stimulus,0.009289573107561027,CC,Genelist1,3.21453673230323
+cell population proliferation,0.00967384004456536,CC,Genelist1,2.0556260067861674
+serine hydrolase activity,0.010883831118597394,CC,Genelist1,5.375
+locomotion,0.011451000240475974,CC,Genelist1,2.404140586463357
+regulation of interleukin-6 production,0.011536095145486567,CC,Genelist1,6.52319150505125
+interleukin-6 production,0.011536095145486567,CC,Genelist1,6.52319150505125
+phospholipase A2 activity,0.012626665685117389,CC,Genelist1,15.83974358974359
+developmental process,0.01351310496171034,CC,Genelist1,1.4956459901514847
+phospholipid catabolic process,0.013788482344640567,CC,Genelist1,12.466442247001893
+defense response to Gram-positive bacterium,0.01690876604819094,CC,Genelist1,7.324404761904762
+lipase activity,0.019142500032316247,CC,Genelist1,6.558333333333334
+sphingolipid metabolic process,0.020393806309352277,CC,Genelist1,6.050816137973514
+chemotaxis,0.020394614666537133,CC,Genelist1,3.5024131274131274
+defense response to fungus,0.020836001256340893,CC,Genelist1,11.523244504960125
+taxis,0.021459734487333387,CC,Genelist1,3.4864864864864864
+regulation of cell population proliferation,0.02607628733685458,CC,Genelist1,2.0938536529087712
+canonical glycolysis,0.02720243460474997,CC,Genelist1,28.842565597667637
+glucose catabolic process to pyruvate,0.02720243460474997,CC,Genelist1,28.842565597667637
+NADH regeneration,0.02720243460474997,CC,Genelist1,28.842565597667637
+serine-type endopeptidase inhibitor activity,0.027641437001765974,CC,Genelist1,7.444300518134715
+cellular lipid metabolic process,0.02974344120559006,CC,Genelist1,2.490098611159055
+nucleotide catabolic process,0.03001800476640573,CC,Genelist1,5.747813079249456
+regulation of hydrolase activity,0.03244052549380872,CC,Genelist1,3.0405693486376033
+regulation of chemokine production,0.03254814553242649,CC,Genelist1,8.124352331606218
+chemokine production,0.03254814553242649,CC,Genelist1,8.124352331606218
+hydrolase activity,0.0336978541218895,CC,Genelist1,1.894805761676124
+nucleoside monophosphate catabolic process,0.03422778211205358,CC,Genelist1,26.918367346938776
+catabolic process,0.034445282213806695,CC,Genelist1,1.8277695537899157
+biological process involved in symbiotic interaction,0.03759547117492274,CC,Genelist1,4.052879617437106
+viral life cycle,0.038774474145972564,CC,Genelist1,4.03951367781155
+autocrine signaling,0.039797909742339994,CC,Genelist1,75.36548223350253
+glycolytic process through glucose-6-phosphate,0.042500900312915216,CC,Genelist1,25.23469387755102
+purine ribonucleotide catabolic process,0.04449408347326013,CC,Genelist1,6.353682170542636
+nucleoside phosphate catabolic process,0.045230654104443956,CC,Genelist1,5.441022482291346
+endopeptidase activity,0.04755012608885913,CC,Genelist1,3.5243992683710084
+system development,2.8976845832257677e-08,BP,Genelist2,2.1446471029908647
+multicellular organism development,7.521783050878405e-08,BP,Genelist2,2.0007005253940457
+connective tissue development,3.332784352473388e-07,BP,Genelist2,6.620039088987276
+regulation of developmental process,9.872584477247684e-07,BP,Genelist2,2.345972816303612
+regulation of biological process,2.9700927067604354e-06,BP,Genelist2,1.2775221980356515
+biological regulation,5.901937899060053e-06,BP,Genelist2,1.2291932397959184
+anatomical structure morphogenesis,6.608952072112624e-06,BP,Genelist2,2.1723614274867122
+positive regulation of developmental process,7.365778466073671e-06,BP,Genelist2,2.8236885302753567
+anatomical structure development,1.118813752110201e-05,BP,Genelist2,1.670448684889118
+regulation of cellular process,2.818884460378558e-05,BP,Genelist2,1.2540913006029286
+regulation of multicellular organismal process,5.7125279603968714e-05,BP,Genelist2,1.9914582062233068
+response to endogenous stimulus,5.891257529856699e-05,BP,Genelist2,2.427467989661626
+cell junction,0.00011623215320664401,BP,Genelist2,2.0745551657659367
+animal organ development,0.00014304354404068157,BP,Genelist2,1.9258510552276218
+developmental process,0.00016045055535839417,BP,Genelist2,1.5270680721815257
+response to hormone,0.0002117817074699629,BP,Genelist2,3.0401069518716577
+multicellular organismal process,0.0002464625150787342,BP,Genelist2,1.4311600971417897
+somatodendritic compartment,0.0004374731226195963,BP,Genelist2,2.8391054765078763
+nervous system development,0.0005870583781571958,BP,Genelist2,1.963471590733352
+prostate gland stromal morphogenesis,0.0009107452744276916,BP,Genelist2,inf
+regulation of biological quality,0.0009163947125531941,BP,Genelist2,1.8658554525776012
+positive regulation of biological process,0.0009853486021669038,BP,Genelist2,1.4727174500270124
+cell periphery,0.0009989180813622092,BP,Genelist2,1.449444846907849
+positive regulation of multicellular organismal process,0.001035679619030744,BP,Genelist2,2.241656338196425
+cell communication,0.0015150768784993407,BP,Genelist2,1.436660583702031
+cellular response to endogenous stimulus,0.001690323095635582,BP,Genelist2,2.3157673911219265
+tissue development,0.0017156685826987196,BP,Genelist2,2.0509982929051396
+response to organic substance,0.0018333137487052658,BP,Genelist2,1.8716762091231818
+response to stimulus,0.002216449251915994,BP,Genelist2,1.2814919071076707
+neuron projection,0.002867993773999178,BP,Genelist2,2.2082561219931804
+extracellular matrix,0.0035447753127495368,BP,Genelist2,3.1073646850044367
+external encapsulating structure,0.0036242844715527836,BP,Genelist2,3.101449275362319
+signaling,0.0038524850904685607,BP,Genelist2,1.4065232186796504
+neuronal cell body,0.0040168557682219545,BP,Genelist2,3.242739634043982
+regulation of cellular component biogenesis,0.005064285601055047,BP,Genelist2,2.584066366301938
+negative regulation of nitrogen compound metabolic process,0.005660111717358954,BP,Genelist2,1.91166335775085
+RNA polymerase II cis-regulatory region sequence-specific DNA binding,0.006438861283179932,BP,Genelist2,2.4143708041992866
+postsynapse,0.006571510906408489,BP,Genelist2,2.8128609535648614
+cell-cell signaling,0.007232175941099486,BP,Genelist2,2.0651629072681703
+cellular response to chemical stimulus,0.007329245129583236,BP,Genelist2,1.7802547770700636
+negative regulation of cellular process,0.00750213324656877,BP,Genelist2,1.4418746368493403
+negative regulation of biological process,0.007587309881767952,BP,Genelist2,1.417624521072797
+cellular response to organic substance,0.00815499873520442,BP,Genelist2,1.9573002754820936
+cis-regulatory region sequence-specific DNA binding,0.009025441046302698,BP,Genelist2,2.3642711354603074
+protein binding,0.009602606368523225,BP,Genelist2,1.0728118577723185
+regulation of primary metabolic process,0.010550311839304006,BP,Genelist2,1.4238287832827772
+positive regulation of cellular process,0.011714512446266543,BP,Genelist2,1.4104849424269266
+negative regulation of supramolecular fiber organization,0.011781555818044393,BP,Genelist2,6.011219147344802
+cell population proliferation,0.012036069403959475,BP,Genelist2,1.9187768091877682
+response to oxygen-containing compound,0.012242541475706775,BP,Genelist2,2.042029237730595
+collagen-containing extracellular matrix,0.013037636700938061,BP,Genelist2,3.271429313119776
+reproductive structure development,0.013937768936012587,BP,Genelist2,4.163025688465097
+dendrite,0.014048940528518763,BP,Genelist2,2.754197158846319
+regulation of transcription by RNA polymerase II,0.014399417042393222,BP,Genelist2,1.7633815862202902
+dendritic tree,0.014592442040766556,BP,Genelist2,2.7448512585812357
+reproductive system development,0.015854129569447106,BP,Genelist2,4.107225616178639
+transmembrane receptor protein tyrosine kinase signaling pathway,0.016091285761233334,BP,Genelist2,2.977795414944762
+regulation of nitrogen compound metabolic process,0.016737246624082637,BP,Genelist2,1.4150079377374392
+cell body,0.01710501126947343,BP,Genelist2,2.8378378378378377
+response to abiotic stimulus,0.018635186062848245,BP,Genelist2,2.309288537549407
+cellular response to stimulus,0.01891805760582896,BP,Genelist2,1.2895168956874945
+homeostatic process,0.021867446709796637,BP,Genelist2,1.9771585665055669
+"DNA-binding transcription factor activity, RNA polymerase II-specific",0.02409645327089479,BP,Genelist2,2.1778984684700418
+neurogenesis,0.03078520729561997,BP,Genelist2,1.9392756234459243
+regulation of cell differentiation,0.03259798012006608,BP,Genelist2,2.000994189848679
+regulation of multicellular organismal development,0.03342577744678189,BP,Genelist2,2.076714891910856
+cell differentiation,0.034845857516808056,BP,Genelist2,1.4688296912393581
+regulation of cell communication,0.03495052095177577,BP,Genelist2,1.5685920225407517
+cellular developmental process,0.0350926827905377,BP,Genelist2,1.468394026260137
+circadian regulation of gene expression,0.036543544452699486,BP,Genelist2,9.537371134020619
+response to chemical,0.03668340513069931,BP,Genelist2,1.506459730660293
+synapse,0.03942473223558068,BP,Genelist2,1.9023227637221611
+anchoring junction,0.041330431352855,BP,Genelist2,2.240911415137872
+multicellular organismal-level homeostasis,0.04279554165623654,BP,Genelist2,2.5360098843780494
+negative regulation of multicellular organismal process,0.04416919103486049,BP,Genelist2,2.2370126663859997
+transcription by RNA polymerase II,0.04478884272699926,BP,Genelist2,1.668802658122701
+cell projection,0.0498446721464162,BP,Genelist2,1.6276367481056877
+system development,2.8976845832257677e-08,MF,Genelist2,2.1446471029908647
+multicellular organism development,7.521783050878405e-08,MF,Genelist2,2.0007005253940457
+connective tissue development,3.332784352473388e-07,MF,Genelist2,6.620039088987276
+regulation of developmental process,9.872584477247684e-07,MF,Genelist2,2.345972816303612
+regulation of biological process,2.9700927067604354e-06,MF,Genelist2,1.2775221980356515
+biological regulation,5.901937899060053e-06,MF,Genelist2,1.2291932397959184
+anatomical structure morphogenesis,6.608952072112624e-06,MF,Genelist2,2.1723614274867122
+positive regulation of developmental process,7.365778466073671e-06,MF,Genelist2,2.8236885302753567
+anatomical structure development,1.118813752110201e-05,MF,Genelist2,1.670448684889118
+regulation of cellular process,2.818884460378558e-05,MF,Genelist2,1.2540913006029286
+regulation of multicellular organismal process,5.7125279603968714e-05,MF,Genelist2,1.9914582062233068
+response to endogenous stimulus,5.891257529856699e-05,MF,Genelist2,2.427467989661626
+cell junction,0.00011623215320664401,MF,Genelist2,2.0745551657659367
+animal organ development,0.00014304354404068157,MF,Genelist2,1.9258510552276218
+developmental process,0.00016045055535839417,MF,Genelist2,1.5270680721815257
+response to hormone,0.0002117817074699629,MF,Genelist2,3.0401069518716577
+multicellular organismal process,0.0002464625150787342,MF,Genelist2,1.4311600971417897
+somatodendritic compartment,0.0004374731226195963,MF,Genelist2,2.8391054765078763
+nervous system development,0.0005870583781571958,MF,Genelist2,1.963471590733352
+prostate gland stromal morphogenesis,0.0009107452744276916,MF,Genelist2,inf
+regulation of biological quality,0.0009163947125531941,MF,Genelist2,1.8658554525776012
+positive regulation of biological process,0.0009853486021669038,MF,Genelist2,1.4727174500270124
+cell periphery,0.0009989180813622092,MF,Genelist2,1.449444846907849
+positive regulation of multicellular organismal process,0.001035679619030744,MF,Genelist2,2.241656338196425
+cell communication,0.0015150768784993407,MF,Genelist2,1.436660583702031
+cellular response to endogenous stimulus,0.001690323095635582,MF,Genelist2,2.3157673911219265
+tissue development,0.0017156685826987196,MF,Genelist2,2.0509982929051396
+response to organic substance,0.0018333137487052658,MF,Genelist2,1.8716762091231818
+response to stimulus,0.002216449251915994,MF,Genelist2,1.2814919071076707
+neuron projection,0.002867993773999178,MF,Genelist2,2.2082561219931804
+extracellular matrix,0.0035447753127495368,MF,Genelist2,3.1073646850044367
+external encapsulating structure,0.0036242844715527836,MF,Genelist2,3.101449275362319
+signaling,0.0038524850904685607,MF,Genelist2,1.4065232186796504
+neuronal cell body,0.0040168557682219545,MF,Genelist2,3.242739634043982
+regulation of cellular component biogenesis,0.005064285601055047,MF,Genelist2,2.584066366301938
+negative regulation of nitrogen compound metabolic process,0.005660111717358954,MF,Genelist2,1.91166335775085
+RNA polymerase II cis-regulatory region sequence-specific DNA binding,0.006438861283179932,MF,Genelist2,2.4143708041992866
+postsynapse,0.006571510906408489,MF,Genelist2,2.8128609535648614
+cell-cell signaling,0.007232175941099486,MF,Genelist2,2.0651629072681703
+cellular response to chemical stimulus,0.007329245129583236,MF,Genelist2,1.7802547770700636
+negative regulation of cellular process,0.00750213324656877,MF,Genelist2,1.4418746368493403
+negative regulation of biological process,0.007587309881767952,MF,Genelist2,1.417624521072797
+cellular response to organic substance,0.00815499873520442,MF,Genelist2,1.9573002754820936
+cis-regulatory region sequence-specific DNA binding,0.009025441046302698,MF,Genelist2,2.3642711354603074
+protein binding,0.009602606368523225,MF,Genelist2,1.0728118577723185
+regulation of primary metabolic process,0.010550311839304006,MF,Genelist2,1.4238287832827772
+positive regulation of cellular process,0.011714512446266543,MF,Genelist2,1.4104849424269266
+negative regulation of supramolecular fiber organization,0.011781555818044393,MF,Genelist2,6.011219147344802
+cell population proliferation,0.012036069403959475,MF,Genelist2,1.9187768091877682
+response to oxygen-containing compound,0.012242541475706775,MF,Genelist2,2.042029237730595
+collagen-containing extracellular matrix,0.013037636700938061,MF,Genelist2,3.271429313119776
+reproductive structure development,0.013937768936012587,MF,Genelist2,4.163025688465097
+dendrite,0.014048940528518763,MF,Genelist2,2.754197158846319
+regulation of transcription by RNA polymerase II,0.014399417042393222,MF,Genelist2,1.7633815862202902
+dendritic tree,0.014592442040766556,MF,Genelist2,2.7448512585812357
+reproductive system development,0.015854129569447106,MF,Genelist2,4.107225616178639
+transmembrane receptor protein tyrosine kinase signaling pathway,0.016091285761233334,MF,Genelist2,2.977795414944762
+regulation of nitrogen compound metabolic process,0.016737246624082637,MF,Genelist2,1.4150079377374392
+cell body,0.01710501126947343,MF,Genelist2,2.8378378378378377
+response to abiotic stimulus,0.018635186062848245,MF,Genelist2,2.309288537549407
+cellular response to stimulus,0.01891805760582896,MF,Genelist2,1.2895168956874945
+homeostatic process,0.021867446709796637,MF,Genelist2,1.9771585665055669
+"DNA-binding transcription factor activity, RNA polymerase II-specific",0.02409645327089479,MF,Genelist2,2.1778984684700418
+neurogenesis,0.03078520729561997,MF,Genelist2,1.9392756234459243
+regulation of cell differentiation,0.03259798012006608,MF,Genelist2,2.000994189848679
+regulation of multicellular organismal development,0.03342577744678189,MF,Genelist2,2.076714891910856
+cell differentiation,0.034845857516808056,MF,Genelist2,1.4688296912393581
+regulation of cell communication,0.03495052095177577,MF,Genelist2,1.5685920225407517
+cellular developmental process,0.0350926827905377,MF,Genelist2,1.468394026260137
+circadian regulation of gene expression,0.036543544452699486,MF,Genelist2,9.537371134020619
+response to chemical,0.03668340513069931,MF,Genelist2,1.506459730660293
+synapse,0.03942473223558068,MF,Genelist2,1.9023227637221611
+anchoring junction,0.041330431352855,MF,Genelist2,2.240911415137872
+multicellular organismal-level homeostasis,0.04279554165623654,MF,Genelist2,2.5360098843780494
+negative regulation of multicellular organismal process,0.04416919103486049,MF,Genelist2,2.2370126663859997
+transcription by RNA polymerase II,0.04478884272699926,MF,Genelist2,1.668802658122701
+cell projection,0.0498446721464162,MF,Genelist2,1.6276367481056877
+system development,2.8976845832257677e-08,CC,Genelist2,2.1446471029908647
+multicellular organism development,7.521783050878405e-08,CC,Genelist2,2.0007005253940457
+connective tissue development,3.332784352473388e-07,CC,Genelist2,6.620039088987276
+regulation of developmental process,9.872584477247684e-07,CC,Genelist2,2.345972816303612
+regulation of biological process,2.9700927067604354e-06,CC,Genelist2,1.2775221980356515
+biological regulation,5.901937899060053e-06,CC,Genelist2,1.2291932397959184
+anatomical structure morphogenesis,6.608952072112624e-06,CC,Genelist2,2.1723614274867122
+positive regulation of developmental process,7.365778466073671e-06,CC,Genelist2,2.8236885302753567
+anatomical structure development,1.118813752110201e-05,CC,Genelist2,1.670448684889118
+regulation of cellular process,2.818884460378558e-05,CC,Genelist2,1.2540913006029286
+regulation of multicellular organismal process,5.7125279603968714e-05,CC,Genelist2,1.9914582062233068
+response to endogenous stimulus,5.891257529856699e-05,CC,Genelist2,2.427467989661626
+cell junction,0.00011623215320664401,CC,Genelist2,2.0745551657659367
+animal organ development,0.00014304354404068157,CC,Genelist2,1.9258510552276218
+developmental process,0.00016045055535839417,CC,Genelist2,1.5270680721815257
+response to hormone,0.0002117817074699629,CC,Genelist2,3.0401069518716577
+multicellular organismal process,0.0002464625150787342,CC,Genelist2,1.4311600971417897
+somatodendritic compartment,0.0004374731226195963,CC,Genelist2,2.8391054765078763
+nervous system development,0.0005870583781571958,CC,Genelist2,1.963471590733352
+prostate gland stromal morphogenesis,0.0009107452744276916,CC,Genelist2,inf
+regulation of biological quality,0.0009163947125531941,CC,Genelist2,1.8658554525776012
+positive regulation of biological process,0.0009853486021669038,CC,Genelist2,1.4727174500270124
+cell periphery,0.0009989180813622092,CC,Genelist2,1.449444846907849
+positive regulation of multicellular organismal process,0.001035679619030744,CC,Genelist2,2.241656338196425
+cell communication,0.0015150768784993407,CC,Genelist2,1.436660583702031
+cellular response to endogenous stimulus,0.001690323095635582,CC,Genelist2,2.3157673911219265
+tissue development,0.0017156685826987196,CC,Genelist2,2.0509982929051396
+response to organic substance,0.0018333137487052658,CC,Genelist2,1.8716762091231818
+response to stimulus,0.002216449251915994,CC,Genelist2,1.2814919071076707
+neuron projection,0.002867993773999178,CC,Genelist2,2.2082561219931804
+extracellular matrix,0.0035447753127495368,CC,Genelist2,3.1073646850044367
+external encapsulating structure,0.0036242844715527836,CC,Genelist2,3.101449275362319
+signaling,0.0038524850904685607,CC,Genelist2,1.4065232186796504
+neuronal cell body,0.0040168557682219545,CC,Genelist2,3.242739634043982
+regulation of cellular component biogenesis,0.005064285601055047,CC,Genelist2,2.584066366301938
+negative regulation of nitrogen compound metabolic process,0.005660111717358954,CC,Genelist2,1.91166335775085
+RNA polymerase II cis-regulatory region sequence-specific DNA binding,0.006438861283179932,CC,Genelist2,2.4143708041992866
+postsynapse,0.006571510906408489,CC,Genelist2,2.8128609535648614
+cell-cell signaling,0.007232175941099486,CC,Genelist2,2.0651629072681703
+cellular response to chemical stimulus,0.007329245129583236,CC,Genelist2,1.7802547770700636
+negative regulation of cellular process,0.00750213324656877,CC,Genelist2,1.4418746368493403
+negative regulation of biological process,0.007587309881767952,CC,Genelist2,1.417624521072797
+cellular response to organic substance,0.00815499873520442,CC,Genelist2,1.9573002754820936
+cis-regulatory region sequence-specific DNA binding,0.009025441046302698,CC,Genelist2,2.3642711354603074
+protein binding,0.009602606368523225,CC,Genelist2,1.0728118577723185
+regulation of primary metabolic process,0.010550311839304006,CC,Genelist2,1.4238287832827772
+positive regulation of cellular process,0.011714512446266543,CC,Genelist2,1.4104849424269266
+negative regulation of supramolecular fiber organization,0.011781555818044393,CC,Genelist2,6.011219147344802
+cell population proliferation,0.012036069403959475,CC,Genelist2,1.9187768091877682
+response to oxygen-containing compound,0.012242541475706775,CC,Genelist2,2.042029237730595
+collagen-containing extracellular matrix,0.013037636700938061,CC,Genelist2,3.271429313119776
+reproductive structure development,0.013937768936012587,CC,Genelist2,4.163025688465097
+dendrite,0.014048940528518763,CC,Genelist2,2.754197158846319
+regulation of transcription by RNA polymerase II,0.014399417042393222,CC,Genelist2,1.7633815862202902
+dendritic tree,0.014592442040766556,CC,Genelist2,2.7448512585812357
+reproductive system development,0.015854129569447106,CC,Genelist2,4.107225616178639
+transmembrane receptor protein tyrosine kinase signaling pathway,0.016091285761233334,CC,Genelist2,2.977795414944762
+regulation of nitrogen compound metabolic process,0.016737246624082637,CC,Genelist2,1.4150079377374392
+cell body,0.01710501126947343,CC,Genelist2,2.8378378378378377
+response to abiotic stimulus,0.018635186062848245,CC,Genelist2,2.309288537549407
+cellular response to stimulus,0.01891805760582896,CC,Genelist2,1.2895168956874945
+homeostatic process,0.021867446709796637,CC,Genelist2,1.9771585665055669
+"DNA-binding transcription factor activity, RNA polymerase II-specific",0.02409645327089479,CC,Genelist2,2.1778984684700418
+neurogenesis,0.03078520729561997,CC,Genelist2,1.9392756234459243
+regulation of cell differentiation,0.03259798012006608,CC,Genelist2,2.000994189848679
+regulation of multicellular organismal development,0.03342577744678189,CC,Genelist2,2.076714891910856
+cell differentiation,0.034845857516808056,CC,Genelist2,1.4688296912393581
+regulation of cell communication,0.03495052095177577,CC,Genelist2,1.5685920225407517
+cellular developmental process,0.0350926827905377,CC,Genelist2,1.468394026260137
+circadian regulation of gene expression,0.036543544452699486,CC,Genelist2,9.537371134020619
+response to chemical,0.03668340513069931,CC,Genelist2,1.506459730660293
+synapse,0.03942473223558068,CC,Genelist2,1.9023227637221611
+anchoring junction,0.041330431352855,CC,Genelist2,2.240911415137872
+multicellular organismal-level homeostasis,0.04279554165623654,CC,Genelist2,2.5360098843780494
+negative regulation of multicellular organismal process,0.04416919103486049,CC,Genelist2,2.2370126663859997
+transcription by RNA polymerase II,0.04478884272699926,CC,Genelist2,1.668802658122701
+cell projection,0.0498446721464162,CC,Genelist2,1.6276367481056877
+cytosolic ribosome,0.0037967174902224267,BP,Genelist4,7.292653276955603
+protein binding,0.006168341544364714,BP,Genelist4,0.7621450415028397
+cytoplasmic translation,0.013022490805034922,BP,Genelist4,6.218745060850324
+intracellular anatomical structure,0.043018894256114305,BP,Genelist4,0.31724641958003263
+cytosol,0.04985697300081551,BP,Genelist4,1.1749296284859139
+cytosolic ribosome,0.0037967174902224267,MF,Genelist4,7.292653276955603
+protein binding,0.006168341544364714,MF,Genelist4,0.7621450415028397
+cytoplasmic translation,0.013022490805034922,MF,Genelist4,6.218745060850324
+intracellular anatomical structure,0.043018894256114305,MF,Genelist4,0.31724641958003263
+cytosol,0.04985697300081551,MF,Genelist4,1.1749296284859139
+cytosolic ribosome,0.0037967174902224267,CC,Genelist4,7.292653276955603
+protein binding,0.006168341544364714,CC,Genelist4,0.7621450415028397
+cytoplasmic translation,0.013022490805034922,CC,Genelist4,6.218745060850324
+intracellular anatomical structure,0.043018894256114305,CC,Genelist4,0.31724641958003263
+cytosol,0.04985697300081551,CC,Genelist4,1.1749296284859139
+adult walking behavior,0.01889353510159779,BP,Genelist5,429.3333333333333
+walking behavior,0.023822546235531705,BP,Genelist5,380.1904761904762
+thymus development,0.043763548858923945,BP,Genelist5,277.0416666666667
+adult walking behavior,0.01889353510159779,MF,Genelist5,429.3333333333333
+walking behavior,0.023822546235531705,MF,Genelist5,380.1904761904762
+thymus development,0.043763548858923945,MF,Genelist5,277.0416666666667
+adult walking behavior,0.01889353510159779,CC,Genelist5,429.3333333333333
+walking behavior,0.023822546235531705,CC,Genelist5,380.1904761904762
+thymus development,0.043763548858923945,CC,Genelist5,277.0416666666667
+nucleoplasm,0.0007518421705490093,BP,Genelist6,1.6925918724479876
+nucleobase-containing compound biosynthetic process,0.008903366369251361,BP,Genelist6,1.5448072360103222
+heterocycle biosynthetic process,0.01496716728388313,BP,Genelist6,1.5076758111092237
+aromatic compound biosynthetic process,0.01608148474826168,BP,Genelist6,1.502553807841842
+protein binding,0.016900906274091434,BP,Genelist6,0.9244770920947811
+organic cyclic compound biosynthetic process,0.040867984171768845,BP,Genelist6,1.4362367287557927
+nucleoplasm,0.0007518421705490093,MF,Genelist6,1.6925918724479876
+nucleobase-containing compound biosynthetic process,0.008903366369251361,MF,Genelist6,1.5448072360103222
+heterocycle biosynthetic process,0.01496716728388313,MF,Genelist6,1.5076758111092237
+aromatic compound biosynthetic process,0.01608148474826168,MF,Genelist6,1.502553807841842
+protein binding,0.016900906274091434,MF,Genelist6,0.9244770920947811
+organic cyclic compound biosynthetic process,0.040867984171768845,MF,Genelist6,1.4362367287557927
+nucleoplasm,0.0007518421705490093,CC,Genelist6,1.6925918724479876
+nucleobase-containing compound biosynthetic process,0.008903366369251361,CC,Genelist6,1.5448072360103222
+heterocycle biosynthetic process,0.01496716728388313,CC,Genelist6,1.5076758111092237
+aromatic compound biosynthetic process,0.01608148474826168,CC,Genelist6,1.502553807841842
+protein binding,0.016900906274091434,CC,Genelist6,0.9244770920947811
+organic cyclic compound biosynthetic process,0.040867984171768845,CC,Genelist6,1.4362367287557927
