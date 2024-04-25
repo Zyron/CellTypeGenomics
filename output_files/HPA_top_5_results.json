@@ -1,0 +1,22 @@
+{
+    "Endothelial cells": {
+        "odds_ratio": Infinity,
+        "adjusted_p_value": 0.4832280517353576
+    },
+    "B-cells": {
+        "odds_ratio": Infinity,
+        "adjusted_p_value": 0.4832280517353576
+    },
+    "T-cells": {
+        "odds_ratio": Infinity,
+        "adjusted_p_value": 0.4832280517353576
+    },
+    "Undifferentiated cells": {
+        "odds_ratio": Infinity,
+        "adjusted_p_value": 0.4832280517353576
+    },
+    "Muller glia cells": {
+        "odds_ratio": Infinity,
+        "adjusted_p_value": 0.4832280517353576
+    }
+}
