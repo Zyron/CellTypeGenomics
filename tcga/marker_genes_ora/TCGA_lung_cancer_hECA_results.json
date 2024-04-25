@@ -1,0 +1,38 @@
+{
+    "Endothelial cell": {
+        "odds_ratio": 7.339167909829272,
+        "adjusted_p_value": 6.411243373341575e-05
+    },
+    "T cell": {
+        "odds_ratio": 2.9086001853158443,
+        "adjusted_p_value": 0.010663159437341693
+    },
+    "Smooth muscle cell": {
+        "odds_ratio": 7.41386925795053,
+        "adjusted_p_value": 0.00334301267347636
+    },
+    "Epithelial cell": {
+        "odds_ratio": 2.930830148694591,
+        "adjusted_p_value": 0.0211071044905711
+    },
+    "Stromal cell": {
+        "odds_ratio": 17.792890262751158,
+        "adjusted_p_value": 0.0028353799216009486
+    },
+    "Fibroblast": {
+        "odds_ratio": 6.950005522726017,
+        "adjusted_p_value": 0.0011404876202852777
+    },
+    "NK cell": {
+        "odds_ratio": 16.68074184467627,
+        "adjusted_p_value": 0.0033910006936720555
+    },
+    "Type II alveolar cell/Type II pneumocyte": {
+        "odds_ratio": Infinity,
+        "adjusted_p_value": 0.0211071044905711
+    },
+    "B Cell": {
+        "odds_ratio": Infinity,
+        "adjusted_p_value": 0.03961587196563559
+    }
+}
