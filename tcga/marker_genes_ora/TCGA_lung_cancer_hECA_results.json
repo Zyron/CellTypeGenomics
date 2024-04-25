@@ -19,6 +19,18 @@
         "odds_ratio": 17.792890262751158,
         "adjusted_p_value": 0.0028353799216009486
     },
+    "Mast cell": {
+        "odds_ratio": 11.120185409998896,
+        "adjusted_p_value": 0.05009163718278206
+    },
+    "Vascular endothelial cell": {
+        "odds_ratio": Infinity,
+        "adjusted_p_value": 0.0627384293715502
+    },
+    "Pericyte": {
+        "odds_ratio": Infinity,
+        "adjusted_p_value": 0.0627384293715502
+    },
     "Fibroblast": {
         "odds_ratio": 6.950005522726017,
         "adjusted_p_value": 0.0011404876202852777
