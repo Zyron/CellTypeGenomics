@@ -1,0 +1,72 @@
+[
+    {
+        "term": "protein binding",
+        "term_id": "GO:0005515",
+        "p_value": 5e-324,
+        "odds_ratio": -0.3423884554901175,
+        "source": "GO:MF"
+    },
+    {
+        "term": "binding",
+        "term_id": "GO:0005488",
+        "p_value": 1.5317119105536572e-149,
+        "odds_ratio": -0.4040377979165995,
+        "source": "GO:MF"
+    },
+    {
+        "term": "enzyme binding",
+        "term_id": "GO:0019899",
+        "p_value": 5.8001379955764865e-99,
+        "odds_ratio": -0.042854405212475445,
+        "source": "GO:MF"
+    },
+    {
+        "term": "catalytic activity",
+        "term_id": "GO:0003824",
+        "p_value": 1.415470161207759e-93,
+        "odds_ratio": -0.11197670557584737,
+        "source": "GO:MF"
+    },
+    {
+        "term": "ion binding",
+        "term_id": "GO:0043167",
+        "p_value": 4.117287002139766e-85,
+        "odds_ratio": -0.11877778634389535,
+        "source": "GO:MF"
+    },
+    {
+        "term": "small molecule binding",
+        "term_id": "GO:0036094",
+        "p_value": 4.463489491595039e-85,
+        "odds_ratio": -0.12293327142820294,
+        "source": "GO:MF"
+    },
+    {
+        "term": "protein-containing complex binding",
+        "term_id": "GO:0044877",
+        "p_value": 3.7915330589907303e-59,
+        "odds_ratio": -0.034306621367988406,
+        "source": "GO:MF"
+    },
+    {
+        "term": "nucleoside phosphate binding",
+        "term_id": "GO:1901265",
+        "p_value": 4.0888156404545565e-55,
+        "odds_ratio": -0.04193092884666012,
+        "source": "GO:MF"
+    },
+    {
+        "term": "nucleotide binding",
+        "term_id": "GO:0000166",
+        "p_value": 5.1548881755244315e-55,
+        "odds_ratio": -0.04190599272448784,
+        "source": "GO:MF"
+    },
+    {
+        "term": "heterocyclic compound binding",
+        "term_id": "GO:1901363",
+        "p_value": 4.461347326062752e-53,
+        "odds_ratio": -0.04425521707843608,
+        "source": "GO:MF"
+    }
+]

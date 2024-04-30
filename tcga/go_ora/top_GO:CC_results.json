@@ -1,0 +1,72 @@
+[
+    {
+        "term": "cytoplasm",
+        "term_id": "GO:0005737",
+        "p_value": 5e-324,
+        "odds_ratio": -0.2754892769248799,
+        "source": "GO:CC"
+    },
+    {
+        "term": "nucleoplasm",
+        "term_id": "GO:0005654",
+        "p_value": 5e-324,
+        "odds_ratio": -0.0917594543083559,
+        "source": "GO:CC"
+    },
+    {
+        "term": "cytosol",
+        "term_id": "GO:0005829",
+        "p_value": 5e-324,
+        "odds_ratio": -0.11788722267871816,
+        "source": "GO:CC"
+    },
+    {
+        "term": "membrane-bounded organelle",
+        "term_id": "GO:0043227",
+        "p_value": 1.0067648290251157e-238,
+        "odds_ratio": -0.32773186129494647,
+        "source": "GO:CC"
+    },
+    {
+        "term": "intracellular anatomical structure",
+        "term_id": "GO:0005622",
+        "p_value": 2.165430655750899e-211,
+        "odds_ratio": -0.3753830600574985,
+        "source": "GO:CC"
+    },
+    {
+        "term": "intracellular organelle lumen",
+        "term_id": "GO:0070013",
+        "p_value": 2.321824632894298e-201,
+        "odds_ratio": -0.13230857261756138,
+        "source": "GO:CC"
+    },
+    {
+        "term": "organelle lumen",
+        "term_id": "GO:0043233",
+        "p_value": 2.321824632894298e-201,
+        "odds_ratio": -0.13230857261756138,
+        "source": "GO:CC"
+    },
+    {
+        "term": "membrane-enclosed lumen",
+        "term_id": "GO:0031974",
+        "p_value": 2.321824632894298e-201,
+        "odds_ratio": -0.13230857261756138,
+        "source": "GO:CC"
+    },
+    {
+        "term": "intracellular membrane-bounded organelle",
+        "term_id": "GO:0043231",
+        "p_value": 4.33093316769961e-194,
+        "odds_ratio": -0.2990093692188339,
+        "source": "GO:CC"
+    },
+    {
+        "term": "organelle",
+        "term_id": "GO:0043226",
+        "p_value": 7.253364585600345e-191,
+        "odds_ratio": -0.3494203707147728,
+        "source": "GO:CC"
+    }
+]
