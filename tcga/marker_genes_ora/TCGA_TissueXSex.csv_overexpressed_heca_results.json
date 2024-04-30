@@ -1,0 +1,566 @@
+{
+    "Inhibitory neuron (GABAergic neuron)": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "PV inhibitory neuron": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "SOM inhibitory neuron": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Vasoactive intestinal peptide (VIP) neuron": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Excitatory neuron (Glutamatergic neuron)": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Granule cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Oligodendrocyte": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Microglia": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Oligodendrocyte precursor\u00a0cell (OPC)": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Ependymal cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Endothelial cell": {
+        "odds_ratio": 0.16736798336798336,
+        "adjusted_p_value": 1.0
+    },
+    "Neutrophilic granulocyte": {
+        "odds_ratio": 0.13175122749590834,
+        "adjusted_p_value": 1.0
+    },
+    "B cell": {
+        "odds_ratio": 0.2136870026525199,
+        "adjusted_p_value": 1.0
+    },
+    "T cell": {
+        "odds_ratio": 0.7381612534107913,
+        "adjusted_p_value": 1.0
+    },
+    "Macrophage": {
+        "odds_ratio": 0.13466889632107024,
+        "adjusted_p_value": 1.0
+    },
+    "Smooth muscle cell": {
+        "odds_ratio": 0.5904234269885239,
+        "adjusted_p_value": 1.0
+    },
+    "Rod cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Cone cell": {
+        "odds_ratio": 1.0335897435897436,
+        "adjusted_p_value": 1.0
+    },
+    "Amacrine cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Horizontal cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Ganglion cell": {
+        "odds_ratio": 1.0335897435897436,
+        "adjusted_p_value": 1.0
+    },
+    "Muller cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Astrocyte": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Schwann cell": {
+        "odds_ratio": 1.5505384615384616,
+        "adjusted_p_value": 1.0
+    },
+    "Epithelial cell": {
+        "odds_ratio": 1.094443940904559,
+        "adjusted_p_value": 1.0
+    },
+    "Stromal cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Fibroblast (Keratocyte)": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Erythrocyte": {
+        "odds_ratio": 1.2403816558941212,
+        "adjusted_p_value": 1.0
+    },
+    "Granulocyte": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Mast cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Vascular endothelial cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Pericyte": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Lymphatic endothelial cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Keratinocyte": {
+        "odds_ratio": 2.0674871794871796,
+        "adjusted_p_value": 1.0
+    },
+    "Melanocyte": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Fibroblast": {
+        "odds_ratio": 0.7152922508525957,
+        "adjusted_p_value": 1.0
+    },
+    "Hemopoietic stem cell": {
+        "odds_ratio": 1.5506923076923076,
+        "adjusted_p_value": 1.0
+    },
+    "Megakaryocyte": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Eosinophilic granulocyte": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Basophilic granulocyte": {
+        "odds_ratio": 1.5505384615384616,
+        "adjusted_p_value": 1.0
+    },
+    "Monocyte": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Conventional dendritic cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Plasmacytoid dendritic cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Plasma B Cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Memory B cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Centrocyte B cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "NK cell": {
+        "odds_ratio": 2.821234526410127,
+        "adjusted_p_value": 1.0
+    },
+    "Common myeloid progenitor(CMP)": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Fibrocyte": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Adipocyte": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Neuron": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Dendritic cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Cardiomyocyte cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Mesothelium": {
+        "odds_ratio": 3.101384615384615,
+        "adjusted_p_value": 1.0
+    },
+    "Perineural epithelial cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Ciliated columnar cell": {
+        "odds_ratio": 0.8858901098901099,
+        "adjusted_p_value": 1.0
+    },
+    "Goblet cell": {
+        "odds_ratio": 0.826839027393044,
+        "adjusted_p_value": 1.0
+    },
+    "Basal cell": {
+        "odds_ratio": 3.1018775007694677,
+        "adjusted_p_value": 1.0
+    },
+    "Myoepithelial cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Serous gland cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Mucous gland cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Chondrocyte": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Type I alveolar cell/Type I pneumocyte": {
+        "odds_ratio": 0.413374358974359,
+        "adjusted_p_value": 1.0
+    },
+    "Type II alveolar cell/Type II pneumocyte": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Club cell/bronchiolar exocrine cell/Clara cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "CD4 T cell": {
+        "odds_ratio": 1.5505384615384616,
+        "adjusted_p_value": 1.0
+    },
+    "CD8 T cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "B Cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Collecting duct": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Distal convoluted tubule": {
+        "odds_ratio": 2.0675897435897435,
+        "adjusted_p_value": 1.0
+    },
+    "Erythroid progenitor cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Intercalated cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Intercalated cell/Princple cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Loop of henle": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Loop of henle progenitor": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Mesangial cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Mesenchymal cell": {
+        "odds_ratio": 2.481625115420129,
+        "adjusted_p_value": 1.0
+    },
+    "Myeloid cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Neuroglial cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Podocyte": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Principle cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Proliferating cell": {
+        "odds_ratio": Infinity,
+        "adjusted_p_value": 0.9061014173649481
+    },
+    "Proximal convoluted tubule": {
+        "odds_ratio": 6.203076923076923,
+        "adjusted_p_value": 1.0
+    },
+    "Proximal convoluted tubule progenitor": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Ureteric bud cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Ureteric epithelial cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Superficial cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Urothelial cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Haematopoietic stem and progenitor cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Hepatocyte": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Kuppfer cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Proliferating T cell": {
+        "odds_ratio": Infinity,
+        "adjusted_p_value": 0.9061014173649481
+    },
+    "Lymphocyte": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Acinar cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Alpha cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Beta cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Delta cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Ductal cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Endocrine cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Exocrine cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Gamma cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Plasma B cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Satellite cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Zona fasciculata cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Follicular epithelial cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Theca cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Germ cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Epithelial progenitor cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Luminal cell": {
+        "odds_ratio": Infinity,
+        "adjusted_p_value": 1.0
+    },
+    "Fasciculata cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Sertoli cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Spermatogonial stem cell": {
+        "odds_ratio": 0.8861538461538462,
+        "adjusted_p_value": 1.0
+    },
+    "Mesenchymal stromal cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Differentiating spermatogonia": {
+        "odds_ratio": Infinity,
+        "adjusted_p_value": 0.3773293351427197
+    },
+    "Differentiated spermatogonia": {
+        "odds_ratio": Infinity,
+        "adjusted_p_value": 1.0
+    },
+    "Spermatogenic cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Skeletal muscle cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Basophililc granulocyte": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Tubule cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Antigen presenting cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Chief cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Chromaffin cell": {
+        "odds_ratio": 6.203384615384615,
+        "adjusted_p_value": 1.0
+    },
+    "D cell(X/A cell)": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Enterocyte": {
+        "odds_ratio": 0.26948494983277593,
+        "adjusted_p_value": 1.0
+    },
+    "Inflammatory cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Parietal cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Pit cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Enterocyte progenitor": {
+        "odds_ratio": 0.7751153846153847,
+        "adjusted_p_value": 1.0
+    },
+    "Paneth cell": {
+        "odds_ratio": 2.0675897435897435,
+        "adjusted_p_value": 1.0
+    },
+    "Enteric glial cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Enteroendocrine cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Inflamed epithelial cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Mesothelial cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Myofibroblast": {
+        "odds_ratio": Infinity,
+        "adjusted_p_value": 1.0
+    },
+    "Osteoclast": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Autonomic nervous system": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Erythroid cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Fast skeletal muscle cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Muscle progenitor cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Neutrophil": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    },
+    "Tendon cell": {
+        "odds_ratio": 0.0,
+        "adjusted_p_value": 1.0
+    }
+}
