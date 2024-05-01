@@ -1,0 +1,223 @@
+[
+    {
+        "description": "\"Binding to an ion, a charged atoms or groups of atoms.\" [GOC:jl]",
+        "effective_domain_size": 20212,
+        "goshv": 5721,
+        "intersection_size": 1744,
+        "name": "ion binding",
+        "native": "GO:0043167",
+        "p_value": 2.1987407446251063e-53,
+        "parents": [
+            "GO:0036094"
+        ],
+        "precision": 0.4036102753992131,
+        "query": "query_1",
+        "query_size": 4321,
+        "recall": 0.2837617962902701,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 6146,
+        "source_order": 5721,
+        "group_id": 1,
+        "odds_ratio": 3.551893479783951
+    },
+    {
+        "description": "\"Binding to a small molecule, any low molecular weight, monomeric, non-encoded molecule.\" [GOC:curators, GOC:pde, GOC:pm]",
+        "effective_domain_size": 20212,
+        "goshv": 5395,
+        "intersection_size": 1769,
+        "name": "small molecule binding",
+        "native": "GO:0036094",
+        "p_value": 9.922455709005375e-48,
+        "parents": [
+            "GO:0005488"
+        ],
+        "precision": 0.40939597315436244,
+        "query": "query_1",
+        "query_size": 4321,
+        "recall": 0.27827591631272613,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 6357,
+        "source_order": 5395,
+        "group_id": 1,
+        "odds_ratio": 3.45902759222331
+    },
+    {
+        "description": "\"Binding to a metal ion.\" [GOC:ai]",
+        "effective_domain_size": 20212,
+        "goshv": 6229,
+        "intersection_size": 1275,
+        "name": "metal ion binding",
+        "native": "GO:0046872",
+        "p_value": 7.066059157706214e-42,
+        "parents": [
+            "GO:0043169"
+        ],
+        "precision": 0.29507058551261284,
+        "query": "query_1",
+        "query_size": 4321,
+        "recall": 0.2928341754708314,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 4354,
+        "source_order": 6229,
+        "group_id": 1,
+        "odds_ratio": 3.5407309586754327
+    },
+    {
+        "description": "\"Binding to a cation, a charged atom or group of atoms with a net positive charge.\" [GOC:jl]",
+        "effective_domain_size": 20212,
+        "goshv": 5723,
+        "intersection_size": 1289,
+        "name": "cation binding",
+        "native": "GO:0043169",
+        "p_value": 4.478471241117227e-40,
+        "parents": [
+            "GO:0043167"
+        ],
+        "precision": 0.2983105762554964,
+        "query": "query_1",
+        "query_size": 4321,
+        "recall": 0.29005400540054005,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 4444,
+        "source_order": 5723,
+        "group_id": 1,
+        "odds_ratio": 3.4959565328885387
+    },
+    {
+        "description": "\"Any molecular function by which a gene product interacts selectively and non-covalently with DNA (deoxyribonucleic acid).\" [GOC:dph, GOC:jl, GOC:tb, GOC:vw]",
+        "effective_domain_size": 20212,
+        "goshv": 324,
+        "intersection_size": 797,
+        "name": "DNA binding",
+        "native": "GO:0003677",
+        "p_value": 1.3986504530039736e-34,
+        "parents": [
+            "GO:0003676"
+        ],
+        "precision": 0.18444804443415877,
+        "query": "query_1",
+        "query_size": 4321,
+        "recall": 0.3147709320695103,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 2532,
+        "source_order": 324,
+        "group_id": 1,
+        "odds_ratio": 3.758128500920902
+    },
+    {
+        "description": "\"The selective, non-covalent, often stoichiometric, interaction of a molecule with one or more specific sites on another molecule.\" [GOC:ceb, GOC:mah, ISBN:0198506732]",
+        "effective_domain_size": 20212,
+        "goshv": 1480,
+        "intersection_size": 4104,
+        "name": "binding",
+        "native": "GO:0005488",
+        "p_value": 1.4447265447564214e-26,
+        "parents": [
+            "GO:0003674"
+        ],
+        "precision": 0.9497801434853044,
+        "query": "query_1",
+        "query_size": 4321,
+        "recall": 0.22340772999455635,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 18370,
+        "source_order": 1480,
+        "group_id": 1,
+        "odds_ratio": 3.3678951242590958
+    },
+    {
+        "description": "\"Binding to double-stranded DNA.\" [GOC:elh, GOC:vw]",
+        "effective_domain_size": 20212,
+        "goshv": 332,
+        "intersection_size": 522,
+        "name": "double-stranded DNA binding",
+        "native": "GO:0003690",
+        "p_value": 1.4731546284122036e-22,
+        "parents": [
+            "GO:0003677"
+        ],
+        "precision": 0.12080536912751678,
+        "query": "query_1",
+        "query_size": 4321,
+        "recall": 0.3188759926695174,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 1637,
+        "source_order": 332,
+        "group_id": 1,
+        "odds_ratio": 3.7310052913750065
+    },
+    {
+        "description": "\"Binding to a nucleic acid region that regulates a nucleic acid-based process. Such processes include transcription, DNA replication, and DNA repair.\" [GOC:txnOH]",
+        "effective_domain_size": 20212,
+        "goshv": 151,
+        "intersection_size": 478,
+        "name": "transcription regulatory region nucleic acid binding",
+        "native": "GO:0001067",
+        "p_value": 1.4256668725970026e-21,
+        "parents": [
+            "GO:0003676"
+        ],
+        "precision": 0.11062254107845407,
+        "query": "query_1",
+        "query_size": 4321,
+        "recall": 0.3225371120107962,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 1482,
+        "source_order": 151,
+        "group_id": 1,
+        "odds_ratio": 3.779504576915064
+    },
+    {
+        "description": "\"Binding to an organic cyclic compound, any molecular entity that contains carbon arranged in a cyclic molecular structure.\" [GOC:sjw, PMID:7583672]",
+        "effective_domain_size": 20212,
+        "goshv": 9069,
+        "intersection_size": 1899,
+        "name": "organic cyclic compound binding",
+        "native": "GO:0097159",
+        "p_value": 2.4669606055116624e-21,
+        "parents": [
+            "GO:0005488"
+        ],
+        "precision": 0.43948160148113863,
+        "query": "query_1",
+        "query_size": 4321,
+        "recall": 0.25165650675854756,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 7546,
+        "source_order": 9069,
+        "group_id": 1,
+        "odds_ratio": 3.0225745799099384
+    },
+    {
+        "description": "\"Binding to a specific sequence of DNA that is part of a regulatory region that controls transcription of that section of the DNA. The transcribed region might be described as a gene, cistron, or operon.\" [GOC:txnOH]",
+        "effective_domain_size": 20212,
+        "goshv": 115,
+        "intersection_size": 476,
+        "name": "transcription cis-regulatory region binding",
+        "native": "GO:0000976",
+        "p_value": 3.535097956323948e-21,
+        "parents": [
+            "GO:0001067",
+            "GO:1990837"
+        ],
+        "precision": 0.11015968525804212,
+        "query": "query_1",
+        "query_size": 4321,
+        "recall": 0.3216216216216216,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 1480,
+        "source_order": 115,
+        "group_id": 1,
+        "odds_ratio": 3.762719099078065
+    }
+]

@@ -1,0 +1,222 @@
+[
+    {
+        "description": "\"Binding to a protein.\" [GOC:go_curators]",
+        "effective_domain_size": 20212,
+        "goshv": 1492,
+        "intersection_size": 5405,
+        "name": "protein binding",
+        "native": "GO:0005515",
+        "p_value": 3.2626286948579675e-221,
+        "parents": [
+            "GO:0005488"
+        ],
+        "precision": 0.8767234387672344,
+        "query": "query_1",
+        "query_size": 6165,
+        "recall": 0.3642674214853754,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 14838,
+        "source_order": 1492,
+        "group_id": 1,
+        "odds_ratio": 18.574489651772232
+    },
+    {
+        "description": "\"The selective, non-covalent, often stoichiometric, interaction of a molecule with one or more specific sites on another molecule.\" [GOC:ceb, GOC:mah, ISBN:0198506732]",
+        "effective_domain_size": 20212,
+        "goshv": 1480,
+        "intersection_size": 5851,
+        "name": "binding",
+        "native": "GO:0005488",
+        "p_value": 6.857082906909602e-41,
+        "parents": [
+            "GO:0003674"
+        ],
+        "precision": 0.9490673154906731,
+        "query": "query_1",
+        "query_size": 6165,
+        "recall": 0.31850843767011433,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 18370,
+        "source_order": 1480,
+        "group_id": 1,
+        "odds_ratio": 19.485805067325398
+    },
+    {
+        "description": "\"Binding to an enzyme, a protein with catalytic activity.\" [GOC:jl]",
+        "effective_domain_size": 20212,
+        "goshv": 3728,
+        "intersection_size": 884,
+        "name": "enzyme binding",
+        "native": "GO:0019899",
+        "p_value": 7.809650254090796e-30,
+        "parents": [
+            "GO:0005515"
+        ],
+        "precision": 0.14339010543390104,
+        "query": "query_1",
+        "query_size": 6165,
+        "recall": 0.42035187826913933,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 2103,
+        "source_order": 3728,
+        "group_id": 1,
+        "odds_ratio": 7.308638043931947
+    },
+    {
+        "description": "\"Binding to a macromolecular complex.\" [GOC:jl]",
+        "effective_domain_size": 20212,
+        "goshv": 6047,
+        "intersection_size": 751,
+        "name": "protein-containing complex binding",
+        "native": "GO:0044877",
+        "p_value": 7.627785991633592e-28,
+        "parents": [
+            "GO:0005488"
+        ],
+        "precision": 0.12181670721816708,
+        "query": "query_1",
+        "query_size": 6165,
+        "recall": 0.4286529680365297,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 1752,
+        "source_order": 6047,
+        "group_id": 1,
+        "odds_ratio": 7.428136675212237
+    },
+    {
+        "description": "\"Catalysis of a biochemical reaction at physiological temperatures. In biologically catalyzed reactions, the reactants are known as substrates, and the catalysts are naturally occurring macromolecular substances known as enzymes. Enzymes possess specific binding sites for substrates, and are usually composed wholly or largely of protein, but RNA that has catalytic activity (ribozyme) is often also regarded as enzymatic.\" [GOC:vw, ISBN:0198506732]",
+        "effective_domain_size": 20212,
+        "goshv": 368,
+        "intersection_size": 2097,
+        "name": "catalytic activity",
+        "native": "GO:0003824",
+        "p_value": 8.883850161356893e-28,
+        "parents": [
+            "GO:0003674"
+        ],
+        "precision": 0.34014598540145985,
+        "query": "query_1",
+        "query_size": 6165,
+        "recall": 0.36418895449808963,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 5758,
+        "source_order": 368,
+        "group_id": 2,
+        "odds_ratio": 6.898030856010768
+    },
+    {
+        "description": "\"Binding to an identical protein or proteins.\" [GOC:jl]",
+        "effective_domain_size": 20212,
+        "goshv": 5644,
+        "intersection_size": 882,
+        "name": "identical protein binding",
+        "native": "GO:0042802",
+        "p_value": 1.7172186769295915e-24,
+        "parents": [
+            "GO:0005515"
+        ],
+        "precision": 0.14306569343065692,
+        "query": "query_1",
+        "query_size": 6165,
+        "recall": 0.40795559666975023,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 2162,
+        "source_order": 5644,
+        "group_id": 1,
+        "odds_ratio": 6.935561440677966
+    },
+    {
+        "description": "\"Binding to cadherin, a type I membrane protein involved in cell adhesion.\" [GOC:bf]",
+        "effective_domain_size": 20212,
+        "goshv": 6083,
+        "intersection_size": 188,
+        "name": "cadherin binding",
+        "native": "GO:0045296",
+        "p_value": 4.921593064890145e-20,
+        "parents": [
+            "GO:0050839"
+        ],
+        "precision": 0.03049472830494728,
+        "query": "query_1",
+        "query_size": 6165,
+        "recall": 0.5611940298507463,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 335,
+        "source_order": 6083,
+        "group_id": 1,
+        "odds_ratio": 11.786073233183533
+    },
+    {
+        "description": "\"A molecular function representing the directed movement of electrons from one molecular entity to another, typically mediated by electron carriers or acceptors, resulting in the transfer of energy and/or the reduction-oxidation (redox) transformation of chemical species. This activity is fundamental to various biological processes, including cellular respiration and photosynthesis, as well as numerous enzymatic reactions involved in metabolic pathways.\" [Wikipedia:Electron_transfer]",
+        "effective_domain_size": 20212,
+        "goshv": 2130,
+        "intersection_size": 81,
+        "name": "electron transfer activity",
+        "native": "GO:0009055",
+        "p_value": 5.541679215804656e-16,
+        "parents": [
+            "GO:0003674"
+        ],
+        "precision": 0.013138686131386862,
+        "query": "query_1",
+        "query_size": 6165,
+        "recall": 0.7043478260869566,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 115,
+        "source_order": 2130,
+        "group_id": 2,
+        "odds_ratio": 21.657754010695186
+    },
+    {
+        "description": "\"Primary active transport of a solute across a membrane, driven by exothermic flow of electrons from a reduced substrate to an oxidized substrate. Primary active transport is catalysis of the transport of a solute across a membrane, up the solute's concentration gradient, by binding the solute and undergoing a series of conformational changes. Transport works equally well in either direction and is driven by a primary energy source.\" [GOC:mtg_transport, ISBN:0815340729, TC:3.D.-.-.-]",
+        "effective_domain_size": 20212,
+        "goshv": 2561,
+        "intersection_size": 54,
+        "name": "oxidoreduction-driven active transmembrane transporter activity",
+        "native": "GO:0015453",
+        "p_value": 4.063871257094896e-15,
+        "parents": [
+            "GO:0015399"
+        ],
+        "precision": 0.008759124087591242,
+        "query": "query_1",
+        "query_size": 6165,
+        "recall": 0.8181818181818182,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 66,
+        "source_order": 2561,
+        "group_id": 2,
+        "odds_ratio": 40.76591200341734
+    },
+    {
+        "description": "\"Catalysis of an oxidation-reduction (redox) reaction, a reversible chemical reaction in which the oxidation state of an atom or atoms within a molecule is altered. One substrate acts as a hydrogen or electron donor and becomes oxidized, while the other acts as hydrogen or electron acceptor and becomes reduced.\" [GOC:go_curators]",
+        "effective_domain_size": 20212,
+        "goshv": 2813,
+        "intersection_size": 334,
+        "name": "oxidoreductase activity",
+        "native": "GO:0016491",
+        "p_value": 8.052283766849023e-15,
+        "parents": [
+            "GO:0003824"
+        ],
+        "precision": 0.05417680454176804,
+        "query": "query_1",
+        "query_size": 6165,
+        "recall": 0.4501347708894879,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 742,
+        "source_order": 2813,
+        "group_id": 2,
+        "odds_ratio": 7.675891919870425
+    }
+]

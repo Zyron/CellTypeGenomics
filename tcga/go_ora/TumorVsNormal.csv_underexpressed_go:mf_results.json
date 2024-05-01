@@ -1,0 +1,222 @@
+[
+    {
+        "description": "\"Binding to a protein.\" [GOC:go_curators]",
+        "effective_domain_size": 20212,
+        "goshv": 1492,
+        "intersection_size": 5546,
+        "name": "protein binding",
+        "native": "GO:0005515",
+        "p_value": 4.3355348880164924e-85,
+        "parents": [
+            "GO:0005488"
+        ],
+        "precision": 0.8190813764584256,
+        "query": "query_1",
+        "query_size": 6771,
+        "recall": 0.3737700498719504,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 14838,
+        "source_order": 1492,
+        "group_id": 1,
+        "odds_ratio": 5.571884581934041
+    },
+    {
+        "description": "\"Binding to an ion, a charged atoms or groups of atoms.\" [GOC:jl]",
+        "effective_domain_size": 20212,
+        "goshv": 5721,
+        "intersection_size": 2534,
+        "name": "ion binding",
+        "native": "GO:0043167",
+        "p_value": 4.0323947445417056e-50,
+        "parents": [
+            "GO:0036094"
+        ],
+        "precision": 0.37424309555457097,
+        "query": "query_1",
+        "query_size": 6771,
+        "recall": 0.4123006833712984,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 6146,
+        "source_order": 5721,
+        "group_id": 1,
+        "odds_ratio": 4.679252745593145
+    },
+    {
+        "description": "\"Binding to a small molecule, any low molecular weight, monomeric, non-encoded molecule.\" [GOC:curators, GOC:pde, GOC:pm]",
+        "effective_domain_size": 20212,
+        "goshv": 5395,
+        "intersection_size": 2597,
+        "name": "small molecule binding",
+        "native": "GO:0036094",
+        "p_value": 1.1763190460211214e-47,
+        "parents": [
+            "GO:0005488"
+        ],
+        "precision": 0.38354748190813764,
+        "query": "query_1",
+        "query_size": 6771,
+        "recall": 0.40852603429290546,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 6357,
+        "source_order": 5395,
+        "group_id": 1,
+        "odds_ratio": 4.6293276735806055
+    },
+    {
+        "description": "\"The selective, non-covalent, often stoichiometric, interaction of a molecule with one or more specific sites on another molecule.\" [GOC:ceb, GOC:mah, ISBN:0198506732]",
+        "effective_domain_size": 20212,
+        "goshv": 1480,
+        "intersection_size": 6423,
+        "name": "binding",
+        "native": "GO:0005488",
+        "p_value": 1.6064926126818443e-45,
+        "parents": [
+            "GO:0003674"
+        ],
+        "precision": 0.948604342046965,
+        "query": "query_1",
+        "query_size": 6771,
+        "recall": 0.3496461622210125,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 18370,
+        "source_order": 1480,
+        "group_id": 1,
+        "odds_ratio": 5.675624417795953
+    },
+    {
+        "description": "\"Binding to a metal ion.\" [GOC:ai]",
+        "effective_domain_size": 20212,
+        "goshv": 6229,
+        "intersection_size": 1837,
+        "name": "metal ion binding",
+        "native": "GO:0046872",
+        "p_value": 2.4517019323685285e-39,
+        "parents": [
+            "GO:0043169"
+        ],
+        "precision": 0.2713040909762221,
+        "query": "query_1",
+        "query_size": 6771,
+        "recall": 0.42191088654111164,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 4354,
+        "source_order": 6229,
+        "group_id": 1,
+        "odds_ratio": 4.583361022174828
+    },
+    {
+        "description": "\"Binding to a cation, a charged atom or group of atoms with a net positive charge.\" [GOC:jl]",
+        "effective_domain_size": 20212,
+        "goshv": 5723,
+        "intersection_size": 1862,
+        "name": "cation binding",
+        "native": "GO:0043169",
+        "p_value": 1.008516110943856e-37,
+        "parents": [
+            "GO:0043167"
+        ],
+        "precision": 0.274996307783193,
+        "query": "query_1",
+        "query_size": 6771,
+        "recall": 0.41899189918991897,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 4444,
+        "source_order": 5723,
+        "group_id": 1,
+        "odds_ratio": 4.536082244940218
+    },
+    {
+        "description": "\"Binding to an enzyme, a protein with catalytic activity.\" [GOC:jl]",
+        "effective_domain_size": 20212,
+        "goshv": 3728,
+        "intersection_size": 921,
+        "name": "enzyme binding",
+        "native": "GO:0019899",
+        "p_value": 9.009674869150269e-23,
+        "parents": [
+            "GO:0005515"
+        ],
+        "precision": 0.13602126716880816,
+        "query": "query_1",
+        "query_size": 6771,
+        "recall": 0.43794579172610554,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 2103,
+        "source_order": 3728,
+        "group_id": 1,
+        "odds_ratio": 4.550143033752727
+    },
+    {
+        "description": "\"Binds to and modulates the activity of a GTPase.\" [GOC:mah]",
+        "effective_domain_size": 20212,
+        "goshv": 3988,
+        "intersection_size": 267,
+        "name": "GTPase regulator activity",
+        "native": "GO:0030695",
+        "p_value": 3.82945729398476e-19,
+        "parents": [
+            "GO:0060589"
+        ],
+        "precision": 0.03943287549844927,
+        "query": "query_1",
+        "query_size": 6771,
+        "recall": 0.5426829268292683,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 492,
+        "source_order": 3988,
+        "group_id": 3,
+        "odds_ratio": 6.611793479956325
+    },
+    {
+        "description": "\"Binds to and modulates the activity of an NTPase.\" [GOC:dph, GOC:tb]",
+        "effective_domain_size": 20212,
+        "goshv": 8391,
+        "intersection_size": 267,
+        "name": "nucleoside-triphosphatase regulator activity",
+        "native": "GO:0060589",
+        "p_value": 3.82945729398476e-19,
+        "parents": [
+            "GO:0030234"
+        ],
+        "precision": 0.03943287549844927,
+        "query": "query_1",
+        "query_size": 6771,
+        "recall": 0.5426829268292683,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 492,
+        "source_order": 8391,
+        "group_id": 3,
+        "odds_ratio": 6.611793479956325
+    },
+    {
+        "description": "\"Binds to and modulates the activity of an enzyme.\" [GOC:dph, GOC:mah, GOC:tb]",
+        "effective_domain_size": 20212,
+        "goshv": 3856,
+        "intersection_size": 587,
+        "name": "enzyme regulator activity",
+        "native": "GO:0030234",
+        "p_value": 2.5831024745411415e-17,
+        "parents": [
+            "GO:0098772"
+        ],
+        "precision": 0.08669325062767685,
+        "query": "query_1",
+        "query_size": 6771,
+        "recall": 0.4529320987654321,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 1296,
+        "source_order": 3856,
+        "group_id": 3,
+        "odds_ratio": 4.716745693335701
+    }
+]

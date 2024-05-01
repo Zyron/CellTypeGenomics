@@ -1,0 +1,223 @@
+[
+    {
+        "description": "\"Receiving a signal and transmitting it in a cell to initiate an immune response.\" [PMID:31415752, Wikipedia:Immune_receptor]",
+        "effective_domain_size": 20212,
+        "goshv": 10473,
+        "intersection_size": 42,
+        "name": "immune receptor activity",
+        "native": "GO:0140375",
+        "p_value": 5.67946945472261e-21,
+        "parents": [
+            "GO:0038023"
+        ],
+        "precision": 0.04883720930232558,
+        "query": "query_1",
+        "query_size": 860,
+        "recall": 0.2896551724137931,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 145,
+        "source_order": 10473,
+        "group_id": 1,
+        "odds_ratio": 27.747306822715785
+    },
+    {
+        "description": "\"A compound molecular function in which an effector function is controlled by one or more regulatory components.\" [GOC:dos, GOC:pdt]",
+        "effective_domain_size": 20212,
+        "goshv": 8381,
+        "intersection_size": 127,
+        "name": "molecular transducer activity",
+        "native": "GO:0060089",
+        "p_value": 1.4993431379170188e-11,
+        "parents": [
+            "GO:0003674"
+        ],
+        "precision": 0.14767441860465116,
+        "query": "query_1",
+        "query_size": 860,
+        "recall": 0.085177733065057,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 1491,
+        "source_order": 8381,
+        "group_id": 1,
+        "odds_ratio": 6.785195310421668
+    },
+    {
+        "description": "\"Receiving a signal and transmitting it in the cell to initiate a change in cell activity. A signal is a physical entity or change in state that is used to transfer information in order to trigger a response.\" [GOC:bf, GOC:signaling]",
+        "effective_domain_size": 20212,
+        "goshv": 5506,
+        "intersection_size": 127,
+        "name": "signaling receptor activity",
+        "native": "GO:0038023",
+        "p_value": 1.4993431379170188e-11,
+        "parents": [
+            "GO:0060089"
+        ],
+        "precision": 0.14767441860465116,
+        "query": "query_1",
+        "query_size": 860,
+        "recall": 0.085177733065057,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 1491,
+        "source_order": 5506,
+        "group_id": 1,
+        "odds_ratio": 6.785195310421668
+    },
+    {
+        "description": "\"Binding to a protein.\" [GOC:go_curators]",
+        "effective_domain_size": 20212,
+        "goshv": 1492,
+        "intersection_size": 713,
+        "name": "protein binding",
+        "native": "GO:0005515",
+        "p_value": 7.645312961413792e-09,
+        "parents": [
+            "GO:0005488"
+        ],
+        "precision": 0.8290697674418605,
+        "query": "query_1",
+        "query_size": 860,
+        "recall": 0.04805229815338995,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 14838,
+        "source_order": 1492,
+        "group_id": 2,
+        "odds_ratio": 7.984708368000403
+    },
+    {
+        "description": "\"Binding to a lipid.\" [GOC:ai]",
+        "effective_domain_size": 20212,
+        "goshv": 1643,
+        "intersection_size": 80,
+        "name": "lipid binding",
+        "native": "GO:0008289",
+        "p_value": 7.669084610337646e-09,
+        "parents": [
+            "GO:0005488"
+        ],
+        "precision": 0.09302325581395349,
+        "query": "query_1",
+        "query_size": 860,
+        "recall": 0.09512485136741974,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 841,
+        "source_order": 1643,
+        "group_id": 6,
+        "odds_ratio": 7.359379507067081
+    },
+    {
+        "description": "\"Binding to one or more specific sites on a receptor molecule, a macromolecule that undergoes combination with a hormone, neurotransmitter, drug or intracellular messenger to initiate a change in cell function.\" [GOC:bf, GOC:ceb, ISBN:0198506732]",
+        "effective_domain_size": 20212,
+        "goshv": 1277,
+        "intersection_size": 119,
+        "name": "signaling receptor binding",
+        "native": "GO:0005102",
+        "p_value": 1.3537073390870849e-08,
+        "parents": [
+            "GO:0005515"
+        ],
+        "precision": 0.13837209302325582,
+        "query": "query_1",
+        "query_size": 860,
+        "recall": 0.07928047968021319,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 1501,
+        "source_order": 1277,
+        "group_id": 2,
+        "odds_ratio": 6.2202122527737576
+    },
+    {
+        "description": "\"Combining with an extracellular or intracellular signal and transmitting the signal from one side of the membrane to the other to initiate a change in cell activity or state as part of signal transduction.\" [GOC:go_curators, Wikipedia:Transmembrane_receptor]",
+        "effective_domain_size": 20212,
+        "goshv": 1145,
+        "intersection_size": 105,
+        "name": "transmembrane signaling receptor activity",
+        "native": "GO:0004888",
+        "p_value": 2.0615250397115376e-08,
+        "parents": [
+            "GO:0038023"
+        ],
+        "precision": 0.12209302325581395,
+        "query": "query_1",
+        "query_size": 860,
+        "recall": 0.08274231678486997,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 1269,
+        "source_order": 1145,
+        "group_id": 1,
+        "odds_ratio": 6.441699902174731
+    },
+    {
+        "description": "\"Binding to a class II major histocompatibility complex.\" [GOC:mtg_signal, GOC:vw]",
+        "effective_domain_size": 20212,
+        "goshv": 3819,
+        "intersection_size": 12,
+        "name": "MHC class II protein complex binding",
+        "native": "GO:0023026",
+        "p_value": 3.575859637324184e-08,
+        "parents": [
+            "GO:0023023"
+        ],
+        "precision": 0.013953488372093023,
+        "query": "query_1",
+        "query_size": 860,
+        "recall": 0.5,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 24,
+        "source_order": 3819,
+        "group_id": 7,
+        "odds_ratio": 66.19296577946768
+    },
+    {
+        "description": "\"Binding to a major histocompatibility complex.\" [GOC:mtg_signal, GOC:vw]",
+        "effective_domain_size": 20212,
+        "goshv": 3816,
+        "intersection_size": 13,
+        "name": "MHC protein complex binding",
+        "native": "GO:0023023",
+        "p_value": 2.3121035160546322e-07,
+        "parents": [
+            "GO:0044877"
+        ],
+        "precision": 0.015116279069767442,
+        "query": "query_1",
+        "query_size": 860,
+        "recall": 0.3939393939393939,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 33,
+        "source_order": 3816,
+        "group_id": 7,
+        "odds_ratio": 43.06141769743102
+    },
+    {
+        "description": "\"Combining with a cytokine and transmitting the signal from one side of the membrane to the other to initiate a change in cell activity.\" [GOC:add, GOC:mah]",
+        "effective_domain_size": 20212,
+        "goshv": 1148,
+        "intersection_size": 21,
+        "name": "cytokine receptor activity",
+        "native": "GO:0004896",
+        "p_value": 8.404484403496155e-07,
+        "parents": [
+            "GO:0004888",
+            "GO:0140375"
+        ],
+        "precision": 0.02441860465116279,
+        "query": "query_1",
+        "query_size": 860,
+        "recall": 0.2079207920792079,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 101,
+        "source_order": 1148,
+        "group_id": 1,
+        "odds_ratio": 17.508473154362417
+    }
+]

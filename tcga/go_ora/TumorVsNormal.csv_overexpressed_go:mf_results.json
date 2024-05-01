@@ -1,0 +1,222 @@
+[
+    {
+        "description": "\"Binding to a protein.\" [GOC:go_curators]",
+        "effective_domain_size": 20212,
+        "goshv": 1492,
+        "intersection_size": 4704,
+        "name": "protein binding",
+        "native": "GO:0005515",
+        "p_value": 2.9535522776908438e-152,
+        "parents": [
+            "GO:0005488"
+        ],
+        "precision": 0.8635946392509638,
+        "query": "query_1",
+        "query_size": 5447,
+        "recall": 0.31702385766275776,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 14838,
+        "source_order": 1492,
+        "group_id": 2,
+        "odds_ratio": 15.08445818833388
+    },
+    {
+        "description": "\"The selective, non-covalent, often stoichiometric, interaction of a molecule with one or more specific sites on another molecule.\" [GOC:ceb, GOC:mah, ISBN:0198506732]",
+        "effective_domain_size": 20212,
+        "goshv": 1480,
+        "intersection_size": 5175,
+        "name": "binding",
+        "native": "GO:0005488",
+        "p_value": 1.94798030800669e-36,
+        "parents": [
+            "GO:0003674"
+        ],
+        "precision": 0.9500642555535157,
+        "query": "query_1",
+        "query_size": 5447,
+        "recall": 0.28170930865541643,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 18370,
+        "source_order": 1480,
+        "group_id": 2,
+        "odds_ratio": 16.75720183368615
+    },
+    {
+        "description": "\"Catalysis of a biochemical reaction at physiological temperatures. In biologically catalyzed reactions, the reactants are known as substrates, and the catalysts are naturally occurring macromolecular substances known as enzymes. Enzymes possess specific binding sites for substrates, and are usually composed wholly or largely of protein, but RNA that has catalytic activity (ribozyme) is often also regarded as enzymatic.\" [GOC:vw, ISBN:0198506732]",
+        "effective_domain_size": 20212,
+        "goshv": 368,
+        "intersection_size": 1927,
+        "name": "catalytic activity",
+        "native": "GO:0003824",
+        "p_value": 3.314438046853984e-36,
+        "parents": [
+            "GO:0003674"
+        ],
+        "precision": 0.35377271892785017,
+        "query": "query_1",
+        "query_size": 5447,
+        "recall": 0.33466481417158733,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 5758,
+        "source_order": 368,
+        "group_id": 1,
+        "odds_ratio": 6.847161880802488
+    },
+    {
+        "description": "\"Catalytic activity that acts to modify a nucleic acid.\" [GOC:pg]",
+        "effective_domain_size": 20212,
+        "goshv": 10557,
+        "intersection_size": 274,
+        "name": "catalytic activity, acting on a nucleic acid",
+        "native": "GO:0140640",
+        "p_value": 6.2692196143666915e-18,
+        "parents": [
+            "GO:0003824"
+        ],
+        "precision": 0.05030291903800257,
+        "query": "query_1",
+        "query_size": 5447,
+        "recall": 0.43980738362760835,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 623,
+        "source_order": 10557,
+        "group_id": 1,
+        "odds_ratio": 8.238531868685397
+    },
+    {
+        "description": "\"Binding to an antigen, any substance which is capable of inducing a specific immune response and of reacting with the products of that response, the specific antibody or specifically sensitized T-lymphocytes, or both. Binding may counteract the biological activity of the antigen. Antigen binding by an MHC protein complex allows the antigen to be displayed to a T cell or NK cell.\" [GOC:jl, ISBN:0198506732, ISBN:0721662544]",
+        "effective_domain_size": 20212,
+        "goshv": 367,
+        "intersection_size": 105,
+        "name": "antigen binding",
+        "native": "GO:0003823",
+        "p_value": 9.438689010039478e-18,
+        "parents": [
+            "GO:0005488"
+        ],
+        "precision": 0.019276666054709013,
+        "query": "query_1",
+        "query_size": 5447,
+        "recall": 0.603448275862069,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 174,
+        "source_order": 367,
+        "group_id": 2,
+        "odds_ratio": 15.605899778688922
+    },
+    {
+        "description": "\"Binding to a complex of RNA and protein.\" [GOC:bf, GOC:go_curators, GOC:vk]",
+        "effective_domain_size": 20212,
+        "goshv": 5703,
+        "intersection_size": 101,
+        "name": "ribonucleoprotein complex binding",
+        "native": "GO:0043021",
+        "p_value": 7.861636393694864e-16,
+        "parents": [
+            "GO:0044877"
+        ],
+        "precision": 0.01854231687167248,
+        "query": "query_1",
+        "query_size": 5447,
+        "recall": 0.5872093023255814,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 172,
+        "source_order": 5703,
+        "group_id": 2,
+        "odds_ratio": 14.57877419195447
+    },
+    {
+        "description": "\"Binding to cadherin, a type I membrane protein involved in cell adhesion.\" [GOC:bf]",
+        "effective_domain_size": 20212,
+        "goshv": 6083,
+        "intersection_size": 164,
+        "name": "cadherin binding",
+        "native": "GO:0045296",
+        "p_value": 2.2432937341571944e-15,
+        "parents": [
+            "GO:0050839"
+        ],
+        "precision": 0.030108316504497887,
+        "query": "query_1",
+        "query_size": 5447,
+        "recall": 0.48955223880597015,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 335,
+        "source_order": 6083,
+        "group_id": 2,
+        "odds_ratio": 9.913215168505456
+    },
+    {
+        "description": "\"Binding to a macromolecular complex.\" [GOC:jl]",
+        "effective_domain_size": 20212,
+        "goshv": 6047,
+        "intersection_size": 621,
+        "name": "protein-containing complex binding",
+        "native": "GO:0044877",
+        "p_value": 9.192883884744865e-14,
+        "parents": [
+            "GO:0005488"
+        ],
+        "precision": 0.11400771066642189,
+        "query": "query_1",
+        "query_size": 5447,
+        "recall": 0.3544520547945205,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 1752,
+        "source_order": 6047,
+        "group_id": 2,
+        "odds_ratio": 6.034727670473178
+    },
+    {
+        "description": "\"Binding to an enzyme, a protein with catalytic activity.\" [GOC:jl]",
+        "effective_domain_size": 20212,
+        "goshv": 3728,
+        "intersection_size": 727,
+        "name": "enzyme binding",
+        "native": "GO:0019899",
+        "p_value": 1.2681197483948813e-13,
+        "parents": [
+            "GO:0005515"
+        ],
+        "precision": 0.13346796401689004,
+        "query": "query_1",
+        "query_size": 5447,
+        "recall": 0.34569662387066097,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 2103,
+        "source_order": 3728,
+        "group_id": 2,
+        "odds_ratio": 5.8930136002224645
+    },
+    {
+        "description": "\"Binding to heterocyclic compound.\" [GOC:TermGenie]",
+        "effective_domain_size": 20212,
+        "goshv": 10912,
+        "intersection_size": 793,
+        "name": "heterocyclic compound binding",
+        "native": "GO:1901363",
+        "p_value": 1.717011807444531e-13,
+        "parents": [
+            "GO:0036094"
+        ],
+        "precision": 0.14558472553699284,
+        "query": "query_1",
+        "query_size": 5447,
+        "recall": 0.3410752688172043,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 2325,
+        "source_order": 10912,
+        "group_id": 2,
+        "odds_ratio": 5.827283004103883
+    }
+]
