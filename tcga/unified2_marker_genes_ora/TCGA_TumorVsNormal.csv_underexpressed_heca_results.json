@@ -1,0 +1,58 @@
+{
+    "Endothelial cell": {
+        "odds_ratio": 17.328836908947405,
+        "adjusted_p_value": 3.4900483745875694e-14
+    },
+    "Neutrophilic granulocyte": {
+        "odds_ratio": 3.349142952238309,
+        "adjusted_p_value": 0.011306594686573397
+    },
+    "Macrophage": {
+        "odds_ratio": 4.268502112580074,
+        "adjusted_p_value": 0.001122753625840905
+    },
+    "Smooth muscle cell": {
+        "odds_ratio": 5.352466367713005,
+        "adjusted_p_value": 0.009115563895204976
+    },
+    "Epithelial cell": {
+        "odds_ratio": 4.306040938592112,
+        "adjusted_p_value": 0.002701647505834392
+    },
+    "Stromal cell": {
+        "odds_ratio": 5.46974976243269,
+        "adjusted_p_value": 0.03111848671030262
+    },
+    "Mast cell": {
+        "odds_ratio": 17.562749003984063,
+        "adjusted_p_value": 0.00033954442134997894
+    },
+    "Vascular endothelial cell": {
+        "odds_ratio": 60.194126431060226,
+        "adjusted_p_value": 0.0001273886129565454
+    },
+    "Pericyte": {
+        "odds_ratio": 25.068407960199004,
+        "adjusted_p_value": 0.002231344583829777
+    },
+    "Fibroblast": {
+        "odds_ratio": 3.8218615797091133,
+        "adjusted_p_value": 0.034839123267169016
+    },
+    "Monocyte": {
+        "odds_ratio": 5.853668658698539,
+        "adjusted_p_value": 0.011306594686573397
+    },
+    "Ciliated columnar cell": {
+        "odds_ratio": 16.71144278606965,
+        "adjusted_p_value": 0.004279891405019034
+    },
+    "Type I alveolar cell/Type I pneumocyte": {
+        "odds_ratio": 12.916108816407919,
+        "adjusted_p_value": 0.00012352539424521564
+    },
+    "Type II alveolar cell/Type II pneumocyte": {
+        "odds_ratio": 80.33084205281514,
+        "adjusted_p_value": 2.6836156686087415e-06
+    }
+}

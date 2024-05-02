@@ -1,0 +1,14 @@
+{
+    "Bronchial epithelium, basal cells": {
+        "odds_ratio": Infinity,
+        "adjusted_p_value": 1.6650494429604343e-05
+    },
+    "Basal glandular cells": {
+        "odds_ratio": 235.77777777777777,
+        "adjusted_p_value": 0.0039365307529100795
+    },
+    "Basal keratinocytes": {
+        "odds_ratio": Infinity,
+        "adjusted_p_value": 1.6650494429604343e-05
+    }
+}
