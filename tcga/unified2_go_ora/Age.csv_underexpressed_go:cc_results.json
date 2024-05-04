@@ -1,0 +1,163 @@
+[
+    {
+        "description": "\"A highly soluble, elongated protein complex found in blood plasma and involved in clot formation. It is converted into fibrin monomer by the action of thrombin. In the mouse, fibrinogen is a hexamer, 46 nm long and 9 nm maximal diameter, containing two sets of nonidentical chains (alpha, beta, and gamma) linked together by disulfide bonds.\" [ISBN:0198547684]",
+        "effective_domain_size": 22097,
+        "goshv": 38582,
+        "intersection_size": 3,
+        "name": "fibrinogen complex",
+        "native": "GO:0005577",
+        "p_value": 4.120361049053151e-07,
+        "parents": [
+            "GO:0005615",
+            "GO:0032991"
+        ],
+        "precision": 0.3,
+        "query": "query_1",
+        "query_size": 10,
+        "recall": 0.375,
+        "significant": true,
+        "source": "GO:CC",
+        "term_size": 8,
+        "source_order": 199,
+        "group_id": 3,
+        "odds_ratio": 3534.55
+    },
+    {
+        "description": "\"The volume enclosed by the membrane of the platelet alpha granule.\" [GOC:mah, PMID:8467233]",
+        "effective_domain_size": 22097,
+        "goshv": 39431,
+        "intersection_size": 3,
+        "name": "platelet alpha granule lumen",
+        "native": "GO:0031093",
+        "p_value": 0.0003320802248470717,
+        "parents": [
+            "GO:0031091",
+            "GO:0034774"
+        ],
+        "precision": 0.3,
+        "query": "query_1",
+        "query_size": 10,
+        "recall": 0.045454545454545456,
+        "significant": true,
+        "source": "GO:CC",
+        "term_size": 66,
+        "source_order": 1048,
+        "group_id": 2,
+        "odds_ratio": 280.28968253968253
+    },
+    {
+        "description": "\"A secretory organelle found in blood platelets, which is unique in that it exhibits further compartmentalization and acquires its protein content via two distinct mechanisms: (1) biosynthesis predominantly at the megakaryocyte (MK) level (with some vestigial platelet synthesis) (e.g. platelet factor 4) and (2) endocytosis and pinocytosis at both the MK and circulating platelet levels (e.g. fibrinogen (Fg) and IgG).\" [PMID:8467233]",
+        "effective_domain_size": 22097,
+        "goshv": 39429,
+        "intersection_size": 3,
+        "name": "platelet alpha granule",
+        "native": "GO:0031091",
+        "p_value": 0.0008476960320654617,
+        "parents": [
+            "GO:0030141"
+        ],
+        "precision": 0.3,
+        "query": "query_1",
+        "query_size": 10,
+        "recall": 0.03333333333333333,
+        "significant": true,
+        "source": "GO:CC",
+        "term_size": 90,
+        "source_order": 1046,
+        "group_id": 2,
+        "odds_ratio": 202.8994252873563
+    },
+    {
+        "description": "\"A phospholipid microvesicle that is derived from any of several cell types, such as platelets, blood cells, endothelial cells, or others, and contains membrane receptors as well as other proteins characteristic of the parental cell. Microparticles are heterogeneous in size, and are characterized as microvesicles free of nucleic acids.\" [GOC:BHF, GOC:mah, PMID:16373184]",
+        "effective_domain_size": 22097,
+        "goshv": 41197,
+        "intersection_size": 3,
+        "name": "blood microparticle",
+        "native": "GO:0072562",
+        "p_value": 0.002926471025228956,
+        "parents": [
+            "GO:0005615",
+            "GO:0110165"
+        ],
+        "precision": 0.3,
+        "query": "query_1",
+        "query_size": 10,
+        "recall": 0.022058823529411766,
+        "significant": true,
+        "source": "GO:CC",
+        "term_size": 136,
+        "source_order": 2814,
+        "group_id": 4,
+        "odds_ratio": 132.63721804511277
+    },
+    {
+        "description": "\"The volume enclosed by the membrane of a secretory granule.\" [GOC:rph]",
+        "effective_domain_size": 22097,
+        "goshv": 39950,
+        "intersection_size": 3,
+        "name": "secretory granule lumen",
+        "native": "GO:0034774",
+        "p_value": 0.036953673814407464,
+        "parents": [
+            "GO:0030141",
+            "GO:0060205"
+        ],
+        "precision": 0.3,
+        "query": "query_1",
+        "query_size": 10,
+        "recall": 0.009375,
+        "significant": true,
+        "source": "GO:CC",
+        "term_size": 320,
+        "source_order": 1567,
+        "group_id": 2,
+        "odds_ratio": 55.503943217665615
+    },
+    {
+        "description": "\"The volume enclosed by a cytoplasmic vesicle.\" [GOC:dph, GOC:vesicles]",
+        "effective_domain_size": 22097,
+        "goshv": 40669,
+        "intersection_size": 3,
+        "name": "cytoplasmic vesicle lumen",
+        "native": "GO:0060205",
+        "p_value": 0.03797883578171347,
+        "parents": [
+            "GO:0031410",
+            "GO:0031983",
+            "GO:0070013"
+        ],
+        "precision": 0.3,
+        "query": "query_1",
+        "query_size": 10,
+        "recall": 0.009287925696594427,
+        "significant": true,
+        "source": "GO:CC",
+        "term_size": 323,
+        "source_order": 2286,
+        "group_id": 2,
+        "odds_ratio": 54.98125
+    },
+    {
+        "description": "\"The volume enclosed by the membrane or protein that forms a vesicle.\" [GOC:mah, GOC:vesicles]",
+        "effective_domain_size": 22097,
+        "goshv": 39612,
+        "intersection_size": 3,
+        "name": "vesicle lumen",
+        "native": "GO:0031983",
+        "p_value": 0.03832461038173904,
+        "parents": [
+            "GO:0031982",
+            "GO:0043233"
+        ],
+        "precision": 0.3,
+        "query": "query_1",
+        "query_size": 10,
+        "recall": 0.009259259259259259,
+        "significant": true,
+        "source": "GO:CC",
+        "term_size": 324,
+        "source_order": 1229,
+        "group_id": 2,
+        "odds_ratio": 54.809190031152646
+    }
+]

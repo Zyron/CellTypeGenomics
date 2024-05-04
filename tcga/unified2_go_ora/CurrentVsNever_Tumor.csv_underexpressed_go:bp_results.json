@@ -1,0 +1,92 @@
+[
+    {
+        "description": "\"The series of events required for a bitter taste stimulus to be received and converted to a molecular signal.\" [GOC:go_curators]",
+        "effective_domain_size": 21031,
+        "goshv": 11566,
+        "intersection_size": 3,
+        "name": "detection of chemical stimulus involved in sensory perception of bitter taste",
+        "native": "GO:0001580",
+        "p_value": 0.0019139034982226864,
+        "parents": [
+            "GO:0050912",
+            "GO:0050913"
+        ],
+        "precision": 0.23076923076923078,
+        "query": "query_1",
+        "query_size": 13,
+        "recall": 0.08108108108108109,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 37,
+        "source_order": 368,
+        "group_id": 3,
+        "odds_ratio": 389.65808823529414
+    },
+    {
+        "description": "\"The series of events required to receive a bitter taste stimulus, convert it to a molecular signal, and recognize and characterize the signal. This is a neurological process.\" [GOC:ai]",
+        "effective_domain_size": 21031,
+        "goshv": 24988,
+        "intersection_size": 3,
+        "name": "sensory perception of bitter taste",
+        "native": "GO:0050913",
+        "p_value": 0.002822707506613696,
+        "parents": [
+            "GO:0050909"
+        ],
+        "precision": 0.23076923076923078,
+        "query": "query_1",
+        "query_size": 13,
+        "recall": 0.07142857142857142,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 42,
+        "source_order": 13790,
+        "group_id": 3,
+        "odds_ratio": 339.67788461538464
+    },
+    {
+        "description": "\"The series of events involved in the perception of taste in which a gustatory chemical stimulus is received and converted into a molecular signal.\" [GOC:ai]",
+        "effective_domain_size": 21031,
+        "goshv": 24987,
+        "intersection_size": 3,
+        "name": "detection of chemical stimulus involved in sensory perception of taste",
+        "native": "GO:0050912",
+        "p_value": 0.0030333276956112584,
+        "parents": [
+            "GO:0050907",
+            "GO:0050909"
+        ],
+        "precision": 0.23076923076923078,
+        "query": "query_1",
+        "query_size": 13,
+        "recall": 0.06976744186046512,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 43,
+        "source_order": 13789,
+        "group_id": 3,
+        "odds_ratio": 331.18125
+    },
+    {
+        "description": "\"The series of events required for an organism to receive a gustatory stimulus, convert it to a molecular signal, and recognize and characterize the signal. Gustation involves the direct detection of chemical composition, usually through contact with chemoreceptor cells. This is a neurological process.\" [GOC:ai]",
+        "effective_domain_size": 21031,
+        "goshv": 24984,
+        "intersection_size": 3,
+        "name": "sensory perception of taste",
+        "native": "GO:0050909",
+        "p_value": 0.01167424702541936,
+        "parents": [
+            "GO:0007606"
+        ],
+        "precision": 0.23076923076923078,
+        "query": "query_1",
+        "query_size": 13,
+        "recall": 0.04477611940298507,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 67,
+        "source_order": 13786,
+        "group_id": 3,
+        "odds_ratio": 206.91796875
+    }
+]

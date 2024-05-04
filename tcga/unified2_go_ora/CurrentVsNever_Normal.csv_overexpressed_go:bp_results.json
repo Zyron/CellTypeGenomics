@@ -1,0 +1,162 @@
+[
+    {
+        "description": "\"The chemical reactions and pathways by which arachidonic acid is converted to other compounds initially by omega-hydroxylation.\" [GOC:mw, PMID:10681399]",
+        "effective_domain_size": 21031,
+        "goshv": 30297,
+        "intersection_size": 2,
+        "name": "omega-hydroxylase P450 pathway",
+        "native": "GO:0097267",
+        "p_value": 0.0019722008964701597,
+        "parents": [
+            "GO:0019369"
+        ],
+        "precision": 0.4,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.18181818181818182,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 11,
+        "source_order": 19099,
+        "group_id": 5,
+        "odds_ratio": 3927.5555555555557
+    },
+    {
+        "description": "\"The chemical reactions and pathways involving a toxin, a poisonous compound (typically a protein) that is produced by cells or organisms and that can cause disease when introduced into the body or tissues of an organism.\" [GOC:cab2]",
+        "effective_domain_size": 21031,
+        "goshv": 14706,
+        "intersection_size": 2,
+        "name": "toxin metabolic process",
+        "native": "GO:0009404",
+        "p_value": 0.0032621648684689588,
+        "parents": [
+            "GO:0019748",
+            "GO:0044237"
+        ],
+        "precision": 0.4,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.14285714285714285,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 14,
+        "source_order": 3508,
+        "group_id": 6,
+        "odds_ratio": 2945.5416666666665
+    },
+    {
+        "description": "\"The chemical reactions and pathways by which arachidonic acid is converted to other compounds including epoxyeicosatrienoic acids and dihydroxyeicosatrienoic acids.\" [GOC:mah, PMID:17979511]",
+        "effective_domain_size": 21031,
+        "goshv": 17123,
+        "intersection_size": 2,
+        "name": "epoxygenase P450 pathway",
+        "native": "GO:0019373",
+        "p_value": 0.005482651820075652,
+        "parents": [
+            "GO:0019369"
+        ],
+        "precision": 0.4,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.1111111111111111,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 18,
+        "source_order": 5925,
+        "group_id": 7,
+        "odds_ratio": 2209.03125
+    },
+    {
+        "description": "\"Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an arsenic stimulus from compounds containing arsenic, including arsenates, arsenites, and arsenides.\" [GOC:hjd, ISBN:0721662544]",
+        "effective_domain_size": 21031,
+        "goshv": 23920,
+        "intersection_size": 2,
+        "name": "response to arsenic-containing substance",
+        "native": "GO:0046685",
+        "p_value": 0.017750161732932014,
+        "parents": [
+            "GO:0042221"
+        ],
+        "precision": 0.4,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.0625,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 32,
+        "source_order": 12722,
+        "group_id": 8,
+        "odds_ratio": 1177.9166666666667
+    },
+    {
+        "description": "\"The process whose specific outcome is the progression of a tube over time, from its initial formation to a mature structure. Epithelial and endothelial tubes transport gases, liquids and cells from one site to another and form the basic structure of many organs and tissues including lung and trachea, kidney, the mammary gland, the vascular system and the gastrointestinal and urinary-genital tracts.\" [PMID:12526790]",
+        "effective_domain_size": 21031,
+        "goshv": 20455,
+        "intersection_size": 4,
+        "name": "tube development",
+        "native": "GO:0035295",
+        "p_value": 0.027406204668591436,
+        "parents": [
+            "GO:0007275",
+            "GO:0048856"
+        ],
+        "precision": 0.8,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.0036663611365719525,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 1091,
+        "source_order": 9257,
+        "group_id": 9,
+        "odds_ratio": 128.0919963201472
+    },
+    {
+        "description": "\"The chemical reactions and pathways involving estrogens, C18 steroid hormones that can stimulate the development of female sexual characteristics. Also found in plants.\" [ISBN:0198506732]",
+        "effective_domain_size": 21031,
+        "goshv": 14369,
+        "intersection_size": 2,
+        "name": "estrogen metabolic process",
+        "native": "GO:0008210",
+        "p_value": 0.027892312802191642,
+        "parents": [
+            "GO:0008202",
+            "GO:0042445"
+        ],
+        "precision": 0.4,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.05,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 40,
+        "source_order": 3171,
+        "group_id": 10,
+        "odds_ratio": 929.828947368421
+    },
+    {
+        "description": "\"The chemical reactions and pathways involving retinol, one of the three compounds that makes up vitamin A.\" [GOC:jl, http://www.indstate.edu/thcme/mwking/vitamins.html, PMID:1924551]",
+        "effective_domain_size": 21031,
+        "goshv": 21795,
+        "intersection_size": 2,
+        "name": "retinol metabolic process",
+        "native": "GO:0042572",
+        "p_value": 0.04921546558374559,
+        "parents": [
+            "GO:0001523",
+            "GO:0034308",
+            "GO:0042445",
+            "GO:0120254"
+        ],
+        "precision": 0.4,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.03773584905660377,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 53,
+        "source_order": 10597,
+        "group_id": 11,
+        "odds_ratio": 692.6862745098039
+    }
+]

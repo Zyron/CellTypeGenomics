@@ -1,0 +1,24 @@
+[
+    {
+        "description": "\"The action of a molecule that contributes to the structural integrity of the extracellular matrix.\" [GOC:mah]",
+        "effective_domain_size": 20212,
+        "goshv": 1350,
+        "intersection_size": 3,
+        "name": "extracellular matrix structural constituent",
+        "native": "GO:0005201",
+        "p_value": 0.0038982422168234005,
+        "parents": [
+            "GO:0005198"
+        ],
+        "precision": 0.375,
+        "query": "query_1",
+        "query_size": 8,
+        "recall": 0.017964071856287425,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 167,
+        "source_order": 1350,
+        "group_id": 1,
+        "odds_ratio": 107.51829268292683
+    }
+]

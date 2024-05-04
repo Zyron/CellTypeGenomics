@@ -1,0 +1,25 @@
+[
+    {
+        "description": "\"A proton-transporting two-sector ATPase complex found in the plasma membrane.\" [GOC:mah]",
+        "effective_domain_size": 22097,
+        "goshv": 39781,
+        "intersection_size": 1,
+        "name": "plasma membrane proton-transporting V-type ATPase complex",
+        "native": "GO:0033181",
+        "p_value": 0.036942030969912706,
+        "parents": [
+            "GO:0033176",
+            "GO:0098797"
+        ],
+        "precision": 0.5,
+        "query": "query_1",
+        "query_size": 2,
+        "recall": 0.5,
+        "significant": true,
+        "source": "GO:CC",
+        "term_size": 2,
+        "source_order": 1398,
+        "group_id": 2,
+        "odds_ratio": 70708.0
+    }
+]

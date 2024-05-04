@@ -1,0 +1,180 @@
+[
+    {
+        "description": "\"A hydroperoxy icosatetraenoate = an oxoicosatetraenoate + H2O.\" [PMID:12881489, RHEA:55556]",
+        "effective_domain_size": 20212,
+        "goshv": 10221,
+        "intersection_size": 2,
+        "name": "hydroperoxy icosatetraenoate dehydratase activity",
+        "native": "GO:0106256",
+        "p_value": 0.00020718371213835978,
+        "parents": [
+            "GO:0016836"
+        ],
+        "precision": 0.4,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.2857142857142857,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 7,
+        "source_order": 10221,
+        "group_id": 1,
+        "odds_ratio": 7070.0
+    },
+    {
+        "description": "\"Catalysis of the reaction: estrogen + donor-H2 + O2 = 16-alpha-hydroxyestrogen + H2O.\" [GOC:BHF]",
+        "effective_domain_size": 20212,
+        "goshv": 9251,
+        "intersection_size": 2,
+        "name": "estrogen 16-alpha-hydroxylase activity",
+        "native": "GO:0101020",
+        "p_value": 0.0002762176086844641,
+        "parents": [
+            "GO:0008395",
+            "GO:0016705"
+        ],
+        "precision": 0.4,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.25,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 8,
+        "source_order": 9251,
+        "group_id": 2,
+        "odds_ratio": 5891.583333333333
+    },
+    {
+        "description": "\"Catalysis of the reduction of an aliphatic ring to yield an aromatic ring.\" [GOC:cb]",
+        "effective_domain_size": 20212,
+        "goshv": 8642,
+        "intersection_size": 2,
+        "name": "aromatase activity",
+        "native": "GO:0070330",
+        "p_value": 0.002954497767826695,
+        "parents": [
+            "GO:0016712"
+        ],
+        "precision": 0.4,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.08,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 25,
+        "source_order": 8642,
+        "group_id": 3,
+        "odds_ratio": 1536.5652173913043
+    },
+    {
+        "description": "\"Catalysis of the formation of a hydroxyl group on a steroid by incorporation of oxygen from O2.\" [ISBN:0721662544]",
+        "effective_domain_size": 20212,
+        "goshv": 1680,
+        "intersection_size": 2,
+        "name": "steroid hydroxylase activity",
+        "native": "GO:0008395",
+        "p_value": 0.003200388990108174,
+        "parents": [
+            "GO:0004497"
+        ],
+        "precision": 0.4,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.07692307692307693,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 26,
+        "source_order": 1680,
+        "group_id": 2,
+        "odds_ratio": 1472.5208333333333
+    },
+    {
+        "description": "\"Catalysis of an oxidation-reduction (redox) reaction in which hydrogen or electrons are transferred from reduced flavin or flavoprotein and one other donor, and one atom of oxygen is incorporated into one donor.\" [GOC:mah]",
+        "effective_domain_size": 20212,
+        "goshv": 2918,
+        "intersection_size": 2,
+        "name": "oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen",
+        "native": "GO:0016712",
+        "p_value": 0.008877198134502181,
+        "parents": [
+            "GO:0004497",
+            "GO:0016705"
+        ],
+        "precision": 0.4,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.046511627906976744,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 43,
+        "source_order": 2918,
+        "group_id": 3,
+        "odds_ratio": 861.7560975609756
+    },
+    {
+        "description": "\"Catalysis of the cleavage of a carbon-oxygen bond by elimination of water.\" [EC:4.2.1.-]",
+        "effective_domain_size": 20212,
+        "goshv": 3017,
+        "intersection_size": 2,
+        "name": "hydro-lyase activity",
+        "native": "GO:0016836",
+        "p_value": 0.01679382649759473,
+        "parents": [
+            "GO:0016835"
+        ],
+        "precision": 0.4,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.03389830508474576,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 59,
+        "source_order": 3017,
+        "group_id": 1,
+        "odds_ratio": 619.719298245614
+    },
+    {
+        "description": "\"Catalysis of the breakage of a carbon-oxygen bond.\" [EC:4.2.-.-]",
+        "effective_domain_size": 20212,
+        "goshv": 3016,
+        "intersection_size": 2,
+        "name": "carbon-oxygen lyase activity",
+        "native": "GO:0016835",
+        "p_value": 0.027926253216873132,
+        "parents": [
+            "GO:0016829"
+        ],
+        "precision": 0.4,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 0.02631578947368421,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 76,
+        "source_order": 3016,
+        "group_id": 1,
+        "odds_ratio": 477.2364864864865
+    },
+    {
+        "description": "\"Catalysis of the reaction: a flavonoid + NADPH + H+ + O2 = 3'-hydroxyflavonoid + NADP+ + H2O.\" [EC:1.14.14.82]",
+        "effective_domain_size": 20212,
+        "goshv": 2917,
+        "intersection_size": 1,
+        "name": "flavonoid 3'-monooxygenase activity",
+        "native": "GO:0016711",
+        "p_value": 0.049874555517963104,
+        "parents": [
+            "GO:0016709"
+        ],
+        "precision": 0.2,
+        "query": "query_1",
+        "query_size": 5,
+        "recall": 1.0,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 1,
+        "source_order": 2917,
+        "group_id": 4,
+        "odds_ratio": Infinity
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "description": "\"Control of the spatial distribution of intermediate filaments; includes organizing filaments into meshworks, bundles, or other structures, as by cross-linking.\" [GOC:ai]",
+        "effective_domain_size": 21031,
+        "goshv": 22867,
+        "intersection_size": 3,
+        "name": "intermediate filament organization",
+        "native": "GO:0045109",
+        "p_value": 0.0023114571803009376,
+        "parents": [
+            "GO:0045104",
+            "GO:0097435"
+        ],
+        "precision": 0.375,
+        "query": "query_1",
+        "query_size": 8,
+        "recall": 0.0410958904109589,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 73,
+        "source_order": 11669,
+        "group_id": 5,
+        "odds_ratio": 504.51428571428573
+    },
+    {
+        "description": "\"A process that is carried out at the cellular level which results in the assembly, arrangement of constituent parts, or disassembly of cytoskeletal structures comprising intermediate filaments and their associated proteins.\" [GOC:ai]",
+        "effective_domain_size": 21031,
+        "goshv": 22862,
+        "intersection_size": 3,
+        "name": "intermediate filament cytoskeleton organization",
+        "native": "GO:0045104",
+        "p_value": 0.004962960184629287,
+        "parents": [
+            "GO:0007010",
+            "GO:0045103"
+        ],
+        "precision": 0.375,
+        "query": "query_1",
+        "query_size": 8,
+        "recall": 0.031914893617021274,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 94,
+        "source_order": 11664,
+        "group_id": 5,
+        "odds_ratio": 387.9725274725275
+    },
+    {
+        "description": "\"Any cellular process that depends upon or alters the intermediate filament cytoskeleton, that part of the cytoskeleton comprising intermediate filaments and their associated proteins.\" [GOC:ai]",
+        "effective_domain_size": 21031,
+        "goshv": 22861,
+        "intersection_size": 3,
+        "name": "intermediate filament-based process",
+        "native": "GO:0045103",
+        "p_value": 0.005123879743174517,
+        "parents": [
+            "GO:0009987"
+        ],
+        "precision": 0.375,
+        "query": "query_1",
+        "query_size": 8,
+        "recall": 0.031578947368421054,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 95,
+        "source_order": 11663,
+        "group_id": 5,
+        "odds_ratio": 383.75
+    }
+]

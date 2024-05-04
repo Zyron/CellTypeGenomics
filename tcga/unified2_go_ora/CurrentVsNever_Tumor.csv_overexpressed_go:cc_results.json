@@ -1,0 +1,91 @@
+[
+    {
+        "description": "\"A cell-cell junction in which: on the cytoplasmic surface of each interacting plasma membrane is a dense plaque composed of a mixture of intracellular anchor proteins; a bundle of keratin intermediate filaments is attached to the surface of each plaque; transmembrane adhesion proteins of the cadherin family bind to the plaques and interact through their extracellular domains to hold the adjacent membranes together by a Ca2+-dependent mechanism.\" [GOC:mah, GOC:mtg_muscle, ISBN:0815332181]",
+        "effective_domain_size": 22097,
+        "goshv": 39254,
+        "intersection_size": 3,
+        "name": "desmosome",
+        "native": "GO:0030057",
+        "p_value": 1.2497345811218532e-05,
+        "parents": [
+            "GO:0005911"
+        ],
+        "precision": 0.375,
+        "query": "query_1",
+        "query_size": 8,
+        "recall": 0.1111111111111111,
+        "significant": true,
+        "source": "GO:CC",
+        "term_size": 27,
+        "source_order": 871,
+        "group_id": 3,
+        "odds_ratio": 1472.4583333333333
+    },
+    {
+        "description": "\"A type of plasma membrane that has been modified through addition of distinct intracellular and extracellular components, including ceramide, found in cornifying epithelial cells (corneocytes).\" [GOC:add, PMID:11112355, PMID:11590230, PMID:15803139]",
+        "effective_domain_size": 22097,
+        "goshv": 38527,
+        "intersection_size": 3,
+        "name": "cornified envelope",
+        "native": "GO:0001533",
+        "p_value": 0.00013814469331008465,
+        "parents": [
+            "GO:0005886"
+        ],
+        "precision": 0.375,
+        "query": "query_1",
+        "query_size": 8,
+        "recall": 0.05084745762711865,
+        "significant": true,
+        "source": "GO:CC",
+        "term_size": 59,
+        "source_order": 144,
+        "group_id": 4,
+        "odds_ratio": 630.7678571428571
+    },
+    {
+        "description": "\"A cytoskeletal structure that forms a distinct elongated structure, characteristically 10 nm in diameter, that occurs in the cytoplasm of eukaryotic cells. Intermediate filaments form a fibrous system, composed of chemically heterogeneous subunits and involved in mechanically integrating the various components of the cytoplasmic space. Intermediate filaments may be divided into five chemically distinct classes: Type I, acidic keratins; Type II, basic keratins; Type III, including desmin, vimentin and others; Type IV, neurofilaments and related filaments; and Type V, lamins.\" [http://www.cytochemistry.net/Cell-biology/intermediate_filaments.htm, ISBN:0198506732]",
+        "effective_domain_size": 22097,
+        "goshv": 38801,
+        "intersection_size": 3,
+        "name": "intermediate filament",
+        "native": "GO:0005882",
+        "p_value": 0.007043501639353366,
+        "parents": [
+            "GO:0045111",
+            "GO:0099513"
+        ],
+        "precision": 0.375,
+        "query": "query_1",
+        "query_size": 8,
+        "recall": 0.013761467889908258,
+        "significant": true,
+        "source": "GO:CC",
+        "term_size": 218,
+        "source_order": 418,
+        "group_id": 2,
+        "odds_ratio": 163.9232558139535
+    },
+    {
+        "description": "\"Cytoskeletal structure made from intermediate filaments, typically organized in the cytosol as an extended system that stretches from the nuclear envelope to the plasma membrane. Some intermediate filaments run parallel to the cell surface, while others traverse the cytosol; together they form an internal framework that helps support the shape and resilience of the cell.\" [ISBN:0716731363]",
+        "effective_domain_size": 22097,
+        "goshv": 40511,
+        "intersection_size": 3,
+        "name": "intermediate filament cytoskeleton",
+        "native": "GO:0045111",
+        "p_value": 0.011094408869043807,
+        "parents": [
+            "GO:0005856"
+        ],
+        "precision": 0.375,
+        "query": "query_1",
+        "query_size": 8,
+        "recall": 0.011811023622047244,
+        "significant": true,
+        "source": "GO:CC",
+        "term_size": 254,
+        "source_order": 2128,
+        "group_id": 2,
+        "odds_ratio": 140.3406374501992
+    }
+]

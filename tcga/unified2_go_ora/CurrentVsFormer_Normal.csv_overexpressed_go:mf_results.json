@@ -1,0 +1,24 @@
+[
+    {
+        "description": "\"Catalysis of the reaction: a flavonoid + NADPH + H+ + O2 = 3'-hydroxyflavonoid + NADP+ + H2O.\" [EC:1.14.14.82]",
+        "effective_domain_size": 20212,
+        "goshv": 2917,
+        "intersection_size": 1,
+        "name": "flavonoid 3'-monooxygenase activity",
+        "native": "GO:0016711",
+        "p_value": 0.04997531219576596,
+        "parents": [
+            "GO:0016709"
+        ],
+        "precision": 0.5,
+        "query": "query_1",
+        "query_size": 2,
+        "recall": 1.0,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 1,
+        "source_order": 2917,
+        "group_id": 1,
+        "odds_ratio": Infinity
+    }
+]
