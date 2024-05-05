@@ -1,0 +1,1136 @@
+[
+    {
+        "stId": "R-HSA-354194",
+        "dbId": 354194,
+        "name": "GRB2:SOS provides linkage to MAPK signaling for Integrins ",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 20,
+            "found": 3,
+            "ratio": 0.001284439021257466,
+            "pValue": 9.530831791559891e-07,
+            "fdr": 1.7739228147961583e-05,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 2,
+            "found": 2,
+            "ratio": 0.00013433637829124128
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-372708",
+        "dbId": 372708,
+        "name": "p130Cas linkage to MAPK signaling for integrins",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 22,
+            "found": 3,
+            "ratio": 0.0014128829233832124,
+            "pValue": 1.2670877248543988e-06,
+            "fdr": 1.7739228147961583e-05,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 3,
+            "found": 3,
+            "ratio": 0.0002015045674368619
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-140875",
+        "dbId": 140875,
+        "name": "Common Pathway of Fibrin Clot Formation",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 25,
+            "found": 3,
+            "ratio": 0.0016055487765718323,
+            "pValue": 1.8561171279962707e-06,
+            "fdr": 1.8683766172422622e-05,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 29,
+            "found": 4,
+            "ratio": 0.0019478774852229985
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-5602498",
+        "dbId": 5602498,
+        "name": "MyD88 deficiency (TLR2/4)",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 26,
+            "found": 3,
+            "ratio": 0.0016697707276347056,
+            "pValue": 2.0866725052304247e-06,
+            "fdr": 1.8683766172422622e-05,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 2,
+            "found": 2,
+            "ratio": 0.00013433637829124128
+        },
+        "inDisease": true
+    },
+    {
+        "stId": "R-HSA-5603041",
+        "dbId": 5603041,
+        "name": "IRAK4 deficiency (TLR2/4)",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 27,
+            "found": 3,
+            "ratio": 0.0017339926786975788,
+            "pValue": 2.3354707715528278e-06,
+            "fdr": 1.8683766172422622e-05,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 2,
+            "found": 2,
+            "ratio": 0.00013433637829124128
+        },
+        "inDisease": true
+    },
+    {
+        "stId": "R-HSA-354192",
+        "dbId": 354192,
+        "name": "Integrin signaling",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 39,
+            "found": 3,
+            "ratio": 0.0025046560914520582,
+            "pValue": 6.989779087196446e-06,
+            "fdr": 3.678860979383636e-05,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 24,
+            "found": 15,
+            "ratio": 0.0016120365394948952
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-5686938",
+        "dbId": 5686938,
+        "name": "Regulation of TLR by endogenous ligand",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 41,
+            "found": 3,
+            "ratio": 0.002633099993577805,
+            "pValue": 8.111831159784977e-06,
+            "fdr": 3.678860979383636e-05,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 13,
+            "found": 1,
+            "ratio": 0.0008731864588930683
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-140877",
+        "dbId": 140877,
+        "name": "Formation of Fibrin Clot (Clotting Cascade)",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 43,
+            "found": 3,
+            "ratio": 0.0027615438957035517,
+            "pValue": 9.346960131551008e-06,
+            "fdr": 3.678860979383636e-05,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 61,
+            "found": 4,
+            "ratio": 0.004097259537882859
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-6802948",
+        "dbId": 6802948,
+        "name": "Signaling by high-kinase activity BRAF mutants",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 44,
+            "found": 3,
+            "ratio": 0.002825765846766425,
+            "pValue": 1.00085668387484e-05,
+            "fdr": 3.678860979383636e-05,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 6,
+            "found": 4,
+            "ratio": 0.0004030091348737238
+        },
+        "inDisease": true
+    },
+    {
+        "stId": "R-HSA-5602358",
+        "dbId": 5602358,
+        "name": "Diseases associated with the TLR signaling cascade",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 47,
+            "found": 3,
+            "ratio": 0.0030184316999550447,
+            "pValue": 1.2177382337164033e-05,
+            "fdr": 3.678860979383636e-05,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 16,
+            "found": 4,
+            "ratio": 0.0010746910263299302
+        },
+        "inDisease": true
+    },
+    {
+        "stId": "R-HSA-5260271",
+        "dbId": 5260271,
+        "name": "Diseases of Immune System",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 47,
+            "found": 3,
+            "ratio": 0.0030184316999550447,
+            "pValue": 1.2177382337164033e-05,
+            "fdr": 3.678860979383636e-05,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 16,
+            "found": 4,
+            "ratio": 0.0010746910263299302
+        },
+        "inDisease": true
+    },
+    {
+        "stId": "R-HSA-5674135",
+        "dbId": 5674135,
+        "name": "MAP2K and MAPK activation",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 49,
+            "found": 3,
+            "ratio": 0.0031468756020807914,
+            "pValue": 1.3783079521711983e-05,
+            "fdr": 3.678860979383636e-05,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 12,
+            "found": 8,
+            "ratio": 0.0008060182697474476
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-9656223",
+        "dbId": 9656223,
+        "name": "Signaling by RAF1 mutants",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 49,
+            "found": 3,
+            "ratio": 0.0031468756020807914,
+            "pValue": 1.3783079521711983e-05,
+            "fdr": 3.678860979383636e-05,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 7,
+            "found": 4,
+            "ratio": 0.00047017732401934446
+        },
+        "inDisease": true
+    },
+    {
+        "stId": "R-HSA-76009",
+        "dbId": 76009,
+        "name": "Platelet Aggregation (Plug Formation)",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 53,
+            "found": 3,
+            "ratio": 0.0034037634063322844,
+            "pValue": 1.7401268191830077e-05,
+            "fdr": 3.678860979383636e-05,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 27,
+            "found": 15,
+            "ratio": 0.0018135411069317572
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-9649948",
+        "dbId": 9649948,
+        "name": "Signaling downstream of RAS mutants",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 54,
+            "found": 3,
+            "ratio": 0.0034679853573951576,
+            "pValue": 1.839430489691818e-05,
+            "fdr": 3.678860979383636e-05,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 7,
+            "found": 4,
+            "ratio": 0.00047017732401934446
+        },
+        "inDisease": true
+    },
+    {
+        "stId": "R-HSA-6802946",
+        "dbId": 6802946,
+        "name": "Signaling by moderate kinase activity BRAF mutants",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 54,
+            "found": 3,
+            "ratio": 0.0034679853573951576,
+            "pValue": 1.839430489691818e-05,
+            "fdr": 3.678860979383636e-05,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 7,
+            "found": 4,
+            "ratio": 0.00047017732401934446
+        },
+        "inDisease": true
+    },
+    {
+        "stId": "R-HSA-6802955",
+        "dbId": 6802955,
+        "name": "Paradoxical activation of RAF signaling by kinase inactive BRAF",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 54,
+            "found": 3,
+            "ratio": 0.0034679853573951576,
+            "pValue": 1.839430489691818e-05,
+            "fdr": 3.678860979383636e-05,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 7,
+            "found": 4,
+            "ratio": 0.00047017732401934446
+        },
+        "inDisease": true
+    },
+    {
+        "stId": "R-HSA-6802949",
+        "dbId": 6802949,
+        "name": "Signaling by RAS mutants",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 54,
+            "found": 3,
+            "ratio": 0.0034679853573951576,
+            "pValue": 1.839430489691818e-05,
+            "fdr": 3.678860979383636e-05,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 9,
+            "found": 4,
+            "ratio": 0.0006045137023105857
+        },
+        "inDisease": true
+    },
+    {
+        "stId": "R-HSA-6802952",
+        "dbId": 6802952,
+        "name": "Signaling by BRAF and RAF1 fusions",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 73,
+            "found": 3,
+            "ratio": 0.00468820242758975,
+            "pValue": 4.494666585497242e-05,
+            "fdr": 8.989333170994485e-05,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 5,
+            "found": 4,
+            "ratio": 0.00033584094572810315
+        },
+        "inDisease": true
+    },
+    {
+        "stId": "R-HSA-216083",
+        "dbId": 216083,
+        "name": "Integrin cell surface interactions",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 86,
+            "found": 3,
+            "ratio": 0.005523087791407103,
+            "pValue": 7.29386540857524e-05,
+            "fdr": 0.0001458773081715048,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 55,
+            "found": 3,
+            "ratio": 0.003694250403009135
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-6802957",
+        "dbId": 6802957,
+        "name": "Oncogenic MAPK signaling",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 93,
+            "found": 3,
+            "ratio": 0.005972641448847216,
+            "pValue": 9.186543496819688e-05,
+            "fdr": 0.00018373086993639376,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 46,
+            "found": 24,
+            "ratio": 0.003089736700698549
+        },
+        "inDisease": true
+    },
+    {
+        "stId": "R-HSA-1236974",
+        "dbId": 1236974,
+        "name": "ER-Phagosome pathway",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 106,
+            "found": 3,
+            "ratio": 0.006807526812664569,
+            "pValue": 0.0001350061627681809,
+            "fdr": 0.0002625447925008739,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 10,
+            "found": 1,
+            "ratio": 0.0006716818914562063
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-1236975",
+        "dbId": 1236975,
+        "name": "Antigen processing-Cross presentation",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 128,
+            "found": 3,
+            "ratio": 0.008220409736047781,
+            "pValue": 0.00023471211261039127,
+            "fdr": 0.0002625447925008739,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 23,
+            "found": 1,
+            "ratio": 0.0015448683503492746
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-166058",
+        "dbId": 166058,
+        "name": "MyD88:MAL(TIRAP) cascade initiated on plasma membrane",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 133,
+            "found": 3,
+            "ratio": 0.008541519491362148,
+            "pValue": 0.0002625447925008739,
+            "fdr": 0.0002625447925008739,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 76,
+            "found": 16,
+            "ratio": 0.005104782375067168
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-168188",
+        "dbId": 168188,
+        "name": "Toll Like Receptor TLR6:TLR2 Cascade",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 133,
+            "found": 3,
+            "ratio": 0.008541519491362148,
+            "pValue": 0.0002625447925008739,
+            "fdr": 0.0002625447925008739,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 78,
+            "found": 16,
+            "ratio": 0.00523911875335841
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-168179",
+        "dbId": 168179,
+        "name": "Toll Like Receptor TLR1:TLR2 Cascade",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 136,
+            "found": 3,
+            "ratio": 0.008734185344550767,
+            "pValue": 0.000280227602539207,
+            "fdr": 0.000280227602539207,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 78,
+            "found": 16,
+            "ratio": 0.00523911875335841
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-181438",
+        "dbId": 181438,
+        "name": "Toll Like Receptor 2 (TLR2) Cascade",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 136,
+            "found": 3,
+            "ratio": 0.008734185344550767,
+            "pValue": 0.000280227602539207,
+            "fdr": 0.000280227602539207,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 80,
+            "found": 16,
+            "ratio": 0.0053734551316496505
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-114608",
+        "dbId": 114608,
+        "name": "Platelet degranulation ",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 141,
+            "found": 3,
+            "ratio": 0.009055295099865133,
+            "pValue": 0.0003113825710755469,
+            "fdr": 0.0003113825710755469,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 11,
+            "found": 1,
+            "ratio": 0.000738850080601827
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-76005",
+        "dbId": 76005,
+        "name": "Response to elevated platelet cytosolic Ca2+",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 148,
+            "found": 3,
+            "ratio": 0.009504848757305248,
+            "pValue": 0.00035864259981543967,
+            "fdr": 0.00035864259981543967,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 14,
+            "found": 1,
+            "ratio": 0.0009403546480386889
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-166016",
+        "dbId": 166016,
+        "name": "Toll Like Receptor 4 (TLR4) Cascade",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 166,
+            "found": 3,
+            "ratio": 0.010660843876436966,
+            "pValue": 0.0005008111992791386,
+            "fdr": 0.0005008111992791386,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 113,
+            "found": 16,
+            "ratio": 0.007590005373455132
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-168898",
+        "dbId": 168898,
+        "name": "Toll-like Receptor Cascades",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 207,
+            "found": 3,
+            "ratio": 0.013293943870014771,
+            "pValue": 0.0009483005594310701,
+            "fdr": 0.0009483005594310701,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 211,
+            "found": 17,
+            "ratio": 0.014172487909725954
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-76002",
+        "dbId": 76002,
+        "name": "Platelet activation, signaling and aggregation",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 293,
+            "found": 3,
+            "ratio": 0.018817031661421874,
+            "pValue": 0.0025585109799348693,
+            "fdr": 0.0025585109799348693,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 119,
+            "found": 16,
+            "ratio": 0.007993014508328856
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-5673001",
+        "dbId": 5673001,
+        "name": "RAF/MAP kinase cascade",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 322,
+            "found": 3,
+            "ratio": 0.0206794682422452,
+            "pValue": 0.003339235363043813,
+            "fdr": 0.003339235363043813,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 75,
+            "found": 8,
+            "ratio": 0.005037614185921547
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-1474244",
+        "dbId": 1474244,
+        "name": "Extracellular matrix organization",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 328,
+            "found": 3,
+            "ratio": 0.02106479994862244,
+            "pValue": 0.0035171372000414314,
+            "fdr": 0.0035171372000414314,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 319,
+            "found": 3,
+            "ratio": 0.021426652337452983
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-5684996",
+        "dbId": 5684996,
+        "name": "MAPK1/MAPK3 signaling",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 329,
+            "found": 3,
+            "ratio": 0.021129021899685314,
+            "pValue": 0.0035473457893663296,
+            "fdr": 0.0035473457893663296,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 82,
+            "found": 8,
+            "ratio": 0.005507791509940892
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-8957275",
+        "dbId": 8957275,
+        "name": "Post-translational protein phosphorylation",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 109,
+            "found": 2,
+            "ratio": 0.007000192665853188,
+            "pValue": 0.004842761626226877,
+            "fdr": 0.004842761626226877,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 1,
+            "found": 1,
+            "ratio": 6.716818914562064e-05
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-5683057",
+        "dbId": 5683057,
+        "name": "MAPK family signaling cascades",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 380,
+            "found": 3,
+            "ratio": 0.02440434140389185,
+            "pValue": 0.005306573147176308,
+            "fdr": 0.005306573147176308,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 122,
+            "found": 8,
+            "ratio": 0.008194519075765717
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-381426",
+        "dbId": 381426,
+        "name": "Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 127,
+            "found": 2,
+            "ratio": 0.008156187784984907,
+            "pValue": 0.0065089071117956365,
+            "fdr": 0.0065089071117956365,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 14,
+            "found": 1,
+            "ratio": 0.0009403546480386889
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-983169",
+        "dbId": 983169,
+        "name": "Class I MHC mediated antigen processing & presentation",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 412,
+            "found": 3,
+            "ratio": 0.026459443837903794,
+            "pValue": 0.006638771105681562,
+            "fdr": 0.006638771105681562,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 48,
+            "found": 1,
+            "ratio": 0.0032240730789897904
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-5663202",
+        "dbId": 5663202,
+        "name": "Diseases of signal transduction by growth factor receptors and second messengers",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 541,
+            "found": 3,
+            "ratio": 0.03474407552501445,
+            "pValue": 0.013945844901749771,
+            "fdr": 0.013945844901749771,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 516,
+            "found": 24,
+            "ratio": 0.03465878559914025
+        },
+        "inDisease": true
+    },
+    {
+        "stId": "R-HSA-420029",
+        "dbId": 420029,
+        "name": "Tight junction interactions",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 31,
+            "found": 1,
+            "ratio": 0.001990880482949072,
+            "pValue": 0.029450597792382238,
+            "fdr": 0.029450597792382238,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 3,
+            "found": 1,
+            "ratio": 0.0002015045674368619
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-109582",
+        "dbId": 109582,
+        "name": "Hemostasis",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 804,
+            "found": 3,
+            "ratio": 0.05163444865455012,
+            "pValue": 0.03928144236688402,
+            "fdr": 0.03928144236688402,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 342,
+            "found": 20,
+            "ratio": 0.02297152068780226
+        },
+        "inDisease": false
+    }
+]

@@ -1,0 +1,515 @@
+[
+    {
+        "stId": "R-HSA-1989781",
+        "dbId": 1989781,
+        "name": "PPARA activates gene expression",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 173,
+            "found": 2,
+            "ratio": 0.011110397533877079,
+            "pValue": 0.00036757984439916846,
+            "fdr": 0.005641432190301998,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 41,
+            "found": 1,
+            "ratio": 0.002753895754970446
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-400206",
+        "dbId": 400206,
+        "name": "Regulation of lipid metabolism by PPARalpha",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 175,
+            "found": 2,
+            "ratio": 0.011238841436002825,
+            "pValue": 0.00037609547935346654,
+            "fdr": 0.005641432190301998,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 45,
+            "found": 1,
+            "ratio": 0.0030225685115529287
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-9018681",
+        "dbId": 9018681,
+        "name": "Biosynthesis of protectins",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 18,
+            "found": 1,
+            "ratio": 0.0011559951191317192,
+            "pValue": 0.003463977928033435,
+            "fdr": 0.02654863397827567,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 6,
+            "found": 1,
+            "ratio": 0.0004030091348737238
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-2142816",
+        "dbId": 2142816,
+        "name": "Synthesis of (16-20)-hydroxyeicosatetraenoic acids (HETE)",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 20,
+            "found": 1,
+            "ratio": 0.001284439021257466,
+            "pValue": 0.003848369832020637,
+            "fdr": 0.02654863397827567,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 3,
+            "found": 3,
+            "ratio": 0.0002015045674368619
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-2142670",
+        "dbId": 2142670,
+        "name": "Synthesis of epoxy (EET) and dihydroxyeicosatrienoic acids (DHET)",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 23,
+            "found": 1,
+            "ratio": 0.0014771048744460858,
+            "pValue": 0.004424772329712612,
+            "fdr": 0.02654863397827567,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 3,
+            "found": 2,
+            "ratio": 0.0002015045674368619
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-77387",
+        "dbId": 77387,
+        "name": "Insulin receptor recycling",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 34,
+            "found": 1,
+            "ratio": 0.0021835463361376917,
+            "pValue": 0.0065363457954820126,
+            "fdr": 0.03181235415187511,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 6,
+            "found": 2,
+            "ratio": 0.0004030091348737238
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-917977",
+        "dbId": 917977,
+        "name": "Transferrin endocytosis and recycling",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 42,
+            "found": 1,
+            "ratio": 0.002697321944640678,
+            "pValue": 0.008070158821391948,
+            "fdr": 0.03181235415187511,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 11,
+            "found": 2,
+            "ratio": 0.000738850080601827
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-9639288",
+        "dbId": 9639288,
+        "name": "Amino acids regulate mTORC1",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 61,
+            "found": 1,
+            "ratio": 0.00391753901483527,
+            "pValue": 0.011706635831617351,
+            "fdr": 0.03181235415187511,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 12,
+            "found": 8,
+            "ratio": 0.0008060182697474476
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-211981",
+        "dbId": 211981,
+        "name": "Xenobiotics",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 72,
+            "found": 1,
+            "ratio": 0.004623980476526877,
+            "pValue": 0.013807896709469136,
+            "fdr": 0.03181235415187511,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 22,
+            "found": 1,
+            "ratio": 0.001477700161203654
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-1222556",
+        "dbId": 1222556,
+        "name": "ROS and RNS production in phagocytes",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 82,
+            "found": 1,
+            "ratio": 0.00526619998715561,
+            "pValue": 0.015715547421351728,
+            "fdr": 0.03181235415187511,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 45,
+            "found": 1,
+            "ratio": 0.0030225685115529287
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-917937",
+        "dbId": 917937,
+        "name": "Iron uptake and transport",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 83,
+            "found": 1,
+            "ratio": 0.005330421938218483,
+            "pValue": 0.015906177075937555,
+            "fdr": 0.03181235415187511,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 33,
+            "found": 2,
+            "ratio": 0.002216550241805481
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-9018677",
+        "dbId": 9018677,
+        "name": "Biosynthesis of DHA-derived SPMs",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 89,
+            "found": 1,
+            "ratio": 0.005715753644595723,
+            "pValue": 0.017049438147365592,
+            "fdr": 0.03201989311067832,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 58,
+            "found": 1,
+            "ratio": 0.003895754970445997
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-74752",
+        "dbId": 74752,
+        "name": "Signaling by Insulin receptor",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 102,
+            "found": 1,
+            "ratio": 0.006550639008413075,
+            "pValue": 0.019523465504611925,
+            "fdr": 0.03201989311067832,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 34,
+            "found": 2,
+            "ratio": 0.0022837184309511017
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-556833",
+        "dbId": 556833,
+        "name": "Metabolism of lipids",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 1504,
+            "found": 2,
+            "ratio": 0.09658981439856143,
+            "pValue": 0.026186489569822058,
+            "fdr": 0.03201989311067832,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 980,
+            "found": 7,
+            "ratio": 0.06582482536270823
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-9018678",
+        "dbId": 9018678,
+        "name": "Biosynthesis of specialized proresolving mediators (SPMs)",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 159,
+            "found": 1,
+            "ratio": 0.010211290218996853,
+            "pValue": 0.03032212404898582,
+            "fdr": 0.03201989311067832,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 124,
+            "found": 1,
+            "ratio": 0.008328855454056958
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-2142753",
+        "dbId": 2142753,
+        "name": "Arachidonic acid metabolism",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 168,
+            "found": 1,
+            "ratio": 0.010789287778562712,
+            "pValue": 0.03201989311067832,
+            "fdr": 0.03201989311067832,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 79,
+            "found": 5,
+            "ratio": 0.00530628694250403
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-9711097",
+        "dbId": 9711097,
+        "name": "Cellular response to starvation",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 176,
+            "found": 1,
+            "ratio": 0.0113030633870657,
+            "pValue": 0.03352735650621075,
+            "fdr": 0.03352735650621075,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 28,
+            "found": 8,
+            "ratio": 0.0018807092960773778
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-211897",
+        "dbId": 211897,
+        "name": "Cytochrome P450 - arranged by substrate type",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 185,
+            "found": 1,
+            "ratio": 0.011881060946631558,
+            "pValue": 0.0352213811381622,
+            "fdr": 0.0352213811381622,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 61,
+            "found": 1,
+            "ratio": 0.004097259537882859
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-983712",
+        "dbId": 983712,
+        "name": "Ion channel transport",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 209,
+            "found": 1,
+            "ratio": 0.013422387772140517,
+            "pValue": 0.03972910001990959,
+            "fdr": 0.03972910001990959,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 51,
+            "found": 1,
+            "ratio": 0.003425577646426652
+        },
+        "inDisease": false
+    }
+]

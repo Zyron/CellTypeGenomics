@@ -1,0 +1,56 @@
+[
+    {
+        "stId": "R-HSA-5661231",
+        "dbId": 5661231,
+        "name": "Metallothioneins bind metals",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 16,
+            "found": 1,
+            "ratio": 0.0010275512170059727,
+            "pValue": 0.003079487151458893,
+            "fdr": 0.0040405287107673216,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 27,
+            "found": 2,
+            "ratio": 0.0018135411069317572
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-5660526",
+        "dbId": 5660526,
+        "name": "Response to metal ions",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 21,
+            "found": 1,
+            "ratio": 0.001348660972320339,
+            "pValue": 0.0040405287107673216,
+            "fdr": 0.0040405287107673216,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 31,
+            "found": 2,
+            "ratio": 0.0020822138635142396
+        },
+        "inDisease": false
+    }
+]

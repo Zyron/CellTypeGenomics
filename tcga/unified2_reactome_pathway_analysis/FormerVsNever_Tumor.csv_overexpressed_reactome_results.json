@@ -1,0 +1,191 @@
+[
+    {
+        "stId": "R-HSA-6809371",
+        "dbId": 6809371,
+        "name": "Formation of the cornified envelope",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 138,
+            "found": 4,
+            "ratio": 0.008862629246676515,
+            "pValue": 1.241488001957336e-06,
+            "fdr": 8.938713614092819e-05,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 27,
+            "found": 8,
+            "ratio": 0.0018135411069317572
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-6805567",
+        "dbId": 6805567,
+        "name": "Keratinization",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 226,
+            "found": 4,
+            "ratio": 0.014514160940209363,
+            "pValue": 8.689427649311021e-06,
+            "fdr": 0.00031281939537519676,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 34,
+            "found": 15,
+            "ratio": 0.0022837184309511017
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-193807",
+        "dbId": 193807,
+        "name": "Synthesis of bile acids and bile salts via 27-hydroxycholesterol",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 34,
+            "found": 2,
+            "ratio": 0.0021835463361376917,
+            "pValue": 0.0002120700186988289,
+            "fdr": 0.005089680448771894,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 12,
+            "found": 2,
+            "ratio": 0.0008060182697474476
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-193775",
+        "dbId": 193775,
+        "name": "Synthesis of bile acids and bile salts via 24-hydroxycholesterol",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 43,
+            "found": 2,
+            "ratio": 0.0027615438957035517,
+            "pValue": 0.00033815771819101226,
+            "fdr": 0.006086838927438221,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 28,
+            "found": 2,
+            "ratio": 0.0018807092960773778
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-193368",
+        "dbId": 193368,
+        "name": "Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 76,
+            "found": 2,
+            "ratio": 0.00488086828077837,
+            "pValue": 0.0010444778325157111,
+            "fdr": 0.014622689655219956,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 39,
+            "found": 2,
+            "ratio": 0.002619559376679205
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-192105",
+        "dbId": 192105,
+        "name": "Synthesis of bile acids and bile salts",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 111,
+            "found": 2,
+            "ratio": 0.007128636567978935,
+            "pValue": 0.0022014519633005714,
+            "fdr": 0.026417423559606856,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 83,
+            "found": 6,
+            "ratio": 0.005574959699086513
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-194068",
+        "dbId": 194068,
+        "name": "Bile acid and bile salt metabolism",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 123,
+            "found": 2,
+            "ratio": 0.007899299980733415,
+            "pValue": 0.0026920766372852123,
+            "fdr": 0.026920766372852123,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 99,
+            "found": 6,
+            "ratio": 0.006649650725416443
+        },
+        "inDisease": false
+    }
+]

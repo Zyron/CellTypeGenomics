@@ -1,0 +1,272 @@
+[
+    {
+        "stId": "R-HSA-6809371",
+        "dbId": 6809371,
+        "name": "Formation of the cornified envelope",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 138,
+            "found": 7,
+            "ratio": 0.008862629246676515,
+            "pValue": 1.3737899706711687e-12,
+            "fdr": 3.8466119178792724e-11,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 27,
+            "found": 9,
+            "ratio": 0.0018135411069317572
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-6805567",
+        "dbId": 6805567,
+        "name": "Keratinization",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 226,
+            "found": 7,
+            "ratio": 0.014514160940209363,
+            "pValue": 4.2546188794290174e-11,
+            "fdr": 5.956466431200624e-10,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 34,
+            "found": 16,
+            "ratio": 0.0022837184309511017
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-351906",
+        "dbId": 351906,
+        "name": "Apoptotic cleavage of cell adhesion  proteins",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 11,
+            "found": 2,
+            "ratio": 0.0007064414616916062,
+            "pValue": 2.733217728323467e-05,
+            "fdr": 0.00024598959554911204,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 10,
+            "found": 2,
+            "ratio": 0.0006716818914562063
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-1266738",
+        "dbId": 1266738,
+        "name": "Developmental Biology",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 1716,
+            "found": 7,
+            "ratio": 0.11020486802389057,
+            "pValue": 4.347550703232006e-05,
+            "fdr": 0.0003043285492262404,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 889,
+            "found": 18,
+            "ratio": 0.05971252015045674
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-111465",
+        "dbId": 111465,
+        "name": "Apoptotic cleavage of cellular proteins",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 38,
+            "found": 2,
+            "ratio": 0.002440434140389185,
+            "pValue": 0.00032280309201804247,
+            "fdr": 0.0016140154600902124,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 38,
+            "found": 2,
+            "ratio": 0.002552391187533584
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-75153",
+        "dbId": 75153,
+        "name": "Apoptotic execution phase",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 54,
+            "found": 2,
+            "ratio": 0.0034679853573951576,
+            "pValue": 0.0006478589785327005,
+            "fdr": 0.002591435914130802,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 57,
+            "found": 2,
+            "ratio": 0.003828586781300376
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-446107",
+        "dbId": 446107,
+        "name": "Type I hemidesmosome assembly",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 11,
+            "found": 1,
+            "ratio": 0.0007064414616916062,
+            "pValue": 0.007743465893663148,
+            "fdr": 0.02353257803524289,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 6,
+            "found": 1,
+            "ratio": 0.0004030091348737238
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-109581",
+        "dbId": 109581,
+        "name": "Apoptosis",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 193,
+            "found": 2,
+            "ratio": 0.012394836555134545,
+            "pValue": 0.007844192678414297,
+            "fdr": 0.02353257803524289,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 142,
+            "found": 2,
+            "ratio": 0.00953788285867813
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-5357801",
+        "dbId": 5357801,
+        "name": "Programmed Cell Death",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 238,
+            "found": 2,
+            "ratio": 0.015284824352963843,
+            "pValue": 0.011723537685952468,
+            "fdr": 0.0351706130578574,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 193,
+            "found": 2,
+            "ratio": 0.012963460505104782
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-193807",
+        "dbId": 193807,
+        "name": "Synthesis of bile acids and bile salts via 27-hydroxycholesterol",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 34,
+            "found": 1,
+            "ratio": 0.0021835463361376917,
+            "pValue": 0.023758486909911336,
+            "fdr": 0.04751697381982267,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 12,
+            "found": 2,
+            "ratio": 0.0008060182697474476
+        },
+        "inDisease": false
+    }
+]
