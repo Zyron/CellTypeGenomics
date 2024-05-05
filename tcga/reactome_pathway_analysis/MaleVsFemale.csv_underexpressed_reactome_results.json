@@ -1,1 +1,26 @@
-null
+{
+    "summary": {
+        "token": "MjAyNDA1MDUxNTM2MTRfMTE0MTI%3D",
+        "projection": true,
+        "interactors": false,
+        "type": "OVERREPRESENTATION",
+        "sampleName": "",
+        "text": true,
+        "includeDisease": true
+    },
+    "expression": {
+        "columnNames": []
+    },
+    "identifiersNotFound": 1,
+    "pathwaysFound": 0,
+    "pathways": [],
+    "resourceSummary": [
+        {
+            "resource": "TOTAL",
+            "pathways": 0,
+            "filtered": 0
+        }
+    ],
+    "speciesSummary": [],
+    "warnings": []
+}
