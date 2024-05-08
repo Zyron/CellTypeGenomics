@@ -702,6 +702,33 @@
         "inDisease": false
     },
     {
+        "stId": "R-HSA-9649948",
+        "dbId": 9649948,
+        "name": "Signaling downstream of RAS mutants",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 54,
+            "found": 1,
+            "ratio": 0.0034679853573951576,
+            "pValue": 0.024024786900108452,
+            "fdr": 0.041066781455003754,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 7,
+            "found": 4,
+            "ratio": 0.00047017732401934446
+        },
+        "inDisease": true
+    },
+    {
         "stId": "R-HSA-6802955",
         "dbId": 6802955,
         "name": "Paradoxical activation of RAF signaling by kinase inactive BRAF",
@@ -732,33 +759,6 @@
         "stId": "R-HSA-6802946",
         "dbId": 6802946,
         "name": "Signaling by moderate kinase activity BRAF mutants",
-        "species": {
-            "dbId": 48887,
-            "taxId": "9606",
-            "name": "Homo sapiens"
-        },
-        "llp": true,
-        "entities": {
-            "resource": "TOTAL",
-            "total": 54,
-            "found": 1,
-            "ratio": 0.0034679853573951576,
-            "pValue": 0.024024786900108452,
-            "fdr": 0.041066781455003754,
-            "exp": []
-        },
-        "reactions": {
-            "resource": "TOTAL",
-            "total": 7,
-            "found": 4,
-            "ratio": 0.00047017732401934446
-        },
-        "inDisease": true
-    },
-    {
-        "stId": "R-HSA-9649948",
-        "dbId": 9649948,
-        "name": "Signaling downstream of RAS mutants",
         "species": {
             "dbId": 48887,
             "taxId": "9606",

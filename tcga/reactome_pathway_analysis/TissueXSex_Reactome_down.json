@@ -54,9 +54,9 @@
         "inDisease": true
     },
     {
-        "stId": "R-HSA-5688890",
-        "dbId": 5688890,
-        "name": "Defective CSF2RA causes SMDP4",
+        "stId": "R-HSA-5688849",
+        "dbId": 5688849,
+        "name": "Defective CSF2RB causes SMDP5",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
@@ -81,9 +81,9 @@
         "inDisease": true
     },
     {
-        "stId": "R-HSA-5688849",
-        "dbId": 5688849,
-        "name": "Defective CSF2RB causes SMDP5",
+        "stId": "R-HSA-5688890",
+        "dbId": 5688890,
+        "name": "Defective CSF2RA causes SMDP4",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
@@ -297,9 +297,9 @@
         "inDisease": false
     },
     {
-        "stId": "R-HSA-5688031",
-        "dbId": 5688031,
-        "name": "Defective pro-SFTPB causes SMDP1 and RDS",
+        "stId": "R-HSA-5687868",
+        "dbId": 5687868,
+        "name": "Defective SFTPA2 causes IPF",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
@@ -324,9 +324,9 @@
         "inDisease": true
     },
     {
-        "stId": "R-HSA-5687868",
-        "dbId": 5687868,
-        "name": "Defective SFTPA2 causes IPF",
+        "stId": "R-HSA-5688031",
+        "dbId": 5688031,
+        "name": "Defective pro-SFTPB causes SMDP1 and RDS",
         "species": {
             "dbId": 48887,
             "taxId": "9606",

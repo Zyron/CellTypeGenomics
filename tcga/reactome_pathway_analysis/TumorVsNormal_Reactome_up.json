@@ -216,15 +216,15 @@
         "inDisease": true
     },
     {
-        "stId": "R-HSA-9664422",
-        "dbId": 9664422,
-        "name": "FCGR3A-mediated phagocytosis",
+        "stId": "R-HSA-9664407",
+        "dbId": 9664407,
+        "name": "Parasite infection",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
             "name": "Homo sapiens"
         },
-        "llp": true,
+        "llp": false,
         "entities": {
             "resource": "TOTAL",
             "total": 157,
@@ -243,15 +243,15 @@
         "inDisease": true
     },
     {
-        "stId": "R-HSA-9664407",
-        "dbId": 9664407,
-        "name": "Parasite infection",
+        "stId": "R-HSA-9664422",
+        "dbId": 9664422,
+        "name": "FCGR3A-mediated phagocytosis",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
             "name": "Homo sapiens"
         },
-        "llp": false,
+        "llp": true,
         "entities": {
             "resource": "TOTAL",
             "total": 157,
@@ -432,9 +432,9 @@
         "inDisease": false
     },
     {
-        "stId": "R-HSA-9662851",
-        "dbId": 9662851,
-        "name": "Anti-inflammatory response favouring Leishmania parasite infection",
+        "stId": "R-HSA-9664433",
+        "dbId": 9664433,
+        "name": "Leishmania parasite growth and survival",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
@@ -459,9 +459,9 @@
         "inDisease": true
     },
     {
-        "stId": "R-HSA-9664433",
-        "dbId": 9664433,
-        "name": "Leishmania parasite growth and survival",
+        "stId": "R-HSA-9662851",
+        "dbId": 9662851,
+        "name": "Anti-inflammatory response favouring Leishmania parasite infection",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
@@ -891,9 +891,9 @@
         "inDisease": false
     },
     {
-        "stId": "R-HSA-9658195",
-        "dbId": 9658195,
-        "name": "Leishmania infection",
+        "stId": "R-HSA-9824443",
+        "dbId": 9824443,
+        "name": "Parasitic Infection Pathways",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
@@ -918,9 +918,9 @@
         "inDisease": true
     },
     {
-        "stId": "R-HSA-9824443",
-        "dbId": 9824443,
-        "name": "Parasitic Infection Pathways",
+        "stId": "R-HSA-9658195",
+        "dbId": 9658195,
+        "name": "Leishmania infection",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
@@ -1890,15 +1890,15 @@
         "inDisease": false
     },
     {
-        "stId": "R-HSA-9725554",
-        "dbId": 9725554,
-        "name": "Differentiation of keratinocytes in interfollicular epidermis in mammalian skin",
+        "stId": "R-HSA-9734767",
+        "dbId": 9734767,
+        "name": "Developmental Cell Lineages",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
             "name": "Homo sapiens"
         },
-        "llp": true,
+        "llp": false,
         "entities": {
             "resource": "TOTAL",
             "total": 46,
@@ -1917,15 +1917,15 @@
         "inDisease": false
     },
     {
-        "stId": "R-HSA-9734767",
-        "dbId": 9734767,
-        "name": "Developmental Cell Lineages",
+        "stId": "R-HSA-9725554",
+        "dbId": 9725554,
+        "name": "Differentiation of keratinocytes in interfollicular epidermis in mammalian skin",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
             "name": "Homo sapiens"
         },
-        "llp": false,
+        "llp": true,
         "entities": {
             "resource": "TOTAL",
             "total": 46,
@@ -2052,9 +2052,9 @@
         "inDisease": false
     },
     {
-        "stId": "R-HSA-174143",
-        "dbId": 174143,
-        "name": "APC/C-mediated degradation of cell cycle proteins",
+        "stId": "R-HSA-453276",
+        "dbId": 453276,
+        "name": "Regulation of mitotic cell cycle",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
@@ -2079,9 +2079,9 @@
         "inDisease": false
     },
     {
-        "stId": "R-HSA-453276",
-        "dbId": 453276,
-        "name": "Regulation of mitotic cell cycle",
+        "stId": "R-HSA-174143",
+        "dbId": 174143,
+        "name": "APC/C-mediated degradation of cell cycle proteins",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
@@ -2646,9 +2646,9 @@
         "inDisease": false
     },
     {
-        "stId": "R-HSA-9675132",
-        "dbId": 9675132,
-        "name": "Diseases of cellular response to stress",
+        "stId": "R-HSA-9630747",
+        "dbId": 9630747,
+        "name": "Diseases of Cellular Senescence",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
@@ -2673,9 +2673,9 @@
         "inDisease": true
     },
     {
-        "stId": "R-HSA-9630747",
-        "dbId": 9630747,
-        "name": "Diseases of Cellular Senescence",
+        "stId": "R-HSA-9675132",
+        "dbId": 9675132,
+        "name": "Diseases of cellular response to stress",
         "species": {
             "dbId": 48887,
             "taxId": "9606",

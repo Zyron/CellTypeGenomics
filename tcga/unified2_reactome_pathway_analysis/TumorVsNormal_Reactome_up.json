@@ -1026,15 +1026,15 @@
         "inDisease": false
     },
     {
-        "stId": "R-HSA-606279",
-        "dbId": 606279,
-        "name": "Deposition of new CENPA-containing nucleosomes at the centromere",
+        "stId": "R-HSA-774815",
+        "dbId": 774815,
+        "name": "Nucleosome assembly",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
             "name": "Homo sapiens"
         },
-        "llp": true,
+        "llp": false,
         "entities": {
             "resource": "TOTAL",
             "total": 53,
@@ -1053,15 +1053,15 @@
         "inDisease": false
     },
     {
-        "stId": "R-HSA-774815",
-        "dbId": 774815,
-        "name": "Nucleosome assembly",
+        "stId": "R-HSA-606279",
+        "dbId": 606279,
+        "name": "Deposition of new CENPA-containing nucleosomes at the centromere",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
             "name": "Homo sapiens"
         },
-        "llp": false,
+        "llp": true,
         "entities": {
             "resource": "TOTAL",
             "total": 53,
@@ -2916,15 +2916,15 @@
         "inDisease": false
     },
     {
-        "stId": "R-HSA-427413",
-        "dbId": 427413,
-        "name": "NoRC negatively regulates rRNA expression",
+        "stId": "R-HSA-5250913",
+        "dbId": 5250913,
+        "name": "Positive epigenetic regulation of rRNA expression",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
             "name": "Homo sapiens"
         },
-        "llp": true,
+        "llp": false,
         "entities": {
             "resource": "TOTAL",
             "total": 79,
@@ -2943,15 +2943,15 @@
         "inDisease": false
     },
     {
-        "stId": "R-HSA-5250913",
-        "dbId": 5250913,
-        "name": "Positive epigenetic regulation of rRNA expression",
+        "stId": "R-HSA-427413",
+        "dbId": 427413,
+        "name": "NoRC negatively regulates rRNA expression",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
             "name": "Homo sapiens"
         },
-        "llp": false,
+        "llp": true,
         "entities": {
             "resource": "TOTAL",
             "total": 79,
@@ -3618,15 +3618,15 @@
         "inDisease": false
     },
     {
-        "stId": "R-HSA-5619507",
-        "dbId": 5619507,
-        "name": "Activation of HOX genes during differentiation",
+        "stId": "R-HSA-5617472",
+        "dbId": 5617472,
+        "name": "Activation of anterior HOX genes in hindbrain development during early embryogenesis",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
             "name": "Homo sapiens"
         },
-        "llp": false,
+        "llp": true,
         "entities": {
             "resource": "TOTAL",
             "total": 116,
@@ -3645,15 +3645,15 @@
         "inDisease": false
     },
     {
-        "stId": "R-HSA-5617472",
-        "dbId": 5617472,
-        "name": "Activation of anterior HOX genes in hindbrain development during early embryogenesis",
+        "stId": "R-HSA-5619507",
+        "dbId": 5619507,
+        "name": "Activation of HOX genes during differentiation",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
             "name": "Homo sapiens"
         },
-        "llp": true,
+        "llp": false,
         "entities": {
             "resource": "TOTAL",
             "total": 116,
@@ -3996,15 +3996,15 @@
         "inDisease": false
     },
     {
-        "stId": "R-HSA-9725554",
-        "dbId": 9725554,
-        "name": "Differentiation of keratinocytes in interfollicular epidermis in mammalian skin",
+        "stId": "R-HSA-9734767",
+        "dbId": 9734767,
+        "name": "Developmental Cell Lineages",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
             "name": "Homo sapiens"
         },
-        "llp": true,
+        "llp": false,
         "entities": {
             "resource": "TOTAL",
             "total": 46,
@@ -4023,15 +4023,15 @@
         "inDisease": false
     },
     {
-        "stId": "R-HSA-9734767",
-        "dbId": 9734767,
-        "name": "Developmental Cell Lineages",
+        "stId": "R-HSA-9725554",
+        "dbId": 9725554,
+        "name": "Differentiation of keratinocytes in interfollicular epidermis in mammalian skin",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
             "name": "Homo sapiens"
         },
-        "llp": false,
+        "llp": true,
         "entities": {
             "resource": "TOTAL",
             "total": 46,
@@ -4320,9 +4320,9 @@
         "inDisease": false
     },
     {
-        "stId": "R-HSA-174143",
-        "dbId": 174143,
-        "name": "APC/C-mediated degradation of cell cycle proteins",
+        "stId": "R-HSA-453276",
+        "dbId": 453276,
+        "name": "Regulation of mitotic cell cycle",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
@@ -4347,9 +4347,9 @@
         "inDisease": false
     },
     {
-        "stId": "R-HSA-453276",
-        "dbId": 453276,
-        "name": "Regulation of mitotic cell cycle",
+        "stId": "R-HSA-174143",
+        "dbId": 174143,
+        "name": "APC/C-mediated degradation of cell cycle proteins",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
@@ -4644,9 +4644,9 @@
         "inDisease": true
     },
     {
-        "stId": "R-HSA-9701192",
-        "dbId": 9701192,
-        "name": "Defective homologous recombination repair (HRR) due to BRCA1 loss of function",
+        "stId": "R-HSA-9704646",
+        "dbId": 9704646,
+        "name": "Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA2/RAD51/RAD51C binding function",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
@@ -4671,9 +4671,9 @@
         "inDisease": true
     },
     {
-        "stId": "R-HSA-9704646",
-        "dbId": 9704646,
-        "name": "Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA2/RAD51/RAD51C binding function",
+        "stId": "R-HSA-9701192",
+        "dbId": 9701192,
+        "name": "Defective homologous recombination repair (HRR) due to BRCA1 loss of function",
         "species": {
             "dbId": 48887,
             "taxId": "9606",

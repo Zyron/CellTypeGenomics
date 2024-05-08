@@ -12,16 +12,16 @@
         "entities": {
             "resource": "TOTAL",
             "total": 138,
-            "found": 21,
+            "found": 33,
             "ratio": 0.008862629246676515,
-            "pValue": 1.1102230246251565e-16,
-            "fdr": 2.120525977034049e-14,
+            "pValue": 8.881784197001252e-16,
+            "fdr": 1.071143174158351e-12,
             "exp": []
         },
         "reactions": {
             "resource": "TOTAL",
             "total": 27,
-            "found": 9,
+            "found": 12,
             "ratio": 0.0018135411069317572
         },
         "inDisease": false
@@ -39,16 +39,16 @@
         "entities": {
             "resource": "TOTAL",
             "total": 226,
-            "found": 21,
+            "found": 33,
             "ratio": 0.014514160940209363,
-            "pValue": 3.647082635893639e-13,
-            "fdr": 3.464728504098957e-11,
+            "pValue": 3.8836101001749057e-10,
+            "fdr": 2.3418168904054681e-07,
             "exp": []
         },
         "reactions": {
             "resource": "TOTAL",
             "total": 34,
-            "found": 16,
+            "found": 19,
             "ratio": 0.0022837184309511017
         },
         "inDisease": false
@@ -66,10 +66,10 @@
         "entities": {
             "resource": "TOTAL",
             "total": 46,
-            "found": 6,
+            "found": 15,
             "ratio": 0.0029542097488921715,
-            "pValue": 1.8607763709099778e-05,
-            "fdr": 0.0008745648943276896,
+            "pValue": 1.084243139715113e-09,
+            "fdr": 3.2635718505424904e-07,
             "exp": []
         },
         "reactions": {
@@ -93,10 +93,10 @@
         "entities": {
             "resource": "TOTAL",
             "total": 46,
-            "found": 6,
+            "found": 15,
             "ratio": 0.0029542097488921715,
-            "pValue": 1.8607763709099778e-05,
-            "fdr": 0.0008745648943276896,
+            "pValue": 1.084243139715113e-09,
+            "fdr": 3.2635718505424904e-07,
             "exp": []
         },
         "reactions": {
@@ -108,9 +108,9 @@
         "inDisease": false
     },
     {
-        "stId": "R-HSA-446107",
-        "dbId": 446107,
-        "name": "Type I hemidesmosome assembly",
+        "stId": "R-HSA-6803205",
+        "dbId": 6803205,
+        "name": "TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
@@ -119,72 +119,18 @@
         "llp": true,
         "entities": {
             "resource": "TOTAL",
-            "total": 11,
-            "found": 3,
-            "ratio": 0.0007064414616916062,
-            "pValue": 0.00030691029502172285,
-            "fdr": 0.011662591210825468,
+            "total": 28,
+            "found": 7,
+            "ratio": 0.0017982146297604521,
+            "pValue": 0.00015917415866673057,
+            "fdr": 0.03836097223868207,
             "exp": []
         },
         "reactions": {
             "resource": "TOTAL",
-            "total": 6,
-            "found": 5,
-            "ratio": 0.0004030091348737238
-        },
-        "inDisease": false
-    },
-    {
-        "stId": "R-HSA-6799198",
-        "dbId": 6799198,
-        "name": "Complex I biogenesis",
-        "species": {
-            "dbId": 48887,
-            "taxId": "9606",
-            "name": "Homo sapiens"
-        },
-        "llp": true,
-        "entities": {
-            "resource": "TOTAL",
-            "total": 59,
-            "found": 5,
-            "ratio": 0.003789095112709524,
-            "pValue": 0.000671635247150637,
-            "fdr": 0.02082069266166975,
-            "exp": []
-        },
-        "reactions": {
-            "resource": "TOTAL",
-            "total": 13,
-            "found": 6,
-            "ratio": 0.0008731864588930683
-        },
-        "inDisease": false
-    },
-    {
-        "stId": "R-HSA-163200",
-        "dbId": 163200,
-        "name": "Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.",
-        "species": {
-            "dbId": 48887,
-            "taxId": "9606",
-            "name": "Homo sapiens"
-        },
-        "llp": false,
-        "entities": {
-            "resource": "TOTAL",
-            "total": 172,
+            "total": 19,
             "found": 8,
-            "ratio": 0.011046175582814207,
-            "pValue": 0.0009668684688408646,
-            "fdr": 0.026105448658703345,
-            "exp": []
-        },
-        "reactions": {
-            "resource": "TOTAL",
-            "total": 38,
-            "found": 11,
-            "ratio": 0.002552391187533584
+            "ratio": 0.001276195593766792
         },
         "inDisease": false
     }

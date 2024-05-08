@@ -405,9 +405,9 @@
         "inDisease": true
     },
     {
-        "stId": "R-HSA-6802946",
-        "dbId": 6802946,
-        "name": "Signaling by moderate kinase activity BRAF mutants",
+        "stId": "R-HSA-6802955",
+        "dbId": 6802955,
+        "name": "Paradoxical activation of RAF signaling by kinase inactive BRAF",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
@@ -432,9 +432,9 @@
         "inDisease": true
     },
     {
-        "stId": "R-HSA-6802955",
-        "dbId": 6802955,
-        "name": "Paradoxical activation of RAF signaling by kinase inactive BRAF",
+        "stId": "R-HSA-6802946",
+        "dbId": 6802946,
+        "name": "Signaling by moderate kinase activity BRAF mutants",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
