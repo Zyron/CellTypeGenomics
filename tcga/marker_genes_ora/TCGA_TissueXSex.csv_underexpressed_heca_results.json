@@ -1,30 +1,10 @@
 {
-    "Microglia": {
-        "odds_ratio": 8.89757174392936,
-        "adjusted_p_value": 0.002408381537346847
-    },
-    "Macrophage": {
-        "odds_ratio": 7.324368948340516,
-        "adjusted_p_value": 4.720587164832723e-05
-    },
-    "Schwann cell": {
-        "odds_ratio": 28.49717247879359,
-        "adjusted_p_value": 0.032834800504891626
-    },
-    "Monocyte": {
-        "odds_ratio": 6.795494401726696,
-        "adjusted_p_value": 0.04071986694028254
-    },
-    "Conventional dendritic cell": {
-        "odds_ratio": 10.866846361185983,
-        "adjusted_p_value": 0.036643942416674014
-    },
-    "Dendritic cell": {
-        "odds_ratio": 6.589674802067657,
-        "adjusted_p_value": 0.0011329159694576218
+    "Type I alveolar cell/Type I pneumocyte": {
+        "odds_ratio": 179.92857142857142,
+        "adjusted_p_value": 0.006307904348817533
     },
     "Type II alveolar cell/Type II pneumocyte": {
-        "odds_ratio": 23.78777148253069,
-        "adjusted_p_value": 0.0015696237481222888
+        "odds_ratio": 1937.7884615384614,
+        "adjusted_p_value": 5.455877306049462e-12
     }
 }

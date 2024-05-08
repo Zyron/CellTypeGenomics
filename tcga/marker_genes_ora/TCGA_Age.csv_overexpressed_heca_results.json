@@ -1,18 +1,6 @@
 {
-    "T cell": {
-        "odds_ratio": 2.977752297819614,
-        "adjusted_p_value": 0.014530875940987242
-    },
-    "Epithelial cell": {
-        "odds_ratio": 2.8517783760804876,
-        "adjusted_p_value": 0.04172473718496955
-    },
-    "NK cell": {
-        "odds_ratio": 8.554989384288747,
-        "adjusted_p_value": 0.008127606794377053
-    },
-    "Perineural epithelial cell": {
-        "odds_ratio": Infinity,
-        "adjusted_p_value": 0.04172473718496955
+    "Keratinocyte": {
+        "odds_ratio": 108.76618705035972,
+        "adjusted_p_value": 0.010798614048291608
     }
 }

@@ -1,6 +1,42 @@
 {
+    "B cell": {
+        "odds_ratio": 9.321197161369948,
+        "adjusted_p_value": 0.0005520054836666181
+    },
+    "Smooth muscle cell": {
+        "odds_ratio": 6.016129032258065,
+        "adjusted_p_value": 0.041210399579957833
+    },
+    "Fibroblast": {
+        "odds_ratio": 8.274515847331381,
+        "adjusted_p_value": 0.0009534392420953225
+    },
+    "Plasma B Cell": {
+        "odds_ratio": 86.60365198711064,
+        "adjusted_p_value": 0.0008699187038510171
+    },
+    "Fibrocyte": {
+        "odds_ratio": 21.626609442060087,
+        "adjusted_p_value": 0.027667682611774273
+    },
+    "Basal cell": {
+        "odds_ratio": 21.626609442060087,
+        "adjusted_p_value": 0.027667682611774273
+    },
     "B Cell": {
-        "odds_ratio": 22.164650432050276,
-        "adjusted_p_value": 0.04101644625837925
+        "odds_ratio": 36.11827956989247,
+        "adjusted_p_value": 0.0005979515128783712
+    },
+    "Mesenchymal cell": {
+        "odds_ratio": 28.867883995703544,
+        "adjusted_p_value": 0.003399445550435087
+    },
+    "Plasma B cell": {
+        "odds_ratio": 32.441523605150216,
+        "adjusted_p_value": 0.0190744356572616
+    },
+    "Tubule cell": {
+        "odds_ratio": Infinity,
+        "adjusted_p_value": 0.030746566089993124
     }
 }
