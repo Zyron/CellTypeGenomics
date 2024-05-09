@@ -1,0 +1,434 @@
+[
+    {
+        "stId": "R-HSA-6809371",
+        "dbId": 6809371,
+        "name": "Formation of the cornified envelope",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 138,
+            "found": 24,
+            "ratio": 0.008862629246676515,
+            "pValue": 2.55351295663786e-15,
+            "fdr": 2.3058221998439876e-12,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 27,
+            "found": 10,
+            "ratio": 0.0018135411069317572
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-6805567",
+        "dbId": 6805567,
+        "name": "Keratinization",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 226,
+            "found": 24,
+            "ratio": 0.014514160940209363,
+            "pValue": 7.314959749038508e-11,
+            "fdr": 3.299046846816367e-08,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 34,
+            "found": 17,
+            "ratio": 0.0022837184309511017
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-9734767",
+        "dbId": 9734767,
+        "name": "Developmental Cell Lineages",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 46,
+            "found": 9,
+            "ratio": 0.0029542097488921715,
+            "pValue": 5.561371503315371e-07,
+            "fdr": 0.00012513085882459585,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 4,
+            "found": 4,
+            "ratio": 0.00026867275658248256
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-9725554",
+        "dbId": 9725554,
+        "name": "Differentiation of keratinocytes in interfollicular epidermis in mammalian skin",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 46,
+            "found": 9,
+            "ratio": 0.0029542097488921715,
+            "pValue": 5.561371503315371e-07,
+            "fdr": 0.00012513085882459585,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 4,
+            "found": 4,
+            "ratio": 0.00026867275658248256
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-163200",
+        "dbId": 163200,
+        "name": "Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 172,
+            "found": 15,
+            "ratio": 0.011046175582814207,
+            "pValue": 3.1308316404965453e-06,
+            "fdr": 0.0005635496952893781,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 38,
+            "found": 18,
+            "ratio": 0.002552391187533584
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-9837999",
+        "dbId": 9837999,
+        "name": "Mitochondrial protein degradation",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 104,
+            "found": 11,
+            "ratio": 0.0066790829105388225,
+            "pValue": 1.141849214114643e-05,
+            "fdr": 0.0017127738211719645,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 20,
+            "found": 10,
+            "ratio": 0.0013433637829124126
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-611105",
+        "dbId": 611105,
+        "name": "Respiratory electron transport",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 137,
+            "found": 12,
+            "ratio": 0.00879840729561364,
+            "pValue": 2.900267353445063e-05,
+            "fdr": 0.003741344885944131,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 26,
+            "found": 11,
+            "ratio": 0.0017463729177861365
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-446107",
+        "dbId": 446107,
+        "name": "Type I hemidesmosome assembly",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 11,
+            "found": 4,
+            "ratio": 0.0007064414616916062,
+            "pValue": 8.311018300410922e-05,
+            "fdr": 0.009308340496460232,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 6,
+            "found": 6,
+            "ratio": 0.0004030091348737238
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-1428517",
+        "dbId": 1428517,
+        "name": "Aerobic respiration and respiratory electron transport",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 307,
+            "found": 17,
+            "ratio": 0.0197161389763021,
+            "pValue": 0.00020822762394767658,
+            "fdr": 0.018681547933448783,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 95,
+            "found": 20,
+            "ratio": 0.0063809779688339605
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-210991",
+        "dbId": 210991,
+        "name": "Basigin interactions",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 26,
+            "found": 5,
+            "ratio": 0.0016697707276347056,
+            "pValue": 0.00020853140530063818,
+            "fdr": 0.018681547933448783,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 10,
+            "found": 10,
+            "ratio": 0.0006716818914562063
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-6799198",
+        "dbId": 6799198,
+        "name": "Complex I biogenesis",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 59,
+            "found": 7,
+            "ratio": 0.003789095112709524,
+            "pValue": 0.00022782375528596077,
+            "fdr": 0.018681547933448783,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 13,
+            "found": 7,
+            "ratio": 0.0008731864588930683
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-5628897",
+        "dbId": 5628897,
+        "name": "TP53 Regulates Metabolic Genes",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 126,
+            "found": 10,
+            "ratio": 0.008091965833922035,
+            "pValue": 0.0002901188288249035,
+            "fdr": 0.02017209476872872,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 34,
+            "found": 9,
+            "ratio": 0.0022837184309511017
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-6803205",
+        "dbId": 6803205,
+        "name": "TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 28,
+            "found": 5,
+            "ratio": 0.0017982146297604521,
+            "pValue": 0.00029234919954679306,
+            "fdr": 0.02017209476872872,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 19,
+            "found": 6,
+            "ratio": 0.001276195593766792
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-8863678",
+        "dbId": 8863678,
+        "name": "Neurodegenerative Diseases",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 30,
+            "found": 5,
+            "ratio": 0.0019266585318861986,
+            "pValue": 0.00039951994107745303,
+            "fdr": 0.023971196464647182,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 22,
+            "found": 5,
+            "ratio": 0.001477700161203654
+        },
+        "inDisease": true
+    },
+    {
+        "stId": "R-HSA-8862803",
+        "dbId": 8862803,
+        "name": "Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 30,
+            "found": 5,
+            "ratio": 0.0019266585318861986,
+            "pValue": 0.00039951994107745303,
+            "fdr": 0.023971196464647182,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 22,
+            "found": 5,
+            "ratio": 0.001477700161203654
+        },
+        "inDisease": true
+    },
+    {
+        "stId": "R-HSA-9734009",
+        "dbId": 9734009,
+        "name": "Defective Intrinsic Pathway for Apoptosis",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 33,
+            "found": 5,
+            "ratio": 0.0021193243850748185,
+            "pValue": 0.0006127141638908595,
+            "fdr": 0.034311993177888134,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 24,
+            "found": 5,
+            "ratio": 0.0016120365394948952
+        },
+        "inDisease": true
+    }
+]

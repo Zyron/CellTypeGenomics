@@ -1,0 +1,115 @@
+[
+    {
+        "description": "\"Catalysis of the removal of a methyl group from a modified lysine residue of the histone H3 protein. This is a dioxygenase reaction that is dependent on Fe(II) and 2-oxoglutarate.\" [PMID:17947579]",
+        "effective_domain_size": 20212,
+        "goshv": 10775,
+        "intersection_size": 2,
+        "name": "histone H3 demethylase activity",
+        "native": "GO:0141052",
+        "p_value": 0.007170975601530654,
+        "parents": [
+            "GO:0032452"
+        ],
+        "precision": 0.25,
+        "query": "query_1",
+        "query_size": 8,
+        "recall": 0.06896551724137931,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 29,
+        "source_order": 10775,
+        "group_id": 1,
+        "odds_ratio": 523.4962962962964
+    },
+    {
+        "description": "\"Catalysis of the removal of a methyl group from a histone.\" [GOC:mah]",
+        "effective_domain_size": 20212,
+        "goshv": 4438,
+        "intersection_size": 2,
+        "name": "histone demethylase activity",
+        "native": "GO:0032452",
+        "p_value": 0.008209811319614315,
+        "parents": [
+            "GO:0140457",
+            "GO:0140993"
+        ],
+        "precision": 0.25,
+        "query": "query_1",
+        "query_size": 8,
+        "recall": 0.06451612903225806,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 31,
+        "source_order": 4438,
+        "group_id": 1,
+        "odds_ratio": 487.37931034482756
+    },
+    {
+        "description": "\"Catalysis of the removal of a methyl group from a protein.\" [PMID:24498420, PMID:28360925]",
+        "effective_domain_size": 20212,
+        "goshv": 10501,
+        "intersection_size": 2,
+        "name": "protein demethylase activity",
+        "native": "GO:0140457",
+        "p_value": 0.008209811319614315,
+        "parents": [
+            "GO:0032451",
+            "GO:0140096"
+        ],
+        "precision": 0.25,
+        "query": "query_1",
+        "query_size": 8,
+        "recall": 0.06451612903225806,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 31,
+        "source_order": 10501,
+        "group_id": 1,
+        "odds_ratio": 487.37931034482756
+    },
+    {
+        "description": "\"Catalysis of the removal of a methyl group from a substrate.\" [GOC:mah]",
+        "effective_domain_size": 20212,
+        "goshv": 4437,
+        "intersection_size": 2,
+        "name": "demethylase activity",
+        "native": "GO:0032451",
+        "p_value": 0.01444887627012722,
+        "parents": [
+            "GO:0003824"
+        ],
+        "precision": 0.25,
+        "query": "query_1",
+        "query_size": 8,
+        "recall": 0.04878048780487805,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 41,
+        "source_order": 4437,
+        "group_id": 1,
+        "odds_ratio": 362.35897435897436
+    },
+    {
+        "description": "\"Catalysis of the reaction: A + 2-oxoglutarate + O2 = B + succinate + CO2. This is an oxidation-reduction (redox) reaction in which hydrogen or electrons are transferred from 2-oxoglutarate and one other donor, and one atom of oxygen is incorporated into each donor.\" [GOC:mah]",
+        "effective_domain_size": 20212,
+        "goshv": 2912,
+        "intersection_size": 2,
+        "name": "2-oxoglutarate-dependent dioxygenase activity",
+        "native": "GO:0016706",
+        "p_value": 0.03211818432057068,
+        "parents": [
+            "GO:0016705",
+            "GO:0051213"
+        ],
+        "precision": 0.25,
+        "query": "query_1",
+        "query_size": 8,
+        "recall": 0.03278688524590164,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 61,
+        "source_order": 2912,
+        "group_id": 2,
+        "odds_ratio": 239.45762711864407
+    }
+]
