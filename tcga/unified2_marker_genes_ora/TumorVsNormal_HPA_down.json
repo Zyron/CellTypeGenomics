@@ -1,14 +1,14 @@
 {
     "Endothelial cells": {
         "odds_ratio": Infinity,
-        "adjusted_p_value": 0.003741008159773547
+        "adjusted_p_value": 0.003672989829595846
     },
     "Bronchial epithelium, Club cells": {
         "odds_ratio": Infinity,
-        "adjusted_p_value": 0.01373872264781939
+        "adjusted_p_value": 0.013488927690586312
     },
     "Alveolar cells type 2": {
         "odds_ratio": Infinity,
-        "adjusted_p_value": 0.01373872264781939
+        "adjusted_p_value": 0.013488927690586312
     }
 }
