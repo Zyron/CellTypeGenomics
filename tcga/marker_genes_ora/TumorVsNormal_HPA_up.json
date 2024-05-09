@@ -1,10 +1,10 @@
 {
     "Bronchial epithelium, basal cells": {
         "odds_ratio": Infinity,
-        "adjusted_p_value": 0.0023875790951087103
+        "adjusted_p_value": 0.0023441685661067337
     },
     "Basal keratinocytes": {
         "odds_ratio": Infinity,
-        "adjusted_p_value": 0.0023875790951087103
+        "adjusted_p_value": 0.0023441685661067337
     }
 }

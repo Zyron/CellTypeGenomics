@@ -1,10 +1,10 @@
 {
     "Type I alveolar cell/Type I pneumocyte": {
-        "odds_ratio": 179.92857142857142,
-        "adjusted_p_value": 0.006307904348817533
+        "odds_ratio": 359.875,
+        "adjusted_p_value": 0.0018600764684366946
     },
     "Type II alveolar cell/Type II pneumocyte": {
         "odds_ratio": 1937.7884615384614,
-        "adjusted_p_value": 5.455877306049462e-12
+        "adjusted_p_value": 5.339794810176069e-12
     }
 }
