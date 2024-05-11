@@ -24,6 +24,7 @@
             "found": 4,
             "ratio": 0.0011418592154755509
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 70.13166144200628
     }
 ]
