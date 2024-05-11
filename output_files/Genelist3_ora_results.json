@@ -31,7 +31,7 @@
             "measure_underrepresentation": false,
             "significance_threshold_method": "g_SCS",
             "user_threshold": 0.05,
-            "no_evidences": false,
+            "no_evidences": true,
             "highlight": null
         },
         "result_metadata": {
@@ -100,7 +100,7 @@
                 }
             }
         },
-        "timestamp": "2024-04-22T08:15:09.735455+00:00",
+        "timestamp": "2024-05-11T09:24:01.745063+00:00",
         "version": "e111_eg58_p18_30541362"
     }
 }
