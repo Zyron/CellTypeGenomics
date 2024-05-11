@@ -196,34 +196,6 @@
         "odds_ratio": 15.975761475761475
     },
     {
-        "stId": "R-HSA-9664417",
-        "dbId": 9664417,
-        "name": "Leishmania phagocytosis",
-        "species": {
-            "dbId": 48887,
-            "taxId": "9606",
-            "name": "Homo sapiens"
-        },
-        "llp": false,
-        "entities": {
-            "resource": "TOTAL",
-            "total": 157,
-            "found": 71,
-            "ratio": 0.010082846316871107,
-            "pValue": 1.1102230246251565e-16,
-            "fdr": 3.3306690738754696e-15,
-            "exp": []
-        },
-        "reactions": {
-            "resource": "TOTAL",
-            "total": 27,
-            "found": 12,
-            "ratio": 0.0018135411069317572
-        },
-        "inDisease": true,
-        "odds_ratio": 12.983692995320903
-    },
-    {
         "stId": "R-HSA-9664422",
         "dbId": 9664422,
         "name": "FCGR3A-mediated phagocytosis",
@@ -255,6 +227,34 @@
         "stId": "R-HSA-9664407",
         "dbId": 9664407,
         "name": "Parasite infection",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 157,
+            "found": 71,
+            "ratio": 0.010082846316871107,
+            "pValue": 1.1102230246251565e-16,
+            "fdr": 3.3306690738754696e-15,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 27,
+            "found": 12,
+            "ratio": 0.0018135411069317572
+        },
+        "inDisease": true,
+        "odds_ratio": 12.983692995320903
+    },
+    {
+        "stId": "R-HSA-9664417",
+        "dbId": 9664417,
+        "name": "Leishmania phagocytosis",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
@@ -476,9 +476,9 @@
         "odds_ratio": 12.833229781505644
     },
     {
-        "stId": "R-HSA-9662851",
-        "dbId": 9662851,
-        "name": "Anti-inflammatory response favouring Leishmania parasite infection",
+        "stId": "R-HSA-9664433",
+        "dbId": 9664433,
+        "name": "Leishmania parasite growth and survival",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
@@ -504,9 +504,9 @@
         "odds_ratio": 9.12098163737508
     },
     {
-        "stId": "R-HSA-9664433",
-        "dbId": 9664433,
-        "name": "Leishmania parasite growth and survival",
+        "stId": "R-HSA-9662851",
+        "dbId": 9662851,
+        "name": "Anti-inflammatory response favouring Leishmania parasite infection",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
@@ -1064,15 +1064,15 @@
         "odds_ratio": 13.757407407407408
     },
     {
-        "stId": "R-HSA-606279",
-        "dbId": 606279,
-        "name": "Deposition of new CENPA-containing nucleosomes at the centromere",
+        "stId": "R-HSA-774815",
+        "dbId": 774815,
+        "name": "Nucleosome assembly",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
             "name": "Homo sapiens"
         },
-        "llp": true,
+        "llp": false,
         "entities": {
             "resource": "TOTAL",
             "total": 53,
@@ -1092,15 +1092,15 @@
         "odds_ratio": 8.855077976416888
     },
     {
-        "stId": "R-HSA-774815",
-        "dbId": 774815,
-        "name": "Nucleosome assembly",
+        "stId": "R-HSA-606279",
+        "dbId": 606279,
+        "name": "Deposition of new CENPA-containing nucleosomes at the centromere",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
             "name": "Homo sapiens"
         },
-        "llp": false,
+        "llp": true,
         "entities": {
             "resource": "TOTAL",
             "total": 53,
@@ -1456,15 +1456,15 @@
         "odds_ratio": 5.83486750348675
     },
     {
-        "stId": "R-HSA-141444",
-        "dbId": 141444,
-        "name": "Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal",
+        "stId": "R-HSA-141424",
+        "dbId": 141424,
+        "name": "Amplification of signal from the kinetochores",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
             "name": "Homo sapiens"
         },
-        "llp": true,
+        "llp": false,
         "entities": {
             "resource": "TOTAL",
             "total": 94,
@@ -1484,15 +1484,15 @@
         "odds_ratio": 4.737108928078274
     },
     {
-        "stId": "R-HSA-141424",
-        "dbId": 141424,
-        "name": "Amplification of signal from the kinetochores",
+        "stId": "R-HSA-141444",
+        "dbId": 141444,
+        "name": "Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
             "name": "Homo sapiens"
         },
-        "llp": false,
+        "llp": true,
         "entities": {
             "resource": "TOTAL",
             "total": 94,
@@ -3752,15 +3752,15 @@
         "odds_ratio": 2.5971419221119234
     },
     {
-        "stId": "R-HSA-5617472",
-        "dbId": 5617472,
-        "name": "Activation of anterior HOX genes in hindbrain development during early embryogenesis",
+        "stId": "R-HSA-5619507",
+        "dbId": 5619507,
+        "name": "Activation of HOX genes during differentiation",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
             "name": "Homo sapiens"
         },
-        "llp": true,
+        "llp": false,
         "entities": {
             "resource": "TOTAL",
             "total": 116,
@@ -3780,15 +3780,15 @@
         "odds_ratio": 2.4820286195286196
     },
     {
-        "stId": "R-HSA-5619507",
-        "dbId": 5619507,
-        "name": "Activation of HOX genes during differentiation",
+        "stId": "R-HSA-5617472",
+        "dbId": 5617472,
+        "name": "Activation of anterior HOX genes in hindbrain development during early embryogenesis",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
             "name": "Homo sapiens"
         },
-        "llp": false,
+        "llp": true,
         "entities": {
             "resource": "TOTAL",
             "total": 116,
@@ -5208,9 +5208,9 @@
         "odds_ratio": 4.473189890710382
     },
     {
-        "stId": "R-HSA-9845620",
-        "dbId": 9845620,
-        "name": "Enhanced binding of GP1BA variant to VWF multimer:collagen ",
+        "stId": "R-HSA-9846298",
+        "dbId": 9846298,
+        "name": "Defective binding of VWF variant to GPIb:IX:V",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
@@ -5236,9 +5236,9 @@
         "odds_ratio": 10.716621253405995
     },
     {
-        "stId": "R-HSA-9846298",
-        "dbId": 9846298,
-        "name": "Defective binding of VWF variant to GPIb:IX:V",
+        "stId": "R-HSA-9845620",
+        "dbId": 9845620,
+        "name": "Enhanced binding of GP1BA variant to VWF multimer:collagen ",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
@@ -5544,15 +5544,15 @@
         "odds_ratio": 2.4932307508797042
     },
     {
-        "stId": "R-HSA-4839726",
-        "dbId": 4839726,
-        "name": "Chromatin organization",
+        "stId": "R-HSA-3247509",
+        "dbId": 3247509,
+        "name": "Chromatin modifying enzymes",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
             "name": "Homo sapiens"
         },
-        "llp": false,
+        "llp": true,
         "entities": {
             "resource": "TOTAL",
             "total": 254,
@@ -5572,15 +5572,15 @@
         "odds_ratio": 1.4336825639346649
     },
     {
-        "stId": "R-HSA-3247509",
-        "dbId": 3247509,
-        "name": "Chromatin modifying enzymes",
+        "stId": "R-HSA-4839726",
+        "dbId": 4839726,
+        "name": "Chromatin organization",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
             "name": "Homo sapiens"
         },
-        "llp": true,
+        "llp": false,
         "entities": {
             "resource": "TOTAL",
             "total": 254,

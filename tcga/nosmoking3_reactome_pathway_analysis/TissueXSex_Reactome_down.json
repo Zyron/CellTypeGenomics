@@ -24,7 +24,8 @@
             "found": 17,
             "ratio": 0.0019478774852229985
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 203.12727272727273
     },
     {
         "stId": "R-HSA-5687613",
@@ -51,34 +52,8 @@
             "found": 5,
             "ratio": 0.00047017732401934446
         },
-        "inDisease": true
-    },
-    {
-        "stId": "R-HSA-5688890",
-        "dbId": 5688890,
-        "name": "Defective CSF2RA causes SMDP4",
-        "species": {
-            "dbId": 48887,
-            "taxId": "9606",
-            "name": "Homo sapiens"
-        },
-        "llp": true,
-        "entities": {
-            "resource": "TOTAL",
-            "total": 8,
-            "found": 3,
-            "ratio": 0.0005137756085029863,
-            "pValue": 2.073297813431907e-07,
-            "fdr": 2.695287157461479e-06,
-            "exp": []
-        },
-        "reactions": {
-            "resource": "TOTAL",
-            "total": 1,
-            "found": 1,
-            "ratio": 6.716818914562064e-05
-        },
-        "inDisease": true
+        "inDisease": true,
+        "odds_ratio": 266.6666666666667
     },
     {
         "stId": "R-HSA-5688849",
@@ -105,7 +80,36 @@
             "found": 1,
             "ratio": 6.716818914562064e-05
         },
-        "inDisease": true
+        "inDisease": true,
+        "odds_ratio": 448.24
+    },
+    {
+        "stId": "R-HSA-5688890",
+        "dbId": 5688890,
+        "name": "Defective CSF2RA causes SMDP4",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 8,
+            "found": 3,
+            "ratio": 0.0005137756085029863,
+            "pValue": 2.073297813431907e-07,
+            "fdr": 2.695287157461479e-06,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 1,
+            "found": 1,
+            "ratio": 6.716818914562064e-05
+        },
+        "inDisease": true,
+        "odds_ratio": 448.24
     },
     {
         "stId": "R-HSA-5668914",
@@ -132,7 +136,8 @@
             "found": 8,
             "ratio": 0.013097796883396023
         },
-        "inDisease": true
+        "inDisease": true,
+        "odds_ratio": 12.913875598086124
     },
     {
         "stId": "R-HSA-391160",
@@ -159,34 +164,8 @@
             "found": 1,
             "ratio": 0.0006716818914562063
         },
-        "inDisease": false
-    },
-    {
-        "stId": "R-HSA-5083625",
-        "dbId": 5083625,
-        "name": "Defective GALNT3 causes HFTC",
-        "species": {
-            "dbId": 48887,
-            "taxId": "9606",
-            "name": "Homo sapiens"
-        },
-        "llp": true,
-        "entities": {
-            "resource": "TOTAL",
-            "total": 20,
-            "found": 2,
-            "ratio": 0.001284439021257466,
-            "pValue": 0.000374632711445666,
-            "fdr": 0.0020633973414435625,
-            "exp": []
-        },
-        "reactions": {
-            "resource": "TOTAL",
-            "total": 1,
-            "found": 1,
-            "ratio": 6.716818914562064e-05
-        },
-        "inDisease": true
+        "inDisease": false,
+        "odds_ratio": 87.453125
     },
     {
         "stId": "R-HSA-5083636",
@@ -213,7 +192,36 @@
             "found": 1,
             "ratio": 6.716818914562064e-05
         },
-        "inDisease": true
+        "inDisease": true,
+        "odds_ratio": 77.72222222222223
+    },
+    {
+        "stId": "R-HSA-5083625",
+        "dbId": 5083625,
+        "name": "Defective GALNT3 causes HFTC",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 20,
+            "found": 2,
+            "ratio": 0.001284439021257466,
+            "pValue": 0.000374632711445666,
+            "fdr": 0.0020633973414435625,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 1,
+            "found": 1,
+            "ratio": 6.716818914562064e-05
+        },
+        "inDisease": true,
+        "odds_ratio": 77.72222222222223
     },
     {
         "stId": "R-HSA-5083632",
@@ -240,7 +248,8 @@
             "found": 1,
             "ratio": 6.716818914562064e-05
         },
-        "inDisease": true
+        "inDisease": true,
+        "odds_ratio": 73.625
     },
     {
         "stId": "R-HSA-392499",
@@ -267,7 +276,8 @@
             "found": 33,
             "ratio": 0.05682428801719506
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 4.755353319057816
     },
     {
         "stId": "R-HSA-977068",
@@ -294,7 +304,8 @@
             "found": 4,
             "ratio": 0.00026867275658248256
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 53.76923076923077
     },
     {
         "stId": "R-HSA-5687868",
@@ -321,7 +332,8 @@
             "found": 1,
             "ratio": 6.716818914562064e-05
         },
-        "inDisease": true
+        "inDisease": true,
+        "odds_ratio": Infinity
     },
     {
         "stId": "R-HSA-5688031",
@@ -348,7 +360,8 @@
             "found": 1,
             "ratio": 6.716818914562064e-05
         },
-        "inDisease": true
+        "inDisease": true,
+        "odds_ratio": Infinity
     },
     {
         "stId": "R-HSA-5686938",
@@ -375,7 +388,8 @@
             "found": 2,
             "ratio": 0.0008731864588930683
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 35.80448717948718
     },
     {
         "stId": "R-HSA-168249",
@@ -402,7 +416,8 @@
             "found": 12,
             "ratio": 0.04957012358946803
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 4.697581193096888
     },
     {
         "stId": "R-HSA-5621480",
@@ -429,7 +444,8 @@
             "found": 1,
             "ratio": 0.0008060182697474476
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 22.11706349206349
     },
     {
         "stId": "R-HSA-5687583",
@@ -456,7 +472,8 @@
             "found": 1,
             "ratio": 6.716818914562064e-05
         },
-        "inDisease": true
+        "inDisease": true,
+        "odds_ratio": 329.61764705882354
     },
     {
         "stId": "R-HSA-5619045",
@@ -483,7 +500,8 @@
             "found": 1,
             "ratio": 6.716818914562064e-05
         },
-        "inDisease": true
+        "inDisease": true,
+        "odds_ratio": 329.61764705882354
     },
     {
         "stId": "R-HSA-913709",
@@ -510,7 +528,8 @@
             "found": 16,
             "ratio": 0.0010746910263299302
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 19.610915492957748
     },
     {
         "stId": "R-HSA-3906995",
@@ -537,7 +556,8 @@
             "found": 3,
             "ratio": 0.0006045137023105857
         },
-        "inDisease": true
+        "inDisease": true,
+        "odds_ratio": 18.3125
     },
     {
         "stId": "R-HSA-427589",
@@ -564,7 +584,8 @@
             "found": 1,
             "ratio": 0.00013433637829124128
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 164.77941176470588
     },
     {
         "stId": "R-HSA-1566977",
@@ -591,7 +612,8 @@
             "found": 1,
             "ratio": 0.0002015045674368619
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 109.83333333333333
     },
     {
         "stId": "R-HSA-427652",
@@ -618,7 +640,8 @@
             "found": 1,
             "ratio": 0.0002015045674368619
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 109.83333333333333
     },
     {
         "stId": "R-HSA-5173105",
@@ -645,7 +668,8 @@
             "found": 16,
             "ratio": 0.0018135411069317572
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 10.571564885496183
     },
     {
         "stId": "R-HSA-168179",
@@ -672,7 +696,8 @@
             "found": 1,
             "ratio": 0.00523911875335841
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 10.332089552238806
     },
     {
         "stId": "R-HSA-181438",
@@ -699,7 +724,8 @@
             "found": 1,
             "ratio": 0.0053734551316496505
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 10.332089552238806
     },
     {
         "stId": "R-HSA-1500931",
@@ -726,7 +752,8 @@
             "found": 1,
             "ratio": 0.006246641590542719
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 8.471625766871165
     },
     {
         "stId": "R-HSA-166016",
@@ -753,7 +780,8 @@
             "found": 1,
             "ratio": 0.007590005373455132
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 8.419207317073171
     },
     {
         "stId": "R-HSA-168256",
@@ -780,7 +808,8 @@
             "found": 13,
             "ratio": 0.11532778076303063
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 2.5795856873822975
     },
     {
         "stId": "R-HSA-3781865",
@@ -807,7 +836,8 @@
             "found": 3,
             "ratio": 0.005171950564212789
         },
-        "inDisease": true
+        "inDisease": true,
+        "odds_ratio": 6.88125
     },
     {
         "stId": "R-HSA-5621481",
@@ -834,7 +864,8 @@
             "found": 1,
             "ratio": 0.0045674368619022035
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 6.846393034825871
     },
     {
         "stId": "R-HSA-168898",
@@ -861,7 +892,8 @@
             "found": 4,
             "ratio": 0.014172487909725954
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 6.710365853658536
     },
     {
         "stId": "R-HSA-6785807",
@@ -888,7 +920,8 @@
             "found": 1,
             "ratio": 0.00315690488984417
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 6.579545454545454
     },
     {
         "stId": "R-HSA-3214842",
@@ -915,6 +948,7 @@
             "found": 2,
             "ratio": 0.0011418592154755509
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 21.919607843137253
     }
 ]

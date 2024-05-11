@@ -532,9 +532,9 @@
         "odds_ratio": 51.990697674418605
     },
     {
-        "stId": "R-HSA-5260271",
-        "dbId": 5260271,
-        "name": "Diseases of Immune System",
+        "stId": "R-HSA-5602358",
+        "dbId": 5602358,
+        "name": "Diseases associated with the TLR signaling cascade",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
@@ -560,9 +560,9 @@
         "odds_ratio": 48.58695652173913
     },
     {
-        "stId": "R-HSA-5602358",
-        "dbId": 5602358,
-        "name": "Diseases associated with the TLR signaling cascade",
+        "stId": "R-HSA-5260271",
+        "dbId": 5260271,
+        "name": "Diseases of Immune System",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
@@ -756,9 +756,9 @@
         "odds_ratio": 42.14339622641509
     },
     {
-        "stId": "R-HSA-9649948",
-        "dbId": 9649948,
-        "name": "Signaling downstream of RAS mutants",
+        "stId": "R-HSA-6802955",
+        "dbId": 6802955,
+        "name": "Paradoxical activation of RAF signaling by kinase inactive BRAF",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
@@ -784,9 +784,9 @@
         "odds_ratio": 42.14339622641509
     },
     {
-        "stId": "R-HSA-6802955",
-        "dbId": 6802955,
-        "name": "Paradoxical activation of RAF signaling by kinase inactive BRAF",
+        "stId": "R-HSA-9649948",
+        "dbId": 9649948,
+        "name": "Signaling downstream of RAS mutants",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
