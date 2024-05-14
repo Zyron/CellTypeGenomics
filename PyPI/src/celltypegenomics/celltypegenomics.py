@@ -11,7 +11,7 @@ def celltypefishertest(ensembl_ids, alpha=0.05, heca=None, hpa_marker_genes=None
     hpa_cell_types_to_ensembl_path = pkg_resources.resource_filename('celltypegenomics', 'data/hpa_cell_types_to_ensembl.json')
     heca_cell_types_to_ensembl_path = pkg_resources.resource_filename('celltypegenomics', 'data/heca_cell_types_to_ensembl.json')
     hpa_marker_genes_cell_types_to_ensembl_path = pkg_resources.resource_filename('celltypegenomics', 'data/hpa_marker_genes_cell_types_to_ensembl.json')
-    tissue_cell_types_to_ensembl_path = pkg_resources.resource_filename('celltypegenomics', 'data/tissue_to_ensembl.json')
+    tissue_cell_types_to_ensembl_path = pkg_resources.resource_filename('celltypegenomics', 'data/hpa_tissue_to_ensembl.json')
     protein_atlas_ensembl_ids_path = pkg_resources.resource_filename('celltypegenomics', 'data/protein_atlas_ensembl_ids.json')
     
     # Read necessary JSON files
