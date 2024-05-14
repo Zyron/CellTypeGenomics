@@ -3,11 +3,11 @@
 ## Overview
 CellTypeGenomics is an open-source Python package designed to analyze the cell-type origins of genes using Human Protein Atlas (HPA) data. It helps to identify genes that are potentially over-represented or under-represented in specific cell types, providing insights that are crucial for understanding various biological processes and diseases.
 
-The recent update made it possible to replace our numerical Human Protein Atlas (HPA) marker genes (proteinatlas.tsv) with qualitative marker genes from the human Ensemble Cell Atlas (hECA) or the Human Protein Atlas. In addition, there is an option to return tissue origins of genes using Human Protein Atlas (HPA) data.
+The recent update made it possible to replace our numerical Human Protein Atlas (HPA) marker genes (proteinatlas.tsv) with qualitative marker genes from the human Ensemble Cell Atlas (hECA) or the Human Protein Atlas (HPA). In addition, there is an option to return tissue origins of genes using Human Protein Atlas (HPA) data.
 
 ## Key Functionality
 - **Gene Analysis:** Analyzes a list of gene Ensembl IDs and returns a sorted pandas DataFrame, highlighting genes that are potentially over- or under-represented in certain cell types.
-- **Data Source:** Leverages the comprehensive gene expression data available from the Human Protein Atlas.
+- **Data Source:** Leverages the comprehensive gene expression data available from the Human Protein Atlas (HPA) and the human Ensemble Cell Atlas (hECA).
 
 ## Installation
 To install CellTypeGenomics, run the following command in your terminal:
