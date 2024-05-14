@@ -65,13 +65,18 @@ def celltypefishertest(ensembl_ids, alpha=0.05, heca=None, hpa_marker_genes=None
     # Sort the DataFrame by p-value in ascending order
     df_sorted = df.sort_values(by='p_value', ascending=True)
 
-    return df_sorted
+    # Sort the DataFrame by p-value in ascending order
+    df_sorted = df.sort_values(by='adjusted_p_value', ascending=True)
+
+    df_filtered = df_sorted[df_sorted['adjusted_p_value'] <= alpha]
+
+    return df_filtered
 
 if __name__ == "__main__":
     # Test the function (this part will not be executed when the module is imported)
     test_ensembl_ids = ['ENSG00000182389', 'ENSG00000078081', 'ENSG00000084073', 'ENSG00000119632', 'ENSG00000161267']  # Example Ensembl IDs
     # Alpha used for adjusted p-value
-    alpha = 0.05
+    alpha = 1.0
     print(celltypefishertest(test_ensembl_ids, alpha)) # use the default cell type list from HPA (from proteinatlas.tsv)
     print(celltypefishertest(test_ensembl_ids, alpha, heca=True)) # use the cell type list from hECA
     print(celltypefishertest(test_ensembl_ids, alpha, hpa_marker_genes=True)) # use the cell type list from HPA marker genes

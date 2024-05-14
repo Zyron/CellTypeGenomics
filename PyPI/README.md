@@ -10,9 +10,9 @@ The recent update made it possible to replace our numerical Human Protein Atlas 
 - **Data Source:** Leverages the comprehensive gene expression data available from the Human Protein Atlas (HPA) and the human Ensemble Cell Atlas (hECA).
 
 ## Installation
-To install CellTypeGenomics, run the following command in your terminal:
+To install or update CellTypeGenomics, run the following command in your terminal:
 ```bash
-pip install --upgrade celltypegenomics
+pip install --upgrade --force-reinstall celltypegenomics
 ```
 
 ## Usage
