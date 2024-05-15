@@ -12,6 +12,11 @@ The recent update made it possible to replace our numerical Human Protein Atlas 
 ## Installation
 To install or update CellTypeGenomics, run the following command in your terminal:
 ```bash
+pip install --upgrade celltypegenomics
+```
+
+If there is an issue installing the latest version, use:
+```bash
 pip install --upgrade --force-reinstall celltypegenomics
 ```
 
