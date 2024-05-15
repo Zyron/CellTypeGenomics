@@ -15,6 +15,11 @@ To install or update CellTypeGenomics, run the following command in your termina
 pip install --upgrade --force-reinstall celltypegenomics
 ```
 
+If there is an issue installing the latest version, use:
+```bash
+pip install --upgrade --force-reinstall celltypegenomics
+```
+
 ## Usage
 Here's how to use the CellTypeGenomics package to analyze your gene list with numerical Human Protein Atlas (HPA) marker genes:
 
