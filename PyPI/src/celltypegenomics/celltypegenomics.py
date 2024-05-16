@@ -6,14 +6,28 @@ import pkg_resources
 from scipy.stats import fisher_exact
 from statsmodels.stats.multitest import multipletests
 
-def celltypefishertest(ensembl_ids, alpha=0.05):
+def celltypefishertest(ensembl_ids, alpha=0.05, heca=None, hpa_marker_genes=None, tissue=None):
     # Get the correct path for the JSON files
-    cell_types_to_ensembl_path = pkg_resources.resource_filename('celltypegenomics', 'data/cell_types_to_ensembl.json')
+    hpa_cell_types_to_ensembl_path = pkg_resources.resource_filename('celltypegenomics', 'data/hpa_cell_types_to_ensembl.json')
+    heca_cell_types_to_ensembl_path = pkg_resources.resource_filename('celltypegenomics', 'data/heca_cell_types_to_ensembl.json')
+    hpa_marker_genes_cell_types_to_ensembl_path = pkg_resources.resource_filename('celltypegenomics', 'data/hpa_marker_genes_cell_types_to_ensembl.json')
+    tissue_cell_types_to_ensembl_path = pkg_resources.resource_filename('celltypegenomics', 'data/hpa_tissue_to_ensembl.json')
     protein_atlas_ensembl_ids_path = pkg_resources.resource_filename('celltypegenomics', 'data/protein_atlas_ensembl_ids.json')
     
     # Read necessary JSON files
-    with open(cell_types_to_ensembl_path, 'r') as f:
-        cell_types_to_ensembl = json.load(f)
+    if (heca):
+        with open(heca_cell_types_to_ensembl_path, 'r') as f:
+            cell_types_to_ensembl = json.load(f)
+    elif (hpa_marker_genes):
+        with open(hpa_marker_genes_cell_types_to_ensembl_path, 'r') as f:
+            cell_types_to_ensembl = json.load(f)
+    elif (tissue):
+        with open(tissue_cell_types_to_ensembl_path, 'r') as f:
+            cell_types_to_ensembl = json.load(f)
+    else:
+        with open(hpa_cell_types_to_ensembl_path, 'r') as f:
+            cell_types_to_ensembl = json.load(f)
+    
     with open(protein_atlas_ensembl_ids_path, 'r') as f:
         protein_atlas_ensembl_ids = json.load(f)
     
@@ -51,11 +65,19 @@ def celltypefishertest(ensembl_ids, alpha=0.05):
     # Sort the DataFrame by p-value in ascending order
     df_sorted = df.sort_values(by='p_value', ascending=True)
 
-    return df_sorted
+    # Sort the DataFrame by p-value in ascending order
+    df_sorted = df.sort_values(by='adjusted_p_value', ascending=True)
+
+    df_filtered = df_sorted[df_sorted['adjusted_p_value'] <= alpha]
+
+    return df_filtered
 
 if __name__ == "__main__":
     # Test the function (this part will not be executed when the module is imported)
     test_ensembl_ids = ['ENSG00000182389', 'ENSG00000078081', 'ENSG00000084073', 'ENSG00000119632', 'ENSG00000161267']  # Example Ensembl IDs
     # Alpha used for adjusted p-value
-    alpha = 0.05
-    print(celltypefishertest(test_ensembl_ids, alpha))
+    alpha = 1.0
+    print(celltypefishertest(test_ensembl_ids, alpha)) # use the default cell type list from HPA (from proteinatlas.tsv)
+    print(celltypefishertest(test_ensembl_ids, alpha, heca=True)) # use the cell type list from hECA
+    print(celltypefishertest(test_ensembl_ids, alpha, hpa_marker_genes=True)) # use the cell type list from HPA marker genes
+    print(celltypefishertest(test_ensembl_ids, alpha, tissue=True)) # use the cell type list from tissue
