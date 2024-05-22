@@ -1,0 +1,75 @@
+[
+    {
+        "description": "\"The chemical reactions and pathways involving ethylene (C2-H4, ethene), a simple hydrocarbon gas that can function in plants as a growth regulator.\" [ISBN:0387969845]",
+        "effective_domain_size": 21031,
+        "goshv": 14830,
+        "intersection_size": 1,
+        "name": "ethylene metabolic process",
+        "native": "GO:0009692",
+        "p_value": 0.049530058802114973,
+        "parents": [
+            "GO:0043449"
+        ],
+        "precision": 0.5,
+        "query": "query_1",
+        "query_size": 2,
+        "recall": 1.0,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 1,
+        "source_order": 3632,
+        "group_id": 3,
+        "odds_ratio": Infinity
+    },
+    {
+        "description": "\"The chemical reactions and pathways involving insecticides, chemicals used to kill insects.\" [GOC:ai]",
+        "effective_domain_size": 21031,
+        "goshv": 16544,
+        "intersection_size": 1,
+        "name": "insecticide metabolic process",
+        "native": "GO:0017143",
+        "p_value": 0.049530058802114973,
+        "parents": [
+            "GO:0006805",
+            "GO:0009404",
+            "GO:0017085"
+        ],
+        "precision": 0.5,
+        "query": "query_1",
+        "query_size": 2,
+        "recall": 1.0,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 1,
+        "source_order": 5346,
+        "group_id": 4,
+        "odds_ratio": Infinity
+    },
+    {
+        "description": "\"The chemical reactions and pathways resulting in the breakdown of dibenzo-p-dioxin, a substance composed of two benzene rings linked by two ether bonds.\" [GOC:ai]",
+        "effective_domain_size": 21031,
+        "goshv": 17093,
+        "intersection_size": 1,
+        "name": "dibenzo-p-dioxin catabolic process",
+        "native": "GO:0019341",
+        "p_value": 0.049530058802114973,
+        "parents": [
+            "GO:0018894",
+            "GO:0019439",
+            "GO:0042178",
+            "GO:0044282",
+            "GO:0046700",
+            "GO:1901361"
+        ],
+        "precision": 0.5,
+        "query": "query_1",
+        "query_size": 2,
+        "recall": 1.0,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 1,
+        "source_order": 5895,
+        "group_id": 5,
+        "odds_ratio": Infinity
+    }
+]

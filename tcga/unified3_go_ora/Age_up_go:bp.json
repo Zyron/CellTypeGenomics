@@ -1,0 +1,202 @@
+[
+    {
+        "description": "\"An immune response mediated by cells expressing specific receptors for antigens produced through a somatic diversification process, and allowing for an enhanced secondary response to subsequent exposures to the same antigen (immunological memory).\" [GO_REF:0000022, GOC:add, ISBN:0781735149]",
+        "effective_domain_size": 21031,
+        "goshv": 11987,
+        "intersection_size": 11,
+        "name": "adaptive immune response",
+        "native": "GO:0002250",
+        "p_value": 4.078971498747626e-11,
+        "parents": [
+            "GO:0006955"
+        ],
+        "precision": 0.7857142857142857,
+        "query": "query_1",
+        "query_size": 14,
+        "recall": 0.014884979702300407,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 739,
+        "source_order": 789,
+        "group_id": 5,
+        "odds_ratio": 264.3021978021978
+    },
+    {
+        "description": "\"Any immune system process that functions in the calibrated response of an organism to a potential internal or invasive threat.\" [GO_REF:0000022, GOC:add]",
+        "effective_domain_size": 21031,
+        "goshv": 13815,
+        "intersection_size": 11,
+        "name": "immune response",
+        "native": "GO:0006955",
+        "p_value": 1.91918039969083e-06,
+        "parents": [
+            "GO:0002376",
+            "GO:0050896"
+        ],
+        "precision": 0.7857142857142857,
+        "query": "query_1",
+        "query_size": 14,
+        "recall": 0.005533199195171026,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 1988,
+        "source_order": 2617,
+        "group_id": 5,
+        "odds_ratio": 95.58788568538189
+    },
+    {
+        "description": "\"An immune response mediated by lymphocytes expressing specific receptors for antigen produced through a somatic diversification process that includes somatic recombination of germline gene segments encoding immunoglobulin superfamily domains. Recombined receptors for antigen encoded by immunoglobulin superfamily domains include T cell receptors and immunoglobulins (antibodies) produced by B cells. The first encounter with antigen elicits a primary immune response that is slow and not of great magnitude. T and B cells selected by antigen become activated and undergo clonal expansion. A fraction of antigen-reactive T and B cells become memory cells, whereas others differentiate into effector cells. The memory cells generated during the primary response enable a much faster and stronger secondary immune response upon subsequent exposures to the same antigen (immunological memory). An example of this is the adaptive immune response found in Mus musculus.\" [GOC:add, GOC:mtg_sensu, ISBN:0781735149, ISBN:1405196831]",
+        "effective_domain_size": 21031,
+        "goshv": 12188,
+        "intersection_size": 7,
+        "name": "adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains",
+        "native": "GO:0002460",
+        "p_value": 2.197922953673162e-06,
+        "parents": [
+            "GO:0002250"
+        ],
+        "precision": 0.5,
+        "query": "query_1",
+        "query_size": 14,
+        "recall": 0.018666666666666668,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 375,
+        "source_order": 990,
+        "group_id": 5,
+        "odds_ratio": 167.2201086956522
+    },
+    {
+        "description": "\"An immune response mediated by immunoglobulins, whether cell-bound or in solution.\" [GO_REF:0000022, GOC:add, ISBN:0781735149]",
+        "effective_domain_size": 21031,
+        "goshv": 16354,
+        "intersection_size": 6,
+        "name": "immunoglobulin mediated immune response",
+        "native": "GO:0016064",
+        "p_value": 2.8661737969029316e-06,
+        "parents": [
+            "GO:0019724"
+        ],
+        "precision": 0.42857142857142855,
+        "query": "query_1",
+        "query_size": 14,
+        "recall": 0.029411764705882353,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 204,
+        "source_order": 5156,
+        "group_id": 5,
+        "odds_ratio": 237.36700336700338
+    },
+    {
+        "description": "\"Any process involved with the carrying out of an immune response by a B cell, through, for instance, the production of antibodies or cytokines, or antigen presentation to T cells.\" [GO_REF:0000022, GOC:add, ISBN:0781735149]",
+        "effective_domain_size": 21031,
+        "goshv": 17431,
+        "intersection_size": 6,
+        "name": "B cell mediated immunity",
+        "native": "GO:0019724",
+        "p_value": 3.1288652881485277e-06,
+        "parents": [
+            "GO:0002449",
+            "GO:0002460"
+        ],
+        "precision": 0.42857142857142855,
+        "query": "query_1",
+        "query_size": 14,
+        "recall": 0.028985507246376812,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 207,
+        "source_order": 6233,
+        "group_id": 5,
+        "odds_ratio": 233.81426202321725
+    },
+    {
+        "description": "\"Any process involved in the development or functioning of the immune system, an organismal system for calibrated responses to potential internal or invasive threats.\" [GO_REF:0000022, GOC:add]",
+        "effective_domain_size": 21031,
+        "goshv": 12111,
+        "intersection_size": 11,
+        "name": "immune system process",
+        "native": "GO:0002376",
+        "p_value": 6.787618008306083e-05,
+        "parents": [
+            "GO:0008150"
+        ],
+        "precision": 0.7857142857142857,
+        "query": "query_1",
+        "query_size": 14,
+        "recall": 0.003962536023054755,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 2776,
+        "source_order": 913,
+        "group_id": 5,
+        "odds_ratio": 67.5624773960217
+    },
+    {
+        "description": "\"Any process involved in the carrying out of an immune response by a lymphocyte.\" [GO_REF:0000022, GOC:add, ISBN:0781735149]",
+        "effective_domain_size": 21031,
+        "goshv": 12177,
+        "intersection_size": 6,
+        "name": "lymphocyte mediated immunity",
+        "native": "GO:0002449",
+        "p_value": 8.633654275997657e-05,
+        "parents": [
+            "GO:0002443"
+        ],
+        "precision": 0.42857142857142855,
+        "query": "query_1",
+        "query_size": 14,
+        "recall": 0.01662049861495845,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 361,
+        "source_order": 979,
+        "group_id": 5,
+        "odds_ratio": 132.0957746478873
+    },
+    {
+        "description": "\"Any process of the immune system that executes a component of an immune response. An effector immune process takes place after its activation.\" [GO_REF:0000022, GOC:add, ISBN:0781735149]",
+        "effective_domain_size": 21031,
+        "goshv": 11989,
+        "intersection_size": 7,
+        "name": "immune effector process",
+        "native": "GO:0002252",
+        "p_value": 0.00015864826273676217,
+        "parents": [
+            "GO:0002376"
+        ],
+        "precision": 0.5,
+        "query": "query_1",
+        "query_size": 14,
+        "recall": 0.01002865329512894,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 698,
+        "source_order": 791,
+        "group_id": 5,
+        "odds_ratio": 88.64598408104197
+    },
+    {
+        "description": "\"Any process involved in the carrying out of an immune response by a leukocyte.\" [GO_REF:0000022, GOC:add, ISBN:0781735149]",
+        "effective_domain_size": 21031,
+        "goshv": 12171,
+        "intersection_size": 6,
+        "name": "leukocyte mediated immunity",
+        "native": "GO:0002443",
+        "p_value": 0.00036090568472366895,
+        "parents": [
+            "GO:0002252"
+        ],
+        "precision": 0.42857142857142855,
+        "query": "query_1",
+        "query_size": 14,
+        "recall": 0.013043478260869565,
+        "significant": true,
+        "source": "GO:BP",
+        "term_size": 460,
+        "source_order": 973,
+        "group_id": 5,
+        "odds_ratio": 103.1453744493392
+    }
+]

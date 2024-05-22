@@ -1,0 +1,30 @@
+[
+    {
+        "stId": "R-HSA-3214842",
+        "dbId": 3214842,
+        "name": "HDMs demethylate histones",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 31,
+            "found": 2,
+            "ratio": 0.001990880482949072,
+            "pValue": 0.0003549902973403185,
+            "fdr": 0.03407906854467058,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 17,
+            "found": 4,
+            "ratio": 0.0011418592154755509
+        },
+        "inDisease": false,
+        "odds_ratio": 70.13166144200628
+    }
+]

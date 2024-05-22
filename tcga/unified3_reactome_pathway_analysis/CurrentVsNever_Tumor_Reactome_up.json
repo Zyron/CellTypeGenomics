@@ -1,0 +1,58 @@
+[
+    {
+        "stId": "R-HSA-6809371",
+        "dbId": 6809371,
+        "name": "Formation of the cornified envelope",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 138,
+            "found": 3,
+            "ratio": 0.008862629246676515,
+            "pValue": 1.3646852318416336e-05,
+            "fdr": 0.00013646852318416336,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 27,
+            "found": 8,
+            "ratio": 0.0018135411069317572
+        },
+        "inDisease": false,
+        "odds_ratio": 246.44444444444446
+    },
+    {
+        "stId": "R-HSA-6805567",
+        "dbId": 6805567,
+        "name": "Keratinization",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 226,
+            "found": 3,
+            "ratio": 0.014514160940209363,
+            "pValue": 5.9177399178822476e-05,
+            "fdr": 0.0002958869958941124,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 34,
+            "found": 15,
+            "ratio": 0.0022837184309511017
+        },
+        "inDisease": false,
+        "odds_ratio": 148.00896860986546
+    }
+]

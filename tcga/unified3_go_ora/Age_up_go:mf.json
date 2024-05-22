@@ -1,0 +1,24 @@
+[
+    {
+        "description": "\"Binding to an antigen, any substance which is capable of inducing a specific immune response and of reacting with the products of that response, the specific antibody or specifically sensitized T-lymphocytes, or both. Binding may counteract the biological activity of the antigen. Antigen binding by an MHC protein complex allows the antigen to be displayed to a T cell or NK cell.\" [GOC:jl, ISBN:0198506732, ISBN:0721662544]",
+        "effective_domain_size": 20212,
+        "goshv": 367,
+        "intersection_size": 9,
+        "name": "antigen binding",
+        "native": "GO:0003823",
+        "p_value": 9.969288288663581e-14,
+        "parents": [
+            "GO:0005488"
+        ],
+        "precision": 0.6428571428571429,
+        "query": "query_1",
+        "query_size": 14,
+        "recall": 0.05172413793103448,
+        "significant": true,
+        "source": "GO:MF",
+        "term_size": 174,
+        "source_order": 367,
+        "group_id": 1,
+        "odds_ratio": 641.1909090909091
+    }
+]

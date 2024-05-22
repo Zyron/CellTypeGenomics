@@ -1,0 +1,38 @@
+{
+    "B cell": {
+        "odds_ratio": 10.082582582582583,
+        "adjusted_p_value": 0.01629200632418394
+    },
+    "Fibroblast": {
+        "odds_ratio": 11.793758366800535,
+        "adjusted_p_value": 0.0006980606148325393
+    },
+    "Fibrocyte": {
+        "odds_ratio": 30.17365269461078,
+        "adjusted_p_value": 0.017079868200425494
+    },
+    "Goblet cell": {
+        "odds_ratio": 30.30075187969925,
+        "adjusted_p_value": 0.00011816082058726866
+    },
+    "Basal cell": {
+        "odds_ratio": 30.17365269461078,
+        "adjusted_p_value": 0.017079868200425494
+    },
+    "B Cell": {
+        "odds_ratio": 18.104191616766467,
+        "adjusted_p_value": 0.03253614379541347
+    },
+    "Acinar cell": {
+        "odds_ratio": 15.084580838323353,
+        "adjusted_p_value": 0.041696295540226164
+    },
+    "Differentiating spermatogonia": {
+        "odds_ratio": 60.2660687593423,
+        "adjusted_p_value": 0.0466396679901023
+    },
+    "Tubule cell": {
+        "odds_ratio": Infinity,
+        "adjusted_p_value": 0.02383009479874996
+    }
+}

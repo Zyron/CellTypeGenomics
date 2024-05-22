@@ -1,0 +1,534 @@
+[
+    {
+        "stId": "R-HSA-9832991",
+        "dbId": 9832991,
+        "name": "Formation of the posterior neural plate",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 14,
+            "found": 2,
+            "ratio": 0.0008991073148802261,
+            "pValue": 8.083939636582826e-07,
+            "fdr": 1.6378226682656205e-05,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 6,
+            "found": 4,
+            "ratio": 0.0004030091348737238
+        },
+        "inDisease": false,
+        "odds_ratio": -1869.1666666666667
+    },
+    {
+        "stId": "R-HSA-9823739",
+        "dbId": 9823739,
+        "name": "Formation of the anterior neural plate",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 19,
+            "found": 2,
+            "ratio": 0.0012202170701945925,
+            "pValue": 1.4889296984232914e-06,
+            "fdr": 1.6378226682656205e-05,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 15,
+            "found": 4,
+            "ratio": 0.0010075228371843096
+        },
+        "inDisease": false,
+        "odds_ratio": -1318.8235294117646
+    },
+    {
+        "stId": "R-HSA-9754189",
+        "dbId": 9754189,
+        "name": "Germ layer formation at gastrulation",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 24,
+            "found": 2,
+            "ratio": 0.001541326825508959,
+            "pValue": 2.3756883830161613e-06,
+            "fdr": 1.662981868111313e-05,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 11,
+            "found": 4,
+            "ratio": 0.000738850080601827
+        },
+        "inDisease": false,
+        "odds_ratio": -1018.6363636363636
+    },
+    {
+        "stId": "R-HSA-452723",
+        "dbId": 452723,
+        "name": "Transcriptional regulation of pluripotent stem cells",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 45,
+            "found": 2,
+            "ratio": 0.002889987797829298,
+            "pValue": 8.35202947158109e-06,
+            "fdr": 4.176014735790545e-05,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 35,
+            "found": 28,
+            "ratio": 0.002350886620096722
+        },
+        "inDisease": false,
+        "odds_ratio": -520.1860465116279
+    },
+    {
+        "stId": "R-HSA-9758941",
+        "dbId": 9758941,
+        "name": "Gastrulation",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 177,
+            "found": 2,
+            "ratio": 0.011367285338128572,
+            "pValue": 0.00012921517595843035,
+            "fdr": 0.0005168607038337214,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 104,
+            "found": 14,
+            "ratio": 0.006985491671144546
+        },
+        "inDisease": false,
+        "odds_ratio": -126.30857142857143
+    },
+    {
+        "stId": "R-HSA-6785807",
+        "dbId": 6785807,
+        "name": "Interleukin-4 and Interleukin-13 signaling",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 211,
+            "found": 2,
+            "ratio": 0.013550831674266264,
+            "pValue": 0.00018362503906432792,
+            "fdr": 0.0005508751171929838,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 47,
+            "found": 1,
+            "ratio": 0.00315690488984417
+        },
+        "inDisease": false,
+        "odds_ratio": -105.43540669856459
+    },
+    {
+        "stId": "R-HSA-2892245",
+        "dbId": 2892245,
+        "name": "POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 10,
+            "found": 1,
+            "ratio": 0.000642219510628733,
+            "pValue": 0.001284026575357533,
+            "fdr": 0.003571484531499136,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 7,
+            "found": 6,
+            "ratio": 0.00047017732401934446
+        },
+        "inDisease": false,
+        "odds_ratio": Infinity
+    },
+    {
+        "stId": "R-HSA-449147",
+        "dbId": 449147,
+        "name": "Signaling by Interleukins",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 658,
+            "found": 2,
+            "ratio": 0.04225804379937063,
+            "pValue": 0.001785742265749568,
+            "fdr": 0.003571484531499136,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 505,
+            "found": 1,
+            "ratio": 0.03391993551853842
+        },
+        "inDisease": false,
+        "odds_ratio": -32.228658536585364
+    },
+    {
+        "stId": "R-HSA-2892247",
+        "dbId": 2892247,
+        "name": "POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 21,
+            "found": 1,
+            "ratio": 0.001348660972320339,
+            "pValue": 0.002695503058222415,
+            "fdr": 0.00539100611644483,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 16,
+            "found": 16,
+            "ratio": 0.0010746910263299302
+        },
+        "inDisease": false,
+        "odds_ratio": Infinity
+    },
+    {
+        "stId": "R-HSA-9834899",
+        "dbId": 9834899,
+        "name": "Specification of the neural plate border",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 24,
+            "found": 1,
+            "ratio": 0.001541326825508959,
+            "pValue": 0.003080277962634992,
+            "fdr": 0.005643546740912053,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 15,
+            "found": 4,
+            "ratio": 0.0010075228371843096
+        },
+        "inDisease": false,
+        "odds_ratio": Infinity
+    },
+    {
+        "stId": "R-HSA-1280215",
+        "dbId": 1280215,
+        "name": "Cytokine Signaling in Immune system",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 1099,
+            "found": 2,
+            "ratio": 0.07057992421809775,
+            "pValue": 0.004981525702632439,
+            "fdr": 0.005643546740912053,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 785,
+            "found": 1,
+            "ratio": 0.052727028479312196
+        },
+        "inDisease": false,
+        "odds_ratio": -18.46855059252507
+    },
+    {
+        "stId": "R-HSA-3769402",
+        "dbId": 3769402,
+        "name": "Deactivation of the beta-catenin transactivating complex",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 44,
+            "found": 1,
+            "ratio": 0.002825765846766425,
+            "pValue": 0.005643546740912053,
+            "fdr": 0.005643546740912053,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 14,
+            "found": 1,
+            "ratio": 0.0009403546480386889
+        },
+        "inDisease": false,
+        "odds_ratio": Infinity
+    },
+    {
+        "stId": "R-HSA-9856649",
+        "dbId": 9856649,
+        "name": "Transcriptional and post-translational regulation of MITF-M expression and activity",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 45,
+            "found": 1,
+            "ratio": 0.002889987797829298,
+            "pValue": 0.005771623566187101,
+            "fdr": 0.005771623566187101,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 18,
+            "found": 2,
+            "ratio": 0.0012090274046211713
+        },
+        "inDisease": false,
+        "odds_ratio": Infinity
+    },
+    {
+        "stId": "R-HSA-1266738",
+        "dbId": 1266738,
+        "name": "Developmental Biology",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 1716,
+            "found": 2,
+            "ratio": 0.11020486802389057,
+            "pValue": 0.01214511293616316,
+            "fdr": 0.01214511293616316,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 889,
+            "found": 44,
+            "ratio": 0.05971252015045674
+        },
+        "inDisease": false,
+        "odds_ratio": -11.100350058343057
+    },
+    {
+        "stId": "R-HSA-8986944",
+        "dbId": 8986944,
+        "name": "Transcriptional Regulation by MECP2",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 100,
+            "found": 1,
+            "ratio": 0.006422195106287329,
+            "pValue": 0.012803145622591328,
+            "fdr": 0.012803145622591328,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 77,
+            "found": 2,
+            "ratio": 0.005171950564212789
+        },
+        "inDisease": false,
+        "odds_ratio": Infinity
+    },
+    {
+        "stId": "R-HSA-9730414",
+        "dbId": 9730414,
+        "name": "MITF-M-regulated melanocyte development",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 167,
+            "found": 1,
+            "ratio": 0.01072506582749984,
+            "pValue": 0.021335104617995593,
+            "fdr": 0.021335104617995593,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 94,
+            "found": 2,
+            "ratio": 0.00631380977968834
+        },
+        "inDisease": false,
+        "odds_ratio": Infinity
+    },
+    {
+        "stId": "R-HSA-201681",
+        "dbId": 201681,
+        "name": "TCF dependent signaling in response to WNT",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 215,
+            "found": 1,
+            "ratio": 0.013807719478517758,
+            "pValue": 0.027424785839838095,
+            "fdr": 0.027424785839838095,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 71,
+            "found": 1,
+            "ratio": 0.004768941429339065
+        },
+        "inDisease": false,
+        "odds_ratio": Infinity
+    },
+    {
+        "stId": "R-HSA-168256",
+        "dbId": 168256,
+        "name": "Immune System",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 2663,
+            "found": 2,
+            "ratio": 0.17102305568043158,
+            "pValue": 0.029248885574271966,
+            "fdr": 0.029248885574271966,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 1717,
+            "found": 1,
+            "ratio": 0.11532778076303063
+        },
+        "inDisease": false,
+        "odds_ratio": -6.438181134911687
+    },
+    {
+        "stId": "R-HSA-195721",
+        "dbId": 195721,
+        "name": "Signaling by WNT",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 331,
+            "found": 1,
+            "ratio": 0.021257465801811058,
+            "pValue": 0.04206305175130698,
+            "fdr": 0.04206305175130698,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 157,
+            "found": 1,
+            "ratio": 0.01054540569586244
+        },
+        "inDisease": false,
+        "odds_ratio": Infinity
+    }
+]

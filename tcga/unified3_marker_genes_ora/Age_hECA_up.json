@@ -1,0 +1,10 @@
+{
+    "B cell": {
+        "odds_ratio": 172.17948717948718,
+        "adjusted_p_value": 0.006710101361693716
+    },
+    "Mast cell": {
+        "odds_ratio": 442.9230769230769,
+        "adjusted_p_value": 0.002555577429524214
+    }
+}

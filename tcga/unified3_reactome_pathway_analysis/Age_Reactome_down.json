@@ -1,0 +1,58 @@
+[
+    {
+        "stId": "R-HSA-2168880",
+        "dbId": 2168880,
+        "name": "Scavenging of heme from plasma",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 106,
+            "found": 1,
+            "ratio": 0.006807526812664569,
+            "pValue": 0.0068075268126646105,
+            "fdr": 0.032367863335688085,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 12,
+            "found": 3,
+            "ratio": 0.0008060182697474476
+        },
+        "inDisease": false,
+        "odds_ratio": Infinity
+    },
+    {
+        "stId": "R-HSA-2173782",
+        "dbId": 2173782,
+        "name": "Binding and Uptake of Ligands by Scavenger Receptors",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 168,
+            "found": 1,
+            "ratio": 0.010789287778562712,
+            "pValue": 0.010789287778562695,
+            "fdr": 0.032367863335688085,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 33,
+            "found": 3,
+            "ratio": 0.002216550241805481
+        },
+        "inDisease": false,
+        "odds_ratio": Infinity
+    }
+]

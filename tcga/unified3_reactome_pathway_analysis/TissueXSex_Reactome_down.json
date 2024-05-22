@@ -1,0 +1,170 @@
+[
+    {
+        "stId": "R-HSA-5683826",
+        "dbId": 5683826,
+        "name": "Surfactant metabolism",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 52,
+            "found": 2,
+            "ratio": 0.0033395414552694113,
+            "pValue": 0.00011078234813777232,
+            "fdr": 0.0015509528739288125,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 29,
+            "found": 3,
+            "ratio": 0.0019478774852229985
+        },
+        "inDisease": false,
+        "odds_ratio": 148.97333333333333
+    },
+    {
+        "stId": "R-HSA-5687583",
+        "dbId": 5687583,
+        "name": "Defective SLC34A2 causes PALM",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 3,
+            "found": 1,
+            "ratio": 0.00019266585318861986,
+            "pValue": 0.0009629581361444428,
+            "fdr": 0.0038518325445777712,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 1,
+            "found": 1,
+            "ratio": 6.716818914562064e-05
+        },
+        "inDisease": true,
+        "odds_ratio": 1402.5
+    },
+    {
+        "stId": "R-HSA-5619045",
+        "dbId": 5619045,
+        "name": "Defective SLC34A2 causes pulmonary alveolar microlithiasis (PALM)",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 3,
+            "found": 1,
+            "ratio": 0.00019266585318861986,
+            "pValue": 0.0009629581361444428,
+            "fdr": 0.0038518325445777712,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 1,
+            "found": 1,
+            "ratio": 6.716818914562064e-05
+        },
+        "inDisease": true,
+        "odds_ratio": 1402.5
+    },
+    {
+        "stId": "R-HSA-427589",
+        "dbId": 427589,
+        "name": "Type II Na+/Pi cotransporters",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 5,
+            "found": 1,
+            "ratio": 0.0003211097553143665,
+            "pValue": 0.0016045179928703135,
+            "fdr": 0.004491496421257013,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 2,
+            "found": 1,
+            "ratio": 0.00013433637829124128
+        },
+        "inDisease": false,
+        "odds_ratio": 701.125
+    },
+    {
+        "stId": "R-HSA-427652",
+        "dbId": 427652,
+        "name": "Sodium-coupled phosphate cotransporters",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 7,
+            "found": 1,
+            "ratio": 0.00044955365744011303,
+            "pValue": 0.0022457482106285065,
+            "fdr": 0.004491496421257013,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 3,
+            "found": 1,
+            "ratio": 0.0002015045674368619
+        },
+        "inDisease": false,
+        "odds_ratio": 467.3333333333333
+    },
+    {
+        "stId": "R-HSA-5687613",
+        "dbId": 5687613,
+        "name": "Diseases associated with surfactant metabolism",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 16,
+            "found": 1,
+            "ratio": 0.0010275512170059727,
+            "pValue": 0.005127208313938647,
+            "fdr": 0.010254416627877294,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 7,
+            "found": 1,
+            "ratio": 0.00047017732401934446
+        },
+        "inDisease": true,
+        "odds_ratio": 186.78333333333333
+    }
+]

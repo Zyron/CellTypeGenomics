@@ -1,0 +1,10 @@
+{
+    "Ureteric epithelial cell": {
+        "odds_ratio": Infinity,
+        "adjusted_p_value": 0.013687081576989835
+    },
+    "Urothelial cell": {
+        "odds_ratio": Infinity,
+        "adjusted_p_value": 0.013687081576989835
+    }
+}

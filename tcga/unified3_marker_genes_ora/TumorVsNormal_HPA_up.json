@@ -1,0 +1,18 @@
+{
+    "Cholangiocytes": {
+        "odds_ratio": 60.2660687593423,
+        "adjusted_p_value": 0.041063185947807467
+    },
+    "Bronchial epithelium, basal cells": {
+        "odds_ratio": Infinity,
+        "adjusted_p_value": 0.0008986321370790993
+    },
+    "Basal glandular cells": {
+        "odds_ratio": 60.2660687593423,
+        "adjusted_p_value": 0.041063185947807467
+    },
+    "Basal keratinocytes": {
+        "odds_ratio": Infinity,
+        "adjusted_p_value": 0.0008986321370790993
+    }
+}
