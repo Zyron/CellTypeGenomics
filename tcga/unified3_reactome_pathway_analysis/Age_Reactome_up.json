@@ -476,15 +476,15 @@
         "odds_ratio": 84.90891658676894
     },
     {
-        "stId": "R-HSA-9664422",
-        "dbId": 9664422,
-        "name": "FCGR3A-mediated phagocytosis",
+        "stId": "R-HSA-9664417",
+        "dbId": 9664417,
+        "name": "Leishmania phagocytosis",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
             "name": "Homo sapiens"
         },
-        "llp": true,
+        "llp": false,
         "entities": {
             "resource": "TOTAL",
             "total": 157,
@@ -504,15 +504,15 @@
         "odds_ratio": 84.90891658676894
     },
     {
-        "stId": "R-HSA-9664417",
-        "dbId": 9664417,
-        "name": "Leishmania phagocytosis",
+        "stId": "R-HSA-9664422",
+        "dbId": 9664422,
+        "name": "FCGR3A-mediated phagocytosis",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
             "name": "Homo sapiens"
         },
-        "llp": false,
+        "llp": true,
         "entities": {
             "resource": "TOTAL",
             "total": 157,
@@ -700,9 +700,9 @@
         "odds_ratio": 68.16370656370657
     },
     {
-        "stId": "R-HSA-9662851",
-        "dbId": 9662851,
-        "name": "Anti-inflammatory response favouring Leishmania parasite infection",
+        "stId": "R-HSA-9664433",
+        "dbId": 9664433,
+        "name": "Leishmania parasite growth and survival",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
@@ -728,9 +728,9 @@
         "odds_ratio": 68.16370656370657
     },
     {
-        "stId": "R-HSA-9664433",
-        "dbId": 9664433,
-        "name": "Leishmania parasite growth and survival",
+        "stId": "R-HSA-9662851",
+        "dbId": 9662851,
+        "name": "Anti-inflammatory response favouring Leishmania parasite infection",
         "species": {
             "dbId": 48887,
             "taxId": "9606",

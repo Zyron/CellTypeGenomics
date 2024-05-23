@@ -28,9 +28,9 @@
         "odds_ratio": 148.97333333333333
     },
     {
-        "stId": "R-HSA-5687583",
-        "dbId": 5687583,
-        "name": "Defective SLC34A2 causes PALM",
+        "stId": "R-HSA-5619045",
+        "dbId": 5619045,
+        "name": "Defective SLC34A2 causes pulmonary alveolar microlithiasis (PALM)",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
@@ -56,9 +56,9 @@
         "odds_ratio": 1402.5
     },
     {
-        "stId": "R-HSA-5619045",
-        "dbId": 5619045,
-        "name": "Defective SLC34A2 causes pulmonary alveolar microlithiasis (PALM)",
+        "stId": "R-HSA-5687583",
+        "dbId": 5687583,
+        "name": "Defective SLC34A2 causes PALM",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
