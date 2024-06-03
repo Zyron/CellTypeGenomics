@@ -1,33 +1,5 @@
 [
     {
-        "stId": "R-HSA-6809371",
-        "dbId": 6809371,
-        "name": "Formation of the cornified envelope",
-        "species": {
-            "dbId": 48887,
-            "taxId": "9606",
-            "name": "Homo sapiens"
-        },
-        "llp": true,
-        "entities": {
-            "resource": "TOTAL",
-            "total": 138,
-            "found": 12,
-            "ratio": 0.008862629246676515,
-            "pValue": 1.1102230246251565e-16,
-            "fdr": 1.0880185641326534e-14,
-            "exp": []
-        },
-        "reactions": {
-            "resource": "TOTAL",
-            "total": 27,
-            "found": 9,
-            "ratio": 0.0018135411069317572
-        },
-        "inDisease": false,
-        "odds_ratio": 81.22344322344323
-    },
-    {
         "stId": "R-HSA-6805567",
         "dbId": 6805567,
         "name": "Keratinization",
@@ -40,10 +12,10 @@
         "entities": {
             "resource": "TOTAL",
             "total": 226,
-            "found": 12,
+            "found": 13,
             "ratio": 0.014514160940209363,
-            "pValue": 2.1094237467877974e-15,
-            "fdr": 1.0336176359260207e-13,
+            "pValue": 1.1102230246251565e-16,
+            "fdr": 6.328271240363392e-15,
             "exp": []
         },
         "reactions": {
@@ -52,8 +24,34 @@
             "found": 16,
             "ratio": 0.0022837184309511017
         },
-        "inDisease": false,
-        "odds_ratio": 47.44356578001438
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-6809371",
+        "dbId": 6809371,
+        "name": "Formation of the cornified envelope",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 138,
+            "found": 13,
+            "ratio": 0.008862629246676515,
+            "pValue": 1.1102230246251565e-16,
+            "fdr": 6.328271240363392e-15,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 27,
+            "found": 9,
+            "ratio": 0.0018135411069317572
+        },
+        "inDisease": false
     },
     {
         "stId": "R-HSA-1266738",
@@ -68,10 +66,10 @@
         "entities": {
             "resource": "TOTAL",
             "total": 1716,
-            "found": 15,
+            "found": 16,
             "ratio": 0.11020486802389057,
-            "pValue": 3.913101809249753e-08,
-            "fdr": 1.2521925789599209e-06,
+            "pValue": 1.492675649750197e-08,
+            "fdr": 5.672167469050748e-07,
             "exp": []
         },
         "reactions": {
@@ -80,13 +78,12 @@
             "found": 62,
             "ratio": 0.05971252015045674
         },
-        "inDisease": false,
-        "odds_ratio": 8.390652557319225
+        "inDisease": false
     },
     {
-        "stId": "R-HSA-9725554",
-        "dbId": 9725554,
-        "name": "Differentiation of keratinocytes in interfollicular epidermis in mammalian skin",
+        "stId": "R-HSA-351906",
+        "dbId": 351906,
+        "name": "Apoptotic cleavage of cell adhesion  proteins",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
@@ -95,21 +92,47 @@
         "llp": true,
         "entities": {
             "resource": "TOTAL",
-            "total": 46,
+            "total": 11,
             "found": 3,
-            "ratio": 0.0029542097488921715,
-            "pValue": 7.991494086156958e-05,
-            "fdr": 0.001518383876369822,
+            "ratio": 0.0007064414616916062,
+            "pValue": 1.411051983812861e-06,
+            "fdr": 3.950945554676011e-05,
             "exp": []
         },
         "reactions": {
             "resource": "TOTAL",
-            "total": 4,
-            "found": 2,
-            "ratio": 0.00026867275658248256
+            "total": 10,
+            "found": 3,
+            "ratio": 0.0006716818914562063
         },
-        "inDisease": false,
-        "odds_ratio": 35.39429175475687
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-111465",
+        "dbId": 111465,
+        "name": "Apoptotic cleavage of cellular proteins",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 38,
+            "found": 3,
+            "ratio": 0.002440434140389185,
+            "pValue": 5.6166792252621e-05,
+            "fdr": 0.001291836221810283,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 38,
+            "found": 3,
+            "ratio": 0.002552391187533584
+        },
+        "inDisease": false
     },
     {
         "stId": "R-HSA-9734767",
@@ -126,8 +149,8 @@
             "total": 46,
             "found": 3,
             "ratio": 0.0029542097488921715,
-            "pValue": 7.991494086156958e-05,
-            "fdr": 0.001518383876369822,
+            "pValue": 9.860315636400774e-05,
+            "fdr": 0.0015776505018241238,
             "exp": []
         },
         "reactions": {
@@ -136,13 +159,12 @@
             "found": 2,
             "ratio": 0.00026867275658248256
         },
-        "inDisease": false,
-        "odds_ratio": 35.39429175475687
+        "inDisease": false
     },
     {
-        "stId": "R-HSA-351906",
-        "dbId": 351906,
-        "name": "Apoptotic cleavage of cell adhesion  proteins",
+        "stId": "R-HSA-9725554",
+        "dbId": 9725554,
+        "name": "Differentiation of keratinocytes in interfollicular epidermis in mammalian skin",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
@@ -151,21 +173,47 @@
         "llp": true,
         "entities": {
             "resource": "TOTAL",
-            "total": 11,
-            "found": 2,
-            "ratio": 0.0007064414616916062,
-            "pValue": 0.00018634978606157926,
-            "fdr": 0.0026088970048621096,
+            "total": 46,
+            "found": 3,
+            "ratio": 0.0029542097488921715,
+            "pValue": 9.860315636400774e-05,
+            "fdr": 0.0015776505018241238,
             "exp": []
         },
         "reactions": {
             "resource": "TOTAL",
-            "total": 10,
+            "total": 4,
             "found": 2,
-            "ratio": 0.0006716818914562063
+            "ratio": 0.00026867275658248256
         },
-        "inDisease": false,
-        "odds_ratio": 108.15458937198068
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-75153",
+        "dbId": 75153,
+        "name": "Apoptotic execution phase",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 54,
+            "found": 3,
+            "ratio": 0.0034679853573951576,
+            "pValue": 0.00015786593972966223,
+            "fdr": 0.0022101231562152712,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 57,
+            "found": 3,
+            "ratio": 0.003828586781300376
+        },
+        "inDisease": false
     },
     {
         "stId": "R-HSA-446107",
@@ -182,8 +230,8 @@
             "total": 11,
             "found": 2,
             "ratio": 0.0007064414616916062,
-            "pValue": 0.00018634978606157926,
-            "fdr": 0.0026088970048621096,
+            "pValue": 0.00021424851839102477,
+            "fdr": 0.002570982220692297,
             "exp": []
         },
         "reactions": {
@@ -192,8 +240,7 @@
             "found": 1,
             "ratio": 0.0004030091348737238
         },
-        "inDisease": false,
-        "odds_ratio": 108.15458937198068
+        "inDisease": false
     },
     {
         "stId": "R-HSA-9832991",
@@ -210,8 +257,8 @@
             "total": 14,
             "found": 2,
             "ratio": 0.0008991073148802261,
-            "pValue": 0.0003008506202302197,
-            "fdr": 0.0036102074427626363,
+            "pValue": 0.0003458028850409356,
+            "fdr": 0.0038038317354502915,
             "exp": []
         },
         "reactions": {
@@ -220,8 +267,34 @@
             "found": 4,
             "ratio": 0.0004030091348737238
         },
-        "inDisease": false,
-        "odds_ratio": 81.09420289855072
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-109581",
+        "dbId": 109581,
+        "name": "Apoptosis",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 193,
+            "found": 4,
+            "ratio": 0.012394836555134545,
+            "pValue": 0.0004998821729577108,
+            "fdr": 0.004998821729577108,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 142,
+            "found": 5,
+            "ratio": 0.00953788285867813
+        },
+        "inDisease": false
     },
     {
         "stId": "R-HSA-9823739",
@@ -238,8 +311,8 @@
             "total": 19,
             "found": 2,
             "ratio": 0.0012202170701945925,
-            "pValue": 0.000551046754716511,
-            "fdr": 0.00551046754716511,
+            "pValue": 0.0006331125923971781,
+            "fdr": 0.005698013331574603,
             "exp": []
         },
         "reactions": {
@@ -248,8 +321,7 @@
             "found": 4,
             "ratio": 0.0010075228371843096
         },
-        "inDisease": false,
-        "odds_ratio": 57.21739130434783
+        "inDisease": false
     },
     {
         "stId": "R-HSA-9754189",
@@ -266,8 +338,8 @@
             "total": 24,
             "found": 2,
             "ratio": 0.001541326825508959,
-            "pValue": 0.0008743619518247758,
-            "fdr": 0.007869257566422982,
+            "pValue": 0.0010041504369999732,
+            "fdr": 0.008033203495999786,
             "exp": []
         },
         "reactions": {
@@ -276,8 +348,34 @@
             "found": 4,
             "ratio": 0.000738850080601827
         },
-        "inDisease": false,
-        "odds_ratio": 44.19367588932806
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-5357801",
+        "dbId": 5357801,
+        "name": "Programmed Cell Death",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 238,
+            "found": 4,
+            "ratio": 0.015284824352963843,
+            "pValue": 0.0010885994630224216,
+            "fdr": 0.008708795704179373,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 193,
+            "found": 7,
+            "ratio": 0.012963460505104782
+        },
+        "inDisease": false
     },
     {
         "stId": "R-HSA-193807",
@@ -294,8 +392,8 @@
             "total": 34,
             "found": 2,
             "ratio": 0.0021835463361376917,
-            "pValue": 0.0017354215863969458,
-            "fdr": 0.013883372691175566,
+            "pValue": 0.0019913301331717648,
+            "fdr": 0.013939310932202353,
             "exp": []
         },
         "reactions": {
@@ -304,36 +402,7 @@
             "found": 2,
             "ratio": 0.0008060182697474476
         },
-        "inDisease": false,
-        "odds_ratio": 30.355978260869566
-    },
-    {
-        "stId": "R-HSA-111465",
-        "dbId": 111465,
-        "name": "Apoptotic cleavage of cellular proteins",
-        "species": {
-            "dbId": 48887,
-            "taxId": "9606",
-            "name": "Homo sapiens"
-        },
-        "llp": true,
-        "entities": {
-            "resource": "TOTAL",
-            "total": 38,
-            "found": 2,
-            "ratio": 0.002440434140389185,
-            "pValue": 0.002158176546509738,
-            "fdr": 0.017265412372077904,
-            "exp": []
-        },
-        "reactions": {
-            "resource": "TOTAL",
-            "total": 38,
-            "found": 2,
-            "ratio": 0.002552391187533584
-        },
-        "inDisease": false,
-        "odds_ratio": 26.97342995169082
+        "inDisease": false
     },
     {
         "stId": "R-HSA-193775",
@@ -350,8 +419,8 @@
             "total": 43,
             "found": 2,
             "ratio": 0.0027615438957035517,
-            "pValue": 0.0027482008420348647,
-            "fdr": 0.019237405894244053,
+            "pValue": 0.0031510492240034438,
+            "fdr": 0.020656560359114007,
             "exp": []
         },
         "reactions": {
@@ -360,8 +429,7 @@
             "found": 2,
             "ratio": 0.0018807092960773778
         },
-        "inDisease": false,
-        "odds_ratio": 23.67338282078473
+        "inDisease": false
     },
     {
         "stId": "R-HSA-452723",
@@ -378,8 +446,8 @@
             "total": 45,
             "found": 2,
             "ratio": 0.002889987797829298,
-            "pValue": 0.0030031264125504054,
-            "fdr": 0.021021884887852837,
+            "pValue": 0.0034427600598523345,
+            "fdr": 0.020656560359114007,
             "exp": []
         },
         "reactions": {
@@ -388,13 +456,12 @@
             "found": 28,
             "ratio": 0.002350886620096722
         },
-        "inDisease": false,
-        "odds_ratio": 22.568250758341758
+        "inDisease": false
     },
     {
-        "stId": "R-HSA-75153",
-        "dbId": 75153,
-        "name": "Apoptotic execution phase",
+        "stId": "R-HSA-5619043",
+        "dbId": 5619043,
+        "name": "Defective SLC2A1 causes GLUT1 deficiency syndrome 1 (GLUT1DS1)",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
@@ -403,104 +470,19 @@
         "llp": true,
         "entities": {
             "resource": "TOTAL",
-            "total": 54,
-            "found": 2,
-            "ratio": 0.0034679853573951576,
-            "pValue": 0.004281589029236366,
-            "fdr": 0.025689534175418194,
+            "total": 2,
+            "found": 1,
+            "ratio": 0.00012844390212574659,
+            "pValue": 0.003846149100989571,
+            "fdr": 0.023076894605937426,
             "exp": []
         },
         "reactions": {
             "resource": "TOTAL",
-            "total": 57,
-            "found": 2,
-            "ratio": 0.003828586781300376
+            "total": 1,
+            "found": 1,
+            "ratio": 6.716818914562064e-05
         },
-        "inDisease": false,
-        "odds_ratio": 18.64715719063545
-    },
-    {
-        "stId": "R-HSA-109581",
-        "dbId": 109581,
-        "name": "Apoptosis",
-        "species": {
-            "dbId": 48887,
-            "taxId": "9606",
-            "name": "Homo sapiens"
-        },
-        "llp": false,
-        "entities": {
-            "resource": "TOTAL",
-            "total": 193,
-            "found": 3,
-            "ratio": 0.012394836555134545,
-            "pValue": 0.004948114263333081,
-            "fdr": 0.029688685579998486,
-            "exp": []
-        },
-        "reactions": {
-            "resource": "TOTAL",
-            "total": 142,
-            "found": 4,
-            "ratio": 0.00953788285867813
-        },
-        "inDisease": false,
-        "odds_ratio": 7.904784688995215
-    },
-    {
-        "stId": "R-HSA-193368",
-        "dbId": 193368,
-        "name": "Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol",
-        "species": {
-            "dbId": 48887,
-            "taxId": "9606",
-            "name": "Homo sapiens"
-        },
-        "llp": true,
-        "entities": {
-            "resource": "TOTAL",
-            "total": 76,
-            "found": 2,
-            "ratio": 0.00488086828077837,
-            "pValue": 0.008277000936524614,
-            "fdr": 0.04138500468262307,
-            "exp": []
-        },
-        "reactions": {
-            "resource": "TOTAL",
-            "total": 39,
-            "found": 2,
-            "ratio": 0.002619559376679205
-        },
-        "inDisease": false,
-        "odds_ratio": 13.077555816686251
-    },
-    {
-        "stId": "R-HSA-5357801",
-        "dbId": 5357801,
-        "name": "Programmed Cell Death",
-        "species": {
-            "dbId": 48887,
-            "taxId": "9606",
-            "name": "Homo sapiens"
-        },
-        "llp": false,
-        "entities": {
-            "resource": "TOTAL",
-            "total": 238,
-            "found": 3,
-            "ratio": 0.015284824352963843,
-            "pValue": 0.008792909720173103,
-            "fdr": 0.043964548600865516,
-            "exp": []
-        },
-        "reactions": {
-            "resource": "TOTAL",
-            "total": 193,
-            "found": 6,
-            "ratio": 0.012963460505104782
-        },
-        "inDisease": false,
-        "odds_ratio": 6.364990328820116
+        "inDisease": true
     }
 ]

@@ -1,0 +1,34 @@
+{
+    "Endothelial cell": {
+        "odds_ratio": 13.09045666619539,
+        "adjusted_p_value": 1.4004502543205646e-10
+    },
+    "Macrophage": {
+        "odds_ratio": 8.118046511627908,
+        "adjusted_p_value": 6.774854404008532e-05
+    },
+    "Mast cell": {
+        "odds_ratio": 12.470915841584159,
+        "adjusted_p_value": 0.009279755072164778
+    },
+    "Vascular endothelial cell": {
+        "odds_ratio": 37.416460396039604,
+        "adjusted_p_value": 0.001192763084865081
+    },
+    "Pericyte": {
+        "odds_ratio": 15.585369625734613,
+        "adjusted_p_value": 0.016425806561927315
+    },
+    "Ciliated columnar cell": {
+        "odds_ratio": 10.389730900092793,
+        "adjusted_p_value": 0.033945156740806885
+    },
+    "Type I alveolar cell/Type I pneumocyte": {
+        "odds_ratio": 49.914551083591334,
+        "adjusted_p_value": 4.858987682498492e-05
+    },
+    "Type II alveolar cell/Type II pneumocyte": {
+        "odds_ratio": 49.914551083591334,
+        "adjusted_p_value": 4.858987682498492e-05
+    }
+}

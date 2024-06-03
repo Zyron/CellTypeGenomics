@@ -12,20 +12,19 @@
         "entities": {
             "resource": "TOTAL",
             "total": 138,
-            "found": 24,
+            "found": 10,
             "ratio": 0.008862629246676515,
-            "pValue": 2.55351295663786e-15,
-            "fdr": 2.3058221998439876e-12,
+            "pValue": 1.127098414599459e-12,
+            "fdr": 1.972422225549053e-10,
             "exp": []
         },
         "reactions": {
             "resource": "TOTAL",
             "total": 27,
-            "found": 10,
+            "found": 9,
             "ratio": 0.0018135411069317572
         },
-        "inDisease": false,
-        "odds_ratio": 9.146947368421053
+        "inDisease": false
     },
     {
         "stId": "R-HSA-6805567",
@@ -40,20 +39,100 @@
         "entities": {
             "resource": "TOTAL",
             "total": 226,
-            "found": 24,
+            "found": 10,
             "ratio": 0.014514160940209363,
-            "pValue": 7.314959749038508e-11,
-            "fdr": 3.299046846816367e-08,
+            "pValue": 1.3529000142398218e-10,
+            "fdr": 1.177023012388645e-08,
             "exp": []
         },
         "reactions": {
             "resource": "TOTAL",
             "total": 34,
-            "found": 17,
+            "found": 16,
             "ratio": 0.0022837184309511017
         },
-        "inDisease": false,
-        "odds_ratio": 5.120316831683168
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-2033514",
+        "dbId": 2033514,
+        "name": "FGFR3 mutant receptor activation",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 17,
+            "found": 3,
+            "ratio": 0.0010917731680688458,
+            "pValue": 1.0668266341884447e-05,
+            "fdr": 0.0004587354527010312,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 10,
+            "found": 10,
+            "ratio": 0.0006716818914562063
+        },
+        "inDisease": true
+    },
+    {
+        "stId": "R-HSA-1839130",
+        "dbId": 1839130,
+        "name": "Signaling by activated point mutants of FGFR3",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 17,
+            "found": 3,
+            "ratio": 0.0010917731680688458,
+            "pValue": 1.0668266341884447e-05,
+            "fdr": 0.0004587354527010312,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 6,
+            "found": 6,
+            "ratio": 0.0004030091348737238
+        },
+        "inDisease": true
+    },
+    {
+        "stId": "R-HSA-5655332",
+        "dbId": 5655332,
+        "name": "Signaling by FGFR3 in disease",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 33,
+            "found": 3,
+            "ratio": 0.0021193243850748185,
+            "pValue": 7.596135464282838e-05,
+            "fdr": 0.0026586474124989934,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 21,
+            "found": 21,
+            "ratio": 0.0014105319720580333
+        },
+        "inDisease": true
     },
     {
         "stId": "R-HSA-9734767",
@@ -68,20 +147,19 @@
         "entities": {
             "resource": "TOTAL",
             "total": 46,
-            "found": 9,
+            "found": 3,
             "ratio": 0.0029542097488921715,
-            "pValue": 5.561371503315371e-07,
-            "fdr": 0.00012513085882459585,
+            "pValue": 0.00020129357900289246,
+            "fdr": 0.005032339475072312,
             "exp": []
         },
         "reactions": {
             "resource": "TOTAL",
             "total": 4,
-            "found": 4,
+            "found": 2,
             "ratio": 0.00026867275658248256
         },
-        "inDisease": false,
-        "odds_ratio": 10.027129015808262
+        "inDisease": false
     },
     {
         "stId": "R-HSA-9725554",
@@ -96,104 +174,19 @@
         "entities": {
             "resource": "TOTAL",
             "total": 46,
-            "found": 9,
+            "found": 3,
             "ratio": 0.0029542097488921715,
-            "pValue": 5.561371503315371e-07,
-            "fdr": 0.00012513085882459585,
+            "pValue": 0.00020129357900289246,
+            "fdr": 0.005032339475072312,
             "exp": []
         },
         "reactions": {
             "resource": "TOTAL",
             "total": 4,
-            "found": 4,
+            "found": 2,
             "ratio": 0.00026867275658248256
         },
-        "inDisease": false,
-        "odds_ratio": 10.027129015808262
-    },
-    {
-        "stId": "R-HSA-163200",
-        "dbId": 163200,
-        "name": "Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.",
-        "species": {
-            "dbId": 48887,
-            "taxId": "9606",
-            "name": "Homo sapiens"
-        },
-        "llp": false,
-        "entities": {
-            "resource": "TOTAL",
-            "total": 172,
-            "found": 15,
-            "ratio": 0.011046175582814207,
-            "pValue": 3.1308316404965453e-06,
-            "fdr": 0.0005635496952893781,
-            "exp": []
-        },
-        "reactions": {
-            "resource": "TOTAL",
-            "total": 38,
-            "found": 18,
-            "ratio": 0.002552391187533584
-        },
-        "inDisease": false,
-        "odds_ratio": 3.9876546245972997
-    },
-    {
-        "stId": "R-HSA-9837999",
-        "dbId": 9837999,
-        "name": "Mitochondrial protein degradation",
-        "species": {
-            "dbId": 48887,
-            "taxId": "9606",
-            "name": "Homo sapiens"
-        },
-        "llp": true,
-        "entities": {
-            "resource": "TOTAL",
-            "total": 104,
-            "found": 11,
-            "ratio": 0.0066790829105388225,
-            "pValue": 1.141849214114643e-05,
-            "fdr": 0.0017127738211719645,
-            "exp": []
-        },
-        "reactions": {
-            "resource": "TOTAL",
-            "total": 20,
-            "found": 10,
-            "ratio": 0.0013433637829124126
-        },
-        "inDisease": false,
-        "odds_ratio": 4.888589067418946
-    },
-    {
-        "stId": "R-HSA-611105",
-        "dbId": 611105,
-        "name": "Respiratory electron transport",
-        "species": {
-            "dbId": 48887,
-            "taxId": "9606",
-            "name": "Homo sapiens"
-        },
-        "llp": true,
-        "entities": {
-            "resource": "TOTAL",
-            "total": 137,
-            "found": 12,
-            "ratio": 0.00879840729561364,
-            "pValue": 2.900267353445063e-05,
-            "fdr": 0.003741344885944131,
-            "exp": []
-        },
-        "reactions": {
-            "resource": "TOTAL",
-            "total": 26,
-            "found": 11,
-            "ratio": 0.0017463729177861365
-        },
-        "inDisease": false,
-        "odds_ratio": 3.9715419847328244
+        "inDisease": false
     },
     {
         "stId": "R-HSA-446107",
@@ -208,25 +201,51 @@
         "entities": {
             "resource": "TOTAL",
             "total": 11,
-            "found": 4,
+            "found": 2,
             "ratio": 0.0007064414616916062,
-            "pValue": 8.311018300410922e-05,
-            "fdr": 0.009308340496460232,
+            "pValue": 0.0003449453266706204,
+            "fdr": 0.007243851860083028,
             "exp": []
         },
         "reactions": {
             "resource": "TOTAL",
             "total": 6,
-            "found": 6,
+            "found": 5,
             "ratio": 0.0004030091348737238
         },
-        "inDisease": false,
-        "odds_ratio": 23.172486772486774
+        "inDisease": false
     },
     {
-        "stId": "R-HSA-1428517",
-        "dbId": 1428517,
-        "name": "Aerobic respiration and respiratory electron transport",
+        "stId": "R-HSA-5654227",
+        "dbId": 5654227,
+        "name": "Phospholipase C-mediated cascade; FGFR3",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 18,
+            "found": 2,
+            "ratio": 0.0011559951191317192,
+            "pValue": 0.0009137640014800219,
+            "fdr": 0.016100471627347734,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 3,
+            "found": 3,
+            "ratio": 0.0002015045674368619
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-190239",
+        "dbId": 190239,
+        "name": "FGFR3 ligand binding and activation",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
@@ -235,26 +254,133 @@
         "llp": false,
         "entities": {
             "resource": "TOTAL",
-            "total": 307,
-            "found": 17,
-            "ratio": 0.0197161389763021,
-            "pValue": 0.00020822762394767658,
-            "fdr": 0.018681547933448783,
+            "total": 19,
+            "found": 2,
+            "ratio": 0.0012202170701945925,
+            "pValue": 0.0010165497722384176,
+            "fdr": 0.016100471627347734,
             "exp": []
         },
         "reactions": {
             "resource": "TOTAL",
-            "total": 95,
-            "found": 20,
-            "ratio": 0.0063809779688339605
+            "total": 6,
+            "found": 4,
+            "ratio": 0.0004030091348737238
         },
-        "inDisease": false,
-        "odds_ratio": 2.435837917617067
+        "inDisease": false
     },
     {
-        "stId": "R-HSA-210991",
-        "dbId": 210991,
-        "name": "Basigin interactions",
+        "stId": "R-HSA-1226099",
+        "dbId": 1226099,
+        "name": "Signaling by FGFR in disease",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 82,
+            "found": 3,
+            "ratio": 0.00526619998715561,
+            "pValue": 0.0010733647751565156,
+            "fdr": 0.016100471627347734,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 99,
+            "found": 21,
+            "ratio": 0.006649650725416443
+        },
+        "inDisease": true
+    },
+    {
+        "stId": "R-HSA-6804114",
+        "dbId": 6804114,
+        "name": "TP53 Regulates Transcription of Genes Involved in G2 Cell Cycle Arrest",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 21,
+            "found": 2,
+            "ratio": 0.001348660972320339,
+            "pValue": 0.001238012845920955,
+            "fdr": 0.01733217984289337,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 11,
+            "found": 5,
+            "ratio": 0.000738850080601827
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-5654710",
+        "dbId": 5654710,
+        "name": "PI-3K cascade:FGFR3",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 24,
+            "found": 2,
+            "ratio": 0.001541326825508959,
+            "pValue": 0.0016095610546318362,
+            "fdr": 0.020044736514509,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 7,
+            "found": 6,
+            "ratio": 0.00047017732401934446
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-173623",
+        "dbId": 173623,
+        "name": "Classical antibody-mediated complement activation",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 97,
+            "found": 3,
+            "ratio": 0.006229529253098709,
+            "pValue": 0.0017326135119494213,
+            "fdr": 0.020044736514509,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 2,
+            "found": 2,
+            "ratio": 0.00013433637829124128
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-5654704",
+        "dbId": 5654704,
+        "name": "SHC-mediated cascade:FGFR3",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
@@ -264,20 +390,694 @@
         "entities": {
             "resource": "TOTAL",
             "total": 26,
-            "found": 5,
+            "found": 2,
             "ratio": 0.0016697707276347056,
-            "pValue": 0.00020853140530063818,
-            "fdr": 0.018681547933448783,
+            "pValue": 0.0018832057258957313,
+            "fdr": 0.020044736514509,
             "exp": []
         },
         "reactions": {
             "resource": "TOTAL",
-            "total": 10,
-            "found": 10,
-            "ratio": 0.0006716818914562063
+            "total": 4,
+            "found": 4,
+            "ratio": 0.00026867275658248256
         },
-        "inDisease": false,
-        "odds_ratio": 9.679589307842097
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-5654706",
+        "dbId": 5654706,
+        "name": "FRS-mediated FGFR3 signaling",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 27,
+            "found": 2,
+            "ratio": 0.0017339926786975788,
+            "pValue": 0.0020277377906458005,
+            "fdr": 0.020044736514509,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 9,
+            "found": 9,
+            "ratio": 0.0006045137023105857
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-2029481",
+        "dbId": 2029481,
+        "name": "FCGR activation",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 103,
+            "found": 3,
+            "ratio": 0.0066148609594759485,
+            "pValue": 0.00205368370114678,
+            "fdr": 0.020044736514509,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 6,
+            "found": 6,
+            "ratio": 0.0004030091348737238
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-2168880",
+        "dbId": 2168880,
+        "name": "Scavenging of heme from plasma",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 106,
+            "found": 3,
+            "ratio": 0.006807526812664569,
+            "pValue": 0.0022271929460565554,
+            "fdr": 0.020044736514509,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 12,
+            "found": 1,
+            "ratio": 0.0008060182697474476
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-166786",
+        "dbId": 166786,
+        "name": "Creation of C4 and C2 activators",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 111,
+            "found": 3,
+            "ratio": 0.007128636567978935,
+            "pValue": 0.002536145241400889,
+            "fdr": 0.022825307172608,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 8,
+            "found": 2,
+            "ratio": 0.0005373455131649651
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-166663",
+        "dbId": 166663,
+        "name": "Initial triggering of complement",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 120,
+            "found": 3,
+            "ratio": 0.007706634127544795,
+            "pValue": 0.0031565231060886045,
+            "fdr": 0.023560663776429847,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 21,
+            "found": 4,
+            "ratio": 0.0014105319720580333
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-5654732",
+        "dbId": 5654732,
+        "name": "Negative regulation of FGFR3 signaling",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 34,
+            "found": 2,
+            "ratio": 0.0021835463361376917,
+            "pValue": 0.003181099404380494,
+            "fdr": 0.023560663776429847,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 14,
+            "found": 3,
+            "ratio": 0.0009403546480386889
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-5654708",
+        "dbId": 5654708,
+        "name": "Downstream signaling of activated FGFR3",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 35,
+            "found": 2,
+            "ratio": 0.0022477682872005652,
+            "pValue": 0.0033658091109185495,
+            "fdr": 0.023560663776429847,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 23,
+            "found": 22,
+            "ratio": 0.0015448683503492746
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-202733",
+        "dbId": 202733,
+        "name": "Cell surface interactions at the vascular wall",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 257,
+            "found": 4,
+            "ratio": 0.016505041423158437,
+            "pValue": 0.0035011843275548626,
+            "fdr": 0.02450829029288404,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 65,
+            "found": 2,
+            "ratio": 0.004365932294465341
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-446728",
+        "dbId": 446728,
+        "name": "Cell junction organization",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 126,
+            "found": 3,
+            "ratio": 0.008091965833922035,
+            "pValue": 0.003617588593470389,
+            "fdr": 0.025323120154292722,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 70,
+            "found": 6,
+            "ratio": 0.004701773240193444
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-2029485",
+        "dbId": 2029485,
+        "name": "Role of phospholipids in phagocytosis",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 129,
+            "found": 3,
+            "ratio": 0.008284631687110654,
+            "pValue": 0.0038627669762260064,
+            "fdr": 0.027039368833582045,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 12,
+            "found": 5,
+            "ratio": 0.0008060182697474476
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-977606",
+        "dbId": 977606,
+        "name": "Regulation of Complement cascade",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 139,
+            "found": 3,
+            "ratio": 0.008926851197739387,
+            "pValue": 0.0047524391489044415,
+            "fdr": 0.02851463489342665,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 42,
+            "found": 3,
+            "ratio": 0.0028210639441160665
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-9664323",
+        "dbId": 9664323,
+        "name": "FCGR3A-mediated IL10 synthesis",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 141,
+            "found": 3,
+            "ratio": 0.009055295099865133,
+            "pValue": 0.004944002429208005,
+            "fdr": 0.029664014575248032,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 20,
+            "found": 9,
+            "ratio": 0.0013433637829124126
+        },
+        "inDisease": true
+    },
+    {
+        "stId": "R-HSA-166658",
+        "dbId": 166658,
+        "name": "Complement cascade",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 156,
+            "found": 3,
+            "ratio": 0.010018624365808233,
+            "pValue": 0.006530110667477995,
+            "fdr": 0.030032665901182032,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 72,
+            "found": 7,
+            "ratio": 0.004836109618484685
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-9664417",
+        "dbId": 9664417,
+        "name": "Leishmania phagocytosis",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 157,
+            "found": 3,
+            "ratio": 0.010082846316871107,
+            "pValue": 0.006645400317795258,
+            "fdr": 0.030032665901182032,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 27,
+            "found": 12,
+            "ratio": 0.0018135411069317572
+        },
+        "inDisease": true
+    },
+    {
+        "stId": "R-HSA-9664407",
+        "dbId": 9664407,
+        "name": "Parasite infection",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 157,
+            "found": 3,
+            "ratio": 0.010082846316871107,
+            "pValue": 0.006645400317795258,
+            "fdr": 0.030032665901182032,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 27,
+            "found": 12,
+            "ratio": 0.0018135411069317572
+        },
+        "inDisease": true
+    },
+    {
+        "stId": "R-HSA-9664422",
+        "dbId": 9664422,
+        "name": "FCGR3A-mediated phagocytosis",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 157,
+            "found": 3,
+            "ratio": 0.010082846316871107,
+            "pValue": 0.006645400317795258,
+            "fdr": 0.030032665901182032,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 27,
+            "found": 12,
+            "ratio": 0.0018135411069317572
+        },
+        "inDisease": true
+    },
+    {
+        "stId": "R-HSA-2029482",
+        "dbId": 2029482,
+        "name": "Regulation of actin dynamics for phagocytic cup formation",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 158,
+            "found": 3,
+            "ratio": 0.01014706826793398,
+            "pValue": 0.006761903182898488,
+            "fdr": 0.030032665901182032,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 24,
+            "found": 6,
+            "ratio": 0.0016120365394948952
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-1266738",
+        "dbId": 1266738,
+        "name": "Developmental Biology",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 1716,
+            "found": 10,
+            "ratio": 0.11020486802389057,
+            "pValue": 0.006797352838147863,
+            "fdr": 0.030032665901182032,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 889,
+            "found": 18,
+            "ratio": 0.05971252015045674
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-2033515",
+        "dbId": 2033515,
+        "name": "t(4;14) translocations of FGFR3",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 3,
+            "found": 1,
+            "ratio": 0.00019266585318861986,
+            "pValue": 0.007295267199940558,
+            "fdr": 0.030032665901182032,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 2,
+            "found": 2,
+            "ratio": 0.00013433637829124128
+        },
+        "inDisease": true
+    },
+    {
+        "stId": "R-HSA-8853334",
+        "dbId": 8853334,
+        "name": "Signaling by FGFR3 fusions in cancer",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 3,
+            "found": 1,
+            "ratio": 0.00019266585318861986,
+            "pValue": 0.007295267199940558,
+            "fdr": 0.030032665901182032,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 2,
+            "found": 2,
+            "ratio": 0.00013433637829124128
+        },
+        "inDisease": true
+    },
+    {
+        "stId": "R-HSA-5654741",
+        "dbId": 5654741,
+        "name": "Signaling by FGFR3",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 53,
+            "found": 2,
+            "ratio": 0.0034037634063322844,
+            "pValue": 0.007508166475295508,
+            "fdr": 0.030032665901182032,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 43,
+            "found": 29,
+            "ratio": 0.0028882321332616874
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-1500931",
+        "dbId": 1500931,
+        "name": "Cell-Cell communication",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 165,
+            "found": 3,
+            "ratio": 0.010596621925374092,
+            "pValue": 0.007611661542524573,
+            "fdr": 0.03044664617009829,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 93,
+            "found": 6,
+            "ratio": 0.006246641590542719
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-2173782",
+        "dbId": 2173782,
+        "name": "Binding and Uptake of Ligands by Scavenger Receptors",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 168,
+            "found": 3,
+            "ratio": 0.010789287778562712,
+            "pValue": 0.007994354334739051,
+            "fdr": 0.031977417338956204,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 33,
+            "found": 1,
+            "ratio": 0.002216550241805481
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-380108",
+        "dbId": 380108,
+        "name": "Chemokine receptors bind chemokines",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 57,
+            "found": 2,
+            "ratio": 0.0036606512105837774,
+            "pValue": 0.00863129553209463,
+            "fdr": 0.033263451761411766,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 19,
+            "found": 3,
+            "ratio": 0.001276195593766792
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-109704",
+        "dbId": 109704,
+        "name": "PI3K Cascade",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 58,
+            "found": 2,
+            "ratio": 0.003724873161646651,
+            "pValue": 0.008923157201159548,
+            "fdr": 0.033263451761411766,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 6,
+            "found": 1,
+            "ratio": 0.0004030091348737238
+        },
+        "inDisease": false
     },
     {
         "stId": "R-HSA-6799198",
@@ -292,53 +1092,51 @@
         "entities": {
             "resource": "TOTAL",
             "total": 59,
-            "found": 7,
+            "found": 2,
             "ratio": 0.003789095112709524,
-            "pValue": 0.00022782375528596077,
-            "fdr": 0.018681547933448783,
+            "pValue": 0.009219406457846913,
+            "fdr": 0.033263451761411766,
             "exp": []
         },
         "reactions": {
             "resource": "TOTAL",
             "total": 13,
-            "found": 7,
+            "found": 5,
             "ratio": 0.0008731864588930683
         },
-        "inDisease": false,
-        "odds_ratio": 5.499063670411985
+        "inDisease": false
     },
     {
-        "stId": "R-HSA-5628897",
-        "dbId": 5628897,
-        "name": "TP53 Regulates Metabolic Genes",
+        "stId": "R-HSA-6791312",
+        "dbId": 6791312,
+        "name": "TP53 Regulates Transcription of Cell Cycle Genes",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
             "name": "Homo sapiens"
         },
-        "llp": true,
+        "llp": false,
         "entities": {
             "resource": "TOTAL",
-            "total": 126,
-            "found": 10,
-            "ratio": 0.008091965833922035,
-            "pValue": 0.0002901188288249035,
-            "fdr": 0.02017209476872872,
+            "total": 65,
+            "found": 2,
+            "ratio": 0.004174426819086764,
+            "pValue": 0.011087817253803922,
+            "fdr": 0.033263451761411766,
             "exp": []
         },
         "reactions": {
             "resource": "TOTAL",
-            "total": 34,
-            "found": 9,
-            "ratio": 0.0022837184309511017
+            "total": 42,
+            "found": 5,
+            "ratio": 0.0028210639441160665
         },
-        "inDisease": false,
-        "odds_ratio": 3.5416666666666665
+        "inDisease": false
     },
     {
-        "stId": "R-HSA-6803205",
-        "dbId": 6803205,
-        "name": "TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain",
+        "stId": "R-HSA-112399",
+        "dbId": 112399,
+        "name": "IRS-mediated signalling",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
@@ -347,54 +1145,241 @@
         "llp": true,
         "entities": {
             "resource": "TOTAL",
-            "total": 28,
-            "found": 5,
-            "ratio": 0.0017982146297604521,
-            "pValue": 0.00029234919954679306,
-            "fdr": 0.02017209476872872,
+            "total": 65,
+            "found": 2,
+            "ratio": 0.004174426819086764,
+            "pValue": 0.011087817253803922,
+            "fdr": 0.033263451761411766,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 9,
+            "found": 1,
+            "ratio": 0.0006045137023105857
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-2029480",
+        "dbId": 2029480,
+        "name": "Fcgamma receptor (FCGR) dependent phagocytosis",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 193,
+            "found": 3,
+            "ratio": 0.012394836555134545,
+            "pValue": 0.01162640415939209,
+            "fdr": 0.03487921247817627,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 42,
+            "found": 17,
+            "ratio": 0.0028210639441160665
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-9664433",
+        "dbId": 9664433,
+        "name": "Leishmania parasite growth and survival",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 193,
+            "found": 3,
+            "ratio": 0.012394836555134545,
+            "pValue": 0.01162640415939209,
+            "fdr": 0.03487921247817627,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 40,
+            "found": 9,
+            "ratio": 0.0026867275658248252
+        },
+        "inDisease": true
+    },
+    {
+        "stId": "R-HSA-9662851",
+        "dbId": 9662851,
+        "name": "Anti-inflammatory response favouring Leishmania parasite infection",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 193,
+            "found": 3,
+            "ratio": 0.012394836555134545,
+            "pValue": 0.01162640415939209,
+            "fdr": 0.03487921247817627,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 40,
+            "found": 9,
+            "ratio": 0.0026867275658248252
+        },
+        "inDisease": true
+    },
+    {
+        "stId": "R-HSA-2428928",
+        "dbId": 2428928,
+        "name": "IRS-related events triggered by IGF1R",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 69,
+            "found": 2,
+            "ratio": 0.004431314623338257,
+            "pValue": 0.012418424041519827,
+            "fdr": 0.03725527212455948,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 12,
+            "found": 1,
+            "ratio": 0.0008060182697474476
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-5690714",
+        "dbId": 5690714,
+        "name": "CD22 mediated BCR regulation",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 72,
+            "found": 2,
+            "ratio": 0.004623980476526877,
+            "pValue": 0.013460031558181873,
+            "fdr": 0.04038009467454562,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 4,
+            "found": 3,
+            "ratio": 0.00026867275658248256
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-2428924",
+        "dbId": 2428924,
+        "name": "IGF1R signaling cascade",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": false,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 72,
+            "found": 2,
+            "ratio": 0.004623980476526877,
+            "pValue": 0.013460031558181873,
+            "fdr": 0.04038009467454562,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 17,
+            "found": 1,
+            "ratio": 0.0011418592154755509
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-74751",
+        "dbId": 74751,
+        "name": "Insulin receptor signalling cascade",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 72,
+            "found": 2,
+            "ratio": 0.004623980476526877,
+            "pValue": 0.013460031558181873,
+            "fdr": 0.04038009467454562,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 25,
+            "found": 1,
+            "ratio": 0.0016792047286405159
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-2404192",
+        "dbId": 2404192,
+        "name": "Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 73,
+            "found": 2,
+            "ratio": 0.00468820242758975,
+            "pValue": 0.013815436219027921,
+            "fdr": 0.041446308657083764,
             "exp": []
         },
         "reactions": {
             "resource": "TOTAL",
             "total": 19,
-            "found": 6,
+            "found": 1,
             "ratio": 0.001276195593766792
         },
-        "inDisease": false,
-        "odds_ratio": 8.836269597543236
+        "inDisease": false
     },
     {
-        "stId": "R-HSA-8863678",
-        "dbId": 8863678,
-        "name": "Neurodegenerative Diseases",
-        "species": {
-            "dbId": 48887,
-            "taxId": "9606",
-            "name": "Homo sapiens"
-        },
-        "llp": false,
-        "entities": {
-            "resource": "TOTAL",
-            "total": 30,
-            "found": 5,
-            "ratio": 0.0019266585318861986,
-            "pValue": 0.00039951994107745303,
-            "fdr": 0.023971196464647182,
-            "exp": []
-        },
-        "reactions": {
-            "resource": "TOTAL",
-            "total": 22,
-            "found": 5,
-            "ratio": 0.001477700161203654
-        },
-        "inDisease": true,
-        "odds_ratio": 8.127881040892193
-    },
-    {
-        "stId": "R-HSA-8862803",
-        "dbId": 8862803,
-        "name": "Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models",
+        "stId": "R-HSA-6783783",
+        "dbId": 6783783,
+        "name": "Interleukin-10 signaling",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
@@ -403,48 +1388,181 @@
         "llp": true,
         "entities": {
             "resource": "TOTAL",
-            "total": 30,
-            "found": 5,
-            "ratio": 0.0019266585318861986,
-            "pValue": 0.00039951994107745303,
-            "fdr": 0.023971196464647182,
+            "total": 86,
+            "found": 2,
+            "ratio": 0.005523087791407103,
+            "pValue": 0.018798206076479418,
+            "fdr": 0.04823322793725038,
             "exp": []
         },
         "reactions": {
             "resource": "TOTAL",
-            "total": 22,
-            "found": 5,
-            "ratio": 0.001477700161203654
+            "total": 15,
+            "found": 1,
+            "ratio": 0.0010075228371843096
         },
-        "inDisease": true,
-        "odds_ratio": 8.127881040892193
+        "inDisease": false
     },
     {
-        "stId": "R-HSA-9734009",
-        "dbId": 9734009,
-        "name": "Defective Intrinsic Pathway for Apoptosis",
+        "stId": "R-HSA-3595172",
+        "dbId": 3595172,
+        "name": "Defective CHST3 causes SEDCJD",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
             "name": "Homo sapiens"
         },
-        "llp": false,
+        "llp": true,
         "entities": {
             "resource": "TOTAL",
-            "total": 33,
-            "found": 5,
-            "ratio": 0.0021193243850748185,
-            "pValue": 0.0006127141638908595,
-            "fdr": 0.034311993177888134,
+            "total": 9,
+            "found": 1,
+            "ratio": 0.0005779975595658596,
+            "pValue": 0.021730668964153654,
+            "fdr": 0.04823322793725038,
             "exp": []
         },
         "reactions": {
             "resource": "TOTAL",
-            "total": 24,
-            "found": 5,
-            "ratio": 0.0016120365394948952
+            "total": 1,
+            "found": 1,
+            "ratio": 6.716818914562064e-05
         },
-        "inDisease": true,
-        "odds_ratio": 7.255045140732873
+        "inDisease": true
+    },
+    {
+        "stId": "R-HSA-3595174",
+        "dbId": 3595174,
+        "name": "Defective CHST14 causes EDS, musculocontractural type",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 9,
+            "found": 1,
+            "ratio": 0.0005779975595658596,
+            "pValue": 0.021730668964153654,
+            "fdr": 0.04823322793725038,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 1,
+            "found": 1,
+            "ratio": 6.716818914562064e-05
+        },
+        "inDisease": true
+    },
+    {
+        "stId": "R-HSA-198933",
+        "dbId": 198933,
+        "name": "Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 249,
+            "found": 3,
+            "ratio": 0.01599126581465545,
+            "pValue": 0.022750553315202926,
+            "fdr": 0.04823322793725038,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 44,
+            "found": 2,
+            "ratio": 0.002955400322407308
+        },
+        "inDisease": false
+    },
+    {
+        "stId": "R-HSA-2219530",
+        "dbId": 2219530,
+        "name": "Constitutive Signaling by Aberrant PI3K in Cancer",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 96,
+            "found": 2,
+            "ratio": 0.006165307302035836,
+            "pValue": 0.0230705969526519,
+            "fdr": 0.04823322793725038,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 2,
+            "found": 1,
+            "ratio": 0.00013433637829124128
+        },
+        "inDisease": true
+    },
+    {
+        "stId": "R-HSA-3595177",
+        "dbId": 3595177,
+        "name": "Defective CHSY1 causes TPBS",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 10,
+            "found": 1,
+            "ratio": 0.000642219510628733,
+            "pValue": 0.02411661396862519,
+            "fdr": 0.04823322793725038,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 2,
+            "found": 2,
+            "ratio": 0.00013433637829124128
+        },
+        "inDisease": true
+    },
+    {
+        "stId": "R-HSA-190371",
+        "dbId": 190371,
+        "name": "FGFR3b ligand binding and activation",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 10,
+            "found": 1,
+            "ratio": 0.000642219510628733,
+            "pValue": 0.02411661396862519,
+            "fdr": 0.04823322793725038,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 2,
+            "found": 2,
+            "ratio": 0.00013433637829124128
+        },
+        "inDisease": false
     }
 ]

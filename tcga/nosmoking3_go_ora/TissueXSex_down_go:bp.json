@@ -6,19 +6,19 @@
         "intersection_size": 3,
         "name": "respiratory gaseous exchange by respiratory system",
         "native": "GO:0007585",
-        "p_value": 0.030891981263794804,
+        "p_value": 0.04727264870300554,
         "parents": [
             "GO:0032501"
         ],
-        "precision": 0.2,
+        "precision": 0.17647058823529413,
         "query": "query_1",
-        "query_size": 15,
+        "query_size": 17,
         "recall": 0.038461538461538464,
         "significant": true,
         "source": "GO:BP",
         "term_size": 78,
         "source_order": 3081,
         "group_id": 6,
-        "odds_ratio": 188.31466666666665
+        "odds_ratio": 148.66105263157894
     }
 ]
