@@ -135,15 +135,15 @@
         "inDisease": false
     },
     {
-        "stId": "R-HSA-9734767",
-        "dbId": 9734767,
-        "name": "Developmental Cell Lineages",
+        "stId": "R-HSA-9725554",
+        "dbId": 9725554,
+        "name": "Differentiation of keratinocytes in interfollicular epidermis in mammalian skin",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
             "name": "Homo sapiens"
         },
-        "llp": false,
+        "llp": true,
         "entities": {
             "resource": "TOTAL",
             "total": 46,
@@ -162,15 +162,15 @@
         "inDisease": false
     },
     {
-        "stId": "R-HSA-9725554",
-        "dbId": 9725554,
-        "name": "Differentiation of keratinocytes in interfollicular epidermis in mammalian skin",
+        "stId": "R-HSA-9734767",
+        "dbId": 9734767,
+        "name": "Developmental Cell Lineages",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
             "name": "Homo sapiens"
         },
-        "llp": true,
+        "llp": false,
         "entities": {
             "resource": "TOTAL",
             "total": 46,

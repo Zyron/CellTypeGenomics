@@ -135,15 +135,15 @@
         "inDisease": true
     },
     {
-        "stId": "R-HSA-9734767",
-        "dbId": 9734767,
-        "name": "Developmental Cell Lineages",
+        "stId": "R-HSA-9725554",
+        "dbId": 9725554,
+        "name": "Differentiation of keratinocytes in interfollicular epidermis in mammalian skin",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
             "name": "Homo sapiens"
         },
-        "llp": false,
+        "llp": true,
         "entities": {
             "resource": "TOTAL",
             "total": 46,
@@ -162,15 +162,15 @@
         "inDisease": false
     },
     {
-        "stId": "R-HSA-9725554",
-        "dbId": 9725554,
-        "name": "Differentiation of keratinocytes in interfollicular epidermis in mammalian skin",
+        "stId": "R-HSA-9734767",
+        "dbId": 9734767,
+        "name": "Developmental Cell Lineages",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
             "name": "Homo sapiens"
         },
-        "llp": true,
+        "llp": false,
         "entities": {
             "resource": "TOTAL",
             "total": 46,
@@ -756,6 +756,33 @@
         "inDisease": false
     },
     {
+        "stId": "R-HSA-9664422",
+        "dbId": 9664422,
+        "name": "FCGR3A-mediated phagocytosis",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 157,
+            "found": 3,
+            "ratio": 0.010082846316871107,
+            "pValue": 0.006645400317795258,
+            "fdr": 0.030032665901182032,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 27,
+            "found": 12,
+            "ratio": 0.0018135411069317572
+        },
+        "inDisease": true
+    },
+    {
         "stId": "R-HSA-9664417",
         "dbId": 9664417,
         "name": "Leishmania phagocytosis",
@@ -792,33 +819,6 @@
             "name": "Homo sapiens"
         },
         "llp": false,
-        "entities": {
-            "resource": "TOTAL",
-            "total": 157,
-            "found": 3,
-            "ratio": 0.010082846316871107,
-            "pValue": 0.006645400317795258,
-            "fdr": 0.030032665901182032,
-            "exp": []
-        },
-        "reactions": {
-            "resource": "TOTAL",
-            "total": 27,
-            "found": 12,
-            "ratio": 0.0018135411069317572
-        },
-        "inDisease": true
-    },
-    {
-        "stId": "R-HSA-9664422",
-        "dbId": 9664422,
-        "name": "FCGR3A-mediated phagocytosis",
-        "species": {
-            "dbId": 48887,
-            "taxId": "9606",
-            "name": "Homo sapiens"
-        },
-        "llp": true,
         "entities": {
             "resource": "TOTAL",
             "total": 157,
@@ -1188,9 +1188,9 @@
         "inDisease": false
     },
     {
-        "stId": "R-HSA-9664433",
-        "dbId": 9664433,
-        "name": "Leishmania parasite growth and survival",
+        "stId": "R-HSA-9662851",
+        "dbId": 9662851,
+        "name": "Anti-inflammatory response favouring Leishmania parasite infection",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
@@ -1215,9 +1215,9 @@
         "inDisease": true
     },
     {
-        "stId": "R-HSA-9662851",
-        "dbId": 9662851,
-        "name": "Anti-inflammatory response favouring Leishmania parasite infection",
+        "stId": "R-HSA-9664433",
+        "dbId": 9664433,
+        "name": "Leishmania parasite growth and survival",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
@@ -1404,9 +1404,9 @@
         "inDisease": false
     },
     {
-        "stId": "R-HSA-3595172",
-        "dbId": 3595172,
-        "name": "Defective CHST3 causes SEDCJD",
+        "stId": "R-HSA-3595174",
+        "dbId": 3595174,
+        "name": "Defective CHST14 causes EDS, musculocontractural type",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
@@ -1431,9 +1431,9 @@
         "inDisease": true
     },
     {
-        "stId": "R-HSA-3595174",
-        "dbId": 3595174,
-        "name": "Defective CHST14 causes EDS, musculocontractural type",
+        "stId": "R-HSA-3595172",
+        "dbId": 3595172,
+        "name": "Defective CHST3 causes SEDCJD",
         "species": {
             "dbId": 48887,
             "taxId": "9606",

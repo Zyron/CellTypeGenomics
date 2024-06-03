@@ -1296,15 +1296,15 @@
         "inDisease": false
     },
     {
-        "stId": "R-HSA-5617472",
-        "dbId": 5617472,
-        "name": "Activation of anterior HOX genes in hindbrain development during early embryogenesis",
+        "stId": "R-HSA-5619507",
+        "dbId": 5619507,
+        "name": "Activation of HOX genes during differentiation",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
             "name": "Homo sapiens"
         },
-        "llp": true,
+        "llp": false,
         "entities": {
             "resource": "TOTAL",
             "total": 116,
@@ -1323,15 +1323,15 @@
         "inDisease": false
     },
     {
-        "stId": "R-HSA-5619507",
-        "dbId": 5619507,
-        "name": "Activation of HOX genes during differentiation",
+        "stId": "R-HSA-5617472",
+        "dbId": 5617472,
+        "name": "Activation of anterior HOX genes in hindbrain development during early embryogenesis",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
             "name": "Homo sapiens"
         },
-        "llp": false,
+        "llp": true,
         "entities": {
             "resource": "TOTAL",
             "total": 116,
@@ -1836,15 +1836,15 @@
         "inDisease": false
     },
     {
-        "stId": "R-HSA-3247509",
-        "dbId": 3247509,
-        "name": "Chromatin modifying enzymes",
+        "stId": "R-HSA-4839726",
+        "dbId": 4839726,
+        "name": "Chromatin organization",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
             "name": "Homo sapiens"
         },
-        "llp": true,
+        "llp": false,
         "entities": {
             "resource": "TOTAL",
             "total": 254,
@@ -1863,15 +1863,15 @@
         "inDisease": false
     },
     {
-        "stId": "R-HSA-4839726",
-        "dbId": 4839726,
-        "name": "Chromatin organization",
+        "stId": "R-HSA-3247509",
+        "dbId": 3247509,
+        "name": "Chromatin modifying enzymes",
         "species": {
             "dbId": 48887,
             "taxId": "9606",
             "name": "Homo sapiens"
         },
-        "llp": false,
+        "llp": true,
         "entities": {
             "resource": "TOTAL",
             "total": 254,
