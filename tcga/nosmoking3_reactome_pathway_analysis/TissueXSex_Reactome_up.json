@@ -24,7 +24,8 @@
             "found": 16,
             "ratio": 0.0022837184309511017
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 47.95003353454058
     },
     {
         "stId": "R-HSA-6809371",
@@ -51,7 +52,8 @@
             "found": 9,
             "ratio": 0.0018135411069317572
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 82.36057142857143
     },
     {
         "stId": "R-HSA-1266738",
@@ -78,7 +80,8 @@
             "found": 62,
             "ratio": 0.05971252015045674
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 8.141176470588235
     },
     {
         "stId": "R-HSA-351906",
@@ -105,7 +108,8 @@
             "found": 3,
             "ratio": 0.0006716818914562063
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 174.90625
     },
     {
         "stId": "R-HSA-111465",
@@ -132,34 +136,8 @@
             "found": 3,
             "ratio": 0.002552391187533584
         },
-        "inDisease": false
-    },
-    {
-        "stId": "R-HSA-9725554",
-        "dbId": 9725554,
-        "name": "Differentiation of keratinocytes in interfollicular epidermis in mammalian skin",
-        "species": {
-            "dbId": 48887,
-            "taxId": "9606",
-            "name": "Homo sapiens"
-        },
-        "llp": true,
-        "entities": {
-            "resource": "TOTAL",
-            "total": 46,
-            "found": 3,
-            "ratio": 0.0029542097488921715,
-            "pValue": 9.860315636400774e-05,
-            "fdr": 0.0015776505018241238,
-            "exp": []
-        },
-        "reactions": {
-            "resource": "TOTAL",
-            "total": 4,
-            "found": 2,
-            "ratio": 0.00026867275658248256
-        },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 39.88214285714286
     },
     {
         "stId": "R-HSA-9734767",
@@ -186,7 +164,36 @@
             "found": 2,
             "ratio": 0.00026867275658248256
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 32.43895348837209
+    },
+    {
+        "stId": "R-HSA-9725554",
+        "dbId": 9725554,
+        "name": "Differentiation of keratinocytes in interfollicular epidermis in mammalian skin",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 46,
+            "found": 3,
+            "ratio": 0.0029542097488921715,
+            "pValue": 9.860315636400774e-05,
+            "fdr": 0.0015776505018241238,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 4,
+            "found": 2,
+            "ratio": 0.00026867275658248256
+        },
+        "inDisease": false,
+        "odds_ratio": 32.43895348837209
     },
     {
         "stId": "R-HSA-75153",
@@ -213,7 +220,8 @@
             "found": 3,
             "ratio": 0.003828586781300376
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 27.330882352941178
     },
     {
         "stId": "R-HSA-446107",
@@ -240,7 +248,8 @@
             "found": 1,
             "ratio": 0.0004030091348737238
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 99.48444444444445
     },
     {
         "stId": "R-HSA-9832991",
@@ -267,7 +276,8 @@
             "found": 4,
             "ratio": 0.0004030091348737238
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 74.59333333333333
     },
     {
         "stId": "R-HSA-109581",
@@ -294,7 +304,8 @@
             "found": 5,
             "ratio": 0.00953788285867813
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 10.134805613066483
     },
     {
         "stId": "R-HSA-9823739",
@@ -321,7 +332,8 @@
             "found": 4,
             "ratio": 0.0010075228371843096
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 52.63058823529412
     },
     {
         "stId": "R-HSA-9754189",
@@ -348,7 +360,8 @@
             "found": 4,
             "ratio": 0.000738850080601827
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 40.65090909090909
     },
     {
         "stId": "R-HSA-5357801",
@@ -375,7 +388,8 @@
             "found": 7,
             "ratio": 0.012963460505104782
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 8.15235971757711
     },
     {
         "stId": "R-HSA-193807",
@@ -402,7 +416,8 @@
             "found": 2,
             "ratio": 0.0008060182697474476
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 27.9225
     },
     {
         "stId": "R-HSA-193775",
@@ -429,7 +444,8 @@
             "found": 2,
             "ratio": 0.0018807092960773778
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 21.775609756097563
     },
     {
         "stId": "R-HSA-452723",
@@ -456,7 +472,8 @@
             "found": 28,
             "ratio": 0.002350886620096722
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 20.75906976744186
     },
     {
         "stId": "R-HSA-5619043",
@@ -483,6 +500,7 @@
             "found": 1,
             "ratio": 6.716818914562064e-05
         },
-        "inDisease": true
+        "inDisease": true,
+        "odds_ratio": 430.7307692307692
     }
 ]

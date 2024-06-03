@@ -24,7 +24,8 @@
             "found": 17,
             "ratio": 0.0019478774852229985
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 221.66666666666666
     },
     {
         "stId": "R-HSA-5687613",
@@ -51,7 +52,8 @@
             "found": 5,
             "ratio": 0.00047017732401934446
         },
-        "inDisease": true
+        "inDisease": true,
+        "odds_ratio": 299.4117647058824
     },
     {
         "stId": "R-HSA-5688890",
@@ -78,7 +80,8 @@
             "found": 1,
             "ratio": 6.716818914562064e-05
         },
-        "inDisease": true
+        "inDisease": true,
+        "odds_ratio": 622.4444444444445
     },
     {
         "stId": "R-HSA-5688849",
@@ -105,7 +108,8 @@
             "found": 1,
             "ratio": 6.716818914562064e-05
         },
-        "inDisease": true
+        "inDisease": true,
+        "odds_ratio": 622.4444444444445
     },
     {
         "stId": "R-HSA-5668914",
@@ -132,7 +136,8 @@
             "found": 8,
             "ratio": 0.013097796883396023
         },
-        "inDisease": true
+        "inDisease": true,
+        "odds_ratio": 12.079616306954437
     },
     {
         "stId": "R-HSA-392499",
@@ -159,7 +164,8 @@
             "found": 33,
             "ratio": 0.05682428801719506
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 4.569052721817402
     },
     {
         "stId": "R-HSA-391160",
@@ -186,34 +192,8 @@
             "found": 1,
             "ratio": 0.0006716818914562063
         },
-        "inDisease": false
-    },
-    {
-        "stId": "R-HSA-5083636",
-        "dbId": 5083636,
-        "name": "Defective GALNT12 causes CRCS1",
-        "species": {
-            "dbId": 48887,
-            "taxId": "9606",
-            "name": "Homo sapiens"
-        },
-        "llp": true,
-        "entities": {
-            "resource": "TOTAL",
-            "total": 20,
-            "found": 2,
-            "ratio": 0.001284439021257466,
-            "pValue": 0.0005668198014657788,
-            "fdr": 0.00312125738891722,
-            "exp": []
-        },
-        "reactions": {
-            "resource": "TOTAL",
-            "total": 1,
-            "found": 1,
-            "ratio": 6.716818914562064e-05
-        },
-        "inDisease": true
+        "inDisease": false,
+        "odds_ratio": 69.9375
     },
     {
         "stId": "R-HSA-5083625",
@@ -240,7 +220,36 @@
             "found": 1,
             "ratio": 6.716818914562064e-05
         },
-        "inDisease": true
+        "inDisease": true,
+        "odds_ratio": 62.15555555555556
+    },
+    {
+        "stId": "R-HSA-5083636",
+        "dbId": 5083636,
+        "name": "Defective GALNT12 causes CRCS1",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 20,
+            "found": 2,
+            "ratio": 0.001284439021257466,
+            "pValue": 0.0005668198014657788,
+            "fdr": 0.00312125738891722,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 1,
+            "found": 1,
+            "ratio": 6.716818914562064e-05
+        },
+        "inDisease": true,
+        "odds_ratio": 62.15555555555556
     },
     {
         "stId": "R-HSA-5083632",
@@ -267,7 +276,8 @@
             "found": 1,
             "ratio": 6.716818914562064e-05
         },
-        "inDisease": true
+        "inDisease": true,
+        "odds_ratio": 58.87894736842105
     },
     {
         "stId": "R-HSA-977068",
@@ -294,34 +304,8 @@
             "found": 4,
             "ratio": 0.00026867275658248256
         },
-        "inDisease": false
-    },
-    {
-        "stId": "R-HSA-5688031",
-        "dbId": 5688031,
-        "name": "Defective pro-SFTPB causes SMDP1 and RDS",
-        "species": {
-            "dbId": 48887,
-            "taxId": "9606",
-            "name": "Homo sapiens"
-        },
-        "llp": true,
-        "entities": {
-            "resource": "TOTAL",
-            "total": 1,
-            "found": 1,
-            "ratio": 6.422195106287329e-05,
-            "pValue": 0.001732545768068472,
-            "fdr": 0.006930183072273888,
-            "exp": []
-        },
-        "reactions": {
-            "resource": "TOTAL",
-            "total": 1,
-            "found": 1,
-            "ratio": 6.716818914562064e-05
-        },
-        "inDisease": true
+        "inDisease": false,
+        "odds_ratio": 43.0
     },
     {
         "stId": "R-HSA-5687868",
@@ -348,7 +332,36 @@
             "found": 1,
             "ratio": 6.716818914562064e-05
         },
-        "inDisease": true
+        "inDisease": true,
+        "odds_ratio": Infinity
+    },
+    {
+        "stId": "R-HSA-5688031",
+        "dbId": 5688031,
+        "name": "Defective pro-SFTPB causes SMDP1 and RDS",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 1,
+            "found": 1,
+            "ratio": 6.422195106287329e-05,
+            "pValue": 0.001732545768068472,
+            "fdr": 0.006930183072273888,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 1,
+            "found": 1,
+            "ratio": 6.716818914562064e-05
+        },
+        "inDisease": true,
+        "odds_ratio": Infinity
     },
     {
         "stId": "R-HSA-5686938",
@@ -375,34 +388,8 @@
             "found": 2,
             "ratio": 0.0008731864588930683
         },
-        "inDisease": false
-    },
-    {
-        "stId": "R-HSA-5687583",
-        "dbId": 5687583,
-        "name": "Defective SLC34A2 causes PALM",
-        "species": {
-            "dbId": 48887,
-            "taxId": "9606",
-            "name": "Homo sapiens"
-        },
-        "llp": true,
-        "entities": {
-            "resource": "TOTAL",
-            "total": 3,
-            "found": 1,
-            "ratio": 0.00019266585318861986,
-            "pValue": 0.005188969764919005,
-            "fdr": 0.015566909294757014,
-            "exp": []
-        },
-        "reactions": {
-            "resource": "TOTAL",
-            "total": 1,
-            "found": 1,
-            "ratio": 6.716818914562064e-05
-        },
-        "inDisease": true
+        "inDisease": false,
+        "odds_ratio": 28.633333333333333
     },
     {
         "stId": "R-HSA-5619045",
@@ -429,7 +416,36 @@
             "found": 1,
             "ratio": 6.716818914562064e-05
         },
-        "inDisease": true
+        "inDisease": true,
+        "odds_ratio": 266.73809523809524
+    },
+    {
+        "stId": "R-HSA-5687583",
+        "dbId": 5687583,
+        "name": "Defective SLC34A2 causes PALM",
+        "species": {
+            "dbId": 48887,
+            "taxId": "9606",
+            "name": "Homo sapiens"
+        },
+        "llp": true,
+        "entities": {
+            "resource": "TOTAL",
+            "total": 3,
+            "found": 1,
+            "ratio": 0.00019266585318861986,
+            "pValue": 0.005188969764919005,
+            "fdr": 0.015566909294757014,
+            "exp": []
+        },
+        "reactions": {
+            "resource": "TOTAL",
+            "total": 1,
+            "found": 1,
+            "ratio": 6.716818914562064e-05
+        },
+        "inDisease": true,
+        "odds_ratio": 266.73809523809524
     },
     {
         "stId": "R-HSA-5621480",
@@ -456,7 +472,8 @@
             "found": 1,
             "ratio": 0.0008060182697474476
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 17.687301587301587
     },
     {
         "stId": "R-HSA-168249",
@@ -483,7 +500,8 @@
             "found": 12,
             "ratio": 0.04957012358946803
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 3.4434977578475334
     },
     {
         "stId": "R-HSA-913709",
@@ -510,7 +528,8 @@
             "found": 16,
             "ratio": 0.0010746910263299302
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 15.683098591549296
     },
     {
         "stId": "R-HSA-3906995",
@@ -537,7 +556,8 @@
             "found": 3,
             "ratio": 0.0006045137023105857
         },
-        "inDisease": true
+        "inDisease": true,
+        "odds_ratio": 14.644736842105264
     },
     {
         "stId": "R-HSA-427589",
@@ -564,7 +584,8 @@
             "found": 1,
             "ratio": 0.00013433637829124128
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 133.3452380952381
     },
     {
         "stId": "R-HSA-1566977",
@@ -591,7 +612,8 @@
             "found": 1,
             "ratio": 0.0002015045674368619
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 88.88095238095238
     },
     {
         "stId": "R-HSA-427652",
@@ -618,7 +640,8 @@
             "found": 1,
             "ratio": 0.0002015045674368619
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 88.88095238095238
     },
     {
         "stId": "R-HSA-5173105",
@@ -645,7 +668,8 @@
             "found": 16,
             "ratio": 0.0018135411069317572
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 8.454198473282442
     },
     {
         "stId": "R-HSA-168179",
@@ -672,7 +696,8 @@
             "found": 1,
             "ratio": 0.00523911875335841
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 8.26268656716418
     },
     {
         "stId": "R-HSA-181438",
@@ -699,7 +724,8 @@
             "found": 1,
             "ratio": 0.0053734551316496505
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 8.26268656716418
     },
     {
         "stId": "R-HSA-1500931",
@@ -726,7 +752,8 @@
             "found": 1,
             "ratio": 0.006246641590542719
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 6.774846625766871
     },
     {
         "stId": "R-HSA-166016",
@@ -753,7 +780,8 @@
             "found": 1,
             "ratio": 0.007590005373455132
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 6.732926829268293
     },
     {
         "stId": "R-HSA-2142770",
@@ -780,7 +808,8 @@
             "found": 1,
             "ratio": 0.00026867275658248256
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 25.360544217687075
     },
     {
         "stId": "R-HSA-3781865",
@@ -807,7 +836,8 @@
             "found": 3,
             "ratio": 0.005171950564212789
         },
-        "inDisease": true
+        "inDisease": true,
+        "odds_ratio": 5.503
     },
     {
         "stId": "R-HSA-5621481",
@@ -834,7 +864,8 @@
             "found": 1,
             "ratio": 0.0045674368619022035
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 5.475124378109452
     },
     {
         "stId": "R-HSA-168898",
@@ -861,6 +892,7 @@
             "found": 4,
             "ratio": 0.014172487909725954
         },
-        "inDisease": false
+        "inDisease": false,
+        "odds_ratio": 5.366341463414634
     }
 ]
